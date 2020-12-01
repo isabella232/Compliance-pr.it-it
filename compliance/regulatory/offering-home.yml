@@ -1,0 +1,317 @@
+### YamlMime:Hub
+title: Offerte per la conformità Microsoft
+summary: Informazioni su come i prodotti e i servizi Microsoft aiutano l'organizzazione a rispettare gli standard di conformità normativa.
+brand: m365
+metadata:
+  title: Offerte di conformità per Microsoft 365, Azure Cloud Services e altri servizi Microsoft.
+  description: Informazioni su come i prodotti e i servizi Microsoft aiutano l'organizzazione a rispettare gli standard di conformità normativa.
+  services: service
+  ms.service: O365-seccomp
+  ms.subservice: subservice
+  ms.topic: hub-page
+  ms.collection:
+  - M365-security-compliance
+  - MS-Compliance
+  author: robmazz
+  ms.author: robmazz
+  ms.date: 11/30/2020
+  localization_priority: Normal
+  ms.openlocfilehash: 6dabbb8599288d0291934135ef208b52b9ec0003
+  ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+  ms.translationtype: MT
+  ms.contentlocale: it-IT
+  ms.lasthandoff: 11/30/2020
+  ms.locfileid: "49508463"
+conceptualContent:
+  title: Offerte di conformità per Microsoft 365, servizi cloud di Azure e altri servizi Microsoft
+  summary: Microsoft fornisce offerte di conformità che consentono all'organizzazione di soddisfare i requisiti nazionali, regionali e specifici del settore che regolano la raccolta e l'utilizzo dei dati.
+  items:
+  - title: Globale
+    links:
+    - url: offering-cis-benchmark.md
+      itemType: reference
+      text: Benchmark CIS
+    - url: offering-ISO-20000-1-2011.md
+      itemType: reference
+      text: ISO 20000-1:2011
+    - url: offering-ISO-22301.md
+      itemType: reference
+      text: ISO 22301
+    - url: offering-ISO-27017.md
+      itemType: reference
+      text: ISO 27017
+  - title: Globale
+    links:
+    - url: offering-ISO-27018.md
+      itemType: reference
+      text: ISO 27018
+    - url: offering-ISO-27701.md
+      itemType: reference
+      text: ISO 277011
+    - url: offering-soc.md
+      itemType: reference
+      text: SOC
+    - url: offering-wcag-2-1.md
+      itemType: reference
+      text: WCAG
+  - title: Governo degli Stati Uniti
+    links:
+    - url: offering-cjis.md
+      itemType: reference
+      text: CJIS
+    - url: offering-dfars.md
+      itemType: reference
+      text: DFARS
+    - url: offering-dod-disa-l2-l4-l5.md
+      itemType: reference
+      text: DoD DISA L2, L4, L5
+    - url: offering-doe-10-cfr-part-810.md
+      itemType: reference
+      text: DoE 10 CFR parte 810
+    - url: offering-ear.md
+      itemType: reference
+      text: EAR (US Export ADM. Reg.)
+    - url: offering-fedramp.md
+      itemType: reference
+      text: FedRAMP
+  - title: Governo degli Stati Uniti
+    links:
+    - url: offering-fips-140-2.md
+      itemType: reference
+      text: FIPS 140-2
+    - url: offering-irs-1075.md
+      itemType: reference
+      text: IRS 1075
+    - url: offering-itar.md
+      itemType: reference
+      text: ITAR
+    - url: offering-nist-sp-800-171.md
+      itemType: reference
+      text: NIST 800-171
+    - url: offering-nist-csf.md
+      itemType: reference
+      text: NIST CSF
+    - url: offering-section-508-vpats.md
+      itemType: reference
+      text: Modelli VPAT sezione 508
+  - title: Settore
+    links:
+    - url: offering-23-nycrr-part-500.md
+      itemType: reference
+      text: 23 NYCRR parte 500
+    - url: offering-afm-dnb-netherlands.md
+      itemType: reference
+      text: AFM + DNB (Paesi Bassi)
+    - url: offering-apra-australia.md
+      itemType: reference
+      text: APRA (Australia)
+    - url: offering-amf-acpr-france.md
+      itemType: reference
+      text: AMF e ACPR (Francia)
+    - url: offering-cftc-1-31-us.md
+      itemType: reference
+      text: CFTC 1,31 (STATI UNITI)
+    - url: offering-eba-eu.md
+      itemType: reference
+      text: EBA (UE)
+    - url: offering-fda-cfr-title-21-part-11.md
+      itemType: reference
+      text: FDA CFR Titolo 21 parte 11
+  - title: Settore
+    links:
+    - url: offering-ferpa.md
+      itemType: reference
+      text: FERPA
+    - url: offering-ffiec-us.md
+      itemType: reference
+      text: FFIEC (Stati Uniti)
+    - url: offering-finma-switzerland.md
+      itemType: reference
+      text: FINMA (Svizzera)
+    - url: offering-finra-4511.md
+      itemType: reference
+      text: FINRA 4511
+    - url: offering-fisc-japan.md
+      itemType: reference
+      text: FISC (Giappone)
+    - url: offering-fsa-denmark.md
+      itemType: reference
+      text: FSA (Danimarca)
+    - url: offering-glba.md
+      itemType: reference
+      text: GLBA
+  - title: Settore
+    links:
+    - url: offering-gxp.md
+      itemType: reference
+      text: GxP
+    - url: offering-hds-france.md
+      itemType: reference
+      text: HDS (Francia)
+    - url: offering-hipaa-hitech.md
+      itemType: reference
+      text: HIPAA/HITECH
+    - url: offering-hitrust.md
+      itemType: reference
+      text: HITRUST
+    - url: offering-knf-poland.md
+      itemType: reference
+      text: KNF (Polonia)
+    - url: offering-mas-abs-singapore.md
+      itemType: reference
+      text: MAS + ABS (Singapore)
+  - title: Settore
+    links:
+    - url: offering-nbb-fsma-belgium.md
+      itemType: reference
+      text: NBB + FSMA (Belgio)
+    - url: offering-nen-7510-netherlands.md
+      itemType: reference
+      text: NEN-7510 (Paesi Bassi)
+    - url: offering-osfi-canada.md
+      itemType: reference
+      text: OSFI (Canada)
+    - url: offering-rbi-irdai-india.md
+      itemType: reference
+      text: RBI + IRDAI (India)
+    - url: offering-sec-17a-4.md
+      itemType: reference
+      text: SEC 17a-4
+    - url: offering-sox.md
+      itemType: reference
+      text: SOX
+    - url: offering-trusight.md
+      itemType: reference
+      text: TruSight
+  - title: Regionali
+    links:
+    - url: offering-bir-2012-netherlands.md
+      itemType: reference
+      text: BIR 2012 (Paesi Bassi)
+    - url: offering-c5-germany.md
+      itemType: reference
+      text: C5 (Germania)
+    - url: offering-ccpa.md
+      itemType: reference
+      text: CCPA (Stati Uniti)
+    - url: offering-ccsl-irap-australia.md
+      itemType: reference
+      text: IRAP/CCSL (Australia)
+    - url: offering-cs-mark-gold-japan.md
+      itemType: reference
+      text: CS Mark Gold (Giappone)
+    - url: https://www.trustcenter.cn/compliance/default.html#DJCP
+      itemType: reference
+      text: DJCP (Cina)
+    - url: offering-en-301-549-eu.md
+      itemType: reference
+      text: EN 301 549 (UE)
+    - url: offering-ens-spain.md
+      itemType: reference
+      text: ENS (Spagna)
+  - title: Regionali
+    links:
+    - url: offering-eu-model-clauses.md
+      itemType: reference
+      text: Clausole modello UE
+    - url: offering-eu-us-privacy-shield.md
+      itemType: reference
+      text: Protezione della privacy EU-US
+    - url: https://www.trustcenter.cn/compliance/default.html#GB18030
+      itemType: reference
+      text: GB 18030 (Cina)
+    - url: gdpr.md
+      itemType: reference
+      text: GDPR (UE)
+    - url: offering-g-cloud-uk.md
+      itemType: reference
+      text: G-Cloud (Regno Unito)
+    - url: https://www.idw.de/the-idw/about-the-idw
+      itemType: reference
+      text: IDW PS 951 (Germania)
+    - url: offering-lopd-spain.md
+      itemType: reference
+      text: LOPD (Spagna)
+  - title: Regionali
+    links:
+    - url: offering-meity-india.md
+      itemType: reference
+      text: MeitY (India)
+    - url: offering-mtcs-singapore.md
+      itemType: reference
+      text: MTCS (Singapore)
+    - url: offering-my-number-act-japan.md
+      itemType: reference
+      text: My Number (Giappone)
+    - url: offering-nz-cc-framework-nz.md
+      itemType: reference
+      text: Framework NZ CC (Nuova Zelanda)
+    - url: offering-pasf-uk.md
+      itemType: reference
+      text: PASF (Regno Unito)
+    - url: offering-pdpa-argentina.md
+      itemType: reference
+      text: PDPA (Argentina)
+    - url: offering-russia-data-localization.md
+      itemType: reference
+      text: Localizzazione dei dati personali (Russia)
+    - url: https://aka.ms/TRUCS-Compliance
+      itemType: reference
+      text: TRUCS (Cina)
+additionalContent:
+  sections:
+  - title: Offerte di conformità specifiche per i servizi cloud di Azure
+    summary: Offerte di conformità specifiche per i servizi cloud di Azure per aiutare l'organizzazione a rispettare i requisiti nazionali, regionali e specifici del settore che regolano la raccolta e l'utilizzo dei dati.
+    items:
+    - title: Globale
+      links:
+      - text: Attestazione CSA-STAR
+        url: offering-csa-star-attestation.md
+      - text: Certificazione CSA-STAR
+        url: offering-csa-star-certification.md
+      - text: Autovalutazione CSA-STAR
+        url: offering-csa-star-self-assessment.md
+      - text: ISO 27701
+        url: offering-ISO-27701.md
+      - text: ISO-9001
+        url: offering-ISO-9001.md
+    - title: Governo degli Stati Uniti
+      links:
+      - text: CNSSI 1253
+        url: offering-cnssi-1253.md
+    - title: Settore
+      links:
+      - text: CDSA
+        url: offering-cdsa.md
+      - text: DPP (Regno Unito)
+        url: offering-dpp-uk.md
+      - text: FACT (Regno Unito)
+        url: offering-fact-uk.md
+      - text: FCA (Regno Unito)
+        url: offering-fca-uk.md
+      - text: MARS-E
+        url: offering-mars-e.md
+      - text: MPAA
+        url: offering-mpaa.md
+      - text: NERC
+        url: offering-nerc-cip.md
+      - text: PCI DSS
+        url: offering-pci-dss.md
+      - text: SEC regolamenti SCI
+        url: offering-sec-reg-sci.md
+      - text: Valutazioni condivise
+        url: offering-shared-assessments.md
+      - text: TISAX (Germania)
+        url: offering-tisax-germany.md
+    - title: Regionali
+      links:
+      - text: Normativa sulla privacy in Canada
+        url: offering-canadian-privacy-laws.md
+      - text: Cyber Essentials Plus (Regno Unito)
+        url: offering-cyber-essentials-plus-uk.md
+      - text: ENISA IAF (UE)
+        url: offering-enisa.md
+      - text: ISMS (Corea del Sud)
+        url: offering-ISMS-korea.md
+      - text: IT Grundschutz Workbook (Germania)
+        url: offering-it-grundschutz-workbook-germany.md
