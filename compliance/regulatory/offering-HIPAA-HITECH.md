@@ -16,18 +16,18 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 0e04239b8dcbe50d054ec02f2164a301c775aaac
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 4766d0152e2ee5b372157dd56f28690161f04045
+ms.sourcegitcommit: 5ebe2ba746bba2d5058dcc0469a67e81fa3a8dce
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509521"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "49559852"
 ---
 # <a name="health-insurance-portability-and-accountability-hipaa--hitech-acts"></a>Portabilità e responsabilità dell'assicurazione malattia (HIPAA) & atti HITECH
 
 ## <a name="hipaa-and-the-hitech-act-overview"></a>HIPAA e la Panoramica di HITECH Act
 
-L'Health Insurance portabilità and Accountability Act (HIPAA) è una legge sul settore sanitario statunitense che stabilisce i requisiti per l'utilizzo, la divulgazione e la salvaguardia delle informazioni sanitarie individualmente identificabili. Si applica alle entità coperte, ovvero gli uffici medici, gli ospedali, gli assicuratori sanitari e altre aziende sanitarie, con accesso alle informazioni sanitarie protette dei pazienti (PHI), nonché ai soci aziendali, come il servizio cloud e i provider IT, che elaborano PHI per loro conto. (La maggior parte delle entità coperte non svolge funzioni come le attestazioni o il trattamento dei dati per conto proprio; si basano su soci aziendali per farlo.)
+L'Health Insurance portabilità and Accountability Act (HIPAA) è una legge sul settore sanitario statunitense che stabilisce i requisiti per l'utilizzo, la divulgazione e la salvaguardia delle informazioni sanitarie individualmente identificabili. Si applica agli enti coperti, agli uffici medici, agli ospedali, agli assicuratori sanitari e ad altre aziende sanitarie, con accesso alle informazioni sanitarie protette dei pazienti (PHI), nonché ai soci aziendali, come il servizio cloud e i provider IT, che elaborano PHI per loro conto. (La maggior parte delle entità coperte non svolge funzioni come le attestazioni o il trattamento dei dati per conto proprio; si basano su soci aziendali per farlo.)
 
 La legge regola l'utilizzo e la divulgazione di PHI in quattro aree generali:
 
@@ -45,7 +45,7 @@ La regola finale di notifica di violazione di HITECH, che richiede l'avviso agli
 
 ## <a name="microsoft-and-hipaa-and-the-hitech-act"></a>Microsoft e HIPAA e HITECH Act
 
-Le normative HIPAA richiedono che le entità coordinate e i loro associati aziendali, in questo caso Microsoft quando fornisce servizi, compresi i servizi cloud, alle entità interessate, entrino in contratti per garantire che tali soci siano adeguatamente tutelati da PHI. Questi contratti, o BAAs, chiariscono e limitano in che modo l'associato può gestire PHI e impostare la conformità di ogni parte alle disposizioni relative alla sicurezza e alla privacy descritte in HIPAA e HITECH Act. Una volta che una BAA è sul posto, i clienti Microsoft, ovvero le entità garantite, possono utilizzare i propri servizi per elaborare e archiviare PHI.
+Le normative HIPAA richiedono che le entità coordinate e i loro associati aziendali, in questo caso Microsoft quando fornisce servizi, compresi i servizi cloud, alle entità interessate, entrino in contratti per garantire che tali soci siano adeguatamente tutelati da PHI. Questi contratti, o BAAs, chiariscono e limitano in che modo l'associato può gestire PHI e impostare la conformità di ogni parte alle disposizioni relative alla sicurezza e alla privacy descritte in HIPAA e HITECH Act. Una volta che una BAA è sul posto, i clienti Microsoft (entità coperte) possono utilizzare i propri servizi per elaborare e archiviare PHI.
 
 Attualmente non sono disponibili certificazioni ufficiali per la conformità HIPAA o HITECH Act. Tuttavia, i servizi Microsoft descritti nell'ambito della BAA sono stati sottoposti a audit effettuati da revisori indipendenti accreditati per la certificazione Microsoft ISO/IEC 27001.
 
@@ -53,12 +53,13 @@ I servizi cloud di Microsoft Enterprise sono coperti anche da valutazioni FedRAM
 
 Per informazioni su come il cloud Microsoft aiuta i clienti a supportare HIPAA e i requisiti di HITECH, visitare le storie dei clienti [Microsoft](https://customers.microsoft.com).
 
-## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud Microsoft associati
+## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud Microsoft inclusi nell'ambito
 
 - [Azure e Azure per enti pubblici](https://aka.ms/AzureCompliance)
 - Microsoft Cloud App Security
-- [Microsoft Cloud per il Settore sanitario](https://aka.ms/MicrosoftCloudforHealthcareCompliance)
-- Microsoft Microsoft Healthcare bot Service
+- [Microsoft Cloud per l'assistenza sanitaria](https://aka.ms/MicrosoftCloudforHealthcareCompliance)
+- Microsoft Healthcare bot Service
+- Microsoft Managed Desktop
 - Microsoft Stream
 - Microsoft Professional Services: premier e locale per Azure, Dynamics 365, Intune e per le medie e grandi imprese clienti di Microsoft 365 per le aziende
 - [Dynamics 365 e Dynamics 365 U.S. Government](https://aka.ms/d365-compliance-list)
@@ -71,9 +72,7 @@ Per informazioni su come il cloud Microsoft aiuta i clienti a supportare HIPAA e
 
 ## <a name="accelerate-your-deployment-of-hipaahitrust-solutions-on-azure"></a>Velocizzare la distribuzione delle soluzioni HIPAA/HITRUST in Azure
 
-Ottenere un vantaggio per sfruttare i vantaggi del cloud per le soluzioni di dati di integrità con il modello di sicurezza e conformità di Azure, ovvero i dati di integrità HIPAA/HITRUST e AI. Questo modello fornisce strumenti e linee guida per iniziare a creare soluzioni HIPAA/HITRUST oggi.
-
-[Iniziare a usare la cianografia di Azure HIPAA/HITRUST](https://docs.microsoft.com/azure/governance/blueprints/samples/hipaa-hitrust-9-2)
+Ottenere un vantaggio per sfruttare i vantaggi del cloud per le soluzioni di dati di integrità con il [modello di sicurezza e conformità di Azure: dati di integrità HIPAA/HITRUST e ai](https://docs.microsoft.com/azure/governance/blueprints/samples/hipaa-hitrust-9-2). Questo modello fornisce strumenti e linee guida per iniziare a creare soluzioni HIPAA/HITRUST oggi.
 
 ## <a name="frequently-asked-questions"></a>Domande frequenti
 
@@ -117,4 +116,4 @@ Per assistere i clienti con questa attività, Microsoft ha pubblicato queste gui
 - [Cloud Microsoft per enti pubblici](https://go.microsoft.com/fwlink/p/?linkid=2087246)
 - [Understanding HIPAA compliance with Azure](https://www.youtube.com/embed/6ptdye1LZ5k?autoplay=0)(19 maggio 2016)
 - [Esempio di modello HIPAA HITRUST di Azure](https://docs.microsoft.com/azure/governance/blueprints/samples/hipaa-hitrust/)
-- [Conformità nel Centro protezione Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Conformità nel Centro protezione di Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
