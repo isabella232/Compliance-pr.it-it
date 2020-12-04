@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 46de9832d4ba155e0e500462b7c82fad16a3bda2
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 05458ef4c0ef85a00939f53698639ef1be9174ff
+ms.sourcegitcommit: 7651cdc4af88278aef02114b4331d8d379f10def
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508903"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "49568662"
 ---
 # <a name="criminal-justice-information-services-cjis-security-policy"></a>Criteri di sicurezza per i servizi di CJIS (Criminal Justice Information Services)
 
@@ -31,7 +31,7 @@ La divisione Criminal Justice Information Services (CJIS) del Federal Bureau of 
 
 La politica di sicurezza di CJIS integra le direttive presidenziali e dell'FBI, le leggi federali e la politica consultiva del Consiglio direttivo della comunità di giustizia penale, insieme alle indicazioni dell'Istituto nazionale di Standards and Technology (NIST). Il criterio viene aggiornato periodicamente per riflettere i requisiti di sicurezza in evoluzione.
 
-Il criterio di sicurezza CJIS definisce 13 aree che i contraenti privati, come i provider di servizi cloud, devono valutare per determinare se l'utilizzo dei servizi cloud può essere coerente con i requisiti di CJIS. Queste aree corrispondono strettamente al NIST 800-53, che è anche la base per il programma di gestione delle autorizzazioni e dei rischi federali ([FedRAMP (Office 365)](offering-FedRAMP.md)), un programma in base al quale Microsoft è stata certificata per le offerte del cloud governativo.
+Il criterio di sicurezza CJIS definisce 13 aree che i contraenti privati, come i provider di servizi cloud, devono valutare per determinare se l'utilizzo dei servizi cloud può essere coerente con i requisiti di CJIS. Queste aree corrispondono strettamente al NIST 800-53, che è anche la base del [programma federale per la gestione delle autorizzazioni e dei rischi (FedRAMP)](offering-FedRAMP.md), un programma in base al quale Microsoft è stata certificata per le offerte del cloud governativo.
 
 Inoltre, tutti gli appaltatori privati che elaborano CJI devono firmare l'addendum alla sicurezza di CJIS, un contratto uniforme approvato dal procuratore generale degli Stati Uniti che aiuta a garantire la sicurezza e la riservatezza dei CJI richiesti dai criteri di sicurezza. Impegna anche il contraente a mantenere un programma di sicurezza coerente con le leggi, i regolamenti e gli standard federali e statali e limita l'utilizzo di CJI agli scopi per cui un ente governativo lo ha fornito.
 
@@ -45,11 +45,11 @@ Informazioni sui vantaggi dei criteri di sicurezza di CJIS nel cloud Microsoft: 
 
 Informazioni su come accelerare i criteri di sicurezza di CJIS con il modello di sicurezza e conformità di Azure: [scaricare le linee guida per l'implementazione di CJIS per i servizi cloud di Microsoft Government](https://gallery.technet.microsoft.com/CJIS-Implementation-62af7c27)
 
-## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud Microsoft associati
+## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud Microsoft inclusi nell'ambito
 
-- [Amministrazione di Azure](https://aka.ms/AzureCompliance)
-- [Governo degli Stati Uniti Dynamics 365](https://aka.ms/d365-compliance-list)
-- [Office 365 governo degli Stati Uniti](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
+- [Amministrazione di Azure](https://docs.microsoft.com/azure/azure-government/documentation-government-welcome)
+- [Governo degli Stati Uniti Dynamics 365](https://docs.microsoft.com/power-platform/admin/microsoft-dynamics-365-government#certifications-and-accreditations)
+- [Office 365 governo degli Stati Uniti](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc#us-government-community-compliance)
 - Servizio cloud Power BI, autonomo o incluso in un piano o in una famiglia di prodotti con marchio Office 365
 
 ## <a name="audits-reports-and-certificates"></a>Controlli, report e certificati
@@ -82,7 +82,7 @@ I [criteri di sicurezza di CJIS](https://aka.ms/cjis-security-policy) riguardano
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usare Microsoft Compliance Manager per valutare i rischi
 
-[Microsoft Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) è una funzionalità del [Centro conformità Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) utile per comprendere lo stato di conformità dell'organizzazione e adottare misure per ridurre i rischi. Compliance Manager offre un modello premium per creare una valutazione per questa normativa. È possibile trovare il modello nella pagina dei **modelli di valutazione** in Compliance Manager. Informazioni su come [creare valutazioni in Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
+[Microsoft Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) è una funzionalità nel [Centro conformità Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) utile per comprendere lo stato di conformità dell'organizzazione e intraprendere azioni per ridurre i rischi. Compliance Manager offre un modello premium per creare una valutazione per questa normativa. Individuare il modello nella pagina **modelli di valutazioni** in Compliance Manager. Informazioni su come [creare valutazioni in Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
 
 ## <a name="resources"></a>Risorse
 
@@ -91,4 +91,4 @@ I [criteri di sicurezza di CJIS](https://aka.ms/cjis-security-policy) riguardano
 - [Linee guida per l'implementazione di CJIS per Azure Government](https://aka.ms/cjisimplementationguidelines)
 - [Framework di conformità dell'hub dei controlli comuni di Microsoft](https://www.microsoft.com/trustcenter/common-controls-hub)
 - [Cloud Microsoft per enti pubblici](https://go.microsoft.com/fwlink/?linkid=2087246)
-- [Conformità in Microsoft Trust Center](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Conformità nel Centro protezione di Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
