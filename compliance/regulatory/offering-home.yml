@@ -3,7 +3,7 @@ title: Offerte per la conformità Microsoft
 summary: Informazioni su come i prodotti e i servizi Microsoft aiutano l'organizzazione a rispettare gli standard di conformità normativa.
 brand: m365
 metadata:
-  title: Offerte di conformità per Microsoft 365, Azure Cloud Services e altri servizi Microsoft.
+  title: Offerte di conformità per Microsoft 365, Azure e altri servizi Microsoft.
   description: Informazioni su come i prodotti e i servizi Microsoft aiutano l'organizzazione a rispettare gli standard di conformità normativa.
   services: service
   ms.service: O365-seccomp
@@ -16,14 +16,14 @@ metadata:
   ms.author: robmazz
   ms.date: 11/30/2020
   localization_priority: Normal
-  ms.openlocfilehash: 95c5b020d516d5fc7ccce6978c6f4cf0ad590b5f
-  ms.sourcegitcommit: 98b2d08699e942b4d4f3d7960df6e8e85030f5ec
+  ms.openlocfilehash: 46592794abb76821595c95cea2d66cd529d727c5
+  ms.sourcegitcommit: 7651cdc4af88278aef02114b4331d8d379f10def
   ms.translationtype: MT
   ms.contentlocale: it-IT
-  ms.lasthandoff: 12/01/2020
-  ms.locfileid: "49527123"
+  ms.lasthandoff: 12/03/2020
+  ms.locfileid: "49568652"
 conceptualContent:
-  title: Offerte di conformità per Microsoft 365, servizi cloud di Azure e altri servizi Microsoft
+  title: Offerte di conformità per Microsoft 365, Azure e altri servizi Microsoft
   summary: Microsoft fornisce offerte di conformità che consentono all'organizzazione di soddisfare i requisiti nazionali, regionali e specifici del settore che regolano la raccolta e l'utilizzo dei dati.
   items:
   - title: Globale
@@ -260,8 +260,8 @@ conceptualContent:
       text: TRUCS (Cina)
 additionalContent:
   sections:
-  - title: Offerte di conformità specifiche per i servizi cloud di Azure
-    summary: Offerte di conformità specifiche per i servizi cloud di Azure per aiutare l'organizzazione a rispettare i requisiti nazionali, regionali e specifici del settore che regolano la raccolta e l'utilizzo dei dati.
+  - title: Offerte di conformità specifiche per Azure
+    summary: Offerte di conformità specifiche per Azure per aiutare l'organizzazione a rispettare i requisiti nazionali, regionali e specifici del settore che regolano la raccolta e l'utilizzo dei dati.
     items:
     - title: Globale
       links:
