@@ -1,13 +1,12 @@
 ---
 title: Considerazioni sul piano per la gestione della continuità aziendale
 description: Aspetti da considerare durante lo sviluppo di un piano di continuità aziendale compatibile con il cloud.
-author: chrfox
-ms.author: chrfox
+author: robmazz
+ms.author: robmazz
 manager: laurawi
 ms.reviewer: sosstah
 f1.keywords:
 - NOCSH
-ms.date: ''
 audience: ITPro
 ms.topic: article
 ms.service: o365-solutions
@@ -17,12 +16,12 @@ ms.collection:
 - Strat_O365_Enterprise
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: 1761f9aabe7894deeb7464588a58b7b77db581c1
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: b43b3d272196007f4fa5015ade36055187a2db33
+ms.sourcegitcommit: 693bc6b1b51a5a9c9ff1758fa7f7ca3a204f147e
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508678"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49574798"
 ---
 # <a name="developing-your-business-continuity-plan"></a>Sviluppo del piano di continuità aziendale
 

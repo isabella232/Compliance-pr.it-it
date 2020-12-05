@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 5f1eba5677869e337764b4b0864fac27222d4d77
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: b2b7374eff6bcce8f0c36f6bc40709123041a2a7
+ms.sourcegitcommit: 693bc6b1b51a5a9c9ff1758fa7f7ca3a204f147e
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509700"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49574878"
 ---
 # <a name="australian-government-information-security-registered-assessor-program-irap"></a>Programma del valutatore registrato per la sicurezza delle informazioni del governo australiano (IRAP)
 
@@ -65,9 +65,10 @@ Come sempre, i controlli di compensazione aggiuntivi possono essere implementati
 
 La valutazione di IRAP dei servizi di Microsoft contribuisce a garantire ai clienti del settore pubblico nel governo e ai loro partner che Microsoft dispone di controlli di sicurezza adeguati ed efficaci per il trattamento, l'archiviazione e la trasmissione di informazioni riservate e protette. Questa valutazione include la maggior parte dei dati governativi, sanitari e di istruzione in Australia.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud Microsoft associati
+## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud Microsoft inclusi nell'ambito
 
 - [Azure e Dynamics](https://aka.ms/AzureCompliance)
+- Microsoft Managed Desktop
 - [Office 365](https://aka.ms/Office365ComplianceOfferings)
 
 ## <a name="frequently-asked-questions"></a>Domande frequenti
@@ -90,7 +91,7 @@ Iniziare con [cos'è IRAP?](https://www.cyber.gov.au/irap/what-irap) e seguirlo 
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usare Microsoft Compliance Manager per valutare i rischi
 
-[Microsoft Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) è una funzionalità del [Centro conformità Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) utile per comprendere lo stato di conformità dell'organizzazione e adottare misure per ridurre i rischi. Compliance Manager offre un modello premium per creare una valutazione per questa normativa. È possibile trovare il modello nella pagina dei **modelli di valutazione** in Compliance Manager. Informazioni su come [creare valutazioni in Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
+[Microsoft Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) è una funzionalità nel [Centro conformità Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) utile per comprendere lo stato di conformità dell'organizzazione e intraprendere azioni per ridurre i rischi. Compliance Manager offre un modello premium per creare una valutazione per questa normativa. Individuare il modello nella pagina **modelli di valutazioni** in Compliance Manager. Informazioni su come [creare valutazioni in Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
 
 ## <a name="resources"></a>Risorse
 
@@ -98,4 +99,4 @@ Iniziare con [cos'è IRAP?](https://www.cyber.gov.au/irap/what-irap) e seguirlo 
 - [Pagina Australia del Microsoft Service Trust Portal (STP)](https://aka.ms/au-irap)
 - [Guide per la sicurezza e i gateway Australia](https://docs.microsoft.com/azure/azure-australia)
 - [Servizi cloud certificati ASD](https://acsc.gov.au/infosec/irap/certified_clouds.htm)
-- [Conformità nel Centro protezione Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Conformità nel Centro protezione di Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
