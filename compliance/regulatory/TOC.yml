@@ -1,5 +1,7 @@
-- name: Offerte per la conformità Microsoft
+- name: Offerte di conformità Microsoft
   items:
+    - name: Offerte di conformità Microsoft
+      href: offering-home.yml
     - name: Globale
       items:
         - name: Benchmark CIS
@@ -80,7 +82,7 @@
               href: offering-apra-australia.md
             - name: AMF e ACPR (Francia)
               href: offering-amf-acpr-france.md
-            - name: 'CFTC 1,31 (STATI UNITI)'
+            - name: CFTC 1.31 (US)
               href: offering-cftc-1-31-us.md
             - name: EBA (UE)
               href: offering-eba-eu.md
@@ -226,6 +228,8 @@
       items:
         - name: Asia
           items:
+            - name: ABS OSPAR (Singapore)
+              href: offering-abs-ospar.md
             - name: CS Mark (Gold) (Giappone)
               href: offering-cs-mark-gold-japan.md
             - name: DJCP (Cina)
@@ -292,7 +296,7 @@
               href: offering-pdpa-argentina.md
 - name: Regolamento generale sulla protezione dei dati (GDPR)
   items:
-    - name: Panoramica di GDPR
+    - name: Panoramica del GDPR.
       href: gdpr.md
     - name: Piano d'azione consigliato per il GDPR
       href: gdpr-action-plan.md
@@ -312,13 +316,13 @@
           href: gdpr-arc-office365.md
     - name: Richieste degli interessati
       items:
-        - name: Richieste del soggetto dei dati
+        - name: Richieste degli interessati
           href: gdpr-data-subject-requests.md
-        - name: Gestire le richieste del soggetto dei dati con lo strumento dei casi DSR
+        - name: Gestire le richieste degli interessati con lo strumento DSR
           href: gdpr-manage-gdpr-data-subject-requests-with-the-dsr-case-tool.md
         - name: Azure
           href: gdpr-dsr-azure.md
-        - name: Servizi di DevOps di Azure
+        - name: Azure DevOps Services
           href: gdpr-dsr-vsts.md
         - name: Dynamics 365
           href: gdpr-dsr-dynamics365.md
@@ -328,7 +332,7 @@
           href: gdpr-dsr-prof-services.md
         - name: Office 365
           href: gdpr-dsr-office365.md
-        - name: Famiglia di Visual Studio
+        - name: Famiglia di prodotti Visual Studio
           href: gdpr-dsr-visual-studio-family.md
         - name: Windows Enterprise
           href: gdpr-dsr-windows.md
@@ -344,7 +348,7 @@
           href: gdpr-breach-office365.md
         - name: Windows Enterprise
           href: gdpr-breach-windows.md
-    - name: Istruzioni sull'impatto sulla protezione dei dati
+    - name: Valutazioni d'impatto sulla protezione dei dati
       items:
         - name: Valutazioni d'impatto sulla protezione dei dati
           href: gdpr-data-protection-impact-assessments.md
@@ -366,17 +370,17 @@
           href: gdpr-for-sharepoint-server.md
         - name: GDPR per Exchange Server
           href: gdpr-for-exchange-server.md
-        - name: GDPR per Skype for Business Server & Lync Server
+        - name: GDPR per Skype for Business Server e Lync Server
           href: gdpr-for-skype-for-business-server.md
         - name: GDPR per Project Server
           href: gdpr-for-project-server.md
-        - name: GDPR per il server Office Web Apps & Office Online Server
+        - name: GDPR per Server Office Web Apps e Office Online Server
           href: gdpr-for-office-online-server.md
         - name: Condivide l'RGDP per le condivisioni file di Windows Server locale
           href: gdpr-for-on-premises-file-shares.md
-    - name: Passaggi aggiuntivi per l'esportazione dei dati
+    - name: Altri passaggi per esportare i dati
       href: gdpr-system-generated-log-data.md
-    - name: GDPR per ambienti di sviluppo/test di Office 365
+    - name: GDPR per gli ambienti di sviluppo/collaudo di Office 365
       href: gdpr-discovery-protection-reporting-in-Office365-dev-test-environment.md
 - name: California Consumer Privacy Act (CCPA)
   items:
