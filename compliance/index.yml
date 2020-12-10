@@ -15,12 +15,12 @@ metadata:
   author: robmazz
   ms.author: robmazz
   ms.date: 11/30/2020
-  ms.openlocfilehash: 12de0e81e8a9d1ee908207dc4e3d2dc50a797f7e
-  ms.sourcegitcommit: 7651cdc4af88278aef02114b4331d8d379f10def
+  ms.openlocfilehash: b2ef6d975ee41def8b410a47afe824851c151e14
+  ms.sourcegitcommit: 1e6157933cd9aea32c36e0c796ee55a861da16c8
   ms.translationtype: MT
   ms.contentlocale: it-IT
-  ms.lasthandoff: 12/03/2020
-  ms.locfileid: "49568642"
+  ms.lasthandoff: 12/09/2020
+  ms.locfileid: "49612812"
 highlightedContent:
   items:
   - title: Attività rapide per iniziare a usare il Centro conformità Microsoft 365
@@ -55,7 +55,7 @@ productDirectory:
     imageSrc: https://docs.microsoft.com/office/media/icons/compliance-blue.svg
     summary: Linee guida che consentono di rispettare i diritti e soddisfare gli obblighi derivanti dal GDPR quando si utilizzano prodotti e servizi Microsoft.
     url: /compliance/regulatory/gdpr
-  - title: Offerte per la conformità Microsoft
+  - title: Offerte di conformità Microsoft
     imageSrc: https://docs.microsoft.com/office/media/icons/globe-internet.svg
     summary: Microsoft offre una serie completa di offerte di conformità che consentono all'organizzazione di soddisfare i requisiti nazionali, regionali e specifici del settore che regolano la raccolta e l'utilizzo dei dati.
     url: /compliance/regulatory/offering-home
@@ -202,7 +202,7 @@ additionalContent:
       url: https://docs.microsoft.com/microsoft-365/compliance/compliance-manager
     - title: Gestire i rischi Insider
       summary: Ridurre al minimo i rischi interni, rilevando, indagando e agendo su attività dannose e involontarie nell'organizzazione.
-      url: https://docs.microsoft.com/microsoft-365/compliance/insider-risk-management
+      url: https://docs.microsoft.com/microsoft-365/compliance/insider-risk-solution-overview
     - title: Gestire la protezione delle informazioni
       summary: Utilizzare Microsoft Information Protection (MIP) per individuare, classificare e proteggere le informazioni riservate ovunque si trovino o si trovino in viaggio.
       url: https://docs.microsoft.com/microsoft-365/compliance/protect-information
