@@ -13,12 +13,12 @@ localization_priority: Priority
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
 ms.collection: MS-Compliance
-ms.openlocfilehash: 5a3b192e4c374dac4248300627e5659a1b5f66fd
-ms.sourcegitcommit: 18c7e403d6ffbc9afa323fadc04c673dbb7bd391
+ms.openlocfilehash: b750fcc6bceec12a13b909e65dc6283b8938c6da
+ms.sourcegitcommit: fc1da22cf40dfd807c182d3f6df967eee192eacd
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49620761"
+ms.lasthandoff: 12/14/2020
+ms.locfileid: "49669727"
 ---
 # <a name="gdpr-for-on-premises-windows-server-file-shares"></a>Condivide l'RGDP per le condivisioni file di Windows Server locale
 
@@ -56,6 +56,6 @@ L'approccio consigliato per le condivisioni file include i seguenti passaggi:
 
     -   Per trovare i dati personali per le richieste dell'interessato, usare uno scanner di Azure Information Protection. È anche possibile configurare una ricerca per indicizzazione nelle condivisioni file di SharePoint Server.
 
-Per ulteriori informazioni sull'uso dello scanner di Azure Information Protection per individuare ed etichettare dati personali, vedere [Implementare lo scanner AIP](<https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner).
+Per altre informazioni sull'uso dello scanner di Azure Information Protection per individuare ed etichettare i dati personali, vedere [Implementare lo scanner AIP](https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner).
 
 Per informazioni sulla configurazione dello scanner per le condizioni e l'utilizzo con tipi di informazioni riservate di prevenzione della perdita dei dati di Office 365, vedere [Come configurare le condizioni per la classificazione automatica e consigliata per Azure Information Protection](https://docs.microsoft.com/information-protection/deploy-use/configure-policy-classification). Si noti che i nuovi tipi di informazioni riservate di Office 365 non saranno immediatamente disponibili per l'uso con lo scanner e che i tipi di informazioni riservate personalizzate non possono essere usati con lo scanner.
