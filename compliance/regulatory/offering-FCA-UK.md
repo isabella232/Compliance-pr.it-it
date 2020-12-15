@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 17c43992f813ba8f0b5b3e9400fadb29eb4174d5
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: fe7572c8b9f5d8d73d09e57c873a092a97c3226c
+ms.sourcegitcommit: fc1da22cf40dfd807c182d3f6df967eee192eacd
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507977"
+ms.lasthandoff: 12/14/2020
+ms.locfileid: "49669757"
 ---
 # <a name="united-kingdom-financial-conduct-authority-fca"></a>Autorità di condotta finanziaria del Regno Unito (FCA)
 
@@ -45,7 +45,7 @@ Informazioni su come Azure è in grado di abilitare la conformità FCA nelle ban
 
 [Scaricare Microsoft approach to FCA finald cloud Guidance](https://go.microsoft.com/fwlink/p/?linkid=2101561)
 
-## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud Microsoft associati
+## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud Microsoft inclusi nell'ambito
 
 - [Azure](https://aka.ms/AzureCompliance)
 - Intune
@@ -57,14 +57,12 @@ Informazioni su come Azure è in grado di abilitare la conformità FCA nelle ban
 
 Sì. Tuttavia, sebbene le risposte di Microsoft a questo Framework siano confermate conformi da terze parti, i clienti sono responsabili della conformità delle soluzioni implementate su Azure o Power BI.
 
-Sì. Tuttavia, sebbene le risposte di Microsoft a questo Framework siano confermate conformi da terze parti, i clienti sono responsabili della conformità delle soluzioni implementate su Azure o Power BI.
-
 ## <a name="resources"></a>Risorse
 
 - [Elenco di controllo cloud Microsoft per gli istituti finanziari nel Regno Unito](https://aka.ms/Azure-UK-compliance)
 - [FG 16/5-linee guida per le aziende che esternalizzano al cloud e ad altri servizi IT di terze parti](https://www.fca.org.uk/publication/finalised-guidance/fg16-5.pdf)
 - [Abilitazione della conformità: l'approccio Microsoft alla guida al cloud finalizzata a FCA](https://go.microsoft.com/fwlink/p/?linkid=2101561)
-- [Microsoft Financial Services Compliance Program](https://www.microsoft.com/download/details.aspx?id=55332)
+- [Programma di conformità dei servizi finanziari Microsoft](https://www.microsoft.com/download/details.aspx?id=55332)
 - [Conformità dei servizi finanziari in Azure](https://azure.microsoft.com/resources/videos/azurecon-2015-financial-services-compliance-in-azure/)
 - [Servizi finanziari e servizi cloud aziendali di Microsoft](https://www.microsoft.com/trustcenter/cloudservices/financialservices)
 - [Conformità nel Centro protezione Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
