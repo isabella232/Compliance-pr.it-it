@@ -1,4 +1,4 @@
-- name: Architecture
+- name: Architettura
   items:
     - name: Panoramica dell'architettura
       href: assurance-architecture.md
@@ -6,27 +6,27 @@
       href: 'https://docs.microsoft.com/microsoft-365/enterprise/microsoft-365-isolation-controls'
     - name: Isolamento del tenant in Microsoft 365
       href: 'https://docs.microsoft.com/microsoft-365/enterprise/microsoft-365-tenant-isolation-overview'
-    - name: Controlli di accesso e di isolamento in AAD
+    - name: Isolamento e controllo di accesso in AAD
       href: 'https://docs.microsoft.com/microsoft-365/enterprise/microsoft-365-isolation-in-azure-active-directory'
 - name: Registrazione di controllo
   items:
-    - name: Panoramica della registrazione di controllo
+    - name: Panoramica sulla registrazione di controllo
       href: assurance-audit-logging.md
     - name: Monitoraggio e gestione del controllo di accesso
       href: assurance-monitoring-and-auditing-access-controls.md
-    - name: Engineering Internal Logging
+    - name: Registrazione interna di progettazione
       href: assurance-internal-logging.md
-    - name: Controllo e Reporting dei servizi cloud
+    - name: Controllo e creazione di report dei servizi cloud
       href: assurance-auditing-and-reporting-overview.md
     - name: Funzionalità di creazione di report
       href: assurance-reporting-features.md
 - name: Sicurezza del datacenter
   items:
-    - name: Panoramica della sicurezza di datacenter
+    - name: Panoramica sulla sicurezza del datacenter
       href: assurance-datacenter-security.md
 - name: Crittografia e gestione delle chiavi
   items:
-    - name: Panoramica della crittografia e della gestione delle chiavi
+    - name: Panoramica sulla crittografia e sulla gestione delle chiavi
       href: assurance-encryption.md
     - name: Crittografia nel Microsoft Cloud
       href: 'https://docs.microsoft.com/microsoft-365/compliance/office-365-encryption-in-the-microsoft-cloud-overview'
@@ -34,39 +34,39 @@
       href: assurance-encryption-in-transit.md
     - name: Crittografia per i servizi Microsoft 365
       href: assurance-encryption-for-microsoft-365-services.md
-    - name: Crittografia del servizio per data-at-rest
+    - name: Crittografia dei servizi per i dati inattivi
       href: 'https://docs.microsoft.com/microsoft-365/compliance/office-365-service-encryption'
     - name: Crittografia della posta elettronica in Microsoft 365
       href: 'https://docs.microsoft.com/microsoft-365/compliance/email-encryption'
     - name: Modalità di protezione dei segreti di posta elettronica in Exchange Online
       href: 'https://docs.microsoft.com/microsoft-365/compliance/exchange-online-secures-email-secrets'
-    - name: Come Exchange Online USA TLS per proteggere le connessioni di posta elettronica
+    - name: Modalità d'uso di TLS in Exchange Online per proteggere le connessioni di posta elettronica
       href: 'https://docs.microsoft.com/microsoft-365/compliance/exchange-online-uses-tls-to-secure-email-connections'
-    - name: BitLocker and Distributed Key Manager (DKM) per la crittografia
+    - name: BitLocker e Distributed Key Manager (DKM) per la crittografia
       href: 'https://docs.microsoft.com/microsoft-365/compliance/office-365-bitlocker-and-distributed-key-manager-for-encryption'
-    - name: Informazioni di riferimento tecnico sulla crittografia
+    - name: Dettagli tecnici di riferimento sulla crittografia
       href: 'https://docs.microsoft.com/microsoft-365/compliance/technical-reference-details-about-encryption'
 - name: Governance
   items:
-    - name: Panoramica della governance
+    - name: Panoramica sulla governance
       href: assurance-governance.md
     - name: Garanzia del servizio nel Centro sicurezza e conformità
       href: 'https://docs.microsoft.com/microsoft-365/compliance/service-assurance'
 - name: Risorse umane
   items:
-    - name: Panoramica delle risorse umane
+    - name: 'Panoramica sulle risorse umane '
       href: assurance-human-resources.md
-    - name: Screening preimpiego Microsoft
+    - name: Screening precedente all'impiego presso Microsoft
       href: assurance-pre-employment-screening.md
-    - name: Controllo del background di Microsoft Cloud
+    - name: Controllo in background di Microsoft Cloud
       href: assurance-cloud-background-check.md
-- name: Gestione di identità e accesso
+- name: Gestione delle identità e degli accessi
   items:
-    - name: Panoramica della gestione delle identità e degli accessi
+    - name: Panoramica sulla gestione delle identità e degli accessi
       href: assurance-identity-and-access-management.md
     - name: Controlli di accesso amministrativo
       href: assurance-administrative-access-controls-overview.md
-    - name: Controlli di tecnologia
+    - name: Controlli tecnologia
       href: assurance-technology-controls.md
     - name: Customer Lockbox
       href: 'https://docs.microsoft.com/microsoft-365/compliance/customer-lockbox-requests'
@@ -74,19 +74,19 @@
       href: assurance-yammer-enterprise-access-controls.md
 - name: Gestione degli incidenti
   items:
-    - name: Panoramica della gestione degli incidenti
+    - name: Panoramica sulla gestione degli incidenti
       href: assurance-incident-management.md
-- name: Protezione di rete
+- name: Sicurezza di rete
   items:
-    - name: Panoramica della sicurezza di rete
+    - name: Panoramica sulla sicurezza di rete
       href: assurance-network-security.md
-    - name: Difesa Denial-of-Service
+    - name: Difesa da attacchi Denial of Service
       href: assurance-defending-cloud-services-against-dos-attacks.md
-    - name: Strategia di difesa di tipo Denial of Service
+    - name: Strategia di difesa da attacchi Denial of Service
       href: assurance-microsoft-dos-defense-strategy.md
-    - name: Principi di difesa Denial-of-Service di base
+    - name: Principi chiave della difesa da attacchi Denial of Service
       href: assurance-core-principles-of-defense-against-dos-attacks.md
-    - name: Rilevamento dei virus in Microsoft 365 Services
+    - name: Servizi di rilevamento virus in Microsoft 365
       href: 'https://docs.microsoft.com/microsoft-365/security/office-365-security/virus-detection-in-spo'
 - name: Privacy
   items:
@@ -96,7 +96,7 @@
       href: 'https://docs.microsoft.com/microsoft-365/enterprise/o365-data-locations'
     - name: 'Conservazione, eliminazione e distruzione dei dati'
       href: assurance-data-retention-deletion-and-destruction-overview.md
-    - name: Microsoft 365 distruzione dei dati
+    - name: Distruzione dei dati di Microsoft 365
       href: assurance-data-destruction.md
     - name: Eliminazione dei dati di Exchange Online
       href: assurance-exchange-online-data-deletion.md
@@ -108,55 +108,55 @@
   items:
     - name: Panoramica sulla resilienza e sulla continuità
       href: assurance-resiliency-and-continuity.md
-    - name: Resilienza del servizio cloud
+    - name: Resilienza dei servizi cloud
       href: assurance-m365-service-resiliency.md
-    - name: Service health and continuity
+    - name: Integrità dei servizi e continuità
       href: 'https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/service-health-and-continuity'
-    - name: Limiti relativi alle risorse del servizio
+    - name: Limiti della risorsa servizio
       href: assurance-resource-limits.md
     - name: Resilienza dei dati
       href: assurance-data-resiliency-overview.md
-    - name: Gestione del danneggiamento dei dati
+    - name: Gestione della corruzione dei dati
       href: assurance-dealing-with-data-corruption.md
-    - name: Monitoraggio e autoguarigione dei dati
+    - name: Monitoraggio dei dati e riparazione automatica
       href: assurance-monitoring-and-self-healing.md
-    - name: Resilienza dei dati di Exchange Online
+    - name: Resilienza dei dati in Exchange Online
       href: assurance-exchange-data-resiliency.md
     - name: Gestione della continuità aziendale della società con i servizi cloud
       href: assurance-understanding-ebcm-with-cloud-services.md
-    - name: Responsabilità EBCM del cliente e del partner cloud
+    - name: Responsabilità relativa alla gestione della continuità aziendale del cliente e del partner cloud
       href: assurance-customer-and-cloud-partner-ebcm-responsibilities.md
-    - name: Sviluppare il piano di continuità
+    - name: Sviluppare un piano di continuità
       href: assurance-developing-your-ebcm-plan.md
-    - name: Strategie di mitigazione degli eventi imprevisti relativi ai servizi
+    - name: Strategie di mitigazione degli incidenti relativi ai servizi
       href: assurance-microsoft-365-mitigations.md
-    - name: Piano di continuità prove e formazione degli utenti
+    - name: Prova del piano di continuità e formazione utente
       href: assurance-ebcm-plan-rehearsal-and-user-training.md
 - name: Gestione dei rischi
   items:
-    - name: Panoramica della gestione dei rischi
+    - name: Panoramica sulla gestione dei rischi
       href: assurance-risk-management.md
-- name: Sviluppo e gestione della sicurezza
+- name: Operazioni e sviluppo della sicurezza
   items:
-    - name: Panoramica dello sviluppo e dell'operazione sulla sicurezza
+    - name: Panoramica sulle operazioni e sullo sviluppo della sicurezza
       href: assurance-security-development-and-operation.md
 - name: Monitoraggio della sicurezza
   items:
-    - name: Panoramica del monitoraggio della sicurezza
+    - name: Panoramica sul monitoraggio della sicurezza
       href: assurance-security-monitoring.md
 - name: Gestione dei fornitori
   items:
-    - name: Panoramica della gestione dei fornitori
+    - name: Panoramica sulla gestione dei fornitori
       href: assurance-supplier-management.md
-- name: Gestione della vulnerabilità
+- name: Gestione delle vulnerabilità
   items:
     - name: Panoramica sulla gestione delle vulnerabilità
       href: assurance-vulnerability-management.md
     - name: Protezione da malware e ransomware
       href: assurance-malware-and-ransomware-protection.md
-    - name: Simulazione di attacco in Microsoft 365
+    - name: Simulazione di un attacco in Microsoft 365
       href: assurance-monitoring-and-testing.md
-- name: Nozioni fondamentali sulla sicurezza di Azure
+- name: Elementi fondamentali sulla sicurezza di Azure
   items:
-    - name: Nozioni fondamentali sulla sicurezza di Azure
+    - name: Elementi fondamentali sulla sicurezza di Azure
       href: 'https://docs.microsoft.com/azure/security/fundamentals/'
