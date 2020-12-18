@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 071bbbb24110b9d74aa75580d9a23628041455a6
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 51a09772498da0ffc4c7d135e8b9ae103364a984
+ms.sourcegitcommit: 9d00734702fec0e76f6b001e31ff0a6eb60cae6f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508423"
+ms.lasthandoff: 12/18/2020
+ms.locfileid: "49712084"
 ---
 # <a name="nist-sp-800-171"></a>NIST SP 800-171
 
@@ -44,9 +44,10 @@ I requisiti del NIST SP 800-171 sono un sottoinsieme di NIST SP 800-53, lo stand
 
 Qualsiasi entità che elabora o archivia gli Stati Uniti: gli istituti di ricerca, le società di consulenza, i contraenti di fabbricazione devono essere conformi ai severi requisiti del NIST SP 800-171. Questo attestato indica che i servizi cloud in ambito Microsoft possono ospitare i clienti che desiderano distribuire i carichi di lavoro cui con la certezza che Microsoft sia pienamente conforme. Ad esempio, tutti i contraenti DoD che elaborano, archiviano o trasmettono ' informazioni sulla difesa trattate ' utilizzando i servizi cloud Microsoft in ambito nei sistemi informativi, soddisfano le clausole del dipartimento della difesa DFARS che richiedono la conformità con i requisiti di sicurezza di NIST SP 800-171.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud Microsoft associati
+## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud Microsoft inclusi nell'ambito
 
 - [Amministrazione di Azure](https://aka.ms/AzureCompliance)
+- [Commerciale di Azure](https://azure.microsoft.com/resources/microsoft-azure-compliance-offerings/)
 - [Governo degli Stati Uniti Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune
 - [Office 365 US Government community Cloud (GCC), Office 365 GCC High e DoD](https://aka.ms/o365-compliance-framework)
@@ -67,7 +68,7 @@ Sì. I clienti Microsoft possono utilizzare i controlli controllati descritti ne
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usare Microsoft Compliance Manager per valutare i rischi
 
-[Microsoft Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) è una funzionalità del [Centro conformità Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) utile per comprendere lo stato di conformità dell'organizzazione e adottare misure per ridurre i rischi. Compliance Manager offre un modello premium per creare una valutazione per questa normativa. È possibile trovare il modello nella pagina dei **modelli di valutazione** in Compliance Manager. Informazioni su come [creare valutazioni in Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
+[Microsoft Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) è una funzionalità nel [Centro conformità Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) utile per comprendere lo stato di conformità dell'organizzazione e intraprendere azioni per ridurre i rischi. Compliance Manager offre un modello premium per creare una valutazione per questa normativa. Individuare il modello nella pagina **modelli di valutazioni** in Compliance Manager. Informazioni su come [creare valutazioni in Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
 
 ## <a name="resources"></a>Risorse
 
@@ -77,4 +78,4 @@ Sì. I clienti Microsoft possono utilizzare i controlli controllati descritti ne
 - [NIST 800-171 3,3 Audit and Accountability con Office 365 GCC High](https://info.summit7systems.com/blog/nist-3.3-audit-and-accountability-with-office-365)
 - [Microsoft e NIST Cybersecurity Framework](offering-nist-csf.md)
 - [Cloud Microsoft per enti pubblici](https://www.microsoft.com/enterprise/government)
-- [Conformità in Microsoft Trust Center](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Conformità nel Centro protezione di Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
