@@ -16,18 +16,18 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f58caebee758c9e4d4d1159ebd701c09df81e018
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 94ce3e8dbbb210c645fb2f64ed29e441eb9956bf
+ms.sourcegitcommit: 58741a8e28c354bd806418b7263f0db98bf83eac
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508862"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "49759691"
 ---
 # <a name="isoiec-270012013-information-security-management-standards"></a>Standard di gestione della sicurezza delle informazioni ISO/IEC 27001:2013
 
 ## <a name="isoiec-27001-overview"></a>Panoramica di ISO/IEC 27001
 
-International Organization for Standardization (ISO) è un'organizzazione non governativa indipendente nonché il più grande sviluppatore al mondo di standard internazionali volontari.. International Electrotechnical Commission (IEC) è l'organizzazione leader al mondo per la preparazione e la pubblicazione di standard internazionali per tecnologie elettriche, elettroniche e correlate.
+International Organization for Standardization (ISO) è un'organizzazione non governativa indipendente nonché il più grande sviluppatore al mondo di standard internazionali volontari. International Electrotechnical Commission (IEC) è l'organizzazione leader al mondo per la preparazione e la pubblicazione di standard internazionali per tecnologie elettriche, elettroniche e correlate.
 
 Pubblicata dalla sottocommissione congiunta ISO/IEC, la famiglia di standard ISO/IEC 27000 riporta centinaia di controlli e meccanismi di controllo per aiutare le organizzazioni di ogni tipo e dimensione a mantenere protette le loro risorse di informazioni. Questi standard globali forniscono un framework per criteri e procedure che includono tutti i controlli legali, fisici e tecnici coinvolti nei processi di gestione dei rischi correlati alle informazioni di un'organizzazione.
 
@@ -117,14 +117,14 @@ Il [Service Trust Portal](https://docs.microsoft.com/microsoft-365/compliance/ge
 
 Sì. Il processo annuale di certificazione ISO/IEC 27001 per il gruppo Microsoft Cloud Infrastructure and Operations include un controllo della resilienza operativa. Per visualizzare in anteprima l'ultimo certificato, fare clic sul collegamento seguente.
 
-- Microsoft Azure: [Certificato ISO/IEC 27001:2013 per Microsoft Cloud Infrastructure and Operations](https://www.bsigroup.com/Our-services/Management-system-certification/Certificate-and-Client-Directory-Search/Certificate-Client-Directory-Search-Results/?searchkey=company%3dMicrosoft&licencenumber=IS%20533913)
+- Microsoft Azure: [Certificato ISO/IEC 27001:2013 per Microsoft Cloud Infrastructure and Operations](https://www.bsigroup.com/en-US/our-services/Management-system-certification/Certificate-and-Client-Directory-Search/Certificate-Client-Directory-Search-Results/?searchkey=licence%3d%26company%3dMicrosoft&licencenumber=IS%20552878)
 - Azure Germania
 
-**Da dove iniziare il percorso di conformità della mia organizzazione a ISO/IEC 27001?**
+**Quali sono i primi passaggi per garantire la conformità dell’organizzazione allo standard ISO/IEC 27001?**
 
 L'adozione di ISO/IEC 27001 è un impegno strategico. Come punto di partenza, consultare [ISO/IEC 27000 Directory](https://www.27000.org/index.htm).
 
-**Posso usare la conformità ISO/IEC 27001 dei servizi Microsoft nel processo di certificazione della mia organizzazione?**
+**È possibile usare la conformità allo standard ISO/IEC 27001 dei servizi Microsoft nel processo di certificazione dell’organizzazione?**
 
 Sì. Se l'azienda richiede la certificazione ISO/IEC 27001 per le implementazioni distribuite su servizi Microsoft, è possibile usare la certificazione applicabile nella propria valutazione della conformità. Tuttavia, si ha la responsabilità di affidare l'incarico a un perito che valuti l'implementazione aziendale e i controlli e processi all'interno dell'organizzazione in termini di conformità agli standard ISO/IEC 27001.
 
