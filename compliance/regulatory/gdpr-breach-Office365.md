@@ -16,19 +16,19 @@ ms.collection:
 - M365-security-compliance
 - MS-Compliance
 titleSuffix: Microsoft GDPR
-ms.openlocfilehash: 66441638d7e9cb881422ba4243d936152bcd9eed
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 317a5bf64a5d10099b3fcf73190bb6e20ffc2999
+ms.sourcegitcommit: 7864222909b7d8d0b1dbdbbdee66f5697dac7940
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508654"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49757841"
 ---
 # <a name="breach-notification-under-the-gdpr"></a>Notifica di violazione secondo il GDPR
 
 In quanto responsabile del trattamento dei dati, Office 365 consente ai clienti di soddisfare i requisiti del GDPR relativi alla notifica di violazioni come titolari del trattamento dei dati. A tale scopo, Microsoft si impegna a:
 
-- Garantire ai clienti la possibilità di specificare un contatto responsabile della privacy al quale sarà notificato l'evento di violazione. I clienti potranno specificare questo contatto in Azure Active Directory (AAD).
-- Informare i clienti riguardo alla violazione dei dati personali entro 72 ore dall'avvenuta violazione. Verrà inviata una notifica tramite posta elettronica al contatto specificato dal cliente.
+- Garantire ai clienti la possibilità di specificare un contatto responsabile della privacy al quale sarà notificato l'evento di violazione.  I clienti potranno specificare questo contatto usando le impostazioni del ruolo di lettore di privacy per il centro messaggi.
+- Informare i clienti riguardo alla violazione dei dati personali entro 72 ore dall'avvenuta violazione. Le notifiche verranno pubblicate nel centro messaggi, accessibile tramite l'interfaccia di amministrazione di Microsoft 365. In secondo luogo, le notifiche tramite posta elettronica vengono inviate a contatti specificati indicando che è stato pubblicato un nuovo post del centro messaggi.
 - La notifica iniziale includerà almeno una descrizione del tipo di violazione, una stima approssimativa dell'impatto avuto sull'utente e i passaggi per la prevenzione (se applicabili). Se l'analisi non è completa al momento dell'invio della notifica iniziale, Microsoft indicherà nella suddetta notifica i passaggi successivi e la tempistica per le comunicazioni successive.
 
 Microsoft riconosce che i titolari del trattamento dei dati sono responsabili della valutazione dei rischi e sono tenuti a determinare se una violazione richieda una notifica all'autorità per la protezione dei dati del cliente; inoltre, con la notifica ai clienti verranno fornite le informazioni necessarie per eseguire tale valutazione. Microsoft notificherà ai clienti eventuali violazioni dei dati personali, fatta eccezione per i casi in cui i dati personali siano indecifrabili (ad esempio, in caso di dati crittografati per i quali l'integrità delle chiavi è confermata).
