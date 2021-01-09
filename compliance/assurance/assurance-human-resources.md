@@ -1,5 +1,5 @@
 ---
-title: Panoramica delle risorse umane
+title: 'Panoramica sulle risorse umane '
 description: Informazioni sulle risorse umane in Microsoft 365
 ms.author: robmazz
 author: robmazz
@@ -19,14 +19,14 @@ search.appverid:
 - MET150
 - MOE150
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: 2a181a28da0fdd088b0eca3aa13719f4d629a842
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: aa5c7c01b39feba21b3efa2a99267743379d8cec
+ms.sourcegitcommit: 7a5b6bc58fc4613b38f3fda20aebee5cec6a5730
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508167"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "49787335"
 ---
-# <a name="human-resources-overview"></a>Panoramica delle risorse umane
+# <a name="human-resources-overview"></a>Panoramica sulle risorse umane 
 
 ## <a name="how-does-microsoft-screen-prospective-employees"></a>Come funziona Microsoft Screen future Employees?
 
@@ -70,5 +70,5 @@ I servizi online di Microsoft vengono controllati regolarmente per la conformit�
 | [FedRAMP (Office 365)](https://compliance.microsoft.com/compliancemanager) | AT-2: sensibilizzazione sulla sicurezza <br> AT-3: formazione sulla sicurezza basata sui ruoli <br> AT-4: record di training sulla sicurezza <br> PS-3: screening del personale <br> PS-4: terminazione del personale <br> PS-5: trasferimento del personale <br> PS-7: sicurezza del personale di terze parti | 24 settembre 2020 |
 | [ISO 27001/27002 (Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=d7864d4f-e053-4cc4-a964-fa526d07c3be&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [Dichiarazione di applicabilità](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=8ee1e46b-2ada-4e7b-bb7d-4c55a8cb6fcd&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_ISO_Reports) <br> [Certificazione](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=1e84a14a-2468-45ac-9412-5e53250d57ec&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A. 7: sicurezza delle risorse umane | 22 febbraio 2020 |
 | [ISO 27017 (Office 365)](https://aka.ms/o365iso) <br><br> [Dichiarazione di applicabilità](https://aka.ms/o365isosoa) <br> [Certificazione](https://aka.ms/Office365ISO27017Cert) | A. 7: sicurezza delle risorse umane | 22 febbraio 2020 |
-| [SOC 1 (Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=b07c0f7b-6bd5-4544-8255-7a5f14bf914a&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_/_SSAE_16_Reports) | CA-08: controlli in background <br> CA-43: revoca degli account | 30 settembre 2019 |
-| [SOC 2 (Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=fa062990-e758-4ddc-ace3-7fb21a301d09&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_/_SSAE_16_Rep-11e9-b9e1-290b1eb4cdeb_SOC_/_SSAE_16_Reports) | CA-07: standard of business conduzione (SBC) <br> CA-08: controlli in background <br> CA-43: revoca degli account | 30 settembre 2019 |
+| [SOC 1 (Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=90df3f9c-3aaf-4dbf-99d0-ca9f2991721b&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-08: controlli in background <br> CA-43: revoca degli account | 24 dicembre 2020 |
+| [SOC 2 (Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=a73c1738-7892-42b7-acd3-87b6371c53f6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-07: standard of business conduzione (SBC) <br> CA-08: controlli in background <br> CA-43: revoca degli account | 24 dicembre 2020 |

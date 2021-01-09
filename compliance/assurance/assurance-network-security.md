@@ -1,5 +1,5 @@
 ---
-title: Protezione di rete
+title: Sicurezza di rete
 description: Informazioni sulla sicurezza di rete in Microsoft 365
 ms.author: robmazz
 author: robmazz
@@ -19,14 +19,14 @@ search.appverid:
 - MET150
 - MOE150
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: c063460fdfba44265b3a1504a049a4772b484dff
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: e246cc3c84a17fe697baea29eda285599832b0fa
+ms.sourcegitcommit: 7a5b6bc58fc4613b38f3fda20aebee5cec6a5730
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507758"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "49787430"
 ---
-# <a name="network-security-overview"></a>Panoramica della sicurezza di rete
+# <a name="network-security-overview"></a>Panoramica sulla sicurezza di rete
 
 ## <a name="how-does-microsoft-365-secure-the-network-boundary"></a>In che modo Microsoft 365 protegge il limite di rete?
 
@@ -49,5 +49,5 @@ I servizi online di Microsoft vengono controllati regolarmente per la conformit�
 | **Verifiche esterne** | **Sezione** | **Data ultimo rapporto** |
 |:--------------------|:------------|:-----------------------|
 | [FedRAMP (Office 365)](https://compliance.microsoft.com/compliancemanager) | SC-5: Denial of Service Protection <br> SC-7: protezione da confini <br> SI-2: correzione del difetto <br> SI-3: protezione da codice dannoso <br> SI-8: protezione dalla posta indesiderata | 24 settembre 2020 |
-| [SOC 1 (Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=b07c0f7b-6bd5-4544-8255-7a5f14bf914a&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_/_SSAE_16_Reports) | CA-27: analisi della vulnerabilità | 30 settembre 2019 |
-| [SOC 2 (Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=fa062990-e758-4ddc-ace3-7fb21a301d09&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_/_SSAE_16_Rep-11e9-b9e1-290b1eb4cdeb_SOC_/_SSAE_16_Reports) | CA-27: analisi della vulnerabilità <br> CA-45: anti-malware | 30 settembre 2019 |
+| [SOC 1 (Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=90df3f9c-3aaf-4dbf-99d0-ca9f2991721b&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-27: analisi della vulnerabilità | 24 dicembre 2020 |
+| [SOC 2 (Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=a73c1738-7892-42b7-acd3-87b6371c53f6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-27: analisi della vulnerabilità <br> CA-45: anti-malware | 24 dicembre 2020 |

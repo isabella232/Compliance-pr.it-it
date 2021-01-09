@@ -1,5 +1,5 @@
 ---
-title: Panoramica della gestione delle identità e degli accessi
+title: Panoramica sulla gestione delle identità e degli accessi
 description: Informazioni sulla gestione delle identità e degli accessi in Microsoft 365
 ms.author: robmazz
 author: robmazz
@@ -19,14 +19,14 @@ search.appverid:
 - MET150
 - MOE150
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: b62219faa5bc55ef4bef9557d953caf1a2f95fc7
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: c07801fe5ef571ddb4c9efcbfe04a7b3e5faedb6
+ms.sourcegitcommit: 7a5b6bc58fc4613b38f3fda20aebee5cec6a5730
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507837"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "49787475"
 ---
-# <a name="identity-and-access-management-overview"></a>Panoramica della gestione delle identità e degli accessi
+# <a name="identity-and-access-management-overview"></a>Panoramica sulla gestione delle identità e degli accessi
 
 ## <a name="how-does-microsoft-365-protect-production-systems-from-unauthorized-or-malicious-access"></a>In che modo Microsoft 365 protegge i sistemi di produzione da accessi non autorizzati o dannosi?
 
@@ -55,6 +55,6 @@ I servizi online di Microsoft vengono controllati regolarmente per la conformit�
 | [FedRAMP (Office 365)](https://compliance.microsoft.com/compliancemanager) | AC-2: gestione account <br> AC-3: applicazione di accesso <br> AC-5: separazione dei compiti <br> AC-6: privilegio minimo <br> AC-17: accesso remoto | 24 settembre 2020 |
 | [ISO 27001/27002 (Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=d7864d4f-e053-4cc4-a964-fa526d07c3be&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [Dichiarazione di applicabilità](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=8ee1e46b-2ada-4e7b-bb7d-4c55a8cb6fcd&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_ISO_Reports) <br> [Certificazione](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=1e84a14a-2468-45ac-9412-5e53250d57ec&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A. 9.1: requisiti aziendali per il controllo di accesso <br> A. 9.2: gestione dell'accesso degli utenti <br> A. 9.3: responsabilità degli utenti <br> A. 9.4: controllo di accesso a sistemi e applicazioni <br> A. 15.1: sicurezza delle informazioni nelle relazioni con i fornitori | 22 febbraio 2020 |
 | [ISO 27017 (Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=d7864d4f-e053-4cc4-a964-fa526d07c3be&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [Dichiarazione di applicabilità](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=8ee1e46b-2ada-4e7b-bb7d-4c55a8cb6fcd&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_ISO_Reports) <br> [Certificazione](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=70de0999-5451-43a3-9ef4-761e8fbfb1a3&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A. 9.2: gestione dell'accesso degli utenti <br> A. 9.4: controllo di accesso a sistemi e applicazioni <br> A. 15.1: sicurezza delle informazioni nelle relazioni con i fornitori | 22 febbraio 2020 |
-| [SOC 1 (Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=b07c0f7b-6bd5-4544-8255-7a5f14bf914a&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_/_SSAE_16_Reports) | CA-33: modifica dell'account <br> CA-34: autenticazione dell'utente <br> CA-35: accesso con privilegi <br> CA-36: accesso remoto <br> CA-57: approvazione dell'archivio clienti di Microsoft Management <br> CA-58: richieste del servizio protetto dall'utente <br> CA-59: notifiche dell'archivio protetto dei clienti <br> CA-61: Revisione e approvazione JIT | 30 settembre 2019 |
-| [SOC 2 (Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=fa062990-e758-4ddc-ace3-7fb21a301d09&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_/_SSAE_16_Rep-11e9-b9e1-290b1eb4cdeb_SOC_/_SSAE_16_Reports) | CA-32: criterio account condiviso <br> CA-33: modifica dell'account <br> CA-34: autenticazione dell'utente <br> CA-35: accesso con privilegi <br> CA-36: accesso remoto <br> CA-53: monitoraggio di terze parti <br> CA-56: approvazione del cliente per l'archivio protetto dei clienti <br> CA-57: approvazione dell'archivio clienti di Microsoft Management <br> CA-58: richieste del servizio protetto dall'utente <br> CA-59: notifiche dell'archivio protetto dei clienti <br> CA-61: Revisione e approvazione JIT | 30 settembre 2019 |
-| [SOC 3 (Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=9df8b99b-96ce-49a9-bff4-268031dcc9a6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_/_SSAE_16_Reports) | CUEC-15: richieste dell'archivio protetto dei clienti | 30 settembre 2019 |
+| [SOC 1 (Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=90df3f9c-3aaf-4dbf-99d0-ca9f2991721b&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-33: modifica dell'account <br> CA-34: autenticazione dell'utente <br> CA-35: accesso con privilegi <br> CA-36: accesso remoto <br> CA-57: approvazione dell'archivio clienti di Microsoft Management <br> CA-58: richieste del servizio protetto dall'utente <br> CA-59: notifiche dell'archivio protetto dei clienti <br> CA-61: Revisione e approvazione JIT | 24 dicembre 2020 |
+| [SOC 2 (Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=a73c1738-7892-42b7-acd3-87b6371c53f6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-32: criterio account condiviso <br> CA-33: modifica dell'account <br> CA-34: autenticazione dell'utente <br> CA-35: accesso con privilegi <br> CA-36: accesso remoto <br> CA-53: monitoraggio di terze parti <br> CA-56: approvazione del cliente per l'archivio protetto dei clienti <br> CA-57: approvazione dell'archivio clienti di Microsoft Management <br> CA-58: richieste del servizio protetto dall'utente <br> CA-59: notifiche dell'archivio protetto dei clienti <br> CA-61: Revisione e approvazione JIT | 24 dicembre 2020 |
+| [SOC 3 (Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=274054e5-4968-48d2-bf94-9a8eda5d7a93&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CUEC-15: richieste dell'archivio protetto dei clienti | 24 dicembre 2020 |

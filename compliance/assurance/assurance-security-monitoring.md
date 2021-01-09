@@ -1,5 +1,5 @@
 ---
-title: Panoramica del monitoraggio della sicurezza
+title: Panoramica sul monitoraggio della sicurezza
 description: Informazioni sul monitoraggio della sicurezza in Microsoft 365
 ms.author: robmazz
 author: robmazz
@@ -18,14 +18,14 @@ search.appverid:
 - MET150
 - MOE150
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: f3eae0aa5ba79372a7ce0d9a34d4dd35fe83a36b
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 8a538ee055d10b002ea7efcc7d39ce20658df12b
+ms.sourcegitcommit: 7a5b6bc58fc4613b38f3fda20aebee5cec6a5730
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508847"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "49787355"
 ---
-# <a name="security-monitoring-overview"></a>Panoramica del monitoraggio della sicurezza
+# <a name="security-monitoring-overview"></a>Panoramica sul monitoraggio della sicurezza
 
 ## <a name="what-is-microsofts-strategy-for-monitoring-security"></a>Che cos'è la strategia di Microsoft per il monitoraggio della sicurezza?
 
@@ -60,9 +60,9 @@ I servizi online di Microsoft vengono controllati regolarmente per la conformit�
 | [FedRAMP (Office 365)](https://compliance.microsoft.com/compliancemanager) | AC-2: gestione account <br> AC-17: accesso remoto <br> AU-7: riduzione dei controlli e generazione dei report <br> SI-4: monitoraggio del sistema informativo <br> SI-7: software, firmware e integrità delle informazioni <br> | 24 settembre 2020 |
 | [ISO 27001/27002 (Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=d7864d4f-e053-4cc4-a964-fa526d07c3be&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br> <br> [Dichiarazione di applicabilità](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=8ee1e46b-2ada-4e7b-bb7d-4c55a8cb6fcd&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_ISO_Reports) <br> [Certificazione](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=70de0999-5451-43a3-9ef4-761e8fbfb1a3&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A. 12.1.3: monitoraggio della disponibilità e pianificazione della capacità | 22 febbraio 2020 |
 | [ISO 27017 (Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=d7864d4f-e053-4cc4-a964-fa526d07c3be&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [Dichiarazione di applicabilità](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=8ee1e46b-2ada-4e7b-bb7d-4c55a8cb6fcd&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_ISO_Reports) <br> [Certificazione](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=70de0999-5451-43a3-9ef4-761e8fbfb1a3&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A. 12.1.3: monitoraggio della disponibilità e pianificazione della capacità <br> A. 16.1: gestione degli incidenti e dei miglioramenti della sicurezza delle informazioni | 22 febbraio 2020 |
-| [SOC 1 (Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=b07c0f7b-6bd5-4544-8255-7a5f14bf914a&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_/_SSAE_16_Reports) | CA-19: modifica del monitoraggio <br> CA-26: segnalazione degli incidenti di sicurezza <br> CA-29: ingegneri di chiamata <br> CA-48: registrazione del datacenter | 30 settembre 2019 |
-| [SOC 2 (Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=fa062990-e758-4ddc-ace3-7fb21a301d09&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_/_SSAE_16_Rep-11e9-b9e1-290b1eb4cdeb_SOC_/_SSAE_16_Reports) | CA-19: modifica del monitoraggio <br> CA-26: segnalazione degli incidenti di sicurezza <br> CA-29: ingegneri di chiamata <br> CA-30: monitoraggio della disponibilità <br> CA-48: registrazione del datacenter | 30 settembre 2019 |
-| [SOC 3 (Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=9df8b99b-96ce-49a9-bff4-268031dcc9a6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_/_SSAE_16_Reports) | CUEC-08: segnalare gli eventi non consentiti <br> CUEC-10: contratti di servizio | 30 settembre 2019 |
+| [SOC 1 (Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=90df3f9c-3aaf-4dbf-99d0-ca9f2991721b&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-19: modifica del monitoraggio <br> CA-26: segnalazione degli incidenti di sicurezza <br> CA-29: ingegneri di chiamata <br> CA-48: registrazione del datacenter | 24 dicembre 2020 |
+| [SOC 2 (Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=a73c1738-7892-42b7-acd3-87b6371c53f6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-19: modifica del monitoraggio <br> CA-26: segnalazione degli incidenti di sicurezza <br> CA-29: ingegneri di chiamata <br> CA-30: monitoraggio della disponibilità <br> CA-48: registrazione del datacenter | 24 dicembre 2020 |
+| [SOC 3 (Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=274054e5-4968-48d2-bf94-9a8eda5d7a93&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CUEC-08: segnalare gli eventi non consentiti <br> CUEC-10: contratti di servizio | 24 dicembre 2020 |
 
 ## <a name="resources"></a>Risorse
 

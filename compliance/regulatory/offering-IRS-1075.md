@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 2bc357a9fc9e3a2ee91b39686580dc820a7203c7
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: cd4082f2e38ee2c6a2f432ff5bef289ebe0fc69a
+ms.sourcegitcommit: 7a5b6bc58fc4613b38f3fda20aebee5cec6a5730
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509531"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "49787515"
 ---
 # <a name="us-internal-revenue-service-publication-1075"></a>Pubblicazione 1075 degli Stati Uniti Internal Revenue Service
 
@@ -45,7 +45,7 @@ Per aiutare gli enti governativi nelle loro attività di conformità, Microsoft:
 - Fornisce le considerazioni sulla conformità al fisco di Azure Government e le considerazioni sulla conformità del governo degli Stati Uniti di Office 365, che delineano come un'agenzia può utilizzare Microsoft Cloud per i servizi governativi in modo che sia conforme all'IRS 1075. I clienti governativi di NDA possono richiedere questi documenti.
 - Offre ai clienti la possibilità, a loro spese, di comunicare con esperti o revisori esterni Microsoft, se necessario.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud Microsoft associati
+## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud Microsoft inclusi
 
 Le autorizzazioni di FedRAMP sono concesse a tre livelli di impatto in base alle linee guida del NIST: basso, medio e alto. Tali livelli incidono sull'impatto che la perdita di riservatezza, integrità o disponibilità può avere su un'organizzazione, a bassa (effetto limitato), a livello medio (effetto avverso grave) e alta (effetto grave o catastrofico).
 
@@ -80,12 +80,12 @@ No. Gli unici ambienti in cui è possibile archiviare ed elaborare FTI sono Azur
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usare Microsoft Compliance Manager per valutare i rischi
 
-[Microsoft Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) è una funzionalità del [Centro conformità Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) utile per comprendere lo stato di conformità dell'organizzazione e adottare misure per ridurre i rischi. Compliance Manager offre un modello premium per creare una valutazione per questa normativa. È possibile trovare il modello nella pagina dei **modelli di valutazione** in Compliance Manager. Informazioni su come [creare valutazioni in Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
+[Microsoft Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) è una funzionalità nel [Centro conformità Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) utile per comprendere lo stato di conformità dell'organizzazione e intraprendere azioni per ridurre i rischi. Compliance Manager offre un modello premium per creare una valutazione per questa normativa. Individuare il modello nella pagina **modelli di valutazioni** in Compliance Manager. Informazioni su come [creare valutazioni in Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
 
 ## <a name="resources"></a>Risorse
 
 - [Pubblicazione IRS 1075](https://www.irs.gov/pub/irs-pdf/p1075.pdf)
 - [Programma di salvaguardia dell'IRS](https://www.irs.gov/uac/Safeguards-Program)
-- [Framework di conformità dell'hub dei controlli comuni di Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
-- [Microsoft Cloud per enti pubblici](https://enterprise.microsoft.com/industries/government/start-your-microsoft-cloud-for-government-trial-today)
+- [Hub dei controlli comuni del framework di conformità Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Microsoft Cloud per enti pubblici](https://azure.microsoft.com/global-infrastructure/government/)
 - [Conformità in Microsoft Trust Center](https://www.microsoft.com/trust-center/compliance/compliance-overview)
