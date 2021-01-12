@@ -15,12 +15,12 @@ metadata:
   author: robmazz
   ms.author: robmazz
   ms.date: 11/30/2020
-  ms.openlocfilehash: b2ef6d975ee41def8b410a47afe824851c151e14
-  ms.sourcegitcommit: 1e6157933cd9aea32c36e0c796ee55a861da16c8
+  ms.openlocfilehash: 4a45e8244a3adba18d25f24301b921c385850a9c
+  ms.sourcegitcommit: 9ce2e6599e6cb15533cb07e8291dc3a2b8795679
   ms.translationtype: MT
   ms.contentlocale: it-IT
-  ms.lasthandoff: 12/09/2020
-  ms.locfileid: "49612812"
+  ms.lasthandoff: 01/11/2021
+  ms.locfileid: "49795516"
 highlightedContent:
   items:
   - title: Attività rapide per iniziare a usare il Centro conformità Microsoft 365
@@ -82,7 +82,7 @@ conceptualContent:
       text: Informazioni sulla registrazione di controllo
     - url: /compliance/assurance/assurance-audit-logging
       itemType: concept
-      text: Panoramica della registrazione di controllo
+      text: Panoramica sulla registrazione di controllo
   - title: Sicurezza del datacenter
     links:
     - url: https://docs.microsoft.com/learn/modules/audit-physical-security/
@@ -90,7 +90,7 @@ conceptualContent:
       text: Informazioni sulla sicurezza dei datacenter
     - url: /compliance/assurance/assurance-datacenter-security
       itemType: concept
-      text: Panoramica della sicurezza di datacenter
+      text: Panoramica sulla sicurezza del datacenter
   - title: Crittografia e gestione delle chiavi
     links:
     - url: https://docs.microsoft.com/learn/modules/audit-encryption/
@@ -98,15 +98,15 @@ conceptualContent:
       text: Informazioni sulla crittografia e la gestione delle chiavi
     - url: /compliance/assurance/assurance-encryption
       itemType: concept
-      text: Panoramica della crittografia e della gestione delle chiavi
+      text: Panoramica sulla crittografia e sulla gestione delle chiavi
   - title: Governance
     links:
     - url: https://docs.microsoft.com/learn/modules/audit-governance/
       itemType: learn
-      text: Informazioni sulla gestione delle identità e degli accessi
+      text: Informazioni sulla governance
     - url: /compliance/assurance/assurance-governance
       itemType: concept
-      text: Panoramica della governance
+      text: Panoramica sulla governance
   - title: Risorse umane
     links:
     - url: https://docs.microsoft.com/learn/modules/audit-governance/personnel-security-governance
@@ -114,15 +114,15 @@ conceptualContent:
       text: Informazioni sulle risorse umane
     - url: /compliance/assurance/assurance-human-resources
       itemType: concept
-      text: Panoramica delle risorse umane
-  - title: Gestione di identità e accesso
+      text: 'Panoramica sulle risorse umane '
+  - title: Gestione delle identità e degli accessi
     links:
     - url: https://docs.microsoft.com/learn/modules/audit-identity-access-management/
       itemType: learn
       text: Informazioni sulla gestione delle identità e degli accessi
     - url: /compliance/assurance/assurance-identity-and-access-management
       itemType: concept
-      text: Panoramica della gestione delle identità e degli accessi
+      text: Panoramica sulla gestione delle identità e degli accessi
   - title: Gestione degli incidenti
     links:
     - url: https://docs.microsoft.com/learn/modules/audit-incident-management/
@@ -130,12 +130,12 @@ conceptualContent:
       text: Informazioni sulla gestione delle operazioni non consentite
     - url: /compliance/assurance/assurance-incident-management
       itemType: concept
-      text: Panoramica della gestione degli incidenti
-  - title: Protezione di rete
+      text: Panoramica sulla gestione degli incidenti
+  - title: Sicurezza di rete
     links:
     - url: /compliance/assurance/assurance-network-security
       itemType: concept
-      text: Panoramica della sicurezza di rete
+      text: Panoramica sulla sicurezza di rete
   - title: Privacy
     links:
     - url: https://docs.microsoft.com/learn/modules/audit-privacy/
@@ -159,8 +159,8 @@ conceptualContent:
       text: Informazioni sulla gestione dei rischi
     - url: /compliance/assurance/assurance-risk-management
       itemType: concept
-      text: Panoramica della gestione dei rischi
-  - title: Sviluppo e gestione della sicurezza
+      text: Panoramica sulla gestione dei rischi
+  - title: Operazioni e sviluppo della sicurezza
     links:
     - url: https://docs.microsoft.com/learn/modules/audit-security-development-operation/
       itemType: learn
@@ -175,7 +175,7 @@ conceptualContent:
       text: Informazioni sul monitoraggio della sicurezza
     - url: /compliance/assurance/assurance-security-monitoring
       itemType: concept
-      text: Panoramica del monitoraggio della sicurezza
+      text: Panoramica sul monitoraggio della sicurezza
   - title: Gestione dei fornitori
     links:
     - url: https://docs.microsoft.com/learn/modules/audit-subprocessor-management/
@@ -183,8 +183,8 @@ conceptualContent:
       text: Informazioni sulla gestione dei fornitori
     - url: /compliance/assurance/assurance-supplier-management
       itemType: concept
-      text: Panoramica della gestione dei fornitori
-  - title: Gestione della vulnerabilità
+      text: Panoramica sulla gestione dei fornitori
+  - title: Gestione delle vulnerabilità
     links:
     - url: https://docs.microsoft.com/learn/modules/audit-vulnerability-management/
       itemType: learn
