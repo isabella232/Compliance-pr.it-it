@@ -1,10 +1,10 @@
 ### YamlMime:Hub
 title: Offerte di conformità Microsoft
-summary: Informazioni su come i prodotti e i servizi Microsoft aiutano l'organizzazione a rispettare gli standard di conformità normativa.
+summary: Informazioni su come i prodotti e i servizi Microsoft consentono all'organizzazione di soddisfare gli standard di conformità alle normative.
 brand: m365
 metadata:
   title: Offerte di conformità per Microsoft 365, Azure e altri servizi Microsoft.
-  description: Informazioni su come i prodotti e i servizi Microsoft aiutano l'organizzazione a rispettare gli standard di conformità normativa.
+  description: Informazioni su come i prodotti e i servizi Microsoft consentono all'organizzazione di soddisfare gli standard di conformità alle normative.
   services: service
   ms.service: O365-seccomp
   ms.subservice: subservice
@@ -16,15 +16,15 @@ metadata:
   ms.author: robmazz
   ms.date: 11/30/2020
   localization_priority: Normal
-  ms.openlocfilehash: 82d7c9b4c39d4916a81d08abb34c3d8bc6d65b31
-  ms.sourcegitcommit: db4bd64256f52087d450c2f7fd4632718aa2c33d
+  ms.openlocfilehash: 55a5d3691e7b27f5823eb07662dc7b44f09e2870
+  ms.sourcegitcommit: 81bd5a6603e899ddbb7c580cf4f55a4636959bbd
   ms.translationtype: MT
   ms.contentlocale: it-IT
-  ms.lasthandoff: 12/08/2020
-  ms.locfileid: "49588700"
+  ms.lasthandoff: 01/22/2021
+  ms.locfileid: "49924849"
 conceptualContent:
   title: Offerte di conformità per Microsoft 365, Azure e altri servizi Microsoft
-  summary: Microsoft fornisce offerte di conformità che consentono all'organizzazione di soddisfare i requisiti nazionali, regionali e specifici del settore che regolano la raccolta e l'utilizzo dei dati.
+  summary: Microsoft offre offerte di conformità per aiutare l'organizzazione a rispettare i requisiti nazionali, regionali e specifici del settore che regolano la raccolta e l'uso dei dati.
   items:
   - title: Globale
     links:
@@ -70,7 +70,7 @@ conceptualContent:
       text: DoE 10 CFR parte 810
     - url: offering-ear.md
       itemType: reference
-      text: EAR (US Export ADM. Reg.)
+      text: EAR (US Export Adm. Reg.)
     - url: offering-fedramp.md
       itemType: reference
       text: FedRAMP
@@ -150,7 +150,7 @@ conceptualContent:
       text: HDS (Francia)
     - url: offering-hipaa-hitech.md
       itemType: reference
-      text: HIPAA/HITECH
+      text: HIPAA / HITECH
     - url: offering-hitrust.md
       itemType: reference
       text: HITRUST
@@ -193,10 +193,10 @@ conceptualContent:
       text: C5 (Germania)
     - url: offering-ccpa.md
       itemType: reference
-      text: CCPA (Stati Uniti)
-    - url: offering-ccsl-irap-australia.md
+      text: CCPA (US-California)
+    - url: offering-irap-australia.md
       itemType: reference
-      text: IRAP/CCSL (Australia)
+      text: IRAP (Australia)
     - url: offering-cs-mark-gold-japan.md
       itemType: reference
       text: CS Mark Gold (Giappone)
@@ -216,7 +216,7 @@ conceptualContent:
       text: Clausole modello UE
     - url: offering-eu-us-privacy-shield.md
       itemType: reference
-      text: Protezione della privacy EU-US
+      text: EU-US Privacy Shield
     - url: https://www.trustcenter.cn/compliance/default.html#GB18030
       itemType: reference
       text: GB 18030 (Cina)
@@ -261,7 +261,7 @@ conceptualContent:
 additionalContent:
   sections:
   - title: Offerte di conformità specifiche per Azure
-    summary: Offerte di conformità specifiche per Azure per aiutare l'organizzazione a rispettare i requisiti nazionali, regionali e specifici del settore che regolano la raccolta e l'utilizzo dei dati.
+    summary: Offerte di conformità specifiche per Azure per aiutare l'organizzazione a rispettare i requisiti nazionali, regionali e specifici del settore che regolano la raccolta e l'uso dei dati.
     items:
     - title: Globale
       links:
@@ -297,7 +297,7 @@ additionalContent:
         url: offering-nerc-cip.md
       - text: PCI DSS
         url: offering-pci-dss.md
-      - text: SEC regolamenti SCI
+      - text: SEC Regulations SCI
         url: offering-sec-reg-sci.md
       - text: Valutazioni condivise
         url: offering-shared-assessments.md
