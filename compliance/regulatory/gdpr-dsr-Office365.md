@@ -17,12 +17,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
-ms.openlocfilehash: 774ab44b1683a0becd7fcf86b6ea90df83a4a1fe
-ms.sourcegitcommit: 5ebe2ba746bba2d5058dcc0469a67e81fa3a8dce
+ms.openlocfilehash: b22af83dbae8c251f6bba1928011fceaa4bba072
+ms.sourcegitcommit: 8af471ad10420ee5fce98d2eb0d69a6d2b992f08
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49559872"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "49937051"
 ---
 # <a name="office-365-data-subject-requests-for-the-gdpr-and-ccpa"></a>Richieste degli interessati per Office 365 nell'ambito del GDPR e del CCPA
 
@@ -96,7 +96,7 @@ Un modo rapido per identificare le applicazioni di Office 365 usate nell'organiz
 
 Quando si cercano dati personali in un grande set di dati creati e archiviati dall'organizzazione con Office 365, è opportuno prima di tutto considerare quali applicazioni potrebbero essere state usate con maggiore probabilità per creare i dati che si stanno cercando. Microsoft stima che oltre il 90% dei dati di un'organizzazione archiviati in Office 365 venga creato in Word, Excel, PowerPoint, OneNote e Outlook. I documenti creati in queste applicazioni di Office, anche se acquistate tramite Microsoft 365 Apps for enterprise o una licenza perpetua di Office, vengono molto probabilmente archiviati in un sito di SharePoint Online, in un account utente di OneDrive for Business o nella cassetta postale di Exchange Online di un utente. Ciò significa che è possibile usare lo strumento Ricerca contenuto di eDiscovery per cercare (ed eseguire altre azioni correlate alle DSR) nei siti di SharePoint Online, negli account OneDrive for Business e nelle cassette postali di Exchange Online (inclusi i siti e le cassette postali associati a Gruppi di Microsoft 365, Microsoft Teams ed EDU Assignments) per trovare documenti ed elementi della cassetta postale che potrebbero essere rilevanti per la DSR che si sta analizzando. È possibile usare lo strumento Ricerca contenuto anche per individuare dati di clienti creati in altre applicazioni di Office 365.
 
-L'elenco seguente identifica le applicazioni di Office 365 che gli utenti usano per creare contenuti creati dai clienti che possono essere individuati con Ricerca contenuto. Questa sezione della guida alle richieste DSR offre indicazioni su come individuare, accedere, esportare ed eliminare i dati creati con queste applicazioni di Office 365.
+L'elenco seguente identifica le applicazioni di Office 365 che gli utenti usano per creare contenuti creati dai clienti che possono essere individuati con Ricerca contenuto. In questa sezione della Guida DSR sono disponibili informazioni su come individuare, accedere, esportare ed eliminare i dati creati con le applicazioni di Office 365.
 
 Applicazioni in cui è possibile usare Ricerca contenuto per trovare i dati dei clienti:
 
@@ -118,11 +118,14 @@ Applicazioni in cui è possibile usare Ricerca contenuto per trovare i dati dei 
 - Word
 
 > [!NOTE]
-> Lo strumento Ricerca contenuto di eDiscovery non è disponibile in [Office 365 gestito da 21Vianet (Cina)](https://docs.microsoft.com/microsoft-365/admin/services-in-china/services-in-china). Ciò significa che non può essere utilizzato per cercare ed esportare i dati dei clienti nelle applicazioni di Office 365 mostrate nella Tabella 1. Tuttavia, è possibile utilizzare lo strumento eDiscovery sul posto in Exchange Online per cercare contenuti nelle cassette postali utente. È inoltre possibile utilizzare il Centro eDiscovery in SharePoint Online per cercare contenuti nei siti di SharePoint e negli account di OneDrive. In alternativa, è possibile chiedere aiuto al titolare di un documento per individuare e modificare, eliminare o esportare contenuti, se necessario. Per ulteriori informazioni, vedere:</br><br> * [Creazione di una ricerca eDiscovery sul posto](https://docs.microsoft.com/exchange/create-in-place-ediscovery-search-exchange-2013-help)<br> * [Configurare un Centro eDiscovery in SharePoint Online](https://support.office.com/article/Set-up-an-eDiscovery-Center-in-SharePoint-Online-A18F8975-AA7F-43B4-A7D6-001D14744D8E)
+> Lo strumento Ricerca contenuto di eDiscovery non è disponibile in [Office 365 gestito da 21Vianet (Cina)](https://docs.microsoft.com/microsoft-365/admin/services-in-china/services-in-china). Ciò significa che non può essere utilizzato per cercare ed esportare i dati dei clienti nelle applicazioni di Office 365 mostrate nella Tabella 1. Tuttavia, è possibile utilizzare lo strumento eDiscovery sul posto in Exchange Online per cercare contenuti nelle cassette postali utente. È inoltre possibile utilizzare il Centro eDiscovery in SharePoint Online per cercare contenuti nei siti di SharePoint e negli account di OneDrive. In alternativa, è possibile chiedere aiuto al titolare di un documento per individuare e modificare, eliminare o esportare contenuti, se necessario. Per ulteriori informazioni, vedere:
+> 
+> * [Creazione di una ricerca eDiscovery sul posto](https://docs.microsoft.com/exchange/create-in-place-ediscovery-search-exchange-2013-help)
+> * [Configurazione del Centro eDiscovery in SharePoint Online](https://support.office.com/article/Set-up-an-eDiscovery-Center-in-SharePoint-Online-A18F8975-AA7F-43B4-A7D6-001D14744D8E)
 
 ### <a name="using-content-search-to-find-personal-data"></a>Usare Ricerca contenuto per trovare dati personali
 
-Il primo passaggio per rispondere a un DSR consiste nell'individuare i dati personali oggetto del DSR. In questa fase si usano gli strumenti di eDiscovery di Office 365 per cercare dati personali tra tutti quelli della propria organizzazione in Office 365 o passare direttamente all'applicazione nativa in cui sono stati creati i dati. Questo primo passaggio, in cui si individuano e si esaminano i dati personali in questione, consente di determinare se una richiesta dell'interessato soddisfa i criteri aziendali per l'accettazione o il rifiuto di una richiesta di questo tipo. Dopo avere individuato e analizzato i dati personali in questione, ad esempio, si potrebbe stabilire che la richiesta non soddisfa i requisiti dell'organizzazione perché potrebbe ledere i diritti e le libertà altrui o perché i dati personali sono contenuti in un record aziendale che l'azienda intende legittimamente conservare.
+Il primo passaggio per rispondere a un DSR consiste nell'individuare i dati personali oggetto del DSR. Questa fase consiste nell'usare gli strumenti di eDiscovery di Office 365 per cercare dati personali tra tutti quelli della propria organizzazione in Office 365 o passare direttamente all'applicazione nativa in cui sono stati creati i dati. Questo primo passaggio, in cui si individuano e si esaminano i dati personali in questione, consente di determinare se una richiesta dell'interessato soddisfa i criteri aziendali per l'accettazione o il rifiuto di una richiesta di questo tipo. Dopo avere individuato e analizzato i dati personali in questione, ad esempio, si potrebbe stabilire che la richiesta non soddisfa i requisiti dell'organizzazione perché potrebbe ledere i diritti e le libertà altrui o perché i dati personali sono contenuti in un record aziendale che l'azienda intende legittimamente conservare.
 
 Come indicato in precedenza, Microsoft stima che oltre il 90% dei dati di un'organizzazione venga creato con applicazioni di Office, ad esempio Word ed Excel. Ciò significa che è possibile usare Ricerca contenuto nel Centro ricerca e conformità per cercare i dati più pertinenti alla richiesta DSR.
 
@@ -169,10 +172,10 @@ La tabella seguente elenca alcune condizioni che è possibile usare per restring
 
 ***Tabella 2. Restringere l'ambito della ricerca tramite l'uso di condizioni** _
 
-| _ *Condizione** | **Descrizione** | **Esempio di valori della condizione** |
+| Condizione | Descrizione | Esempio di valori della condizione |
 | :--- | :--- |:--- |
 | Tipo di file | Estensione di un documento o di un file. Usare questa condizione per cercare documenti di Office e file creati con applicazioni di Office 365. Usare questa condizione per la ricerca di documenti in siti di SharePoint Online e account di OneDrive for Business.<br/>La proprietà del documento corrispondente è filetype. <br/>Per un elenco completo delle estensioni di file che è possibile cercare, vedere Estensioni di nomi di file e tipi di file analizzati sottoposti a ricerca per indicizzazione predefiniti in SharePoint](https://technet.microsoft.com/library/jj219530.aspx).|&nbsp;&bull;&nbsp;&nbsp;csv — Cerca file con valori delimitati da  virgole (CSV). I file di Excel possono essere salvati in formato CSV e i file CSV possono essere facilmente importati in Excel<br><br>&bull;&nbsp;&nbsp;docx — Cerca file di Word <br><br>&bull;&nbsp;&nbsp;mpp — Cerca file di Project<br/><br>&bull;&nbsp;&nbsp;one — Cerca file di OneNote <br><br>&bull;&nbsp;&nbsp;pdf — Cerca file salvati in formato PDF <br><br>&bull;&nbsp;&nbsp;pptx — Cerca file di PowerPoint <br><br>&bull;&nbsp;&nbsp;xlxs — Cerca file di Excel <br><br>&bull;&nbsp;&nbsp;vsd — Cerca file di Visio <br><br>&bull;&nbsp;&nbsp;wmv — Cerca file video di Windows Media <br>|
-| Tipo di messaggio | Il tipo di messaggio di posta elettronica da cercare. Usare questa condizione per eseguire ricerche nelle cassette postali di contatti (persone), riunioni (Calendario di Outlook) o Conversazioni Skype for Business. La proprietà di posta elettronica corrispondente è *kind*.|&bull;&nbsp;&nbsp;*contacts — Cerca l’elenco Contatti (Persone) di una cassetta postale <br><br>&bull;&nbsp;&nbsp;* email — Cerca messaggi di posta elettronica. <br><br>&bull;&nbsp;&nbsp;*messaggi istantanei — consente di eseguire ricerche nelle conversazioni di Skype for Business<br><br>&bull;&nbsp;&nbsp;* riunioni — esegue ricerche di appuntamenti e convocazioni di riunione (Calendario di Outlook) <br><br>&bull;&nbsp;&nbsp;*tasks — Cerca l'elenco Attività (Attività); con questo valore vengono restituite anche le attività create in Microsoft To-Do.<br>|
+| Tipo di messaggio | Il tipo di messaggio di posta elettronica da cercare. Usare questa condizione per eseguire ricerche nelle cassette postali di contatti (persone), riunioni (Calendario di Outlook) o Conversazioni Skype for Business. La proprietà di posta elettronica corrispondente è _kind*.|&bull;&nbsp;&nbsp;*contacts — Cerca l’elenco Contatti (Persone) di una cassetta postale <br><br>&bull;&nbsp;&nbsp;* email — Cerca messaggi di posta elettronica. <br><br>&bull;&nbsp;&nbsp;*messaggi istantanei — consente di eseguire ricerche nelle conversazioni di Skype for Business<br><br>&bull;&nbsp;&nbsp;* riunioni — esegue ricerche di appuntamenti e convocazioni di riunione (Calendario di Outlook) <br><br>&bull;&nbsp;&nbsp;*tasks — Cerca l'elenco Attività (Attività); con questo valore vengono restituite anche le attività create in Microsoft To-Do.<br>|
 | Tag di conformità |L'etichetta assegnata a un messaggio e-mail o un documento. Le etichette servono a classificare le e-mail e i documenti per la governance dei dati e ad applicare regole di conservazione in base alla classificazione definita dall'etichetta. Usare questa condizione per cercare elementi a cui è stata assegnata automaticamente o manualmente un'etichetta.<br/>Questa condizione è utile per le analisi delle richieste DSR poiché l'organizzazione può usare le etichette per classificare il contenuto relativo alla privacy dei dati o a dati personali o informazioni riservate. Vedere la sezione "Uso di Ricerca contenuto per trovare tutto il contenuto a cui è applicata una specifica etichetta" in [Informazioni sui criteri e le etichette di conservazione](https://docs.microsoft.com/microsoft-365/compliance/labels)|compliancetag="personal data"|
 ||||
 
@@ -208,7 +211,9 @@ _*_GUI_*_
 
 Questo esempio restituisce file di Word o di Excel, in siti di SharePoint Online e in account OneDrive for Business, che contengono l'ID dipendente specificato o la data di nascita specificata.
 
+```
 (98765 OR "01-20-1990") AND (filetype="xlxs" OR filetype="docx")
+```
 
 _*_GUI_*_
 
@@ -294,14 +299,14 @@ Gli utenti finali possono individuare, accedere e correggere i dati dei profili 
 
 Un altro modo per gli utenti di accedere ai dati del proprio profilo SharePoint è quello di andare alla pagina di **modifica del profilo** nel proprio account OneDrive for Business, a cui si può accedere dal percorso **EditProfile.aspx** nell'URL dell'account OneDrive for Business. Per un utente <strong>user1@contoso.com</strong>, ad esempio, l'account di OneDrive for Business dell'utente è disponibile in:
 
-```URL
-`https://contoso-my.sharepoint.com/personal/user1\_contoso\_com/\_layouts/15/OneDrive.aspx`
+```http
+https://contoso-my.sharepoint.com/personal/user1\_contoso\_com/\_layouts/15/OneDrive.aspx
 ```
 
 L'URL della pagina di modifica del profilo è:
 
-```URL
-`https://contoso-my.sharepoint.com/personal/user1\_contoso\_com/\_layouts/15/EditProfile.aspx`
+```http
+https://contoso-my.sharepoint.com/personal/user1\_contoso\_com/\_layouts/15/EditProfile.aspx
 ```
 
 Le proprietà con origine in Azure Active Directory non possono essere modificate in SharePoint Online. Tuttavia, gli utenti possono accedere alla pagina dell' **account personale** selezionando la propria **foto** nell'intestazione di Office 365, quindi selezionando **account personale**. Se si modificano le proprietà, è possibile che gli utenti possano collaborare con gli amministratori per individuare, accedere o rettificare una proprietà del profilo utente.
@@ -452,7 +457,7 @@ Per esportare e scaricare gli elementi:
 11. Selezionare **Sfoglia** per specificare il percorso in cui scaricare i file dei risultati della ricerca.
 12. Selezionare **Avvia** per scaricare i risultati della ricerca nel computer.
 
-Al termine del processo di esportazione, è possibile accedere ai file nel percorso del computer locale in cui sono stati scaricati. I risultati di una ricerca di contenuto vengono scaricati in una cartella che ha lo stesso nome della Ricerca contenuto. I documenti di siti vengono copiati in una sottocartella denominata **SharePoint**. Gli elementi di cassette postali vengono copiati in una sottocartella denominata **Exchange**.
+Al termine del processo di esportazione, è possibile accedere ai file nel percorso del computer locale in cui sono stati scaricati. I risultati di una ricerca di contenuto vengono scaricati in una cartella che ha lo stesso nome della Ricerca contenuto. I documenti di siti vengono copiati in una sottocartella denominata **SharePoint**. Gli elementi della cassetta postale vengono copiati in una sottocartella denominata **Exchange**.
 
 Per le istruzioni dettagliate, vedere [Esportare i risultati di Ricerca contenuto dal Centro sicurezza e conformità](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
 
@@ -554,11 +559,11 @@ Potrebbe essere necessario eliminare gli elementi nelle cassette postali di Exch
 
 #### <a name="soft-delete-mailbox-items"></a>Eliminare temporaneamente elementi della cassetta postale
 
-È possibile usare la funzionalità Action di Ricerca contenuto per eliminare temporaneamente gli elementi restituiti da una Ricerca contenuto. Come spiegato in precedenza, gli elementi eliminati temporaneamente vengono spostati nella cartella Elementi ripristinabili della cassetta postale, mentre quelli elementi eliminati in modo definitivo vengono eliminati in modo permamente e non possono essere recuperati.
+È possibile usare la funzionalità azione Ricerca contenuto per eliminare gli elementi restituiti da una Ricerca contenuto. Come spiegato in precedenza, gli elementi eliminati temporaneamente vengono spostati nella cartella Elementi ripristinabili della cassetta postale, mentre quelli elementi eliminati in modo definitivo vengono eliminati in modo permamente e non possono essere recuperati.
 
 Ecco una breve panoramica del processo:
 
-1. Creare ed eseguire una ricerca contenuto per trovare gli elementi che si vogliono eliminare dalla cassetta postale utente. Potrebbe essere necessario ripetere la ricerca e limitarne i risultati, in modo che vengano restituiti solo gli elementi che si vogliono eliminare.
+1. Creare ed eseguire una ricerca contenuto per trovare gli elementi che si vogliono eliminare dalla cassetta postale utente. Potrebbe essere necessario eseguire di nuovo la ricerca in modo da limitare i risultati della ricerca in modo che vengano restituiti solo gli elementi che si vogliono eliminare nei risultati della ricerca.
 2. Usare il comando **New-ComplianceSearchAction** **-Purge** **PurgeType** **SoftDelete** o **New-ComplianceSearchAction** **-Purge** **PurgeType** **HardDelete** in PowerShell di Office 365 per eliminare gli elementi restituiti dalla ricerca di contenuto creata nel passaggio precedente.
 
 Per istruzioni dettagliate, vedere [Cercare ed eliminare messaggi di posta elettronica nell'organizzazione](https://docs.microsoft.com/microsoft-365/compliance/search-for-and-delete-messages-in-your-organization).
@@ -613,7 +618,7 @@ Non è possibile eliminare definitivamente un utente tramite l'interfaccia di am
 
 ### <a name="removing-exchange-online-data"></a>Rimozione di dati in Exchange Online
 
-Una cosa da capire quando si elimina un utente è quello che accade alla cassetta postale di Exchange Online dell'utente. Dopo l'eliminazione dell'account utente (al passaggio 3 nel processo precedente), la cassetta postale dell'utente eliminato non viene eliminata automaticamente da Office 365. Sono necessari fino a 60 giorni dopo l'eliminazione definitiva dell'account utente per rimuoverlo definitivamente da Office 365. Ecco il ciclo di vita della cassetta postale dopo l'eliminazione dell'account utente e una descrizione dello stato dei dati della cassetta postale durante quel periodo:
+Una cosa da capire quando si elimina un utente è quello che accade alla cassetta postale di Exchange Online dell'utente. Dopo l'eliminazione dell'account utente (al passaggio 3 nel processo precedente), la cassetta postale dell'utente eliminato non viene eliminata automaticamente da Office 365. Sono necessari fino a 60 giorni dopo l'eliminazione definitiva dell'account utente per rimuoverlo definitivamente da Office 365. Ecco il ciclo di vita della cassetta postale dopo che l'account utente viene eliminato e una descrizione dello stato dei dati della cassetta postale durante quel periodo:
 
 - **Dal giorno 1 al giorno 30**: la cassetta postale può essere ripristinata completamente ripristinando l'account utente eliminato temporaneamente.
 - **Dal giorno 31 al giorno 60**: per 30 giorni dopo la data di eliminazione definitiva dell'account utente, un amministratore dell'organizzazione può recuperare i dati della cassetta postale e importarli in un'altra cassetta postale. Le organizzazioni possono quindi recuperare i dati delle cassette postali, se necessario.
@@ -679,7 +684,6 @@ Questa sezione spiega come usare le funzionalità in-app in ognuna delle seguent
 - [Bookings](#bookings)
 - [Listings](#listings)
 - [Connections](#connections)
-- [Invoicing](#invoicing)
 
 #### <a name="bookings"></a>Bookings
 
@@ -926,7 +930,7 @@ Gli utenti di Forms possono accedere a <https://forms.office.com> e selezionare 
 
 #### <a name="access"></a>Access
 
-Dopo aver trovato i moduli pertinenti, è possibile accedere alle risposte al modulo facendo clic sulla scheda **Risposte**. Sono disponibili altre informazioni come [controllare i risultati del quiz](https://support.microsoft.com/office/check-and-share-your-quiz-results-c4a9b45c-d62f-4eb7-b5db-ad81892c7c07) o [i risultati del modulo](https://support.office.com/article/02859424-341d-406f-b32a-9a0fbaf357af). Per esaminare i risultati delle risposte in Excel, selezionare la scheda **Risposte** e quindi **Apri in Excel**. Se si vuole inviare all'interessato una copia del modulo, è possibile acquisire screenshot delle domande e delle risposte pertinenti che vengono visualizzate nell'applicazione in formato RTF o inviare all'interessato una copia dei risultati in Excel. Se si usa Excel e si vuole condividere con l'oggetto dati solo parti del risultato del sondaggio, è possibile eliminare determinate righe o colonne o redigere le sezioni rimanenti prima di condividere i risultati. In alternativa, è possibile passare a **Condividi \> per ottenere un collegamento da duplicare**(in Condividi come modello), per fornire all'Oggetto dati una replica dell'intero modulo.
+Dopo aver trovato Moduli interessanti, è possibile accedere alle risposte al modulo facendo clic sulla scheda **Risposte**. Altre informazioni su come [controllare i risultati del quiz](https://support.microsoft.com/office/check-and-share-your-quiz-results-c4a9b45c-d62f-4eb7-b5db-ad81892c7c07) o [i risultati del modulo](https://support.office.com/article/02859424-341d-406f-b32a-9a0fbaf357af). Per esaminare i risultati delle risposte in Excel, selezionare la scheda **Risposte** e quindi **Apri in Excel**. Se si vuole inviare all'Oggetto dati una copia del modulo, è possibile acquisire screenshot delle domande e delle risposte pertinenti visualizzate nell'applicazione in formato RTF o inviare all'Oggetto dati una copia di Excel dei risultati. Se si usa Excel e si vuole condividere con l'oggetto dati solo parti del risultato del sondaggio, è possibile eliminare determinate righe o colonne o redigere le sezioni rimanenti prima di condividere i risultati. In alternativa, è possibile passare a **Condividi \> per ottenere un collegamento da duplicare**(in Condividi come modello), per fornire all'Oggetto dati una replica dell'intero modulo.
 
 #### <a name="delete"></a>Eliminazione
 
@@ -1224,7 +1228,7 @@ Per accedere ai dati non inclusi nell'esportazione, in relazione all'utente è p
 
 È possibile visualizzare i dati nei file esportati, inclusi il testo completo dei messaggi e il contenuto dei file. È anche possibile selezionare i collegamenti nei file esportati per accedere direttamente ai messaggi e ai file pubblicati in Yammer, nonché ai gruppi e agli argomenti creati dall'utente, ai messaggi a cui l'utente ha aggiunto Mi piace, ai messaggi in cui l'utente è stato menzionato con il simbolo @, ai sondaggi cui l'utente ha partecipato e ai collegamenti che l'utente ha aggiunto.
 
-L'esportazione dei dati per utente non include gli elementi seguenti:
+L'esportazione dei dati per utente non include gli elementi seguenti.
 
 - Profilo utente:
     - Se l'utente ha un'identità in Yammer, dispone del controllo completo del profilo. Per informazioni su come visualizzare e modificare il profilo, vedere [Change my Yammer profile and settings](https://support.office.com/article/change-my-yammer-profile-and-settings-a3aeca0e-de34-4897-9b59-de6516542851) (Modificare il profilo e le impostazioni personali in Yammer).
@@ -1276,7 +1280,7 @@ Se per il proprietario dei dati non è possibile implementare la richiesta di re
 
 Per assegnare le autorizzazioni di proprietario o di amministratore a un sito di SharePoint Online in modo che sia possibile accedere e modificare il documento, vedere
 
-- [Gestire gli amministratori per una raccolta siti](https://docs.microsoft.com/sharepoint/manage-site-collection-administrators)
+- [Manage administrators for a site collection](https://docs.microsoft.com/sharepoint/manage-site-collection-administrators) (Gestire gli amministratori per una raccolta siti)
 
 - [Edit and manage permissions for a SharePoint list or library](https://support.office.com/article/Edit-and-manage-permissions-for-a-SharePoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782) (Modificare e gestire autorizzazioni per un elenco o una raccolta di SharePoint)
 
@@ -1318,9 +1322,9 @@ Gli amministratori IT possono anche correggere alcune proprietà personali assoc
 Le informazioni utente del profilo utente di SharePoint o di Office 365 sono spesso associate a documenti di OneDrive for Business e SharePoint Online per rappresentare la persona, ad esempio il nome dell'utente in una colonna relativa all'autore o all'autore della modifica per un documento o per una voce di elenco. È possibile correggere queste informazioni utente in diversi modi, a seconda dell'origine:
 
 - Rettificare le proprietà degli utenti in Active Directory locale. Per i clienti che sincronizzano le proprietà degli utenti, come il nome visualizzato dell'utente, il nome e così via, da un AD locale, tali proprietà devono essere rettificate in questa posizione. Le proprietà mappate in modo appropriato sono riportate in Office 365 e quindi in OneDrive for Business e SharePoint Online.
-- Rettificare le proprietà dell'utente nell'interfaccia di amministrazione. Le modifiche apportate alle informazioni sull'account vengono applicate automaticamente nelle esperienze di OneDrive for Business e SharePoint Online. Per informazioni, vedere [Aggiungere o modificare informazioni sul profilo per un utente in Azure Active Directory](https://go.microsoft.com/fwlink/?linkid=864809). Per le proprietà con origine in Office 365, non è possibile apportare modifiche in SharePoint.
+- Rettificare le proprietà dell'utente nell'interfaccia di amministrazione. Le modifiche apportate alle informazioni sull'account vengono applicate automaticamente nelle esperienze di OneDrive for Business e SharePoint Online. Per informazioni, vedere [Aggiungere o modificare informazioni sul profilo per un utente in Azure Active Directory](https://go.microsoft.com/fwlink/?linkid=864809). Per le proprietà di origine in Office 365, non è possibile apportare modifiche nel lato di SharePoint.
 - Rettificare le proprietà utente nel profilo utente di SharePoint nell'interfaccia di amministrazione di SharePoint. Nella scheda dei profili utente dell'interfaccia di amministrazione di SharePoint, gli amministratori possono selezionare **Gestione profili utente**, eseguire la ricerca delle proprietà dell'utente e quindi scegliere di modificarle.
-- Rettificare le proprietà utente in un'origine personalizzata. Le proprietà personalizzate del profilo di SharePoint possono essere sincronizzate da un'origine personalizzata tramite Microsoft Identity Manager (MIM) o un altro metodo.
+- Rettificare le proprietà utente in un'origine personalizzata. Le proprietà personalizzate del profilo di SharePoint possono essere sincronizzate in un'origine personalizzata tramite Microsoft Identity Manager (MIM) o un altro metodo.
 
 Questa operazione non influisce su tutte le esperienze, che potrebbero conservare informazioni meno recenti. Ad esempio, il nome dell'utente come testo nel documento.
 
@@ -1394,11 +1398,11 @@ Poiché la maggior parte dei documenti di Office si trova in un sito di SharePoi
 2. Archiviare il documento in un percorso locale (ad esempio un file server o una condivisione file) oppure in un percorso diverso dal tenant di Office 365 nel cloud Microsoft.
 3. Eliminare definitivamente il documento originale da Office 365. Questo è un processo costituito da tre passaggi:
 
-    a. Eliminare la copia originale del documento. Quando si elimina un documento da un sito, il documento viene inviato al Cestino del sito, anche noto come *Cestino di primo livello*.
+   1.  Eliminare la copia originale del documento. Quando si elimina un documento da un sito, il documento viene inviato al Cestino del sito, anche noto come *Cestino di primo livello*.
 
-    b. Passare al Cestino del sito ed eliminare la copia del documento. Quando si elimina un documento dal Cestino del sito, il documento viene inviato al Cestino della raccolta siti, anche noto come *Cestino di secondo livello*. Vedere [Eliminare un file, una cartella o un collegamento da una raccolta documenti di SharePoint](https://support.microsoft.com/office/delete-a-file-folder-or-link-from-a-sharepoint-document-library-71f3c90a-0d24-4d80-8b66-f88234b79a52).
+   1.  Passare al Cestino della raccolta siti ed eliminare la copia del documento. Quando si elimina un documento dal Cestino del sito, il documento viene inviato al Cestino della raccolta siti, anche noto come *Cestino di secondo livello*.  Vedere [Eliminare un file, una cartella o un collegamento da una raccolta documenti di SharePoint](https://support.microsoft.com/office/delete-a-file-folder-or-link-from-a-sharepoint-document-library-71f3c90a-0d24-4d80-8b66-f88234b79a52).
 
-    c. Passare al Cestino della raccolta siti ed eliminare la copia del documento per rimuoverlo definitivamente da Office 365. Vedere [Delete items from the site collection recycle bin](https://support.microsoft.com/office/delete-items-from-the-site-collection-recycle-bin-dd5c00c2-aef6-4458-9d04-80b185077653) (Eliminare elementi dal Cestino della raccolta siti).
+   1.  Passare al Cestino della raccolta siti ed eliminare la copia del documento per rimuoverlo definitivamente da Office 365. Vedere[Eliminare elementi dal Cestino raccolta siti](https://support.microsoft.com/office/delete-items-from-the-site-collection-recycle-bin-dd5c00c2-aef6-4458-9d04-80b185077653)
 
 4. Quando la restrizione non è più applicabile, la copia del documento archiviato in locale può essere caricata nuovamente nel sito in Office 365.
 
@@ -1440,7 +1444,7 @@ Gli amministratori non possono accedere né esportare i dati Delve degli utenti.
 
 - **Dati di elenco contatti:** sono le persone che gli utenti hanno visualizzato in Delve. L'elenco **Persone** viene visualizzato nel riquadro sinistro della home page. Gli utenti possono esportare un elenco delle ultime persone che hanno visualizzato in Delve.
 - **Preferiti:** si tratta di bacheche e documenti che l'utente ha contrassegnato come Preferiti. La pagina **Preferiti** contiene bacheche e documenti che l'utente ha aggiunto come Preferiti. Gli utenti possono esportare un elenco delle bacheche e dei documenti preferiti correnti.
-- **Dati sulle impostazioni della funzionalità:** si tratta di azioni o configurazioni di Delve dovute all'uso di Delve da parte di un utente. Gli utenti possono esportare un elenco completo di queste impostazioni.
+- **Dati sulle impostazioni della funzionalità:** si tratta di azioni o configurazioni di Delve dovute all'uso di Delve da parte di un utente. Gli utenti possono esportare un elenco completo di tali impostazioni.
 
 Per accedere ai dati di cui sopra o esportarli, l'utente può selezionare l'icona a forma di ingranaggio nell'angolo superiore destro in Delve, e quindi selezionare **Impostazioni della caratteristica** > **Esporta dati**. Le informazioni vengono esportate in formato JSON.
 
@@ -1470,7 +1474,7 @@ In Delve gli utenti possono eliminare le informazioni seguenti:
 
 ### <a name="myanalytics"></a>MyAnalytics
 
-MyAnalytics offre statistiche che consentono agli utenti di comprendere come trascorrono il tempo dedicato al lavoro. Per aiutare gli utenti a comprendere meglio i dati visualizzati nel dashboard personale e il modo in cui vengono calcolati, indirizzarli all'argomento della Guida [MyAnalytics personal dashboard](https://docs.microsoft.com/workplace-analytics/myanalytics/use/dashboard-2) (Dashboard personale di MyAnalytics).
+MyAnalytics fornisce statistiche utili per comprendere in che modo si impiega il proprio tempo al lavoro.   Per aiutare gli utenti a comprendere meglio i dati visualizzati nel dashboard personale e il modo in cui vengono calcolati, indirizzarli all'argomento della Guida [MyAnalytics personal dashboard](https://docs.microsoft.com/workplace-analytics/myanalytics/use/dashboard-2) (Dashboard personale di MyAnalytics).
 
 #### <a name="access-and-export"></a>Accesso ed esportazione
 
