@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 75ed1fe5aed5f8a0455b65225d706866ab783dc8
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 72a849b369f2d72c9b2546d73158ee9237c18b93
+ms.sourcegitcommit: 8af471ad10420ee5fce98d2eb0d69a6d2b992f08
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508910"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "49937041"
 ---
 # <a name="commodity-futures-trading-commission-cftc-rule-131c-d-united-states"></a>Regole di trading futures di commodity (CFTC) regola 1.31 (c-d) Stati Uniti
 
@@ -35,7 +35,7 @@ Nel 2017, la [CFTC ha riveduto la sua regola](https://www.cftc.gov/sites/default
 
 ## <a name="microsoft-and-cftc-rule-131c-d"></a>Regola di Microsoft e CFTC 1.31 (c-d)
 
-I clienti dei servizi finanziari, che rappresentano una delle industrie più fortemente regolamentate del mondo, sono soggetti a disposizioni complesse come la conservazione delle transazioni finanziarie e la comunicazione correlata in uno stato non cancellabile e non modificabile. Tra le più prescrittivo è la regola 1,31 della US Commodity Futures Trading Commission (CFTC) che stipula requisiti severi per le entità regolamentate che scelgono di conservare libri e record su supporti di archiviazione elettronici. I record archiviati devono essere antimanomissioni senza la possibilità di modificarli o eliminarli fino al termine del periodo di conservazione definito. Archiviazione BLOB immutabile di Microsoft Azure con criteri di blocco e Microsoft Office 365 con conservazione Lock può aiutare gli istituti finanziari a soddisfare i requisiti di archiviazione della regola di CFTC 1.31 (c-d).
+I clienti dei servizi finanziari, che rappresentano una delle industrie più fortemente regolamentate del mondo, sono soggetti a disposizioni complesse come la conservazione delle transazioni finanziarie e la comunicazione correlata in uno stato non cancellabile e non modificabile. Uno dei più prescrittivi è la regola 1,31 della US Commodity Futures Trading Commission (CFTC) che stipula requisiti severi per le entità regolamentate che scelgono di conservare libri e record su supporti di archiviazione elettronici. I record archiviati devono essere antimanomissioni senza la possibilità di modificarli o eliminarli fino al termine del periodo di conservazione definito. Archiviazione BLOB immutabile di Microsoft Azure con criteri di blocco e Microsoft Office 365 con conservazione Lock può aiutare gli istituti finanziari a soddisfare i requisiti di archiviazione della regola di CFTC 1.31 (c-d).
 
 ### <a name="microsoft-azure"></a>Microsoft Azure
 
@@ -45,7 +45,7 @@ Per valutare la conformità di Azure alla regola di CFTC 1.31 (c-d), Microsoft h
 
 Per [CFTC 1.31 (c)-(d)](https://docs.microsoft.com/microsoft-365/compliance/retention-regulatory-requirements#sec-17a-4f-finra-4511c-and-cftc-131c-d) requisiti, Cohasset ha convalidato che Microsoft 365 include funzionalità di archiviazione che consentono ai clienti regolamentati, inclusi i broker-dealer, di archiviare i dati in modo da aiutarli a rispettare i requisiti sec per la conservazione dei record. Le funzionalità di conservazione in Microsoft 365 consentono di mantenere una vasta gamma di dati, tra cui la posta elettronica, la segreteria telefonica, i documenti condivisi, i messaggi istantanei e i dati di terze parti. In particolare, l'archiviazione in Microsoft 365 consente ai clienti di impostare criteri globali o granulari per la conservazione dei messaggi per archiviare i dati per un periodo definito e oltre, in un formato non riscrivibile e non cancellabile.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud Microsoft associati
+## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud Microsoft inclusi
 
 - [Azure](https://aka.ms/AzureCompliance)
 - [Office 365](https://aka.ms/o365-compliance-framework)
@@ -59,15 +59,14 @@ Per [CFTC 1.31 (c)-(d)](https://docs.microsoft.com/microsoft-365/compliance/rete
 ## <a name="how-to-implement"></a>Come eseguire l'implementazione
 
 - [Regolamento sui servizi finanziari](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=5b483567-00b0-4d86-96ae-ee887dadb61c&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides): mappa di conformità dei principali principi di regolamentazione degli Stati Uniti per il cloud computing e i Microsoft Online Services.
-- [Linee guida per la valutazione dei rischi e per la conformità](https://aka.ms/RiskGovernanceGuide): creare un modello di governance per la valutazione dei rischi dei servizi cloud Microsoft e la notifica all'organismo di regolamentazione.
-- [Casi di utilizzo finanziari](https://docs.microsoft.com/azure/industry/financial/): usare panoramiche di casi, esercitazioni e altre risorse per creare soluzioni di Azure per i servizi finanziari.
+- [Valutazione dei rischi e guida alla conformità](https://aka.ms/RiskGovernanceGuide): creare un modello di governance per la valutazione dei rischi dei servizi cloud Microsoft e la notifica all'organismo di regolamentazione.
+- [Casi di utilizzo del settore finanziario](https://docs.microsoft.com/azure/industry/financial/): i casi di utilizzo, le guide e le altre risorse aiutano a sviluppare le soluzioni Azure per i servizi finanziari.
 
 ## <a name="resources"></a>Risorse
 
 - [Microsoft Financial Services Compliance Program](https://aka.ms/FSCP-Print)
 - [Servizi cloud e servizi finanziari di Microsoft per le aziende](https://www.microsoft.com/trustcenter/cloudservices/financialservices)
 - [Azure Financial Services Compliance Program](https://azure.microsoft.com/resources/videos/azurecon-2015-financial-services-compliance-in-azure/)
-- [Strumento di valutazione del rischio cloud di Azure per i servizi finanziari](https://aka.ms/FFIEC-CSDT)
 - [Criteri di conservazione di Microsoft Office 365](https://docs.microsoft.com/office365/securitycompliance/retention-policies)
 - [Blog sui servizi finanziari di Microsoft](https://techcommunity.microsoft.com/t5/Financial-Services-Blog/bg-p/FinancialServicesBlog)
 - [Conformità nel Centro protezione Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
