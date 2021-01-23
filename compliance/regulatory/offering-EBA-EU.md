@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: c8b6b9a44137f024b9d4af35b62458d3e90e6db4
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: f84f4a57afd968a428cd345dd521a3bd83cea238
+ms.sourcegitcommit: 8af471ad10420ee5fce98d2eb0d69a6d2b992f08
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508018"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "49937031"
 ---
 # <a name="european-banking-authority-eba"></a>Autorità bancaria europea (ABE)
 
@@ -66,9 +66,9 @@ La pubblicazione di Microsoft, [Risk Assessment and Compliance Guide for Financi
 ## <a name="resources"></a>Risorse
 
 - [Microsoft Service Trust Portal](https://aka.ms/STP)
+- [Elenco di controllo di Microsoft Cloud per gli istituti finanziari di Europa](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4IPF3)
 - [Microsoft Financial Services Compliance Program](https://aka.ms/FSCP-Print)
 - [Servizi cloud e servizi finanziari di Microsoft per le aziende](https://www.microsoft.com/trustcenter/cloudservices/financialservices)
 - [Azure Financial Services Compliance Program](https://azure.microsoft.com/resources/videos/azurecon-2015-financial-services-compliance-in-azure/)
-- [Strumento di valutazione del rischio cloud di Azure per i servizi finanziari](https://aka.ms/FFIEC-CSDT)
 - [Blog sui servizi finanziari di Microsoft](https://techcommunity.microsoft.com/t5/Financial-Services-Blog/bg-p/FinancialServicesBlog)
 - [Conformità nel Centro protezione Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
