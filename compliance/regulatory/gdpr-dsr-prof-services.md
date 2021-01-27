@@ -17,20 +17,20 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
-ms.openlocfilehash: 7be8b0dce164dc14ff70ca3bc91b805e84eb0363
-ms.sourcegitcommit: fc1da22cf40dfd807c182d3f6df967eee192eacd
+ms.openlocfilehash: 6c1e6c0a3aa8362d2bdba68f9919e6edb9919277
+ms.sourcegitcommit: b06fa9f1b230fd5e470817486ea51f460f28b691
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49669747"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50012981"
 ---
 # <a name="microsoft-support-and-professional-services-data-subject-requests-for-the-gdpr-and-ccpa"></a>Richieste degli interessati per Professional Services e supporto tecnico Microsoft nell'ambito del GDPR e del CCPA
 
 ## <a name="introduction-to-microsoft-professional-services"></a>Introduzione ai servizi professionali Microsoft
 
-Microsoft Professional Services include un gruppo eterogeneo di architetti, ingegneri, consulenti e professionisti del supporto tecnico dedicato alla realizzazione della mission di Microsoft di consentire ai clienti di fare di più e ottenere di più. Il team Professional Services include più di 21.000 operatori tra consulenti, consulenti digitali, supporto tecnico Premier, tecnici e addetti alle vendite dislocati in 191 paesi, che forniscono supporto in oltre 46 lingue, gestiscono diversi milioni di interazioni al mese e avviano interazioni tra clienti e partner attraverso strumenti automatizzati, in locale, telefono, Web e community. L'organizzazione offre competenze generali sull'intero portfolio Microsoft, sfruttando una vasta rete di partner, community tecniche, strumenti, diagnostica e canali di contatto con i clienti aziendali.
+Microsoft Professional Services include un gruppo eterogeneo di architetti, ingegneri, consulenti e professionisti del supporto tecnico dedicati alla realizzazione della mission di Microsoft di consentire ai clienti di fare di più e ottenere di più. Il team Professional Services include più di 21.000 operatori tra consulenti, consulenti digitali, supporto tecnico Premier, tecnici e addetti alle vendite dislocati in 191 paesi, che forniscono supporto in oltre 46 lingue, gestiscono milioni di interazioni al mese e avviano interazioni tra clienti e partner attraverso strumenti automatizzati, in locale, telefono, Web e community. L'organizzazione offre competenze generali sull'intero portfolio Microsoft, sfruttando una vasta rete di partner, community tecniche, strumenti, diagnostica e canali di contatto con i clienti aziendali.
 
-Per ulteriori informazioni sui Servizi professionali di Microsoft passale alla [pagina Web della Documentazione sulla sicurezza di Microsoft Professional Services](https://www.microsoft.com/it-IT/professionalservices/overview). Per i servizi professionali di Microsoft, il rispetto degli obblighi derivanti dal Regolamento generale sulla protezione dei dati (GDPR) è importante. Le informazioni contenute in questo documento possono aiutare a risolvere eventuali dubbi dei clienti su come i servizi di assistenza e consulenza Microsoft supportino i clienti per gestire gli obblighi relativi alle richieste degli interessati secondo il GDPR.
+Per ulteriori informazioni sui Servizi professionali di Microsoft passale alla [pagina Web della Documentazione sulla sicurezza di Microsoft Professional Services](https://www.microsoft.com/professionalservices/overview). Per i servizi professionali di Microsoft, il rispetto degli obblighi derivanti dal Regolamento generale sulla protezione dei dati (GDPR) è importante. Le informazioni contenute in questo documento possono aiutare a risolvere eventuali dubbi dei clienti su come i servizi di assistenza e consulenza Microsoft supportino i clienti per gestire gli obblighi relativi alle richieste degli interessati secondo il GDPR.
 
 ### <a name="introduction-to-dsrs"></a>Introduzione alle richieste DSR 
 
@@ -96,25 +96,25 @@ Per mantenere la continuità aziendale del cliente, inoltre, Microsoft non elabo
 
 I clienti possono scegliere di apportare modifiche ai propri dati raccolti durante le interazioni con i Professional Services tramite i normali canali di consulenza o supporto, separati dalla richiesta DSR. Ad esempio, Microsoft può assistere nell'eliminazione di interazioni di supporto, su richiesta (vedere di seguito nella sezione *Guida alle richieste DSR per i dati forniti dal cliente*).
 
-***Esempio solo a scopo illustrativo** _
+*Esempio solo a scopo illustrativo*
 
 John è un Project manager per un cliente di Office 365 Enterprise, con un’interazione di consulenza aperta e due interazioni chiuse. John lascia la società e vuole che i suoi dati vengano eliminati. John contatta il Privacy Response Center, che lo identifica come Project manager. John viene informato che il suo nome non può essere eliminato dalle interazioni precedenti (chiuse) o da qualsiasi dato contenuto nelle interazioni aperte. Tuttavia, il Privacy Response Center sostituisce John come contatto sull’interazione corrente aperta se John fornirà un contatto sostitutivo. John informa Microsoft che Jane sarà il suo contatto sostitutivo e Microsoft apporta la modifica in tutti i sistemi.
 
 ## <a name="dsr-for-an-end-user-engaging-microsoft"></a>Richiesta dell'interessato per un utente finale che coinvolge Microsoft
 
-_Come Microsoft risponde alle richieste di esercizio dei propri diritti da parte dei dipendenti di un cliente o di altri interessati.*
+*Come Microsoft risponde alle richieste di esercizio dei propri diritti da parte dei dipendenti di un cliente o di altri interessati.*
 
 Se un dipendente del cliente o un altro interessato contatta Microsoft per esercitare i propri diritti sui dati raccolti da Microsoft in qualità di responsabile del trattamento dei dati, tale soggetto viene informato che deve contattare il cliente di Microsoft, in quanto titolare del trattamento dei dati, per esercitare tali diritti. Microsoft non eseguirà ulteriori azioni in merito.
 
 Se l'interessato ha contattato Microsoft anche per esercitare i propri diritti sui dati raccolti da Microsoft in situazioni in cui Microsoft è il titolare del trattamento dei dati, ad esempio supporto ai consumatori o contatto cliente commerciale, Microsoft risponde separatamente alla specifica richiesta dell'interessato in merito a tali dati personali.
 
-***Esempio solo a scopo illustrativo** _
+*Esempio solo a scopo illustrativo*
 
 Jane è una dipendente di un cliente aziendale, Contoso, che le ha fornito un account Dynamics 365. Jane contatta Microsoft per richiedere che tutti i suoi dati vengano eliminati e viene indirizzata al Privacy Response Center. Jane compila il modulo per la richiesta. Il Privacy Response Center la identifica come utente finale aziendale e la informa del fatto che deve rivolgersi a Contoso per l'eliminazione dei suoi dati aziendali. Viene inoltre identificata come utente di Microsoft Xbox e i dati del suo account Microsoft personale vengono eliminati.
 
 ## <a name="dsr-for-customer-provided-data-commercial-support"></a>DSR per i dati forniti dal cliente: supporto commerciale
 
-_Come ottenere assistenza da Microsoft quando un cliente riceve una richiesta di esercizio dei propri diritti da parte di un suo dipendente o di altri interessati e i dati personali dell'interessato sono stati raccolti dal supporto tecnico Microsoft durante un'interazione di supporto.*
+*Come ottenere assistenza da Microsoft quando un cliente riceve una richiesta di esercizio dei propri diritti da parte di un suo dipendente o di altri interessati e i dati personali dell'interessato sono stati raccolti dal supporto tecnico Microsoft durante un'interazione di supporto.*
 
 Quando un cliente interagisce con il supporto tecnico Microsoft, Microsoft raccoglie i dati del supporto dal cliente per risolvere eventuali problemi che hanno richiesto un intervento del supporto. Tali dati includono l'interazione di Microsoft con il cliente, ad esempio chat, telefono, e-mail, invio sul Web, nonché qualsiasi file inviato dal cliente a Microsoft o che Microsoft, con il consenso del cliente, ha estratto dall'ambiente IT del cliente o dal tenancy di Online Services per risolvere il problema riscontrato. Nel caso in cui si tratti di supporto Premier, ciò include i dati del cliente raccolti da Microsoft per impedire proattivamente futuri problemi. Tuttavia, ciò esclude altre informazioni derivanti dalla relazione aziendale tra Microsoft e il cliente (ad esempio, record di fatturazione).
 
@@ -134,7 +134,7 @@ Per individuare i dati pertinenti e ottenere assistenza da Microsoft, un cliente
 
 *Opzione B: interazioni specifiche del cliente.* Usare i sistemi online per analizzare i ticket, quindi identificare le interazioni specifiche contenenti i dati personali pertinenti e segnalarli a Microsoft. Microsoft proverà a fornire assistenza per eseguire una ricerca se il cliente non è in grado di effettuare la ricerca nelle varie interazioni (ticket).
 
-***Una volta identificati gli impegni, richiedere di applicare i diritti del soggetto dei dati a una parte specifica del record o a tutto ciò che riguarda tale impegno in Microsoft.** _
+*Una volta identificati gli impegni, richiedere di applicare i diritti del soggetto dei dati a una parte specifica del record o a tutto ciò che riguarda tale impegno in Microsoft.*
 
 Per identificare interazioni specifiche, i clienti devono effettuare una ricerca nelle proprie interazioni. Per i clienti Premier, il Contract Service Manager ("CSM") di un cliente ha visibilità su tutte le richieste di supporto create in base al piano del contratto. Per i clienti non Premier, sono disponibili portali equivalenti, come le aree di supporto di Online Services.
 
@@ -175,9 +175,9 @@ Nel caso in cui un cliente abbia intenzione di eliminare dei dati personali in r
 
 Microsoft applica a tutti i dati dei criteri di conservazione ed eliminazione, che variano a seconda del rischio e di altri fattori.
 
-I clienti possono richiedere la cancellazione dei dati personali di un interessato a livello globale nei sistemi di supporto tramite il TAM o compilando una richiesta di supporto nell’Hub dei servizi o in un sistema equivalente.  È _necessario* indicare che si tratta di una richiesta di assistenza per una richiesta dell'interessato ai sensi del GDPR.
+I clienti possono richiedere la cancellazione dei dati personali di un interessato a livello globale nei sistemi di supporto tramite il TAM o compilando una richiesta di supporto nell’Hub dei servizi o in un sistema equivalente.  È *necessario* indicare che si tratta di una richiesta di assistenza per una richiesta dell'interessato ai sensi del GDPR.
 
-*Opzione B: richiesta dell'interessato del cliente per il Supporto tecnico Microsoft*. Per una richiesta dell'interessato per più sistemi, il cliente deve fornire i dati personali necessari a Microsoft per identificare i dati richiesti (ad esempio, l'indirizzo e-mail, il numero di telefono). Microsoft non correla o esegue ricerche nei record, ma utilizza direttamente gli identificatori forniti dal cliente. Una volta individuati i dati, Microsoft elimina tutte le interazioni e tutti i dati associati.
+*Opzione A: richiesta dell'interessato del cliente relativa al supporto tecnico Microsoft per più sistemi*. Per una richiesta dell'interessato per più sistemi, il cliente deve fornire i dati personali necessari a Microsoft per identificare i dati richiesti (ad esempio, l'indirizzo e-mail, il numero di telefono). Microsoft non correla o esegue ricerche nei record, ma utilizza direttamente gli identificatori forniti dal cliente. Una volta individuati i dati, Microsoft elimina tutte le interazioni e tutti i dati associati.
 
 > Nota importante: questa operazione potrebbe comportare la perdita di record cronologici importanti per l'organizzazione del cliente.
 
@@ -198,7 +198,7 @@ Il "diritto di portabilità dei dati" consente a un interessato di richiedere un
 
 Nota: i dati esportati potrebbero non includere la proprietà intellettuale di Microsoft o dati che possono compromettere la sicurezza o la stabilità del servizio.
 
-***Esempio solo a scopo illustrativo** _
+*Esempio solo a scopo illustrativo*
 
 John è un Premier CSM per un cliente aziendale, Contoso, che si avvale di O365 per l'e-mail dei dipendenti e di Azure per ospitare un database SQL di Contoso. Contoso ha più ticket aperti e chiusi. Di recente, il Supporto tecnico Microsoft, con l'autorizzazione di Contoso, ha spostato una copia del database SQL nel DTM per il supporto e la risoluzione dei problemi.
 
@@ -214,7 +214,7 @@ Il Supporto tecnico Microsoft esegue tutte queste eliminazioni e, in base alla r
 
 ## <a name="dsr-guide-for-customer-provided-data-in-consulting-services-including-migration-services"></a>Guida DSR per i dati forniti dal cliente nei servizi di consulenza, compresi i servizi di migrazione
 
-_Come ottenere assistenza da Microsoft quando un cliente riceve una richiesta di esercizio dei propri diritti da parte di un suo dipendente o di altri interessati e i dati personali dell'interessato sono stati raccolti da Microsoft durante un'interazione di consulenza.*
+*Come ottenere assistenza da Microsoft quando un cliente riceve una richiesta di esercizio dei propri diritti da parte di un suo dipendente o di altri interessati e i dati personali dell'interessato sono stati raccolti da Microsoft durante un'interazione di consulenza.*
 
 ## <a name="microsoft-consulting-services"></a>Microsoft Consulting Services
 

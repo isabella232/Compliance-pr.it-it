@@ -17,12 +17,12 @@ ms.collection:
 - M365-security-compliance
 - MS-Compliance
 titleSuffix: Microsoft GDPR
-ms.openlocfilehash: f41583c07ec5a8d1c711444b43daf0fd8de754ea
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 127528f40f5939b8fe0a5585cee7a212d35af82e
+ms.sourcegitcommit: b06fa9f1b230fd5e470817486ea51f460f28b691
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508775"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50012932"
 ---
 # <a name="microsofts-data-protection-officer"></a>Responsabile della protezione dei dati di Microsoft
 
@@ -30,11 +30,11 @@ Microsoft ha designato un responsabile della protezione dei dati dell'Unione eur
 
 ## <a name="qualifications"></a>Qualifiche professionali
 
-Per essere idonei al ruolo di responsabile della protezione dei dati, i candidati devono avere almeno 7 anni di esperienza professionale nel campo della protezione dei dati oppure un totale di 10 anni di esperienza in protezione dei dati, sicurezza e gestione dei rischi aziendali. Inoltre, i candidati devono dimostrare un'ampia conoscenza delle procedure e delle normative correlate alla protezione dei dati a livello internazionale. 
+Per essere idonei al ruolo di responsabile della protezione dei dati, i candidati devono avere almeno 7 anni di esperienza professionale nel campo della protezione dei dati oppure un totale di 10 anni di esperienza nella protezione dei dati, nella sicurezza e nella gestione dei rischi aziendali. Inoltre, i candidati devono avere dimostrato un'ampia conoscenza delle procedure e delle normative correlate alla protezione dei dati a livello internazionale. 
 
 ## <a name="nature-of-the-role"></a>Natura del ruolo
 
-Il responsabile della protezione dei dati è coinvolto in tutte le questioni essenziali riguardanti la protezione dei dati personali. Il responsabile della protezione dei dati esamina tutte le valutazioni d'impatto sulla protezione dei dati (DPIA) generate da Microsoft e direttive a riguardo. Poiché il programma DPIA è progettato per acquisire tutti i trattamenti di dati personali presso Microsoft, il responsabile della protezione dei dati avrà visibilità interaziendale e l'opportunità di informare e consigliare Microsoft in merito ai suoi obblighi ai sensi del GDPR per quanto riguarda il trattamento dei dati personali di Microsoft. Questo stesso meccanismo consente, inoltre, al responsabile della protezione dei dati di monitorare la conformità di Microsoft alle normative che disciplinano la protezione dei dati, tra cui il GDPR, oltre ai controlli e ai criteri interni di Microsoft. 
+Il responsabile della protezione dei dati è prontamente e adeguatamente coinvolto in tutte le questioni essenziali riguardanti la protezione dei dati personali. Questa azione viene posta in essere, in parte, dal ruolo del responsabile della protezione dei dati nella revisione e nella consulenza su tutte le valutazioni d'impatto sulla protezione dei dati (DPIA) generate da Microsoft. Poiché il programma DPIA è progettato per acquisire tutti i trattamenti di dati personali presso Microsoft, il responsabile della protezione dei dati avrà visibilità interaziendale e l'opportunità di informare e consigliare Microsoft in merito ai suoi obblighi ai sensi del GDPR per quanto riguarda il trattamento dei dati personali di Microsoft. Questo stesso meccanismo consente, inoltre, al responsabile della protezione dei dati di monitorare la conformità di Microsoft alle normative che disciplinano la protezione dei dati, tra cui il GDPR, oltre ai controlli e ai criteri interni di Microsoft. 
 
 ## <a name="position-of-the-data-protection-officer"></a>Posizione del responsabile della protezione dei dati
 
