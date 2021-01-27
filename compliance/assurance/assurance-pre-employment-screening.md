@@ -1,5 +1,5 @@
 ---
-title: Screening preimpiego Microsoft
+title: Screening precedente all'impiego presso Microsoft
 description: In questo articolo è possibile trovare una panoramica delle procedure di screening del preimpiego Microsoft per Microsoft 365.
 ms.author: robmazz
 author: robmazz
@@ -19,16 +19,16 @@ f1.keywords:
 - NOCSH
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: 03936deb44b950d289c2f1b3cad896352bf3715f
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 6b285f6b0370966cc66a4fed1309a88aec89e839
+ms.sourcegitcommit: b06fa9f1b230fd5e470817486ea51f460f28b691
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508118"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50012912"
 ---
-# <a name="microsoft-pre-employment-screening"></a>Screening preimpiego Microsoft
+# <a name="microsoft-pre-employment-screening"></a>Screening precedente all'impiego presso Microsoft
 
-Microsoft Works per mantenere un ambiente sicuro e sicuro che protegge adeguatamente i dipendenti, i clienti, le proprietà, i dati personali e le informazioni proprietarie. Un programma completo di screening dei precedenti è essenziale per raggiungere questo obiettivo. Tutti i candidati per l'occupazione e l'internato sono tenuti a completare adeguatamente una proiezione di sfondo prima di iniziare l'occupazione presso Microsoft. I dipendenti correnti in ruoli specifici possono anche essere soggetti a un riesame periodico.
+Microsoft Works per mantenere un ambiente sicuro e sicuro che protegge adeguatamente i dipendenti, i clienti, le proprietà, i dati personali e le informazioni proprietarie. Un programma completo di screening dei precedenti è essenziale per raggiungere questo obiettivo. Tutti i candidati per l'occupazione e l'internato sono tenuti a completare adeguatamente una proiezione di sfondo prima di iniziare l'occupazione presso Microsoft. I dipendenti correnti in ruoli specifici possono anche essere soggetti a rescreening periodico.
 
 ## <a name="the-microsoft-personnel-screening-standard"></a>Standard di screening del personale Microsoft
 
@@ -46,25 +46,25 @@ Nei paesi con solide leggi sulla privacy che impediscono l'accesso alle informaz
 - Personale Microsoft interno trasferito o spostato a un ruolo esistente che attualmente include la schermatura come requisito definito.
 - Ruoli esistenti che modificano l'ambito per includere lo screening come requisito definito.
 
-## <a name="microsoft-pre-employment-screening"></a>Screening preimpiego Microsoft
+## <a name="microsoft-pre-employment-screening"></a>Screening precedente all'impiego presso Microsoft
 
 Il dipartimento di sicurezza globale di Microsoft è responsabile per garantire che i candidati siano sottoposti a screening prima di iniziare a lavorare con Microsoft.
 Nella misura ammissibile dalle leggi locali, sono inclusi i controlli seguenti:
 
 - Traccia SSN negli Stati Uniti o conferma dell'identità da un documento emesso dal governo in Europa, Medio Oriente e Asia.
-- La storia criminale controlla fino a sette anni per reati di reato e reato allo stato, alla contea e ai livelli locali e a livello federale, se opportuno negli Stati Uniti. Un controllo di precedenti penali internazionali (dipendente dalle leggi locali) è applicabile per le aree esterne agli Stati Uniti.
+- La storia penale controlla fino a sette anni per reati di reato e reato allo stato, alla contea e ai livelli locali e a livello federale, se opportuno negli Stati Uniti. Un controllo di precedenti penali internazionali (dipendente dalle leggi locali) è applicabile per le aree esterne agli Stati Uniti.
 - Conferma del più alto livello di realizzazione accademica
-- storia dell'occupazione di 5 anni
+- Storia del lavoro quinquennale
 - Sanzioni globali e controllo dell'applicazione, tra cui Office of Foreign Assets Control (OFAC) list, Bureau of Industry and Security (BIS) list e Office of Defense Trade Controls debarrated persons (DDTC) list checks.
 
 ## <a name="supplier-screening"></a>Screening del fornitore
 
-Microsoft richiede che i fornitori (personale contingente) eseguano controlli in background di predisposizione su tutto il personale che effettuerà servizi o progetti che richiedono l'accesso a strutture di proprietà o affittate Microsoft o l'accesso alle risorse Microsoft come la posta elettronica, l'accesso alla rete, cardkey o altri badge di accesso.
+Microsoft richiede che i fornitori (personale contingente) eseguano controlli in background di predisposizione su tutto il personale che effettuerà servizi o progetti che richiedono l'accesso a servizi Microsoft o in leasing o l'accesso alle risorse Microsoft come la posta elettronica, l'accesso alla rete, la chiave della scheda o altri badge di accesso.
 
-Nella misura consentita dai controlli di screening dei fornitori di legge locali sono inclusi i seguenti:
+Nella misura ammissibile dalle leggi locali, i controlli di screening dei fornitori includono gli elementi seguenti:
 
 - Traccia SSN negli Stati Uniti o conferma dell'identità da un documento emesso dal governo in Europa, Medio Oriente e Asia.
-- La storia criminale controlla fino a sette anni per reati di reato e reato allo stato, alla contea e ai livelli locali e a livello federale, se opportuno negli Stati Uniti. Un controllo di precedenti penali internazionali (dipendente dalle leggi locali) è applicabile per le aree esterne agli Stati Uniti.
+- La storia penale controlla fino a sette anni per reati di reato e reato allo stato, alla contea e ai livelli locali e a livello federale, se opportuno negli Stati Uniti. Un controllo di precedenti penali internazionali (dipendente dalle leggi locali) è applicabile per le aree esterne agli Stati Uniti.
 - Conferma del più alto livello di realizzazione accademica
 - Sanzioni globali e controllo dell'applicazione
 
@@ -72,14 +72,14 @@ Negli Stati Uniti prima di ogni collocazione di ciascun membro del personale dei
 
 A livello internazionale, il requisito precedente sarà implementato in tutti i paesi entro il 2020 settembre e, se non è attualmente implementato, il contratto con la terza parte specifica i requisiti di Microsoft per la proiezione che deve essere condotta e il fornitore è responsabile dell'attestazione di Microsoft per iscritto che il controllo dei precedenti è stato completato correttamente.
 
-## <a name="microsoft-cloud-background-check"></a>Controllo del background di Microsoft Cloud
+## <a name="microsoft-cloud-background-check"></a>Controllo in background di Microsoft Cloud
 
-È necessario un controllo dei precedenti cloud di Microsoft per i candidati assunti come dipendenti che forniscono servizi correlati a Microsoft 365 negli Stati Uniti. Gli impiegati Microsoft negli Stati Uniti con accesso ai dati dei clienti devono seguire il processo di controllo dei precedenti del cloud Microsoft richiesto da tutti i servizi di Microsoft 365. Al di fuori degli Stati Uniti, il processo varia. Ad esempio, il cloud Microsoft per la Germania utilizza un modello di approvazione del trustee dei dati, studiato per garantire che il trustee dei dati (società tedesca) e non Microsoft sia in grado di controllare l'accesso ai dati dei clienti. Il cloud Microsoft in Germania viene recapitato dai data center in Germania e i centri operativi (OC) contenenti il personale tecnico del trustee dei dati sono anche in Germania. Sia il datacenter sia le strutture OC sono gestite, gestite e controllate dal trustee dei dati.
+È necessario un controllo dei precedenti cloud di Microsoft per i candidati assunti come dipendenti che forniscono servizi correlati a Microsoft 365 negli Stati Uniti. Gli impiegati Microsoft negli Stati Uniti con accesso ai dati dei clienti devono seguire il processo di controllo dei precedenti del cloud Microsoft richiesto da tutti i servizi di Microsoft 365. Al di fuori degli Stati Uniti, il processo varia. Ad esempio, il cloud Microsoft per la Germania utilizza un modello di approvazione del trustee dei dati, studiato per garantire che il trustee dei dati (società tedesca) e non Microsoft sia in grado di controllare l'accesso ai dati dei clienti. Il cloud Microsoft in Germania viene recapitato dai data center in Germania e i centri operativi (OC) contenenti il personale tecnico del trustee dei dati sono anche in Germania. Sia il centro dati che le strutture OC vengono gestite, gestite e controllate dal trustee dei data.
 
 Nei limiti consentiti dalle leggi locali, vengono eseguiti i controlli seguenti come parte del controllo dei precedenti del cloud di Microsoft.
 
 - Stati Uniti: traccia dei numeri di previdenza sociale
-- La storia criminale controlla fino a sette anni per reati di reato e reato allo stato, alla contea e ai livelli locali e a livello federale, se opportuno negli Stati Uniti. Un controllo di precedenti penali internazionali (dipendente dalle leggi locali) è applicabile per le aree esterne agli Stati Uniti.
+- La storia penale controlla fino a sette anni per reati di reato e reato allo stato, alla contea e ai livelli locali e a livello federale, se opportuno negli Stati Uniti. Un controllo di precedenti penali internazionali (dipendente dalle leggi locali) è applicabile per le aree esterne agli Stati Uniti.
 - Sanzioni globali e controllo dell'applicazione, tra cui Office of Foreign Assets Control (OFAC) list, Bureau of Industry and Security (BIS) list e Office of Defense Trade Controls debarrated persons (DDTC) list checks.
 
 I risultati del controllo dei precedenti cloud di Microsoft sono archiviati nel database dei dipendenti e sono connessi ai sistemi di controllo di accesso di datacenter. Se il controllo dei precedenti cloud di Microsoft scade e il dipendente non lo rinnova, l'accesso ai servizi Microsoft 365 è revocato e non è più disponibile finché non è stato completato il controllo dei precedenti di Microsoft Cloud. Quando la relazione di lavoro con Microsoft termina, l'accesso a tutti i datacenter è immediatamente revocato.

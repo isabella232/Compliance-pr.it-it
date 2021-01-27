@@ -16,12 +16,12 @@ ms.collection:
 - Strat_O365_Enterprise
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: 431b0eb84092e8dfaa1fdfe7fec67de5dc0e9397
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 01bdba8a9634baf537a435301dbc46b1d5dce985
+ms.sourcegitcommit: b06fa9f1b230fd5e470817486ea51f460f28b691
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508218"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50012952"
 ---
 # <a name="enterprise-business-continuity-management-legal-disclaimer"></a>Dichiarazione di non responsabilità della gestione della continuità aziendale della società
 
@@ -33,7 +33,7 @@ LEGGERE QUESTO! IL PRESENTE CONTRATTO È UN CONTRATTO LEGALE TRA MICROSOFT CORPO
     - (a) evitare di divulgare o distribuire le informazioni riservate a terze parti per cinque (5) anni dalla data di divulgazione delle informazioni riservate da parte di Microsoft alla società/all'utente corrente. 
     - (b) evitare di riprodurre o riepilogare le informazioni riservate; e 
     - (c) prendere precauzioni ragionevoli per la sicurezza, almeno quanto le precauzioni necessarie per proteggere le informazioni riservate, ma non meno che ragionevoli, per mantenere riservate le informazioni riservate. L'utente/società, tuttavia, può divulgare informazioni riservate in conformità con un ordine governativo giudiziario o di altro tipo, purché l'utente/società sia 
-        - (i) fornisce una notifica ragionevole a Microsoft prima di tale divulgazione e consentire a Microsoft una ragionevole possibilità di cercare un ordine di protezione o un equivalente oppure (II) ottenere la garanzia scritta dall'ente giudiziario o governativo applicabile che consenta alle informazioni riservate il livello di protezione più elevato concesso ai sensi del diritto applicabile o del regolamento. Le informazioni riservate non includono le informazioni, tuttavia designate, che: (i) sono o diventano successivamente disponibili pubblicamente senza la violazione della società di qualsiasi obbligo dovuto a Microsoft; 
+        - (i) fornisce una notifica ragionevole a Microsoft prima di tale divulgazione e consentire a Microsoft una ragionevole possibilità di cercare un ordine di protezione o un equivalente oppure (II) ottenere la garanzia scritta dall'ente giudiziario o governativo applicabile che consenta alle informazioni riservate il livello di protezione più elevato concesso ai sensi del diritto applicabile o del regolamento. Le informazioni riservate non includono le informazioni, tuttavia designate, che: (i) è o in seguito diviene pubblicamente disponibile senza che la vostra/società abbia violato gli obblighi dovuti a Microsoft; 
         - (II) è stato conosciuto all'utente/società prima della divulgazione di tali informazioni all'utente/società in base ai termini del presente contratto;
         - (III) è stato conosciuto dall'utente/società proveniente da una fonte diversa da Microsoft diversa dalla violazione di un obbligo di riservatezza dovuto a Microsoft; o
         - (IV) è sviluppato indipendentemente dall'utente/società. AI fini dell'interpretazione del presente paragrafo, "Informazioni riservate" indica informazioni non pubbliche che Microsoft designa come riservate o che, in circostanze correlate alla divulgazione, devono essere trattate come riservate dal Destinatario. "Informazioni riservate" include, senza limitazioni, informazioni in una forma tangibile o impalpabile relativa a e/o compresi i prodotti software o hardware Microsoft rilasciati o non rilasciati, la commercializzazione o la promozione di qualsiasi prodotto Microsoft, le politiche o le procedure aziendali di Microsoft e le informazioni ricevute da altre persone che Microsoft è obbligata a trattare come riservate.

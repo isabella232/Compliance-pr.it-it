@@ -1,5 +1,5 @@
 ---
-title: Simulazione di attacco in Microsoft 365
+title: Simulazione di un attacco in Microsoft 365
 description: In questo articolo, informazioni su come Microsoft monitora e verifica continuamente i confini dei tenant per Microsoft 365.
 ms.author: robmazz
 author: robmazz
@@ -19,14 +19,14 @@ f1.keywords:
 - NOCSH
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: d41f13668371d2c394008326b9fe1c74ac087e79
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 9d38131a6ec8f3213c288d76dc3b176ceaa3aace
+ms.sourcegitcommit: b06fa9f1b230fd5e470817486ea51f460f28b691
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508137"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50012892"
 ---
-# <a name="attack-simulation-in-microsoft-365"></a>Simulazione di attacco in Microsoft 365
+# <a name="attack-simulation-in-microsoft-365"></a>Simulazione di un attacco in Microsoft 365
 
 Microsoft monitora continuamente e verifica in modo esplicito le debolezze e le vulnerabilità dei confini dei tenant, tra cui il monitoraggio per intrusioni, tentativi di violazione delle autorizzazioni e la mancanza di risorse. È inoltre possibile utilizzare più sistemi interni per monitorare continuamente l'utilizzo inappropriato delle risorse, che, se rilevato, attiva la limitazione integrata.
 
@@ -38,15 +38,16 @@ Microsoft esegue un'accurata revisione post-incidente ogni volta che si verifica
 
 ## <a name="assume-breach-methodology"></a>Assumere una metodologia di violazione
 
-In base all'analisi dettagliata dei trend di sicurezza, Microsoft sostiene ed evidenzia la necessità di ulteriori investimenti in processi e tecnologie di sicurezza reattivi che si concentrano sul rilevamento e la risposta alle minacce emergenti, anziché solo alla prevenzione di tali minacce. A causa delle modifiche apportate al panorama delle minacce e all'analisi approfondita, Microsoft ha affinato la propria strategia di sicurezza oltre a impedire violazioni della sicurezza più attrezzate per gestire le violazioni quando si verificano – una strategia che considera gli eventi di sicurezza importanti non come una questione di se, ma quando.
+In base all'analisi dettagliata dei trend di sicurezza, Microsoft sostiene ed evidenzia la necessità di altri investimenti in processi e tecnologie di sicurezza reattivi che si concentrano sul rilevamento e la risposta alle minacce emergenti, anziché solo alla prevenzione di tali minacce. A causa delle modifiche apportate al panorama delle minacce e all'analisi approfondita, Microsoft ha affinato la propria strategia di sicurezza oltre a impedire violazioni della sicurezza a una migliore dotazione per gestire le violazioni quando si verificano; una strategia che considera gli eventi di sicurezza importanti non come una questione di se, ma quando.
 
-Anche se le procedure di [violazione delle violazioni](https://www.microsoft.com/TrustCenter/Security/default.aspx) di Microsoft sono state eseguite da molti anni, molti clienti non sono a conoscenza del lavoro svolto dietro le quinte per indurire il cloud Microsoft. Presumere che la violazione sia una mentalità che guida gli investimenti di sicurezza, le decisioni di progettazione e le procedure di sicurezza operative. Se si presuppone che la violazione venga consentita, le relazioni tra le applicazioni, i servizi, le identità e le reti vengono considerate come insicure e già compromesse dall'interno e dall'esterno. Anche se la strategia di violazione del presupposto non è stata sostenuta da una violazione effettiva di qualsiasi servizio Microsoft Enterprise o cloud, è stato riconosciuto che molte organizzazioni, in tutto il settore, sono state violate nonostante tutti i tentativi di impedirlo. Se si impedisce che le violazioni siano una parte fondamentale delle operazioni di qualsiasi organizzazione, tali procedure devono essere continuamente verificate e potenziate per affrontare efficacemente gli avversari moderni e le minacce persistenti avanzate. Affinché qualsiasi organizzazione debba prepararsi per una violazione, deve innanzitutto creare e gestire procedure di risposta di sicurezza robuste, ripetibili e accuratamente testate.
+Anche se le procedure di [violazione delle violazioni](https://www.microsoft.com/TrustCenter/Security/default.aspx) di Microsoft sono state eseguite da molti anni, molti clienti non sono a conoscenza del lavoro svolto dietro le quinte per indurire il cloud Microsoft. Presumere che la violazione sia una mentalità che guida gli investimenti di sicurezza, le decisioni di progettazione e le procedure di sicurezza operative. Se si presuppone che la violazione venga consentita, le relazioni tra le applicazioni, i servizi, le identità e le reti vengono considerate come insicure e già compromesse dall'interno e dall'esterno. Anche se la strategia di violazione del presupposto non è stata sostenuta da una violazione reale di qualsiasi servizio Microsoft Enterprise o cloud, è stato riconosciuto che molte organizzazioni, in tutto il settore, sono state violate nonostante tutti i tentativi di impedirlo. Se si impedisce che le violazioni siano una parte fondamentale delle operazioni di qualsiasi organizzazione, tali procedure devono essere continuamente verificate e potenziate per affrontare efficacemente gli avversari moderni e le minacce persistenti avanzate. Affinché le organizzazioni possano prepararsi per una violazione, devono innanzitutto creare e gestire procedure di risposta di sicurezza robuste, ripetibili e accuratamente testate.
 
 Sebbene impediscano la violazione dei processi di sicurezza, ad esempio la modellazione delle minacce, le revisioni del codice e i test di sicurezza, sono molto utili nell'ambito del ciclo di vita [dello sviluppo della sicurezza](https://www.microsoft.com/securityengineering/sdl/), si presuppone che la violazione fornisca numerosi vantaggi che consentono di tenere conto della sicurezza complessiva esercitando e misurando le funzionalità reattive in caso
 
 Microsoft ha deciso di eseguire questa operazione mediante esercizi di guerra in corso e test di penetrazione del sito dal vivo dei piani di risposta alla sicurezza con l'obiettivo di migliorare la capacità di rilevamento e di risposta. Microsoft simula regolarmente le violazioni del mondo reale, esegue il monitoraggio della sicurezza continua e pratica la gestione degli incidenti di sicurezza per convalidare e migliorare la sicurezza di Microsoft 365, Azure e altri servizi cloud Microsoft.
 
 Microsoft esegue la propria strategia di sicurezza di violazione con due gruppi di base:
+
 - Team rossi (utenti malintenzionati)
 - Squadre blu (difensori)
 
@@ -61,14 +62,14 @@ Denominato "[red teaming](https://go.microsoft.com/fwlink/?linkid=518599)", l'ap
 La squadra rossa è un gruppo di personale a tempo pieno all'interno di Microsoft che si concentra sulla violazione dell'infrastruttura di Microsoft, della piattaforma e dei tenant e applicazioni di Microsoft. Essi sono l'avversario dedicato (un gruppo di hacker etici) che eseguono attacchi mirati e persistenti nei confronti dei servizi online (infrastruttura Microsoft, piattaforme e applicazioni, ma non le applicazioni o il contenuto dei clienti finali).
 
 Il ruolo della squadra rossa è quello di attaccare e penetrare gli ambienti usando gli stessi passaggi di un avversario:
- 
+
 ![Fasi di violazione](../media/office-365-isolation-breach-stages.png)
 
 Tra le altre funzioni, i team rossi tentano di violare i limiti di isolamento dei tenant per individuare eventuali errori o lacune nel nostro progetto di isolamento.
 
 ## <a name="blue-teams"></a>Team blu
 
-Il team blu è costituito da un set dedicato di risponditori o membri di sicurezza provenienti da tutte le organizzazioni di risposta, ingegneria e operazioni per gli incidenti di sicurezza. Indipendentemente dal loro make-up, sono indipendenti e operano separatamente dal team rosso. Il team blu segue i processi di sicurezza stabiliti e utilizza gli strumenti e le tecnologie più recenti per rilevare e rispondere agli attacchi e alla penetrazione. Proprio come gli attacchi del mondo reale, la squadra blu non sa quando o come si verificherà l'attacco del team rosso o quali metodi possono essere utilizzati. Il lavoro, se si tratta di un attacco di squadra rossa o di un assalto effettivo, consiste nel rilevare e rispondere a tutti gli incidenti di sicurezza. Per questo motivo, il team blu è continuamente in chiamata e deve reagire alle violazioni della squadra rossa nello stesso modo in cui si riferiscono a qualsiasi altra violazione.
+Il team blu è costituito da un set di risponditori o membri dedicati alla sicurezza provenienti da tutte le organizzazioni di risposta, ingegneria e operazioni per gli incidenti di sicurezza. Indipendentemente dal loro make-up, sono indipendenti e operano separatamente dal team rosso. Il team blu segue i processi di sicurezza stabiliti e utilizza gli strumenti e le tecnologie più recenti per rilevare e rispondere agli attacchi e alla penetrazione. Proprio come gli attacchi del mondo reale, la squadra blu non sa quando o come si verificherà l'attacco del team rosso o quali metodi possono essere utilizzati. Il lavoro, se si tratta di un attacco di squadra rossa o di un assalto effettivo, consiste nel rilevare e rispondere a tutti gli incidenti di sicurezza. Per questo motivo, il team blu è continuamente in chiamata e deve reagire alle violazioni della squadra rossa nello stesso modo in cui si riferiscono a qualsiasi altra violazione.
 
 Quando un avversario, ad esempio una squadra rossa, ha violato un ambiente, il team blu deve:
 
@@ -81,7 +82,7 @@ Quando un avversario, ad esempio una squadra rossa, ha violato un ambiente, il t
 - Eseguire il piano di correzione e riprendersi dalla violazione
 
 Questi passaggi formano la risposta degli incidenti di sicurezza che corre parallela all'avversario, come illustrato di seguito:
- 
+
 ![Fasi di risposta alla violazione](../media/office-365-isolation-breach-response-stages.png)
 
-Le violazioni della squadra rossa consentono di esercitare la capacità del team blu di rilevare e rispondere agli attacchi del mondo reale end-to-end. La cosa più importante è che consente la risposta agli incidenti di sicurezza praticata prima di una vera e propria violazione. Inoltre, a causa delle violazioni della squadra rossa, la squadra blu migliora la loro consapevolezza situazionale che può essere utile quando si tratta di violazioni future (se dal team rosso o da un altro avversario). Nel corso del processo di rilevamento e di risposta, il team blu produce informazioni sull'azione e acquisisce visibilità nelle condizioni effettive degli ambienti in cui si sta tentando di difendere. Questa operazione viene eseguita spesso tramite l'analisi dei dati e la scientifica, eseguite dal team blu, quando rispondono agli attacchi dei team rossi e definendo indicatori di minaccia, ad esempio indicatori di compromesso. Analogamente a come la squadra rossa identifica gli spazi vuoti nella storia della sicurezza, i team blu identificano le lacune nella loro capacità di rilevare e rispondere. Inoltre, dal momento che il modello Red teams affronta gli attacchi del mondo reale, la squadra blu può essere valutata in modo accurato sulle loro capacità, o impossibilità, per gestire gli avversari decisi e persistenti. Infine, le violazioni alla squadra rossa misurano sia la preparazione che l'impatto della nostra risposta alla violazione.
+Le violazioni della squadra rossa consentono di esercitare la capacità del team blu di rilevare e rispondere agli attacchi del mondo reale end-to-end. La cosa più importante è che consente la risposta agli incidenti di sicurezza praticata prima di una vera e propria violazione. Inoltre, a causa delle violazioni della squadra rossa, la squadra blu migliora la loro consapevolezza situazionale, che può essere utile quando si ha a che fare con violazioni future (se dalla squadra rossa o da un altro avversario). Nel corso del processo di rilevamento e di risposta, il team blu produce informazioni sull'azione e acquisisce visibilità nelle condizioni effettive degli ambienti in cui si sta tentando di difendere. Questa operazione viene eseguita spesso tramite l'analisi dei dati e la scientifica, eseguite dal team blu, quando rispondono agli attacchi dei team rossi e definendo indicatori di minaccia, ad esempio indicatori di compromesso. Analogamente a come la squadra rossa identifica gli spazi vuoti nella storia della sicurezza, i team blu identificano le lacune nella loro capacità di rilevare e rispondere. Inoltre, dal momento che il modello Red teams affronta gli attacchi del mondo reale, la squadra blu può essere valutata in modo accurato sulle loro capacità, o impossibilità, per gestire gli avversari decisi e persistenti. Infine, le violazioni alla squadra rossa misurano sia la preparazione che l'impatto della nostra risposta alla violazione.

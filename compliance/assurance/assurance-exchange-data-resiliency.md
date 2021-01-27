@@ -19,17 +19,17 @@ f1.keywords:
 - NOCSH
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: f2e55701f5825a5edb42e69d23f0ce7553f7ba17
-ms.sourcegitcommit: fc1da22cf40dfd807c182d3f6df967eee192eacd
+ms.openlocfilehash: 2cdd37d34612421cc7a9e4687134e2a1e2b1aeec
+ms.sourcegitcommit: b06fa9f1b230fd5e470817486ea51f460f28b691
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49669737"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50012942"
 ---
 # <a name="exchange-online-data-resiliency-in-microsoft-365"></a>Resilienza dei dati di Exchange online in Microsoft 365
 
-> [!IMPORTANT]
->  Continuando a investire in modi diversi per conservare il contenuto delle cassette postali, si annuncia la previdenza di In-Place conservazioni nell'interfaccia di amministrazione di Exchange (EAC) in Exchange Online. A partire dal 1 ° luglio 2020, non sarà possibile creare nuove esenzioni In-Place. Tuttavia, sarà comunque possibile gestire In-Place conservazioni nell'interfaccia di amministrazione di Exchange o utilizzando il cmdlet **Set-MailboxSearch** in PowerShell di Windows. Tuttavia, a partire dal 1 ° ottobre 2020, non sarà possibile gestire In-Place esenzioni. È possibile rimuoverli solo nell'interfaccia di amministrazione di Exchange o tramite il cmdlet **Remove-MailboxSearch** . L'utilizzo di In-Place esenzioni nelle distribuzioni ibride di Exchange Server e Exchange continuerà a essere supportato. Per ulteriori informazioni sul pensionamento dei In-Place esenzioni in Exchange Online, vedere [pensionamento degli strumenti di eDiscovery legacy](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement).
+>[!IMPORTANT]
+>Continuando a investire in modi diversi per conservare il contenuto delle cassette postali, si annuncia la previdenza di In-Place conservazioni nell'interfaccia di amministrazione di Exchange (EAC) in Exchange Online. A partire dal 1 ° luglio 2020, non sarà possibile creare nuove esenzioni In-Place. Tuttavia, sarà comunque possibile gestire In-Place conservazioni nell'interfaccia di amministrazione di Exchange o utilizzando il cmdlet **Set-MailboxSearch** in PowerShell di Windows. Tuttavia, a partire dal 1 ° ottobre 2020, non sarà possibile gestire In-Place esenzioni. È possibile rimuoverli solo nell'interfaccia di amministrazione di Exchange o tramite il cmdlet **Remove-MailboxSearch** . L'utilizzo di In-Place esenzioni nelle distribuzioni ibride di Exchange Server e Exchange continuerà a essere supportato. Per ulteriori informazioni sul pensionamento dei In-Place esenzioni in Exchange Online, vedere [pensionamento degli strumenti di eDiscovery legacy](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement).
 
 Un blocco In-Place conserva tutti i contenuti delle cassette postali, inclusi gli elementi eliminati e le versioni originali degli elementi modificati. Tutti questi elementi delle cassette postali vengono restituiti in una ricerca di [eDiscovery in locale](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery). Quando si inserisce un blocco In-Place sulla cassetta postale di un utente, il contenuto della cassetta postale di archiviazione corrispondente (se abilitata) viene messo in attesa e restituito in una ricerca di eDiscovery.
 
