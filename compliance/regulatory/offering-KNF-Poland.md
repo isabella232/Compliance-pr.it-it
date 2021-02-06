@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 6a9bf00ea9fe791f72f73df1d1ccb16d6bd256ed
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 7cb696db772f0bffda701c7ecadbb768c2575343
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509441"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120155"
 ---
 # <a name="financial-supervision-authority-knf-poland"></a>Autorità di vigilanza finanziaria (KNF) della Polonia
 
@@ -60,7 +60,7 @@ L'elenco di controllo di Microsoft consente alle società finanziarie polacche d
 
 - [Elenco di controllo conformità: Polonia](https://aka.ms/FinServ-Guide-Poland): le società finanziarie possono ottenere assistenza per la valutazione dei rischi dei servizi cloud Microsoft per le aziende.
 - [Valutazione dei rischi e guida alla conformità](https://aka.ms/RiskGovernanceGuide): creare un modello di governance per la valutazione dei rischi dei servizi cloud Microsoft e la notifica all'organismo di regolamentazione.
-- [Casi di utilizzo finanziari](https://docs.microsoft.com/azure/industry/financial/): panoramiche di casi di utilizzo, esercitazioni e altre risorse per creare soluzioni di Azure per i servizi finanziari.
+- [Casi di utilizzo finanziari](/azure/industry/financial/): panoramiche di casi di utilizzo, esercitazioni e altre risorse per creare soluzioni di Azure per i servizi finanziari.
 - [Privacy in Microsoft Cloud](https://aka.ms/MCSPrivacy): informazioni dettagliate sui principi e gli standard di privacy di Microsoft e sulle normative specifiche sulla privacy della Polonia.
 
 ## <a name="frequently-asked-questions"></a>Domande frequenti

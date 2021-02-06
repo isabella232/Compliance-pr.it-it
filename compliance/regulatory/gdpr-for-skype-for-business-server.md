@@ -12,12 +12,12 @@ ms.service: O365-seccomp
 localization_priority: Priority
 titleSuffix: Microsoft GDPR
 ms.collection: MS-Compliance
-ms.openlocfilehash: 7a3739afc42ba6397bb0b465b6f4a9c5806d2c16
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 15d59569102a5e39ac8641df6003b2999362e0bd
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508966"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121475"
 ---
 # <a name="gdpr-for-skype-for-business-server-and-lync-server"></a>GDPR per Skype for Business Server e Lync Server
 
@@ -35,8 +35,8 @@ Gli elenchi contatti sono archiviati nel database di SQL Server. Possono essere 
 
 -   Gli utenti finali possono esportare autonomamente i contatti direttamente facendo clic sull’intestazione del gruppo e scegliendo Copia. Tutti i contatti in tale gruppo verranno copiati negli Appunti, per poi essere incollati in qualsiasi applicazione.
 
--   È possibile usare il cmdlet [Export-CsUserData](https://docs.microsoft.com/powershell/module/skype/export-csuserdata) per esportare i dati.
+-   È possibile usare il cmdlet [Export-CsUserData](/powershell/module/skype/export-csuserdata) per esportare i dati.
 
 Il contenuto caricato in una riunione, come file di PowerPoint o gli stampati, o il contenuto generato durante una riunione, come lavagna, sondaggi e domande e risposte, viene archiviato nel filtro. Può essere esportato anche se gli utenti finali accedono di nuovo a una riunione che non sia scaduta e scaricano il contenuto aggiornato o memorizzano screenshot nel caso di contenuto generato.
 
-Le riunioni MeetNow che non si trovano nel Calendario e nella lista contatti e diritti di contatto (familiari, colleghi e così via) di Exchange sono nel database dell’utente. In Lync Server 2013 e versioni successive, è possibile usare il cmdlet [Export-CsUserData](https://docs.microsoft.com/powershell/module/skype/export-csuserdata) per esportare i dati.
+Le riunioni MeetNow che non si trovano nel Calendario e nella lista contatti e diritti di contatto (familiari, colleghi e così via) di Exchange sono nel database dell’utente. In Lync Server 2013 e versioni successive, è possibile usare il cmdlet [Export-CsUserData](/powershell/module/skype/export-csuserdata) per esportare i dati.

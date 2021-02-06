@@ -1,6 +1,6 @@
 ---
-title: Microsoft 365 monitoraggio e controllo dell'accesso ai controlli
-description: 'Sintesi: un riepilogo dei diversi controlli di accesso al monitoraggio e di controllo disponibili in Microsoft 365.'
+title: Controlli di accesso per il monitoraggio e il controllo di Microsoft 365
+description: 'Riepilogo: riepilogo dei vari controlli di accesso di monitoraggio e controllo disponibili in Microsoft 365.'
 ms.author: robmazz
 author: robmazz
 manager: laurawi
@@ -18,23 +18,23 @@ ms.collection:
 f1.keywords:
 - NOCSH
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: 138c2664a5771d15ad9177a56f0f7cb766f4ef5e
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 3021ce1dd59d5d071edec22286ae9c63833f1277
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508148"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120445"
 ---
 # <a name="monitoring-and-auditing-access-controls-in-microsoft-365"></a>Monitoraggio e controllo dei controlli di accesso in Microsoft 365
 
-Microsoft esegue il monitoraggio e il controllo estensivo di tutte le delega, i privilegi e le operazioni che si verificano in Microsoft 365. Microsoft 365 Access Control è un processo automatizzato basato sul principio del privilegio minimo e sull'integrazione dei controlli di accesso ai dati e degli audit:
+Microsoft esegue un monitoraggio e un controllo approfonditi di tutte le operazioni, i privilegi e le deleghe che si verificano in Microsoft 365. Il controllo di accesso di Microsoft 365 è un processo automatizzato basato sul principio dei privilegi minimi e che incorpora controlli e controlli di accesso ai dati:
 
-- Tutti gli accessi consentiti possono essere rintracciati in un utente univoco. Gli amministratori sono responsabili della gestione del contenuto dei clienti.
-- Le richieste di controllo di accesso, le approvazioni e i registri delle operazioni amministrative vengono acquisiti per l'analisi della sicurezza e degli eventi dannosi.
-- I livelli di accesso vengono esaminati in tempo quasi reale in base all'appartenenza a un gruppo di sicurezza per garantire che solo gli utenti che dispongono di motivazioni aziendali autorizzate e soddisfino i requisiti di idoneità abbiano accesso ai sistemi.
-- Microsoft 365, i suoi controlli di accesso e i servizi di supporto, tra cui Azure Active Directory e i datacenter fisici, vengono regolarmente controllati da terze parti indipendenti per la conformità con le norme [iso/iec 27001](https://www.microsoft.com/TrustCenter/Compliance/iso-iec-27001), [iso/IEC 27018](https://www.microsoft.com/TrustCenter/Compliance/iso-iec-27018), [SOC](https://www.microsoft.com/TrustCenter/Compliance/SOC), [FedRAMP (Office 365)](https://www.microsoft.com/TrustCenter/Compliance/FedRAMP)e altri [standard](https://www.microsoft.com/TrustCenter/Compliance?service=Office#Icons).
-- Gli ingegneri di Microsoft 365 devono eseguire una formazione annuale sulla sicurezza, esaminare le procedure consigliate per l'accesso con privilegi elevati e riconoscere i criteri di sicurezza e privacy di Microsoft per mantenere i diritti per il servizio.
+- Tutti gli accessi consentiti sono tracciabili per un utente univoco. Gli amministratori sono responsabili della gestione dei contenuti dei clienti.
+- Le richieste di controllo di accesso, le approvazioni e i log delle operazioni amministrative vengono acquisiti per l'analisi della sicurezza e degli eventi dannosi.
+- I livelli di accesso vengono esaminati quasi in tempo reale in base all'appartenenza ai gruppi di sicurezza per garantire che solo gli utenti che hanno motivazioni aziendali autorizzate e soddisfino i requisiti di idoneità hanno accesso ai sistemi.
+- Microsoft 365, i controlli di accesso e i servizi di supporto, tra cui Azure Active Directory e datacenter fisici, vengono regolarmente controllati da terze parti indipendenti per la conformità con [ISO/IEC 27001,](https://www.microsoft.com/TrustCenter/Compliance/iso-iec-27001) [ISO/IEC 27018,](https://www.microsoft.com/TrustCenter/Compliance/iso-iec-27018) [SOC,](https://www.microsoft.com/TrustCenter/Compliance/SOC) [FedRAMP (Office 365)](https://www.microsoft.com/TrustCenter/Compliance/FedRAMP)e altri [standard.](https://www.microsoft.com/TrustCenter/Compliance?service=Office#Icons)
+- I tecnici di Microsoft 365 devono prendere una formazione annuale sulla sicurezza, esaminare le procedure consigliate per l'accesso con privilegi elevati e accettare le politiche di sicurezza e privacy di Microsoft per mantenere i diritti al servizio.
 
-Gli avvisi automatici vengono attivati quando vengono rilevate attività sospette, ad esempio più account di accesso non riusciti entro un breve periodo. Il team di risposta alla sicurezza di Microsoft 365 utilizza l'apprendimento automatico e l'analisi dei dati di grandi dimensioni per esaminare e analizzare l'attività, cercare modelli di accesso irregolari e rispondere in modo proattivo a attività anomale e illecite. Microsoft impiega anche un team dedicato di tester di penetrazione e si impegna negli esercizi di team rosso e blu periodici per individuare i problemi di sicurezza e controllo di accesso nel servizio. I clienti possono verificare l'efficacia dei sistemi di controllo di accesso usando i rapporti di controllo e l'API di attività di gestione fornita da Microsoft 365.
+Gli avvisi automatici vengono attivati quando vengono rilevate attività sospette, ad esempio più accessi non riusciti in un breve periodo. Il team di Microsoft 365 Security Response usa l'apprendimento automatico e l'analisi dei big data per esaminare e analizzare le attività, cercare modelli di accesso irregolare e rispondere in modo proattivo ad attività anomale e illecite. Microsoft impiega anche un team dedicato di tester di penetrazione e si impegna in esercitazioni periodiche del Red Team e del Blue Team per individuare i problemi di sicurezza e controllo degli accessi nel servizio. I clienti possono verificare l'efficacia dei sistemi di controllo degli accessi usando i report di controllo e l'API di attività di gestione fornita da Microsoft 365.
 
-Per ulteriori informazioni, vedere [Office 365 Management Activity API Reference](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) and [Auditing and reporting in Microsoft 365](assurance-auditing-and-reporting-overview.md).
+Per altre informazioni, vedere Informazioni di riferimento sull'API office [365 Management Activity](/office/office-365-management-api/office-365-management-activity-api-reference) e Controllo e creazione di [report in Microsoft 365.](assurance-auditing-and-reporting-overview.md)

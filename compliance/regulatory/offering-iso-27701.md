@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 5f25347be42a34764ff78106700f7132d377bc54
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 656e8431d6f5cd7b41b6515b15c6c14ac0889e6e
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508462"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50119995"
 ---
 # <a name="isoiec-27701-privacy-information-management-system-pims"></a>ISO/IEC 27701 Privacy Information Management System (PIMS)
 
@@ -95,7 +95,7 @@ Indipendentemente dalle dimensioni dell'organizzazione e che si tratti di un tit
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usare Microsoft Compliance Manager per valutare i rischi
 
-[Microsoft Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) è una funzionalità del [Centro conformità Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) utile per comprendere lo stato di conformità dell'organizzazione e adottare misure per ridurre i rischi. Compliance Manager offre un modello premium per creare una valutazione per questa normativa. È possibile trovare il modello nella pagina dei **modelli di valutazione** in Compliance Manager. Informazioni su come [creare valutazioni in Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
+[Microsoft Compliance Manager](/microsoft-365/compliance/compliance-manager) è una funzionalità nel [Centro conformità Microsoft 365](/microsoft-365/compliance/microsoft-365-compliance-center) utile per comprendere lo stato di conformità dell'organizzazione e intraprendere azioni per ridurre i rischi. Compliance Manager offre un modello premium per creare una valutazione per questa normativa. Individuare il modello nella pagina **modelli di valutazioni** in Compliance Manager. Informazioni su come [creare valutazioni in Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments).
 
 ## <a name="resources"></a>Risorse
 

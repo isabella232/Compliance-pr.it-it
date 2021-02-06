@@ -19,12 +19,12 @@ ms.custom:
 - seo-marvel-mar2020
 hideEdit: true
 titleSuffix: Microsoft GDPR
-ms.openlocfilehash: d6b0a96cfa82f9e0d841703d2124c0e9dda7fe1f
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: fabaa7487da2dae72cc2aa8aa050b43713154fbe
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508695"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120935"
 ---
 # <a name="intune-data-subject-requests-for-the-gdpr-and-ccpa"></a>Richieste degli interessati per Intune nell'ambito del GDPR e del CCPA
 
@@ -86,9 +86,9 @@ Il primo passo nella risposa a una richiesta DSR consiste nell'individuare i dat
 
 Dopo aver trovato i dati, è quindi possibile eseguire un'azione specifica per soddisfare la richiesta dell'interessato. Per ulteriori dettagli, vedere le risorse seguenti:
 
-- [Raccolta dati](https://docs.microsoft.com/intune/privacy-data-collect)
-- [Trattamento e archiviazione dei dati](https://docs.microsoft.com/intune/privacy-data-store-process)
-- [Visualizzazione dei dati personali](https://docs.microsoft.com/intune/privacy-data-view-correct#view-personal-data)
+- [Raccolta dati](/intune/privacy-data-collect)
+- [Trattamento e archiviazione dei dati](/intune/privacy-data-store-process)
+- [Visualizzazione dei dati personali](/intune/privacy-data-view-correct#view-personal-data)
 
 ### <a name="step-2-access"></a>Passaggio 2: accedere
 
@@ -114,15 +114,15 @@ In quanto responsabile del trattamento dei dati, Microsoft non offre la possibil
 
 ### <a name="step-4-restrict"></a>Passaggio 4: limitare
 
-Gli interessati potrebbero richiedere la limitazione del trattamento dei loro dati personali. Microsoft fornisce il portale di Azure e le API o le interfacce utente esistenti. Tali esperienze consentono all'amministratore tenant del cliente aziendale di gestire le richieste degli interessati con una combinazione di esportazione dei dati ed eliminazione dei dati. Per informazioni dettagliate vedere [Trattamento dei dati personali](https://docs.microsoft.com/intune/privacy-data-store-process#processing-personal-data).
+Gli interessati potrebbero richiedere la limitazione del trattamento dei loro dati personali. Microsoft fornisce il portale di Azure e le API o le interfacce utente esistenti. Tali esperienze consentono all'amministratore tenant del cliente aziendale di gestire le richieste degli interessati con una combinazione di esportazione dei dati ed eliminazione dei dati. Per informazioni dettagliate vedere [Trattamento dei dati personali](/intune/privacy-data-store-process#processing-personal-data).
 
 ### <a name="step-5-delete"></a>Passaggio 5: eliminare
 
-Il "diritto di eliminazione" tramite la rimozione dei dati personali dai dati dei clienti di un'organizzazione è una protezione chiave del GDPR. La rimozione dei dati personali include la cancellazione di tutti i dati personali e dei log generati dal sistema, ad eccezione delle informazioni del log di controllo. Per informazioni dettagliate, vedere [Eliminare i dati personali degli utenti finali](https://docs.microsoft.com/intune/privacy-data-audit-export-delete#delete-end-user-personal-data).
+Il "diritto di eliminazione" tramite la rimozione dei dati personali dai dati dei clienti di un'organizzazione è una protezione chiave del GDPR. La rimozione dei dati personali include la cancellazione di tutti i dati personali e dei log generati dal sistema, ad eccezione delle informazioni del log di controllo. Per informazioni dettagliate, vedere [Eliminare i dati personali degli utenti finali](/intune/privacy-data-audit-export-delete#delete-end-user-personal-data).
 
 ## <a name="part-2-system-generated-logs"></a>Parte 2: log generati dal sistema
 
-I log di controllo forniscono agli amministratori tenant un record di attività che genera una modifica in Microsoft Intune. I log di controllo sono disponibili per molte attività di gestione e generalmente consentono di creare, aggiornare (modificare), eliminare e assegnare azioni. È possibile esaminare anche le attività remote che generano eventi di controllo. Questi log di controllo possono contenere dati personali degli utenti i cui dispositivi sono registrati in Intune. Gli amministratori non possono eliminare i log di controllo. Per informazioni dettagliate, vedere [Controllare i dati personali](https://docs.microsoft.com/intune/privacy-data-audit-export-delete#audit-personal-data).
+I log di controllo forniscono agli amministratori tenant un record di attività che genera una modifica in Microsoft Intune. I log di controllo sono disponibili per molte attività di gestione e generalmente consentono di creare, aggiornare (modificare), eliminare e assegnare azioni. È possibile esaminare anche le attività remote che generano eventi di controllo. Questi log di controllo possono contenere dati personali degli utenti i cui dispositivi sono registrati in Intune. Gli amministratori non possono eliminare i log di controllo. Per informazioni dettagliate, vedere [Controllare i dati personali](/intune/privacy-data-audit-export-delete#audit-personal-data).
 
 ## <a name="notify-about-exporting-or-deleting-issues"></a>Notificare problemi riguardanti l'esportazione o l'eliminazione.
 

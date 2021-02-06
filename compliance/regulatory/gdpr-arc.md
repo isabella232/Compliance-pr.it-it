@@ -18,12 +18,12 @@ ms.collection:
 ms.custom:
 - seo-marvel-mar2020
 titleSuffix: Microsoft GDPR
-ms.openlocfilehash: 9be40afbe9df0a3744022366119aaa7d35da992c
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: e8426e0e988c2f29a5223abb7e10a205f3941cfd
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508543"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121505"
 ---
 # <a name="support-your-gdpr-program-with-accountability-readiness-checklists"></a>Supportare il programma GDPR con elenchi di controllo di preparazione della conformità
 
@@ -40,7 +40,7 @@ Esiste una guida specifica per quattro famiglie di prodotti e servizi Microsoft:
 - [Azure](gdpr-arc-azure-dynamics.md)
 - [Servizi professionali e supporto tecnico Microsoft](gdpr-arc-prof-services.md)
 
-È possibile gestire gli elementi di questo elenco di controllo con [Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) usando il codice e il nome dei controlli nel riquadro del GDPR che comprende i controlli gestiti dai clienti.
+È possibile gestire gli elementi di questo elenco di controllo con [Compliance Manager](/microsoft-365/compliance/compliance-manager) usando il codice e il nome dei controlli nel riquadro del GDPR che comprende i controlli gestiti dai clienti.
 
 Gli elenchi di controllo includono le quattro categorie di base di considerazioni per un programma sulla privacy che supporta il GDPR elencate di seguito, insieme ai requisiti di esempio.
 
@@ -75,7 +75,7 @@ Gli elenchi di controllo includono le quattro categorie di base di considerazion
 
 ## <a name="gdpr-compliance-controls"></a>Controlli per la conformità al GDPR
 
-- **Usare Compliance Manager**: esaminare e incorporare i controlli che Microsoft utilizza per supportare gli obblighi nel GDPR con [Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager).
+- **Usare Compliance Manager**: esaminare e incorporare i controlli che Microsoft utilizza per supportare gli obblighi nel GDPR con [Compliance Manager](/microsoft-365/compliance/compliance-manager).
 - **Mapping di controllo del GDPR**: accedere a un [mapping completo](https://go.microsoft.com/fwlink/p/?linkid=2052220) dei controlli di Microsoft agli obblighi del GDPR.
 
 ## <a name="records-of-processing-for-processors"></a>Registri del trattamento per i responsabili del trattamento
@@ -86,31 +86,31 @@ Vista l’ampiezza dei servizi online che forniamo in qualità di responsabili d
 
 In genere, i clienti sono interessati ai log di attività e, potenzialmente, ai log di diagnostica:
 
-- **Log di attività**: i [log di attività](https://docs.microsoft.com/azure/azure-monitor/platform/platform-logs-overview) forniscono informazioni dettagliate sulle operazioni eseguite sulle risorse di un abbonamento. I log di attività possono aiutare a determinare l’iniziatore, l'ora di occorrenza e lo stato di un'operazione.
-- **Log di diagnostica**: i [log di diagnostica](https://docs.microsoft.com/azure/azure-monitor/platform/platform-logs-overview) sono tutti i log emessi da ogni risorsa. Questi log includono i log di eventi del sistema di Windows, i log di archiviazione di Azure, i log di controllo di Key Vault e i log di accesso e firewall del gateway applicazione.
+- **Log di attività**: i [log di attività](/azure/azure-monitor/platform/platform-logs-overview) forniscono informazioni dettagliate sulle operazioni eseguite sulle risorse di un abbonamento. I log di attività possono aiutare a determinare l’iniziatore, l'ora di occorrenza e lo stato di un'operazione.
+- **Log di diagnostica**: i [log di diagnostica](/azure/azure-monitor/platform/platform-logs-overview) sono tutti i log emessi da ogni risorsa. Questi log includono i log di eventi del sistema di Windows, i log di archiviazione di Azure, i log di controllo di Key Vault e i log di accesso e firewall del gateway applicazione.
 - **Archiviazione dei log**: tutti i log di diagnostica scrivono su un account di archiviazione di Azure centralizzato e crittografato per l'archiviazione. Il periodo di conservazione è configurabile dall'utente, fino a 730 giorni, per soddisfare i requisiti di conservazione specifici dell'organizzazione. Questi log si connettono ai log del Monitoraggio di Azure per l’elaborazione, l’archiviazione e la creazione di report tramite dashboard.
 
 ### <a name="other-logs"></a>Altri log
 
 Inoltre, le soluzioni di monitoraggio seguenti vengono installate nell’ambito di questa architettura. È responsabilità del cliente configurare queste soluzioni per allinearsi con i controlli di sicurezza FedRAMP:
 
-- [Valutazione AD](https://docs.microsoft.com/azure/azure-monitor/insights/ad-assessment): la soluzione Controllo integrità di Active Directory valuta il rischio e l'integrità degli ambienti server a intervalli regolari e fornisce un elenco con priorità di suggerimenti specifici per l'infrastruttura del server distribuito.
-- [Valutazione antimalware](https://docs.microsoft.com/azure/security-center/security-center-services?tabs=features-windows#supported-endpoint-protection-solutions-): report della soluzione antimalware su malware, minacce e stato di protezione.
-- [Automazione di Azure](https://docs.microsoft.com/azure/automation/automation-hybrid-runbook-worker): la soluzione Automazione di Azure consente di archiviare, eseguire e gestire runbook.
-- [Sicurezza e controllo](https://docs.microsoft.com/azure/security-center/security-center-introduction): il dashboard di Sicurezza e controllo offre una conoscenza di alto livello sullo stato di sicurezza delle risorse, fornendo metriche sui domini di sicurezza, problemi rilevanti, rilevamenti, intelligence sulle minacce e query di sicurezza comuni.
-- [Valutazione SQL](https://docs.microsoft.com/azure/azure-monitor/insights/sql-assessment): la soluzione Controllo integrità di SQL valuta il rischio e l'integrità degli ambienti server a intervalli regolari e fornisce ai clienti un elenco con priorità di suggerimenti specifici per l'infrastruttura del server distribuito.
-- [Gestione aggiornamenti](https://docs.microsoft.com/azure/automation/update-management/update-mgmt-overview): la soluzione Gestione aggiornamenti consente ai clienti di gestire gli aggiornamenti della sicurezza dei sistemi operativi, incluso lo stato degli aggiornamenti disponibili e il processo di installazione degli aggiornamenti necessari.
-- [Integrità agente](https://docs.microsoft.com/azure/azure-monitor/insights/solution-agenthealth): la soluzione Integrità agente indica il numero di agenti distribuiti e la relativa distribuzione geografica, nonché il numero di agenti che non rispondono e il numero di agenti che inviano dati operativi.
-- [Log di attività di Azure](https://docs.microsoft.com/azure/azure-monitor/platform/activity-log): la soluzione Analisi log attività fornisce supporto per l'analisi dei log attività di Azure in tutti gli abbonamenti ad Azure di un cliente.
-- [Rilevamento modifiche](https://docs.microsoft.com/azure/azure-monitor/platform/activity-log): la soluzione Rilevamento modifiche consente ai clienti di identificare con facilità le modifiche nell'ambiente.
+- [Valutazione AD](/azure/azure-monitor/insights/ad-assessment): la soluzione Controllo integrità di Active Directory valuta il rischio e l'integrità degli ambienti server a intervalli regolari e fornisce un elenco con priorità di suggerimenti specifici per l'infrastruttura del server distribuito.
+- [Valutazione antimalware](/azure/security-center/security-center-services?tabs=features-windows#supported-endpoint-protection-solutions-): report della soluzione antimalware su malware, minacce e stato di protezione.
+- [Automazione di Azure](/azure/automation/automation-hybrid-runbook-worker): la soluzione Automazione di Azure consente di archiviare, eseguire e gestire runbook.
+- [Sicurezza e controllo](/azure/security-center/security-center-introduction): il dashboard di Sicurezza e controllo offre una conoscenza di alto livello sullo stato di sicurezza delle risorse, fornendo metriche sui domini di sicurezza, problemi rilevanti, rilevamenti, intelligence sulle minacce e query di sicurezza comuni.
+- [Valutazione SQL](/azure/azure-monitor/insights/sql-assessment): la soluzione Controllo integrità di SQL valuta il rischio e l'integrità degli ambienti server a intervalli regolari e fornisce ai clienti un elenco con priorità di suggerimenti specifici per l'infrastruttura del server distribuito.
+- [Gestione aggiornamenti](/azure/automation/update-management/update-mgmt-overview): la soluzione Gestione aggiornamenti consente ai clienti di gestire gli aggiornamenti della sicurezza dei sistemi operativi, incluso lo stato degli aggiornamenti disponibili e il processo di installazione degli aggiornamenti necessari.
+- [Integrità agente](/azure/azure-monitor/insights/solution-agenthealth): la soluzione Integrità agente indica il numero di agenti distribuiti e la relativa distribuzione geografica, nonché il numero di agenti che non rispondono e il numero di agenti che inviano dati operativi.
+- [Log di attività di Azure](/azure/azure-monitor/platform/activity-log): la soluzione Analisi log attività fornisce supporto per l'analisi dei log attività di Azure in tutti gli abbonamenti ad Azure di un cliente.
+- [Rilevamento modifiche](/azure/azure-monitor/platform/activity-log): la soluzione Rilevamento modifiche consente ai clienti di identificare con facilità le modifiche nell'ambiente.
 
-Per informazioni sulle misure tecniche e di sicurezza per Azure, si consiglia ai clienti del titolare del trattamento di visitare la [Documentazione sulla sicurezza di Azure](https://docs.microsoft.com/azure/security/). Poiché Microsoft non sa se i dati dei clienti sono dati personali o meno, Azure elabora tutti i dati dei clienti come se si trattasse di dati personali, in modo che un cliente possa considerare tutto il materiale rilevante.
+Per informazioni sulle misure tecniche e di sicurezza per Azure, si consiglia ai clienti del titolare del trattamento di visitare la [Documentazione sulla sicurezza di Azure](/azure/security/). Poiché Microsoft non sa se i dati dei clienti sono dati personali o meno, Azure elabora tutti i dati dei clienti come se si trattasse di dati personali, in modo che un cliente possa considerare tutto il materiale rilevante.
 
 ### <a name="processor-information"></a>Informazioni sul responsabile del trattamento
 
-Un altro prodotto per il quale potrebbe essere richiesto ai nostri clienti un registro del trattamento per i responsabili del trattamento è Office 365. Per le informazioni relative a Office 365, vedere l’articolo [Ricerca log di controllo nel Centro sicurezza e conformità](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance).
+Un altro prodotto per il quale potrebbe essere richiesto ai nostri clienti un registro del trattamento per i responsabili del trattamento è Office 365. Per le informazioni relative a Office 365, vedere l’articolo [Ricerca log di controllo nel Centro sicurezza e conformità](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance).
 
-È anche possibile vedere le informazioni relative a Dynamics 365 tramite il Centro sicurezza e conformità.  Per visualizzare la pagina del Centro sicurezza e conformità, assicurarsi di avere la licenza corretta. Altre informazioni sulla gestione delle licenze nell’articolo [Descrizione del servizio Centro sicurezza e conformità](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center). Per cercare gli eventi di Dynamics 365, visitare il log di controllo unificato nel [Centro sicurezza e conformità](https://protection.office.com/unifiedauditlog).
+È anche possibile vedere le informazioni relative a Dynamics 365 tramite il Centro sicurezza e conformità.  Per visualizzare la pagina del Centro sicurezza e conformità, assicurarsi di avere la licenza corretta. Altre informazioni sulla gestione delle licenze nell’articolo [Descrizione del servizio Centro sicurezza e conformità](/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center). Per cercare gli eventi di Dynamics 365, visitare il log di controllo unificato nel [Centro sicurezza e conformità](https://protection.office.com/unifiedauditlog).
 
 ### <a name="professional-services-information"></a>Informazioni su Professional Services 
 

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 4c14d32a172dc5d6ea934abb20c7df956d43d3bb
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 75ab80c2b017e7fe4576f145db50465ea71e2d41
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509270"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50119915"
 ---
 # <a name="personal-data-protection-act-pdpa-argentina"></a>Legge sulla protezione dei dati personali in Argentina
 
@@ -41,7 +41,7 @@ Le misure di sicurezza tecniche e organizzative implementate nei servizi cloud p
 
 L'accordo sul trasferimento dei dati di Microsoft è una modifica (ID modifica M314) alle condizioni sull'elaborazione dei dati presenti nelle Condizioni di Microsoft Online Services. Aggiunge importanti novità, tra cui l'impegno di Microsoft di informare il cliente di qualsiasi richiesta legalmente vincolante di divulgazione dei suoi dati personali, di inviare i dati a strutture di elaborazione per un controllo su richiesta del cliente presentata dal cliente o da terze parti indipendenti e di ottenere il previo consenso scritto per l'uso di terzisti.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud Microsoft inclusi
+## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud Microsoft inclusi nell'ambito
 
 - [Azure e Azure DevOps](https://gallery.technet.microsoft.com/Overview-of-Azure-c1be3942)
 - [Dynamics 365](https://download.microsoft.com/download/E/1/9/E1977163-7A86-4812-AC18-C03ADC958AAF/Microsoft_Dynamics_365_Cloud_Service_Compliance_Datasheet.pdf)
@@ -50,7 +50,7 @@ L'accordo sul trasferimento dei dati di Microsoft è una modifica (ID modifica M
 ## <a name="how-to-implement"></a>Come eseguire l'implementazione
 
 - [Privacy nei servizi Microsoft Cloud](https://www.microsoft.com/download/details.aspx?id=55710): informazioni dettagliate sui principi e sugli standard di privacy di Microsoft e sulle specifiche leggi sulla privacy dell'Argentina.  
-- [Protezione dei dati di Azure](https://docs.microsoft.com/azure/security/azure-protection-of-customer-data): Azure garantisce ai clienti una sicurezza dei dati avanzata, sia per impostazione predefinita che come opzione disponibile per i clienti.
+- [Protezione dei dati di Azure](/azure/security/azure-protection-of-customer-data): Azure garantisce ai clienti una sicurezza dei dati avanzata, sia per impostazione predefinita che come opzione disponibile per i clienti.
 
 ## <a name="frequently-asked-questions"></a>Domande frequenti
 
@@ -58,9 +58,9 @@ L'accordo sul trasferimento dei dati di Microsoft è una modifica (ID modifica M
 
 Alla fine del 2018, l'Argentina non aveva ancora promulgato regolamenti relativi al GDPR, ma aveva preparato un nuovo progetto di legge sulla protezione dei dati, già inviato al Congresso dal potere esecutivo e in fase di revisione da parte della Camera dei Deputati, per allineare la sua legge sulla protezione dei dati al GDPR. Affronta divergenze come la definizione degli interessati e le preoccupazioni sul trasferimento transfrontaliero delle informazioni personali.
 
-## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usare Microsoft Compliance Manager per la valutazione dei rischi
+## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usare Microsoft Compliance Manager per valutare i rischi
 
-[Microsoft Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) è una funzionalità del [Centro conformità Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) utile per comprendere lo stato di conformità dell'organizzazione e adottare misure per ridurre i rischi. Compliance Manager offre un modello premium per creare una valutazione per questa normativa. È possibile trovare il modello nella pagina dei **modelli di valutazione** in Compliance Manager. Informazioni su come [creare valutazioni in Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
+[Microsoft Compliance Manager](/microsoft-365/compliance/compliance-manager) è una funzionalità nel [Centro conformità Microsoft 365](/microsoft-365/compliance/microsoft-365-compliance-center) utile per comprendere lo stato di conformità dell'organizzazione e intraprendere azioni per ridurre i rischi. Compliance Manager offre un modello premium per creare una valutazione per questa normativa. Individuare il modello nella pagina **modelli di valutazioni** in Compliance Manager. Informazioni su come [creare valutazioni in Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments).
 
 ## <a name="resources"></a>Risorse
 

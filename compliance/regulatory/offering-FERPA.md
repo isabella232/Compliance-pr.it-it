@@ -1,6 +1,6 @@
 ---
-title: Legge sull'educazione alla famiglia e la Privacy Act (FERPA)
-description: Microsoft è allineato ai requisiti della legge sull'educazione alla famiglia degli Stati Uniti e sulla Privacy Act.
+title: Family Educational Rights and Privacy Act (FERPA)
+description: Microsoft è in linea con i requisiti del Family Educational Rights and Privacy Act degli Stati Uniti.
 keywords: Microsoft 365, conformità, offerte
 localization_priority: None
 ms.prod: microsoft-365-enterprise
@@ -16,42 +16,42 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 761fc250fe5ea6fd9bbd0a1b886a8097ee131854
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 659ce7a4de3779a81731133bb9077d5bff04b473
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507958"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120895"
 ---
-# <a name="family-educational-rights-and-privacy-act-ferpa"></a>Legge sull'educazione alla famiglia e la Privacy Act (FERPA)
+# <a name="family-educational-rights-and-privacy-act-ferpa"></a>Family Educational Rights and Privacy Act (FERPA)
 
-## <a name="ferpa-overview"></a>Panoramica di FERPA
+## <a name="ferpa-overview"></a>Panoramica ferPA
 
-La Family Educational Rights and Privacy Act (FERPA) è una legge federale degli Stati Uniti che protegge la privacy dei record scolastici degli studenti, compresi i dati di identificazione personale e di directory. FERPA è stato emanato per garantire che i genitori e gli studenti di età pari a 18 anni possano accedere a tali record, richiedere loro modifiche e controllare la divulgazione di informazioni, tranne in casi specifici e limitati in cui FERPA consente la divulgazione senza consenso.
+Il Family Educational Rights and Privacy Act (FERPA) è una legge federale degli Stati Uniti che protegge la privacy dei record didattici degli studenti, incluse informazioni personali e directory. Il FERPA è stato promulgato per garantire che genitori e studenti di età superiore a 18 anni possano accedere a tali record, richiedere modifiche e controllare la divulgazione di informazioni, tranne in casi specifici e limitati in cui il FERPA consente la divulgazione senza consenso.
 
-La legge si applica alle scuole, ai distretti scolastici e a qualsiasi altra istituzione che riceve finanziamenti dal dipartimento dell'istruzione degli Stati Uniti, ovvero quasi tutte le scuole e i distretti scolastici pubblici, nonché la maggior parte delle istituzioni post-secondarie, sia pubbliche che private.
+La legge si applica alle scuole, ai distretti scolastici e a qualsiasi altro istituto che riceve i fondi dal Dipartimento dell'istruzione degli Stati Uniti, ovvero praticamente tutti gli istituti scolastici e i distretti scolastici pubblici K-12, nonché la maggior parte degli istituti post-secondari, pubblici e privati.
 
-La sicurezza è fondamentale per la conformità con FERPA, che richiede la protezione delle informazioni degli studenti da divulgazioni non autorizzate. Gli istituti di istruzione che utilizzano cloud computing devono rassicurazioni contrattuali che un fornitore di tecnologia gestisce adeguatamente i dati degli studenti sensibili.
+La sicurezza è fondamentale per la conformità al FERPA, che richiede la protezione delle informazioni degli studenti da divulgazioni non autorizzate. Gli istituti didattici che usano il cloud computing necessitano di rassicurazioni contrattuali sul fatto che un fornitore di tecnologia gestisca in modo appropriato i dati sensibili degli studenti.
 
 ## <a name="microsoft-and-ferpa"></a>Microsoft e (FERPA)
 
-FERPA non richiede o riconosce audit o altre certificazioni, quindi qualsiasi istituzione accademica soggetta a FERPA deve valutare se e come l'utilizzo di un servizio cloud influisce sulla capacità di conformarsi ai requisiti di FERPA. Tuttavia, Microsoft ha apportato i seguenti impegni contrattuali che ne attestano la conformità:
+Il FERPA non richiede o riconosce controlli o altre certificazioni, pertanto qualsiasi istituto accademico soggetto a FERPA deve valutare se e in che modo l'uso di un servizio cloud influisce sulla capacità di soddisfare i requisiti FERPA. Tuttavia, Microsoft ha preso i seguenti impegni contrattuali che attestano la sua conformità:
 
-- Nelle [condizioni dei servizi online](https://aka.ms/Online-Services-Terms)Microsoft accetta di essere designato come "funzionario scolastico" con "interessi educativi legittimi" nei dati dei clienti, come definito in FERPA. I dati dei clienti includono eventuali record di studenti forniti tramite l'utilizzo di una scuola dei servizi cloud Microsoft. Quando si gestiscono i record di educazione degli studenti, Microsoft accetta di rispettare le limitazioni e i requisiti imposti da 34 CFR 99.33 (a) proprio come fanno i funzionari scolastici.
-- Microsoft si impegna inoltre a utilizzare i dati dei clienti solo per fornire alle organizzazioni i propri servizi cloud e i relativi scopi compatibili (come il miglioramento del rilevamento di malware) e non i dati dei clienti per la pubblicità.
-- Microsoft si impegna anche contrattualmente a non divulgare i dati dei clienti, ad eccezione del fatto che l'Istituto di istruzione indirizza, come descritto nel contratto, o come richiesto dalla legge. Gli istituti scolastici che forniscono i record di istruzione a Microsoft tramite l'utilizzo di un servizio cloud Microsoft possono quindi essere certi che tali record siano soggetti a severi vincoli contrattuali relativi all'utilizzo e alla divulgazione.
+- Nelle condizioni [dei servizi online,](https://aka.ms/Online-Services-Terms)Microsoft accetta di essere designato come "funzionario scolastico" con "legittimi interessi didattici" nei dati dei clienti come definito dal FERPA. I dati dei clienti includono i record degli studenti forniti tramite l'uso dei servizi cloud Microsoft da parte di un istituto di istruzione. Durante la gestione dei record dell'istruzione degli studenti, Microsoft accetta di rispettare le limitazioni e i requisiti imposti da 34 CFR 99.33(a) proprio come fanno i funzionari scolastici.
+- Inoltre, Microsoft si impegna a usare i dati dei clienti solo per fornire alle organizzazioni i propri servizi cloud e scopi compatibili (ad esempio, migliorare il rilevamento di malware) e non estrae i dati dei clienti per la pubblicità.
+- Microsoft inoltre si impegna contrattualmente a non divulgare i dati dei clienti se non come indicato dall'istituto di istruzione, come descritto nel contratto o come richiesto dalla legge. Gli istituti di istruzione che forniscono i record di istruzione a Microsoft tramite l'uso di un servizio cloud Microsoft possono pertanto essere certi che tali record sono soggetti a stringenti restrizioni contrattuali in merito all'uso e alla divulgazione.
 
-A causa di questi impegni contrattuali, i clienti che sono soggetti a FERPA, sia istituzioni educative che terze parti a cui danno accesso ai dati riservati degli studenti, possono utilizzare con sicurezza i servizi cloud aziendali di Microsoft per elaborare, archiviare e trasmettere tali dati.
+Come conseguenza di questi impegni contrattuali, i clienti soggetti al FERPA, sia degli istituti di istruzione che di terze parti a cui concediamo l'accesso ai dati sensibili degli studenti, possono usare con sicurezza i servizi cloud aziendali Microsoft nell'ambito per elaborare, archiviare e trasmettere tali dati.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud Microsoft associati
+## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud Microsoft in ambito
 
-I servizi per i quali Microsoft accetta di essere designati come ' ufficiali scolastici ' con ' interessi scolastici legittimi ' nei dati dei clienti includono:
+I servizi per i quali Microsoft accetta di essere designato come "funzionario scolastico" con "legittimi interessi didattici" nei dati dei clienti includono:
 
 - [Azure](https://aka.ms/AzureCompliance)
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune
 - [Office 365, Office 365 U.S. Government e Office 365 U.S. Government Defense](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
-- Power BI, PowerApps e Power automatizzate (in precedenza Microsoft Flow) come servizio autonomo o come incluso in un piano o in una famiglia di prodotti di Office 365
+- Power BI, PowerApps e Power Automate (in precedenza Microsoft Flow) come servizio autonomo o incluso in un piano o in una famiglia di prodotti Office 365
 - Azure DevOps Services
 - Windows Defender ATP
 
@@ -61,25 +61,25 @@ FERPA non richiede o riconosce controlli o certificazioni.
 
 ## <a name="frequently-asked-questions"></a>Domande frequenti
 
-**Perché FERPA è importante?**
+**Perché il FERPA è importante?**
 
-La legge federale degli Stati Uniti incarica la protezione della privacy dei record scolastici degli studenti. Fornisce inoltre ai genitori e agli studenti idonei l'accesso a tali record e la possibilità di correggerli, nonché alcuni diritti relativi alla pubblicazione di record su terze parti.
+Questa legge federale degli Stati Uniti impone la protezione della privacy dei record didattici degli studenti. Offre inoltre ai genitori e agli studenti idonei l'accesso a tali record e la possibilità di correggerli, nonché alcuni diritti relativi al rilascio di record a terze parti.
 
-**Dove è possibile trovare ulteriori informazioni su FERPA?**
+**Dove posso trovare altre informazioni su FERPA?**
 
-- [Federal Register: regola finale di FERPA](https://aka.ms/ferpa-reg) (2011 dicembre)
-- [Linee guida generali di FERPA per i genitori](https://www2.ed.gov/policy/gen/guid/fpco/ferpa/parents.html)
+- [Registro federale: Regola finale FERPA](https://aka.ms/ferpa-reg) (dicembre 2011)
+- [Linee guida generali FERPA per i genitori](https://www2.ed.gov/policy/gen/guid/fpco/ferpa/parents.html)
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usare Microsoft Compliance Manager per valutare i rischi
 
-[Microsoft Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) è una funzionalità del [Centro conformità Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) utile per comprendere lo stato di conformità dell'organizzazione e adottare misure per ridurre i rischi. Compliance Manager offre un modello premium per creare una valutazione per questa normativa. È possibile trovare il modello nella pagina dei **modelli di valutazione** in Compliance Manager. Informazioni su come [creare valutazioni in Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
+[Microsoft Compliance Manager](/microsoft-365/compliance/compliance-manager) è una funzionalità nel [Centro conformità Microsoft 365](/microsoft-365/compliance/microsoft-365-compliance-center) utile per comprendere lo stato di conformità dell'organizzazione e intraprendere azioni per ridurre i rischi. Compliance Manager offre un modello premium per creare una valutazione per questa normativa. Individuare il modello nella pagina **modelli di valutazioni** in Compliance Manager. Informazioni su come [creare valutazioni in Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments).
 
 ## <a name="resources"></a>Risorse
 
-- [Diritti educativi familiari e Privacy Act](https://www.ed.gov/policy/gen/guid/fpco/ferpa/index.html)
+- [Family Educational Rights and Privacy Act](https://www.ed.gov/policy/gen/guid/fpco/ferpa/index.html)
 - [Codice elettronico delle normative federali: FERPA](https://aka.ms/FERPA-GPO)
-- [Federal Register: regola finale di FERPA](https://aka.ms/ferpa-reg)
-- [Guida all'implementazione di FERPA per Microsoft Azure](https://aka.ms/azureferpa)
-- [Mapping del Framework di conformità di FERPA di Azure](https://aka.ms/AzureFERPAMapping)
+- [Registro federale: regola finale FERPA](https://aka.ms/ferpa-reg)
+- [Guida all'implementazione FERPA per Microsoft Azure](https://aka.ms/azureferpa)
+- [Mapping del framework di conformità FERPA di Azure](https://aka.ms/AzureFERPAMapping)
 - [Condizioni di Microsoft Online Services](https://aka.ms/Online-Services-Terms)
 - [Conformità nel Centro protezione Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)

@@ -1,6 +1,6 @@
 ---
-title: Regno Unito Cyber Essentials PLUS
-description: Cyber Essentials PLUS è uno schema definito dal governo del Regno Unito per aiutare le organizzazioni a proteggere contro le minacce comuni sulla sicurezza cibernetica.
+title: Regno Unito - Cyber Essentials PLUS
+description: Cyber Essentials PLUS è uno schema definito dal governo del Regno Unito per aiutare le organizzazioni a proteggersi dalle comuni minacce alla cyber-sicurezza.
 keywords: Microsoft 365, conformità, offerte
 localization_priority: None
 ms.prod: microsoft-365-enterprise
@@ -16,44 +16,44 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 30fa8eec5e496a8e94fcb0bf65c6679c6eb96300
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: c3064fe2e88a3002ea6b2b17f15b8137840ec7f8
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508037"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121705"
 ---
-# <a name="united-kingdom-cyber-essentials-plus"></a>Regno Unito Cyber Essentials PLUS
+# <a name="united-kingdom-cyber-essentials-plus"></a>Regno Unito - Cyber Essentials PLUS
 
-## <a name="uk-cyber-essentials-plus-overview"></a>Informazioni generali su Cyber Essentials PLUS
+## <a name="uk-cyber-essentials-plus-overview"></a>Panoramica di Cyber Essentials PLUS nel Regno Unito
 
-Cyber Essentials è uno schema di supporto governativo del Regno Unito, studiato per aiutare le organizzazioni a valutare e mitigare i rischi causati dalle minacce comuni di sicurezza cibernetica ai propri sistemi IT. Lo schema di Cyber Essentials è uno standard di sicurezza cibernetico che identifica i controlli di sicurezza di un'organizzazione che devono essere posizionati nei rispettivi sistemi IT. Lo schema di Cyber Essentials è un requisito per tutti i fornitori del governo del Regno Unito che gestiscono i dati personali. Il badge Cyber Essentials consente a un'organizzazione di dimostrare la possibilità di:
+Cyber Essentials è uno schema supportato dal governo del Regno Unito progettato per aiutare le organizzazioni a valutare e ridurre i rischi derivanti dalle comuni minacce alla cyber security per i propri sistemi IT. Lo schema Cyber Essentials è uno standard di cyber security che identifica i controlli di sicurezza che un'organizzazione deve avere in atto all'interno dei propri sistemi IT. Lo schema Cyber Essentials è un requisito per tutti i fornitori del governo del Regno Unito che si occupa della gestione dei dati personali. Il badge Di Cyber Essentials consente a un'organizzazione di dimostrare la capacità di:
 
-- Identificare i potenziali rischi che consentono alle organizzazioni di proteggere meglio le minacce informatiche comuni.
-- Dimostra che un'organizzazione ha adottato i controlli di sicurezza appropriati per proteggere i dati dei clienti.
-- Diventare conformi alle aspettative del governo del Regno Unito per i requisiti essenziali di sicurezza cibernetica e idonei all'offerta per i contratti governativi BRITANNIci.
+- Identificare i potenziali rischi per aiutare le organizzazioni a proteggersi meglio dalle minacce informatiche comuni.
+- Dimostrare che un'organizzazione ha adottato i controlli di sicurezza adeguati per proteggere i dati dei clienti.
+- Diventare conformi alle aspettative del governo del Regno Unito per i requisiti di Cyber Security Essential ed essere idonei a fare offerte per i contratti del governo del Regno Unito.
 
-Lo schema di Cyber Essentials è stato ideato per i fornitori del governo britannico per individuare potenziali debolezze nei propri sistemi IT e software in grado di sfruttare i dati dei clienti. La metodologia ha definito due diversi livelli di certificazione:
+Lo schema Cyber Essentials è progettato per i fornitori del governo del Regno Unito per identificare potenziali punti deboli nei sistemi IT e nel software che potrebbero sfruttare i dati dei clienti. La metodologia ha definito due diversi livelli di certificazione:
 
-- Cyber Essentials è il primo livello e include una valutazione automatica per le organizzazioni per controllare i più importanti controlli di sicurezza IT dell'infrastruttura IT. Le risposte sono esaminate in modo indipendente da un organismo di certificazione esterno.
-- Cyber Essentials PLUS offre gli stessi controlli per la copertura dei sistemi informatici e include anche ulteriore garanzia mediante l'esecuzione di test di sistema sui controlli implementati tramite un organismo di certificazione di terze parti autorizzato.
+- Cyber Essentials è il primo livello e include un'autovalutazione per le organizzazioni per controllare i controlli di sicurezza IT più importanti dell'infrastruttura IT. Le risposte vengono esaminate in modo indipendente da un organismo di certificazione esterno.
+- Cyber Essentials PLUS offre la stessa copertura dei controlli di Cyber Essentials e include anche un'ulteriore garanzia eseguendo test dei sistemi dei controlli implementati tramite un organismo di certificazione di terze parti autorizzato.
 
 ## <a name="microsoft-and-uk-cyber-essentials-plus"></a>Microsoft e UK Cyber Essentials PLUS
 
-Microsoft Azure ha raggiunto il badge Cyber Essentials PLUS e soddisfa i requisiti descritti nello [schema Cyber Essentials](https://go.microsoft.com/fwlink/p/?linkid=2099398). I sistemi di produzione di Azure sono spesso testati e controllati per fornire la prova di un portafoglio di conformità leader a livello mondiale.
+Microsoft Azure ha raggiunto il badge Di Cyber Essentials PLUS e soddisfa i requisiti descritti nello [Schema Cyber Essentials.](https://go.microsoft.com/fwlink/p/?linkid=2099398) I sistemi di produzione di Azure vengono spesso testati e controllati per fornire prove di un portfolio di conformità leader a livello mondiale.
 
-La [certificazione di Azure Cyber Essentials Plus](https://aka.ms/AzureCyberEPlusCert), che si applica alla nostra operazione globale di Azure, è disponibile per il download.
+La [certificazione Azure Cyber Essentials PLUS,](https://aka.ms/AzureCyberEPlusCert)che si applica al funzionamento globale di Azure, è disponibile per il download.
 
 ## <a name="audits-reports-and-certificates"></a>Controlli, report e certificati
 
 - [Report di conformità di Azure Cyber Essentials PLUS](https://aka.ms/AzureCyberEPlusReport)
-- [Certificazione di Azure Cyber Essentials PLUS](https://aka.ms/AzureCyberEPlusCert)
+- [Certificazione Azure Cyber Essentials PLUS](https://aka.ms/AzureCyberEPlusCert)
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usare Microsoft Compliance Manager per valutare i rischi
 
-[Microsoft Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) è una funzionalità del [Centro conformità Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) utile per comprendere lo stato di conformità dell'organizzazione e adottare misure per ridurre i rischi. Compliance Manager offre un modello premium per creare una valutazione per questa normativa. È possibile trovare il modello nella pagina dei **modelli di valutazione** in Compliance Manager. Informazioni su come [creare valutazioni in Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
+[Microsoft Compliance Manager](/microsoft-365/compliance/compliance-manager) è una funzionalità nel [Centro conformità Microsoft 365](/microsoft-365/compliance/microsoft-365-compliance-center) utile per comprendere lo stato di conformità dell'organizzazione e intraprendere azioni per ridurre i rischi. Compliance Manager offre un modello premium per creare una valutazione per questa normativa. Individuare il modello nella pagina **modelli di valutazioni** in Compliance Manager. Informazioni su come [creare valutazioni in Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments).
 
 ## <a name="resources"></a>Risorse
 
-- [Schema di Cyber Essentials: Framework Assurance](https://www.cyberaware.gov.uk/cyberessentials/files/assurance-framework.pdf)
+- [Schema Cyber Essentials: framework di garanzia](https://www.cyberaware.gov.uk/cyberessentials/files/assurance-framework.pdf)
 - [Conformità nel Centro protezione Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)

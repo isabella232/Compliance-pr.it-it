@@ -16,26 +16,26 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: ac0915f6209a9024f8dcaae5ce2fed8ab8186b9a
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: e4907cabfc1dededfafd83ea4c2924c97651246f
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507918"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120215"
 ---
 # <a name="iso-223012012-business-continuity-management-standard"></a>Standard di gestione della continuità aziendale ISO 22301:2012
 
 ## <a name="iso-22301-overview"></a>Panoramica di ISO 22301
 
-International Organization for Standardization (ISO) è un'organizzazione non governativa indipendente nonché il più grande sviluppatore al mondo di standard internazionali volontari. ISO ha costituito il comitato tecnico TC 223 "Societal Security", incaricato di sviluppare standard per la protezione della società, incluse le organizzazioni, in caso di catastrofe, ad esempio una calamità naturale, un grave attacco o un blackout.
+International Organization for Standardization (ISO) è un'organizzazione non governativa indipendente nonché il più grande sviluppatore al mondo di standard internazionali volontari.. ISO ha costituito il comitato tecnico TC 223 "Societal Security", incaricato di sviluppare standard per la protezione della società, incluse le organizzazioni, in caso di catastrofe, ad esempio una calamità naturale, un grave attacco o un blackout.
 
-Pubblicato nel 2012 dal comitato tecnico, ISO 22301:2012 è il primo standard internazionale per i sistemi di gestione che contribuiscono a garantire la continuità aziendale. ISO 22301 è lo standard premium per la continuità aziendale e la certificazione dimostra la conformità a prassi rigorose per prevenire, mitigare, rispondere a e ripristinare le operazioni in seguito a eventi disastrosi.
+Pubblicato nel 2012 dal comitato tecnico, ISO 22301:2012 è il primo standard internazionale per i sistemi di gestione che contribuiscono a garantire la continuità aziendale. ISO 22301 è lo standard premium per la continuità aziendale e la certificazione dimostra la conformità a prassi rigorose per prevenire, mitigare, rispondere e riprendere le operazioni dopo eventi disastrosi.
 
 ## <a name="microsoft-and-iso-22301"></a>Microsoft e ISO 22301
 
 Microsoft è stato il primo provider di servizi cloud iperscalabile a ricevere la certificazione ISO 22301 per la gestione della continuità aziendale. Un organismo di certificazione indipendente ha rilasciato questa certificazione a Microsoft Azure, Microsoft Azure per enti pubblici, Microsoft Office 365 (incluse le offerte commerciali, per enti pubblici e per l'istruzione), Microsoft Cloud App Security, Microsoft Intune e Microsoft Power BI dopo un controllo rigoroso di tutti gli aspetti dei processi di continuità aziendale. Il controllo ha riguardato i servizi in ambito elencati di seguito e le funzionalità di gestione di Azure, il portale di Azure e i sistemi usati per monitorare, gestire e aggiornare i servizi rientranti nell'ambito.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud Microsoft associati
+## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud Microsoft inclusi
 
 - [Azure, Azure per enti pubblici e Azure Germania](https://aka.ms/AzureCompliance)
 - Microsoft Cloud App Security
@@ -65,7 +65,7 @@ Microsoft è stato il primo provider di servizi cloud iperscalabile a ricevere l
 
 ISO 22301 è una certificazione usata dalle aziende e dalle organizzazioni pubbliche per dimostrare il proprio impegno nei confronti dei clienti applicando il più elevato standard internazionale disponibile per la gestione della continuità aziendale. ISO 22301 è uno standard completo che dimostra il più alto livello di impegno per la continuità aziendale e la preparazione alle emergenze.
 
-**Dove è possibile reperire i report di controllo e le dichiarazioni di ambito di ISO 22301 per i servizi Microsoft?**
+**Dove posso reperire i report di controllo e le dichiarazioni di ambito di ISO 22301 per i servizi Microsoft?**
 
 Il [Service Trust Portal](https://aka.ms/stphelp) fornisce report di conformità controllati in modo indipendente, in modo che i revisori possano confrontare i risultati dei servizi cloud di Microsoft ai requisiti normativi e legali che li riguardano.
 
@@ -75,14 +75,14 @@ Sì. Se l'azienda richiede la certificazione ISO 22301 per le implementazioni di
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usare Microsoft Compliance Manager per valutare i rischi
 
-[Microsoft Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) è una funzionalità del [Centro conformità Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) utile per comprendere lo stato di conformità dell'organizzazione e adottare misure per ridurre i rischi. Compliance Manager offre un modello premium per creare una valutazione per questa normativa. È possibile trovare il modello nella pagina dei **modelli di valutazione** in Compliance Manager. Informazioni su come [creare valutazioni in Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
+[Microsoft Compliance Manager](/microsoft-365/compliance/compliance-manager) è una funzionalità nel [Centro conformità Microsoft 365](/microsoft-365/compliance/microsoft-365-compliance-center) utile per comprendere lo stato di conformità dell'organizzazione e intraprendere azioni per ridurre i rischi. Compliance Manager offre un modello premium per creare una valutazione per questa normativa. Individuare il modello nella pagina **modelli di valutazioni** in Compliance Manager. Informazioni su come [creare valutazioni in Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments).
 
 ## <a name="resources"></a>Risorse
 
 - [Standard ISO 22301:2012](https://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=50038) (per l'acquisto)
-- [Informazioni tecniche sulla resilienza di Azure ](https://docs.microsoft.com/azure/architecture/framework/resiliency/overview) (illustra il modello di responsabilità condivisa di Azure per la continuità aziendale).
+- [Informazioni tecniche sulla resilienza di Azure ](/azure/architecture/framework/resiliency/overview) (illustra il modello di responsabilità condivisa di Azure per la continuità aziendale).
 - [Hub dei controlli comuni del framework di conformità Microsoft](https://www.microsoft.com/trustcenter/common-controls-hub)
 - [Condizioni di Microsoft Online Services](https://aka.ms/Online-Services-Terms)
 - [Descrizione del programma di gestione della continuità aziendale Microsoft](https://go.microsoft.com/fwlink/p/?linkid=2092212)
-- [punteggio di conformità](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager)
+- [punteggio di conformità](/microsoft-365/compliance/compliance-manager)
 - [Conformità nel Centro protezione Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)

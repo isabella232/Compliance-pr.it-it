@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 972cd483c4976e683e359c52a78067e3d3faeb3a
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: abe7b849b8cb10ddbe11eb1a95a972d244ac43c3
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508338"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120085"
 ---
 # <a name="national-bank-of-belgium-nbb-and-the-financial-services-and-markets-authority-fsma"></a>Banca nazionale del Belgio e FSMA (Financial Services Markets Authority)
 
@@ -60,7 +60,7 @@ L'elenco di controllo di Microsoft consente alle società finanziarie in Belgio 
 
 - [Elenco di controllo di conformità: Belgio](https://aka.ms/FinServ-Guide-Belgium): gli istituti finanziari possono ottenere assistenza per la valutazione dei rischi dei servizi cloud Microsoft.
 - [Guida alla valutazione dei rischi e alla conformità](https://aka.ms/RiskGovernanceGuide): creare un modello di governance per la valutazione dei rischi dei servizi cloud Microsoft e la notifica all'organismo di regolamentazione.
-- [Casi di utilizzo del settore finanziario](https://docs.microsoft.com/azure/industry/financial/): i casi di utilizzo, le guide e le altre risorse aiutano a sviluppare le soluzioni Azure per i servizi finanziari.
+- [Casi di utilizzo del settore finanziario](/azure/industry/financial/): i casi di utilizzo, le guide e le altre risorse aiutano a sviluppare le soluzioni Azure per i servizi finanziari.
 
 ## <a name="frequently-asked-questions"></a>Domande frequenti
 
@@ -72,9 +72,9 @@ No. Tuttavia, gli istituti finanziari devono informare la Banca nazionale del Be
 
 Sì. Esistono punti specifici che gli istituti finanziari devono inserire nei propri contratti con i fornitori di servizi cloud. La parte 2 dell'[elenco di controllo di Microsoft](https://aka.ms/FinServ-Guide-Belgium) (pagina 49) illustra tali punti nelle relative sezioni dei documenti contrattuali Microsoft.
 
-## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usare Microsoft Compliance Manager per la valutazione dei rischi
+## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usare Microsoft Compliance Manager per valutare i rischi
 
-[Microsoft Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) è una funzionalità del [Centro conformità Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) utile per comprendere lo stato di conformità dell'organizzazione e adottare misure per ridurre i rischi. Compliance Manager offre un modello premium per creare una valutazione per questa normativa. È possibile trovare il modello nella pagina dei **modelli di valutazione** in Compliance Manager. Informazioni su come [creare valutazioni in Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
+[Microsoft Compliance Manager](/microsoft-365/compliance/compliance-manager) è una funzionalità nel [Centro conformità Microsoft 365](/microsoft-365/compliance/microsoft-365-compliance-center) utile per comprendere lo stato di conformità dell'organizzazione e intraprendere azioni per ridurre i rischi. Compliance Manager offre un modello premium per creare una valutazione per questa normativa. Individuare il modello nella pagina **modelli di valutazioni** in Compliance Manager. Informazioni su come [creare valutazioni in Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments).
 
 ## <a name="resources"></a>Risorse
 
@@ -82,4 +82,4 @@ Sì. Esistono punti specifici che gli istituti finanziari devono inserire nei pr
 - [Servizi cloud e servizi finanziari di Microsoft per le aziende](https://www.microsoft.com/trustcenter/cloudservices/financialservices)
 - [Azure Financial Services Compliance Program](https://azure.microsoft.com/resources/videos/azurecon-2015-financial-services-compliance-in-azure/)
 - [Strumento di valutazione del rischio cloud di Azure per i servizi finanziari](https://servicetrust.microsoft.com/ViewPage/FFIECBlueprint?command=Download&downloadType=Document&downloadId=079a1973-711a-428f-9312-9ddd290cff7b&docTab=c726d5c0-2d1e-11e8-a485-57140ec19669_PaaS)
-- [Conformità nel Centro protezione di Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Conformità nel Centro protezione Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)

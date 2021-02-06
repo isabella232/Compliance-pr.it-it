@@ -1,6 +1,6 @@
 ---
 title: Controlli di accesso amministrativo in Microsoft 365
-description: In questo articolo viene fornita una panoramica dei controlli di accesso amministrativo e della categorizzazione dei dati in Microsoft 365.
+description: Questo articolo offre una panoramica dei controlli di accesso amministrativo e della categorizzazione dei dati in Microsoft 365.
 ms.author: robmazz
 author: robmazz
 manager: laurawi
@@ -19,43 +19,43 @@ ms.collection:
 - MS-Compliance
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: 6298e027b891edb0729474ea9b6052be2bf6b056
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: d3d6cd30fbe682de979d5c04943c57cedc86552f
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508646"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120715"
 ---
 # <a name="administrative-access-controls-in-microsoft-365"></a>Controlli di accesso amministrativo in Microsoft 365 
 
-Microsoft ha investito fortemente nei sistemi e nei controlli che automatizzano la maggior parte delle operazioni di Microsoft 365, limitando intenzionalmente l'accesso ai contenuti dei clienti da Microsoft. Gli esseri umani regolano il servizio e il software gestisce il servizio. Questa struttura consente a Microsoft di gestire Microsoft 365 in scala e gestire i rischi di minacce interne ai contenuti dei clienti.
+Microsoft ha investito molto in sistemi e controlli che automatizzano la maggior parte delle operazioni di Microsoft 365 limitando intenzionalmente l'accesso ai contenuti dei clienti da parte di Microsoft. Gli umani regolano il servizio e il software gestisce il servizio. Questa struttura consente a Microsoft di gestire Microsoft 365 su larga scala e di gestire i rischi delle minacce interne ai contenuti dei clienti.
 
-Per impostazione predefinita, i tecnici Microsoft dispongono di privilegi amministrativi pari a zero e di accesso a zero in piedi ai contenuti dei clienti in Microsoft 365. Un tecnico Microsoft può disporre di un accesso limitato, controllato e protetto al contenuto di un cliente per un periodo di tempo limitato. L'accesso è necessario solo per le operazioni di servizio e solo quando è approvato da un membro di Microsoft Senior Management. Per i clienti con licenza archivio protetto, il cliente fornisce l'approvazione di accesso ai propri contenuti ospitati in Microsoft 365.
+Per impostazione predefinita, i tecnici Microsoft non hanno privilegi amministrativi permanenti e non hanno accesso permanente ai contenuti dei clienti in Microsoft 365. Un tecnico Microsoft può avere accesso limitato, controllati e protetto ai contenuti di un cliente per un periodo di tempo limitato. L'accesso è solo quando necessario per le operazioni di servizio e solo se approvato da un membro del senior management Microsoft. Per i clienti con licenza Customer Lockbox, il cliente fornisce l'approvazione dell'accesso ai contenuti ospitati in Microsoft 365.
 
-Microsoft fornisce servizi online utilizzando più moduli di recapito cloud:
+Microsoft fornisce servizi online utilizzando più forme di distribuzione cloud:
 
-- **Cloud pubblici:** Include versioni multi-tenant di Microsoft 365, Azure e di altri servizi ospitati in Nord America, Sud America, Europa, Asia, Australia e così via.
-- **Nubi nazionali:** Include tutte le nubi sovrane e di terze parti al di fuori degli Stati Uniti (eccetto quelle riportate in precedenza), ad esempio Microsoft 365 in Cina (gestite da 21Vianet) e Microsoft 365 in Germania (gestite da Microsoft, ma in un modello in cui un amministratore di dati tedesco, Deutsche Telekom, controlla e monitora l'accesso di Microsoft ai dati e ai sistemi dei clienti).
-- **Cloud governativi:** Include i servizi Microsoft 365 e Azure che sono disponibili per i clienti del governo degli Stati Uniti.
+- **Cloud pubblici:** Include le versioni multi-tenant di Microsoft 365, Azure e altri servizi ospitati in Nord America, Sud America, Europa, Asia, Australia e così via.
+- **Cloud nazionali:** Include tutti i cloud sovrani e gestiti da terze parti al di fuori degli Stati Uniti (ad eccezione di quelli menzionati in precedenza), come Microsoft 365 in Cina (gestito da 21Vianet) e Microsoft 365 in Germania (gestito da Microsoft, ma secondo un modello in cui un trustee dei dati tedesco, Deutsche Telekom, controlla e monitora l'accesso di Microsoft ai dati dei clienti e ai sistemi che contengono i dati dei clienti).
+- **Cloud per enti pubblici:** Include i servizi di Microsoft 365 e Azure disponibili per i clienti del governo degli Stati Uniti.
 
-Ai fini di questo articolo, Microsoft 365 Services include:
+Ai fini di questo articolo, i servizi di Microsoft 365 includono:
 
-- [Exchange Online](https://docs.microsoft.com/Exchange/exchange-online)
-- [Exchange Online Protection](https://docs.microsoft.com/Office365/SecurityCompliance/eop/exchange-online-protection-overview)
-- [SharePoint Online](https://docs.microsoft.com/sharepoint/sharepoint-online)
-- [OneDrive for Business](https://docs.microsoft.com/OneDrive/onedrive)
-- [Skype for Business](https://docs.microsoft.com/SkypeForBusiness/skype-for-business-online)
-- [Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/Teams-overview)
-- [Yammer](https://docs.microsoft.com/yammer/yammer-landing-page)
+- [Exchange Online](/Exchange/exchange-online)
+- [Exchange Online Protection](/Office365/SecurityCompliance/eop/exchange-online-protection-overview)
+- [SharePoint Online](/sharepoint/sharepoint-online)
+- [OneDrive for Business](/OneDrive/onedrive)
+- [Skype for Business](/SkypeForBusiness/skype-for-business-online)
+- [Microsoft Teams](/MicrosoftTeams/Teams-overview)
+- [Yammer](/yammer/yammer-landing-page)
 
 ## <a name="microsoft-365-access-controls"></a>Controlli di accesso di Microsoft 365
 
-Per gli scopi di controllo di accesso, Microsoft categorizza i dati di Microsoft 365 come dati dei clienti o altri tipi di dati.
+Ai fini del controllo di accesso, Microsoft classifica i dati di Microsoft 365 come dati dei clienti o altri tipi di dati.
 
 ### <a name="customer-data"></a>Dati cliente
 
 
-I dati dei clienti sono tutti i dati forniti da o per conto di un cliente quando si utilizzano i servizi Microsoft 365. Questi dati sono contenuti dei clienti creati o caricati direttamente dagli utenti di Microsoft 365, tra cui:
+I dati dei clienti sono tutti i dati forniti da o per conto di un cliente quando si usano i servizi di Microsoft 365. Questi dati sono contenuti dei clienti creati o caricati direttamente dagli utenti di Microsoft 365, tra cui:
 
 - Messaggi di posta elettronica
 - Contenuto di SharePoint Online
@@ -63,43 +63,43 @@ I dati dei clienti sono tutti i dati forniti da o per conto di un cliente quando
 - Elementi del calendario
 - Documenti
 - Contatti
-- Informazioni identificabili dall'utente finale (EUII) (dati univoci per un utente o che sono collegabili a un singolo utente, ma non include il contenuto del cliente)
+- Informazioni di identificazione dell'utente finale (EUII) (dati univoci per un utente o che sono collegabili a un singolo utente ma che non includono il contenuto del cliente)
 
 ### <a name="other-types-of-data"></a>Altri tipi di dati
 
 Altri tipi di dati includono:
 
-- **Dati account:** Include i dati amministrativi (informazioni fornite dagli amministratori quando eseguono la registrazione o l'acquisto di servizi) e i dati di pagamento (informazioni sugli strumenti di pagamento, ad esempio i dettagli delle carte di credito).
-- **Informazioni identificabili dall'organizzazione:** Include i dati utilizzati per identificare un tenant, i dati di utilizzo e non collegabili a un singolo utente o inclusi nel contenuto del cliente.
-- **Metadati di sistema:** Include i registri dei servizi che contengono le impostazioni di configurazione, lo stato del sistema, gli indirizzi IP di Microsoft e le informazioni tecniche sugli abbonamenti e sui tenant.
+- **Dati dell'account:** Include i dati amministrativi (informazioni fornite dagli amministratori durante l'iscrizione o l'acquisto di servizi) e i dati di pagamento (informazioni sugli strumenti di pagamento, ad esempio i dettagli della carta di credito).
+- **Informazioni identificabili dall'organizzazione:** Include i dati usati per identificare un tenant, dati di utilizzo e non collegabili a un singolo utente o inclusi nel contenuto del cliente.
+- **Metadati di sistema:** Include log di servizio che contengono impostazioni di configurazione, stato del sistema, indirizzi IP Microsoft e informazioni tecniche su sottoscrizioni e tenant.
 
-Microsoft ha stabilito meccanismi di controllo di accesso per garantire che nessuno abbia accesso non autorizzato ai dati dei clienti o ai dati di controllo di accesso. I dati di controllo di accesso gestiscono l'accesso ad altri tipi di dati o funzioni all'interno dell'ambiente, tra cui l'accesso al contenuto del cliente o EUII, le password Microsoft, i certificati di sicurezza e altri dati correlati all'autenticazione. I meccanismi di controllo di accesso proteggono anche dall'accesso fisico, logico o remoto non approvato all'ambiente di produzione Microsoft 365.
+Microsoft ha stabilito meccanismi di controllo degli accessi per garantire che nessuno abbia accesso non approvato ai dati dei clienti o ai dati di controllo di accesso. I dati di controllo di accesso gestiscono l'accesso ad altri tipi di dati o funzioni all'interno dell'ambiente, tra cui l'accesso al contenuto dei clienti o all'euiie, alle password Microsoft, ai certificati di sicurezza e ad altri dati correlati all'autenticazione. I meccanismi di controllo dell'accesso sono anche di protezione dall'accesso fisico, logico o remoto non approvato all'ambiente di produzione di Microsoft 365.
 
-Sono disponibili tre categorie di controlli di accesso utilizzati da Microsoft per l'utilizzo di Microsoft 365:
+Esistono tre categorie di controlli di accesso usati da Microsoft per l'utilizzo di Microsoft 365:
 
 - Controlli di isolamento
 - Controlli del personale
-- Controlli di tecnologia
+- Controlli tecnologia
 
-Quando vengono combinati, questi controlli consentono di prevenire e rilevare azioni dannose in Microsoft 365. Oltre ai controlli di isolamento, del personale e della tecnologia utilizzati da Microsoft, esiste una quarta categoria di controlli: i controlli implementati dai clienti.
+Se combinati, questi controlli consentono di prevenire e rilevare azioni dannose in Microsoft 365. Oltre ai controlli di isolamento, personale e tecnologia utilizzati da Microsoft, esiste una quarta categoria di controlli: i controlli implementati dai clienti.
 
-Microsoft 365 consente di gestire i dati allo stesso modo in cui i dati vengono gestiti in ambienti locali. La persona che firma un'organizzazione per Microsoft 365 diventa automaticamente un amministratore globale. L'amministratore globale ha accesso a tutte le funzionalità nei portali di gestione e può:
+Microsoft 365 consente di gestire i dati nello stesso modo in cui vengono gestiti in ambienti locali. La persona che si i annota un'organizzazione per Microsoft 365 diventa automaticamente un amministratore globale. L'amministratore globale ha accesso a tutte le funzionalità dei portali di gestione e può:
 
-- Creare o modificare gli utenti
+- Creare o modificare utenti
 - Assegnare ruoli di amministratore ad altri utenti
 - Reimposta password utente
 - Gestire le licenze utente
 - Gestire domini
-- Approvare le richieste dell'archivio clienti
+- Approvare le richieste di Customer Lockbox
 
-È consigliabile che ogni organizzazione configuri almeno due account di amministratore. Per le organizzazioni aziendali di grandi dimensioni, è consigliabile disporre di account di amministrazione specializzati che svolgono funzioni diverse.
+È consigliabile configurare almeno due account amministratore per ogni organizzazione. Per le organizzazioni aziendali di grandi dimensioni, è consigliabile utilizzare account di amministratore specializzati che si servono di funzioni diverse.
 
-Per informazioni sull'assegnazione di ruoli e autorizzazioni di amministratore, vedere [assegnare ruoli di amministratore](https://docs.microsoft.com/microsoft-365/admin/add-users/assign-admin-roles) e [informazioni sui ruoli di amministratore](https://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles).
+Per informazioni sull'assegnazione di ruoli e autorizzazioni di amministratore, vedere [Assegnare](/microsoft-365/admin/add-users/assign-admin-roles) ruoli di amministratore e [Informazioni sui ruoli di amministratore.](/microsoft-365/admin/add-users/about-admin-roles)
 
 ## <a name="related-links"></a>Collegamenti correlati
 
 - [Isolamento in Microsoft 365](assurance-isolation-in-microsoft-365.md)
-- [Screening preimpiego Microsoft](assurance-pre-employment-screening.md)
-- [Controllo del background di Microsoft Cloud](assurance-cloud-background-check.md)
+- [Screening precedente all'impiego presso Microsoft](assurance-pre-employment-screening.md)
+- [Controllo in background di Microsoft Cloud](assurance-cloud-background-check.md)
 - [Monitoraggio e controllo dei controlli di accesso ](assurance-monitoring-and-auditing-access-controls.md)
 - [Controlli di accesso di Yammer Enterprise](assurance-yammer-enterprise-access-controls.md)

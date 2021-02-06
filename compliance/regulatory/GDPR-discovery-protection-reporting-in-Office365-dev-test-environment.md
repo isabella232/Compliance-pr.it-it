@@ -20,12 +20,12 @@ search.appverid:
 ms.assetid: c2112ce8-1c4b-424f-b200-59e161db2d21
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
-ms.openlocfilehash: 246c39c3bfd8f59cd2dab9c3a1b942d36942370f
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 92c98d710c34f1304ddc0a2e8acfe09c4570e97c
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507738"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121635"
 ---
 # <a name="gdpr-discovery-protection-and-reporting-in-the-devtest-environment"></a>Individuazione, protezione e creazione di report secondo il GDPR nell'ambiente di sviluppo/test
 
@@ -35,7 +35,7 @@ In questo articolo viene descritto come configurare e dimostrare l'individuazion
 
 ## <a name="phase-1-create-and-configure-your-trial-microsoft-365-subscription"></a>Fase 1: creare e configurare la sottoscrizione di valutazione di Microsoft 365
 
-Per prima cosa, attenersi alla procedura descritta nell'articolo [Fase 2 dell'ambiente di sviluppo/test di Microsoft 365](https://docs.microsoft.com/Office365/Enterprise/office-365-dev-test-environment#phase-2-create-an-office-365-trial-subscription).
+Per prima cosa, attenersi alla procedura descritta nell'articolo [Fase 2 dell'ambiente di sviluppo/test di Microsoft 365](/Office365/Enterprise/office-365-dev-test-environment#phase-2-create-an-office-365-trial-subscription).
 
 Successivamente, seguire questa procedura per configurare il responsabile di eDiscovery:
 
@@ -99,7 +99,7 @@ In questa fase, viene creato un tipo di informazione riservata personalizzato pe
 
 Contoso fa sempre riferimento ai clienti utilizzando un CCN nella corrispondenza interna/esterna, nei documenti e in altri moduli. Contoso ha bisogno di un tipo di elemento riservato personalizzato che rilevi l'uso di CCN nei contenuti di Microsoft 365 per poter applicare la protezione per l'utilizzo di questo modulo di informazioni personali.
 
-1. Usare le istruzioni per la connessione con autenticazione a più fattori (AMF) in [Connettersi a PowerShell nel centro sicurezza e conformità](https://docs.microsoft.com/powershell/exchange/connect-to-scc-powershell) e connettersi al centro sicurezza e conformità con l'UPN dell'account del proprio amministratore globale.
+1. Usare le istruzioni per la connessione con autenticazione a più fattori (AMF) in [Connettersi a PowerShell nel centro sicurezza e conformità](/powershell/exchange/connect-to-scc-powershell) e connettersi al centro sicurezza e conformità con l'UPN dell'account del proprio amministratore globale.
 
 2. Eseguire i seguenti comandi PowerShell.
 
@@ -243,4 +243,4 @@ In questa fase, viene dimostrata la creazione di report di Microsoft 365 in base
 
    1. Dalla scheda Sicurezza e conformità del browser fare clic su **Home**.
    2. Fare clic su **Report** > **Dashboard** > **Risultati dei criteri di prevenzione della perdita dei dati**.
-   3. I criteri di prevenzione della perdita dei dati consentono di identificare e proteggere le informazioni riservate dell'organizzazione. Ad esempio, il report indicherà che i criteri hanno identificato il documento che include IBAN archiviati in SharePoint Online.
+   3. I criteri DLP consentono di identificare e proteggere le informazioni riservate dell'organizzazione. Ad esempio, nel report verrà visualizzato che i criteri hanno identificato il documento che include IBAN archiviati in SharePoint Online.

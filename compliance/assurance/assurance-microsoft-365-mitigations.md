@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 per la prevenzione della gestione della continuità aziendale
+title: Misure di prevenzione della gestione della continuità aziendale di Microsoft 365 per le aziende
 description: Alcuni esempi di mitigazioni per scenari di eventi imprevisti relativi ai servizi di Microsoft 365.
 author: robmazz
 ms.author: robmazz
@@ -16,12 +16,12 @@ ms.collection:
 - Strat_O365_Enterprise
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: b31ee58d4e9a60232d7d5df4ff1bf4f16b6266cf
-ms.sourcegitcommit: 693bc6b1b51a5a9c9ff1758fa7f7ca3a204f147e
+ms.openlocfilehash: b77af73db3a6b9d9fbaf3ae776a6c5077c6972d1
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49574748"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120475"
 ---
 # <a name="service-incident-mitigation-strategies"></a>Strategie di mitigazione degli eventi imprevisti relativi ai servizi
 
@@ -37,7 +37,7 @@ In questo articolo sono illustrate alcune strategie e alcuni scenari per mitigar
 |Come metodo di comunicazione secondario vengono usati i telefoni VoIP.|Implementare telefoni non VoIP in grado di effettuare chiamate PSTN, in particolare per i centri operativi di rete e di assistenza in caso di eventi imprevisti. Aggiungere i numeri di telefono cellulare dei dipendenti alla rubrica aziendale per consentire al personale interessato di essere contattato tramite cellulare.|
 |Per l'archiviazione dei file e la produttività degli utenti si fa affidamento su OneDrive for Business. [File su richiesta](https://techcommunity.microsoft.com/t5/Microsoft-OneDrive-Blog/OneDrive-Files-On-Demand-For-The-Enterprise/ba-p/117234) è configurato in modo da liberare spazio nelle unità locali degli utenti.|La sincronizzazione di OneDrive fornisce criteri di gruppo che consentono agli amministratori di richiedere la sincronizzazione in locale di contenuti specifici o di liberare spazio se necessario. Per mitigare il rischio di inaccessibilità ai documenti, configurare questi criteri per la sincronizzazione in locale dei documenti critici. Insegnare agli utenti ad applicare manualmente l'impostazione "Conserva sempre su questo dispositivo" per i documenti chiave.|
 |Per comunicare interruzioni dei servizi aziendali a clienti e fornitori, si usa Exchange Online.|Come strumento di comunicazione di massa alternativo è possibile usare social network pubblici di terze parti.
-|L'architettura locale ibrida, come ADFS o l'autenticazione pass-through, non funziona causando interruzioni della capacità dell'utente di eseguire l'autenticazione ai servizi cloud.|Configurare la [Sincronizzazione hash password](https://docs.microsoft.com/azure/active-directory/authentication/concept-resilient-controls#deploy-password-hash-sync-even-if-you-are-federated-or-use-pass-through-authentication), in combinazione con i servizi di autenticazione ibrida, come meccanismo di autenticazione secondario basato sul cloud per evitare interruzioni di accesso durante l'interruzione. Per ulteriori informazioni sulla creazione di architetture resilienti e sui controlli di accesso, vedere [Creare una strategia resiliente per la gestione dei controlli di accesso con Azure Active Directory](https://docs.microsoft.com/azure/active-directory/authentication/concept-resilient-controls).|  
+|L'architettura locale ibrida, come ADFS o l'autenticazione pass-through, non funziona causando interruzioni della capacità dell'utente di eseguire l'autenticazione ai servizi cloud.|Configurare la [Sincronizzazione hash password](/azure/active-directory/authentication/concept-resilient-controls#deploy-password-hash-sync-even-if-you-are-federated-or-use-pass-through-authentication), in combinazione con i servizi di autenticazione ibrida, come meccanismo di autenticazione secondario basato sul cloud per evitare interruzioni di accesso durante l'interruzione. Per ulteriori informazioni sulla creazione di architetture resilienti e sui controlli di accesso, vedere [Creare una strategia resiliente per la gestione dei controlli di accesso con Azure Active Directory](/azure/active-directory/authentication/concept-resilient-controls).|  
 
 ## <a name="leveraging-mobile-app-access"></a>Sfruttare l'accesso alle app per dispositivi mobili
 

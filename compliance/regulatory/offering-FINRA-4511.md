@@ -1,6 +1,6 @@
 ---
-title: Autorità di regolamentazione del settore finanziario (FINRA) regola 4511 (c) Stati Uniti
-description: Una società di valutazione indipendente ha convalidato che Azure e Office 365 può aiutare le aziende finanziarie a rispettare la regola FINRA 4511 Records conservazione e i requisiti di archiviazione immutabili.
+title: Financial Industry Regulatory Authority (FINRA) Rule 4511(c) United States
+description: Una società di valutazione indipendente ha convalidato che Azure e Office 365 possono aiutare le società finanziarie a soddisfare i requisiti di conservazione dei record e i requisiti di archiviazione non modificabili della regola FINRA 4511.
 keywords: Microsoft 365, conformità, offerte
 localization_priority: None
 ms.prod: microsoft-365-enterprise
@@ -16,61 +16,61 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 06d95969cfcb748251352e79e21720380a54a395
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: f4a26a88ca742178d894b5e46d0372d91babba66
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509590"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120845"
 ---
-# <a name="financial-industry-regulatory-authority-finra-rule-4511c-united-states"></a>Autorità di regolamentazione del settore finanziario (FINRA) regola 4511 (c) Stati Uniti
+# <a name="financial-industry-regulatory-authority-finra-rule-4511c-united-states"></a>Financial Industry Regulatory Authority (FINRA) Rule 4511(c) United States
 
-## <a name="about-finra-rule-4511"></a>Informazioni su FINRA regola 4511
+## <a name="about-finra-rule-4511"></a>Informazioni sulla regola FINRA 4511
 
-La [Financial Industry Regulatory Authority (FINRA)](https://www.finra.org/#/) è il più grande organismo indipendente che disciplina le aziende di titoli con la supervisione di oltre 4.500 società di brokeraggio negli Stati Uniti. È stato autorizzato dal Congresso degli Stati Uniti "per proteggere gli investitori dell'America facendo in modo che l'industria del broker-dealer operi in maniera equa e onesta".
+La [Financial Industry Regulatory Authority (FINRA)](https://www.finra.org/#/) è il più grande organismo indipendente che regolamenta le società di titoli con la supervisione di oltre 4.500 società di intermediazione negli Stati Uniti. È stato autorizzato dal Congresso degli Stati Uniti "per proteggere gli investitori dell'America assicurando che il settore broker-rivenditore opeli equamente e consaciato".
 
-Nel 2011, la Commissione per la sicurezza e lo scambio degli Stati Uniti (SEC) ha approvato l'adozione da parte di FINRA delle regole del SEC che disciplinano la conservazione di libri e record su supporti di archiviazione elettronici. La [regola 4511 (c) di FINRA](https://www.finra.org/sites/default/files/NoticeDocument/p123548.pdf) specifica che "tutti i libri e i record richiesti in base alle regole di FINRA devono essere conservati in un formato e un supporto conformi a Sea (Securities Exchange Act) Rule 17a-4".
+Nel 2011, la SEC (Security and Exchange Commission) degli Stati Uniti ha approvato l'adozione finRA delle regole SEC che regolano la conservazione di libri e record su supporti di archiviazione elettronici. La regola [FINRA 4511(c)](https://www.finra.org/sites/default/files/NoticeDocument/p123548.pdf) specifica che "tutti i libri e i registri necessari per essere effettuati ai sensi delle regole FINRA devono essere conservati in un formato e supporti conformi alla regola SEA (Securities Exchange Act) 17a-4".
 
-Inoltre, la regola 4511 (c) di FINRA richiede che le aziende mantengano per un periodo di almeno sei anni i libri e i record per i quali non esiste un periodo di conservazione specificato in FINRA applicabile o in base alle regole del mare. In effetti, se i registri e i record appartengono a un account, il periodo di conservazione deve essere di sei anni dopo la chiusura dell'account. In caso contrario, il periodo di conservazione è di sei anni dopo la creazione di tali libri e record.
+Inoltre, la regola FINRA 4511(c) richiede alle aziende di conservare per un periodo di almeno sei anni tali libri e record per i quali non esiste un periodo di conservazione specificato in base alle regole FINRA o SEA applicabili. In effetti, se i libri e i record riguardano un account, il periodo di conservazione è obbligatorio di sei anni dopo la chiusura dell'account. In caso contrario, il periodo di conservazione è di sei anni dopo la creazione di tali libri e record.
 
-## <a name="microsoft-and-finra-rule-4511c"></a>Microsoft and FINRA Rule 4511 (c)
+## <a name="microsoft-and-finra-rule-4511c"></a>Regola Microsoft e FINRA 4511(c)
 
-I clienti dei servizi finanziari, che rappresentano una delle industrie più fortemente regolamentate del mondo, sono soggetti a disposizioni complesse come la conservazione delle transazioni finanziarie e la comunicazione correlata in uno stato non cancellabile e non modificabile. Tra di essi vi è la regola 4511 dell'autorità di regolamentazione del settore finanziario (FINRA), che prevede requisiti severi per le entità regolamentate che scelgono di conservare i libri e i record sui supporti di archiviazione elettronici. I record archiviati devono essere antimanomissioni senza la possibilità di modificarli o eliminarli fino al termine del periodo di conservazione definito.
+I clienti di servizi finanziari, che rappresentano uno dei settori più regolamentati al mondo, sono soggetti a disposizioni complesse come la conservazione delle transazioni finanziarie e le comunicazioni correlate in uno stato non cancellabile e non modificabile. Tra queste c'è la regola 4511 dell'Autorità di regolamentazione del settore finanziario (FINRA) che prevede requisiti rigosi per le entità regolamentate che decidino di conservare libri e registri su supporti di archiviazione elettronici. I record archiviati devono essere a prova di manomissione senza possibilità di modificarli o eliminarli fino al termine del periodo di conservazione designato.
 
-Lo spazio di archiviazione BLOB Microsoft Azure immutabile con il blocco dei criteri e Microsoft Office 365 con blocco di conservazione può aiutare gli istituti finanziari a soddisfare i requisiti di archiviazione immutabili della regola 4511 (c) di FINRA.
+L'archiviazione BLOB non modificabile di Microsoft Azure con blocco dei criteri e Microsoft Office 365 con protezione dell'archiviazione può aiutare gli istituti finanziari a soddisfare i requisiti di archiviazione non modificabili della regola FINRA 4511(c).
 
 ## <a name="microsoft-azure"></a>Microsoft Azure
 
-Per valutare la conformità di Azure con la regola 4511 (c) di FINRA, Microsoft ha mantenuto una società di valutazione indipendente specializzata in Records Management and information governance, Cohasset Associates. Il report risultante, [SEC 17a-4 (f) & CFTC 1,31 (c-d) valutazione della conformità: Microsoft Azure Storage](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=19b08fd4-d276-43e8-9461-715981d0ea20&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_GRC_Assessment_Reports), include la conformità di Azure con la regola FINRA 4511 (c), che rinvia al formato e ai requisiti multimediali della regola SEC 17a-4 (f).
+Per valutare la conformità di Azure alla regola FINRA 4511(c), Microsoft ha mantenuto una società di valutazione indipendente specializzata nella gestione dei record e nella governance delle informazioni, Cohasset Associates. Il report risultante, [SEC 17a-4(f) & CFTC 1.31 (c-d) Compliance Assessment: Microsoft Azure Storage,](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=19b08fd4-d276-43e8-9461-715981d0ea20&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_GRC_Assessment_Reports)comprende la conformità di Azure alla regola FINRA 4511(c), che rinvia al formato e ai requisiti multimediali della regola SEC 17a-4(f).
 
-Cohasset ha convalidato che l' [archiviazione BLOB immutabile in Azure](https://docs.microsoft.com/azure/storage/blobs/storage-blob-immutable-storage) con l'opzione di blocco dei criteri, se utilizzata per mantenere i BLOB basati sul tempo in un formato non cancellabile e non riscrivibile (Worm), soddisfa i requisiti di archiviazione di FINRA rilevanti. Ogni BLOB (record) è protetto dall'essere modificato, sovrascritto o eliminato fino a quando non è scaduto il periodo di conservazione obbligatorio e sono state rilasciate eventuali esenzioni legali associate.
+Cohasset ha convalidato che l'archiviazione BLOB non modificabile di [Azure](/azure/storage/blobs/storage-blob-immutable-storage) con l'opzione di blocco dei criteri, se usata per conservare i BLOB basati sul tempo in un formato WORM (Non-Erasable and Non-Rewritable), soddisfa i requisiti di archiviazione FINRA pertinenti. Ogni BLOB (record) non può essere modificato, sovrascritto o eliminato fino alla scadenza del periodo di conservazione richiesto e al rilascio di eventuali blocchi legali associati.
 
-I provider di software e i partner che dispongono di carichi di lavoro sensibili possono ora basarsi sull'archiviazione BLOB immutabile di Azure come soluzione cloud One-Stop Shop per la conservazione dei record e l'archiviazione immutabile. Gli istituti finanziari possono ora creare le proprie applicazioni approfittando di queste funzionalità pur rimanendo conformi.
+I provider di software e i partner con carichi di lavoro sensibili possono ora fare affidamento sull'archiviazione BLOB non modificabile di Azure come soluzione cloud di un negozio unico per la conservazione dei record e l'archiviazione non modificabile. Gli istituti finanziari possono ora creare le proprie applicazioni sfruttando queste funzionalità pur rimanendo conformi.
 
 ## <a name="microsoft-365"></a>Microsoft 365
 
-Per i requisiti della [regola 4511 (c) di FINRA](https://docs.microsoft.com/microsoft-365/compliance/retention-regulatory-requirements#sec-17a-4f-finra-4511c-and-cftc-131c-d) , Cohasset ha convalidato che Microsoft 365 include funzionalità di archiviazione che consentono ai clienti regolamentati, inclusi i broker-dealer, di archiviare i dati in modo da aiutarli a rispettare i requisiti sec per la conservazione dei record. Le funzionalità di conservazione in Microsoft 365 consentono di mantenere una vasta gamma di dati, tra cui la posta elettronica, la segreteria telefonica, i documenti condivisi, i messaggi istantanei e i dati di terze parti. In particolare, l'archiviazione in Microsoft 365 consente ai clienti di impostare criteri globali o granulari per la conservazione dei messaggi per archiviare i dati per un periodo definito e oltre, in un formato non riscrivibile e non cancellabile.
+Per i requisiti della regola [FINRA 4511(c),](/microsoft-365/compliance/retention-regulatory-requirements#sec-17a-4f-finra-4511c-and-cftc-131c-d) Cohasset ha convalidato che Microsoft 365 include funzionalità di archiviazione che consentono ai clienti regolamentati, inclusi broker-rivenditori, di archiviare i dati in modo che rispettino i requisiti SEC per la conservazione dei record. Le funzionalità di conservazione in Microsoft 365 consentono di mantenere una vasta gamma di dati, tra cui posta elettronica, segreteria telefonica, documenti condivisi, messaggi istantanei e dati di terze parti. In particolare, l'archiviazione in Microsoft 365 consente ai clienti di impostare criteri di conservazione della messaggistica globali o granulari per archiviare i dati per un periodo definito e oltre in un formato non riscrivibile e non cancellabile.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud Microsoft associati
+## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud Microsoft in ambito
 
 - [Azure](https://gallery.technet.microsoft.com/Overview-of-Azure-c1be3942)
 - [Office 365](https://aka.ms/Office365ComplianceOfferings)
 
 ## <a name="audits-reports-and-certificates"></a>Controlli, report e certificati
 
-### <a name="azure--finra-rule-4511c"></a>Azure & regola di FINRA 4511 (c)
+### <a name="azure--finra-rule-4511c"></a>Azure & FINRA Rule 4511(c)
 
-[SEC 17a-4 (f) & CFTC 1,31 (c-d) valutazione della conformità dello spazio di archiviazione di Azure](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=19b08fd4-d276-43e8-9461-715981d0ea20&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_GRC_Assessment_Reports)
+[Valutazione di conformità SEC 17a-4(f) & CFTC 1.31 (c-d) di Archiviazione di Azure](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=19b08fd4-d276-43e8-9461-715981d0ea20&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_GRC_Assessment_Reports)
 
-### <a name="office-365--finra-rule-4511c"></a>Office 365 & regola di FINRA 4511 (c)
+### <a name="office-365--finra-rule-4511c"></a>Regola FINRA 4511(c) di Office 365 & FINRA
 
-[Archiviazione in Office 365, data retention e SEC Rule 17a-4 Compliance](https://www.microsoft.com/microsoft-365/blog/2015/11/10/office-365-exchange-online-archiving-now-meets-sec-rule-17a-4-requirements/)
+[Archiviazione in Office 365, conservazione dei dati e conformità della regola SEC 17a-4](https://www.microsoft.com/microsoft-365/blog/2015/11/10/office-365-exchange-online-archiving-now-meets-sec-rule-17a-4-requirements/)
 
 ## <a name="how-to-implement"></a>Come eseguire l'implementazione
 
-- **Regolamento sui servizi finanziari**: mappa di conformità dei principali principi di regolamentazione degli Stati Uniti per il cloud computing e i Microsoft Online Services. [Altre informazioni](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=5b483567-00b0-4d86-96ae-ee887dadb61c&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
-- **Linee guida per la valutazione dei rischi e per la conformità**: creare un modello di governance per la valutazione dei rischi dei servizi cloud Microsoft e la notifica all'organismo di regolamentazione. [Altre informazioni](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=edee9b14-3661-4a16-ba83-c35caf672bd7&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_FAQ_and_White_Papers)
-- **Casi di utilizzo finanziari**: usare panoramiche di casi, esercitazioni e altre risorse per creare soluzioni di Azure per i servizi finanziari. [Altre informazioni](https://docs.microsoft.com/azure/industry/financial/)
+- **Regolamento sui servizi finanziari:** mappa di conformità dei principi normativi chiave degli Stati Uniti per il cloud computing e i servizi online Microsoft. [Altre informazioni](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=5b483567-00b0-4d86-96ae-ee887dadb61c&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
+- **Guida alla valutazione dei rischi e alla conformità**: creare un modello di governance per la valutazione dei rischi dei servizi cloud Microsoft e la notifica all'organismo di regolamentazione. [Altre informazioni](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=edee9b14-3661-4a16-ba83-c35caf672bd7&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_FAQ_and_White_Papers)
+- **Casi di utilizzo del settore finanziario**: i casi di utilizzo, le guide e le altre risorse aiutano a sviluppare le soluzioni Azure per i servizi finanziari. [Altre informazioni](/azure/industry/financial/)
 
 ## <a name="resources"></a>Risorse
 
@@ -78,6 +78,6 @@ Per i requisiti della [regola 4511 (c) di FINRA](https://docs.microsoft.com/micr
 - [Servizi cloud e servizi finanziari di Microsoft per le aziende](https://servicetrust.microsoft.com/viewpage/financialservicesoverview)
 - [Azure Financial Services Compliance Program](https://azure.microsoft.com/resources/videos/azurecon-2015-financial-services-compliance-in-azure/)
 - [Strumento di valutazione del rischio cloud di Azure per i servizi finanziari](https://servicetrust.microsoft.com/ViewPage/FFIECBlueprint?command=Download&downloadType=Document&downloadId=079a1973-711a-428f-9312-9ddd290cff7b&docTab=c726d5c0-2d1e-11e8-a485-57140ec19669_PaaS)
-- [Criteri di conservazione di Microsoft Office 365](https://docs.microsoft.com/office365/securitycompliance/retention-policies)
+- [Microsoft Office di conservazione di 365](/office365/securitycompliance/retention-policies)
 - [Blog sui servizi finanziari di Microsoft](https://techcommunity.microsoft.com/t5/Financial-Services-Blog/bg-p/FinancialServicesBlog)
 - [Conformità nel Centro protezione Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)

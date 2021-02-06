@@ -19,12 +19,12 @@ ms.workload:
 - multiple
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-mar2020
-ms.openlocfilehash: 9918046fc0e76bdfbccd5e199f4e576c77f4ca67
-ms.sourcegitcommit: 693bc6b1b51a5a9c9ff1758fa7f7ca3a204f147e
+ms.openlocfilehash: ec2152d2039b7626c0562869a9a549f0361f7270
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49574828"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121905"
 ---
 # <a name="azure-devops-services-data-subject-requests-for-the-gdpr-and-ccpa"></a>Richieste degli interessati per Azure DevOps Services nell'ambito del GDPR e del CCPA
 
@@ -68,7 +68,7 @@ Microsoft si impegna a garantire che i dati di Azure DevOps Services rimangano p
 
 ## <a name="see-also"></a>Vedere anche
 
-- [Impegni di Microsoft relativi al GDPR con i clienti dei prodotti software aziendali generalmente disponibili](https://docs.microsoft.com/legal/gdpr)
+- [Impegni di Microsoft relativi al GDPR con i clienti dei prodotti software aziendali generalmente disponibili](/legal/gdpr)
 - [Centro protezione Microsoft](https://www.microsoft.com/trust-center/privacy/gdpr-overview)
 - [Service Trust Portal](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted)
 - [Dashboard di privacy di Microsoft](https://account.microsoft.com/privacy)

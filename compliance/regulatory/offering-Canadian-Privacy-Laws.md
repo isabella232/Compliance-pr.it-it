@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 44308d7184f6633ab58a4971fe4e9c70717f8591
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: b5921a0535b9fe3dd84f4faf57dca4d7d117498e
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509640"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121306"
 ---
 # <a name="canadian-privacy-laws"></a>Normativa sulla privacy in Canada
 
@@ -33,7 +33,7 @@ La [legge sulla privacy](https://privacy.microsoft.com/it-IT/#heading-0-0-2-1) (
 
 La legge PIPEDA si basa su 10 [principi per la corretta gestione delle informazioni ](https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/p_principle/) a cui le aziende devono adeguarsi. Ad esempio, il principio di base del consenso, enunciato nella legge PIPEDA, impone alle organizzazioni di ottenere l'autorizzazione da parte della persona alla raccolta o all'utilizzo delle informazioni personali. Le persone hanno il diritto di accedere alle informazioni personali e di segnalare eventuali errori (sulla base del principio di "accesso personale"). Il principio di "identificazione delle finalità" impone che le informazioni personali possano essere usate solo per le finalità concordate.
 
-In generale, la legge PIPEDA si applica alle attività commerciali in tutte le province e nei territori, ad eccezione di quelle che operano interamente nelle province con leggi sulla privacy proprie che sono state dichiarate "sostanzialmente simili" alla legge federale. Ad esempio, British Columbia, Alberta e Quebec dispongono di una normativa sulla privacy del settore privato considerata sostanzialmente analoga alla legge PIPEDA e, di conseguenza, vengono applicate le leggi provinciali al posto di quelle federali.
+In generale, la legge PIPEDA si applica alle attività commerciali in tutte le province e nei territori, ad eccezione di quelle che operano interamente nelle province con leggi sulla privacy proprie che sono state dichiarate "sostanzialmente simili" alla legge federale. Ad esempio, British Columbia, Alberta e Quebec hanno una normativa sulla privacy del settore privato considerata sostanzialmente analoga alla legge PIPEDA e, di conseguenza, si applicano le leggi provinciali al posto di quelle federali.
 
 ## <a name="microsoft-and-canadian-privacy-laws"></a>Microsoft e la normativa sulla privacy in Canada
 
@@ -52,7 +52,7 @@ Per aiutare i clienti in Canada a valutare l'esternalizzazione delle funzioni az
 
 - [Privacy in Microsoft](https://www.microsoft.com/download/details.aspx?id=55710): informazioni sui principi e gli standard Microsoft sulla privacy e sulle normative specifiche per il Canada.
 - [Elenco di controllo della conformità per il Canada](https://servicetrust.microsoft.com/Documents/TrustDocuments?command=Download&downloadType=Document&downloadId=626fb641-9dca-45c0-abaf-0a7849c15f81&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides): ulteriori informazioni sulle funzionalità di Azure e Intune che consentono di essere conformi alla normativa sulla privacy in Canada.
-- [Protezione dei dati di Azure](https://docs.microsoft.com/azure/security/fundamentals/protection-customer-data): Azure garantisce ai clienti una sicurezza dei dati avanzata, sia per impostazione predefinita che come opzioni disponibili per i clienti.
+- [Protezione dei dati di Azure](/azure/security/fundamentals/protection-customer-data): Azure garantisce ai clienti una sicurezza dei dati avanzata, sia per impostazione predefinita che come opzioni disponibili per i clienti.
 
 ## <a name="frequently-asked-questions"></a>Domande frequenti
 
@@ -72,7 +72,7 @@ Per ogni controllo viene creato un report, che Microsoft rende disponibile nel p
 
 I clienti dei servizi cloud Microsoft per le aziende in Canada[sono a conoscenza del luogo in cui vengono archiviati i dati dei clienti](https://www.microsoft.com/trust-center/privacy/data-location). Indipendentemente dal luogo di archiviazione dei dati dei clienti, Microsoft non controlla o limita i luoghi dai quali i clienti e gli utenti finali possono eseguire l'accesso ai dati personali.  
 
-La legge PIPEDA non richiede alle aziende canadesi di mantenere le informazioni personali in Canada. Tuttavia, a seconda della provincia o del settore in cui operano le organizzazioni, potrebbe essere richiesto di mantenere determinati tipi di dati all'interno dei confini canadesi. Per soddisfare tali requisiti, Microsoft ha creato due data center in Canada che supportano Azure e Intune, a Toronto e Quebec City. Ogni data center è conforme ai rigorosi requisiti di sicurezza.
+La legge PIPEDA non richiede alle aziende canadesi di mantenere le informazioni personali in Canada. Tuttavia, a seconda della provincia, o del settore, in cui operano le organizzazioni, potrebbe essere richiesto di mantenere determinati tipi di dati all'interno dei confini canadesi. Per soddisfare tali requisiti, Microsoft ha creato due data center in Canada che supportano Azure e Intune, a Toronto e Quebec City. Ogni data center è conforme ai rigorosi requisiti di sicurezza.
 
 ## <a name="resources"></a>Risorse
 

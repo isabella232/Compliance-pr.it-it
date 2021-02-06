@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 6a952d33a440681acc3dd5057c8a7e175e57bfa9
-ms.sourcegitcommit: 8af471ad10420ee5fce98d2eb0d69a6d2b992f08
+ms.openlocfilehash: a7f6f07a2dd58d4a99559488c3f9d3b92d4fe195
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49937021"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121805"
 ---
 # <a name="dutch-authority-for-the-financial-markets-and-the-central-bank-of-the-netherlands"></a>Autorità Olandese per i Mercati Finanziari e la Banca centrale dei Paesi Bassi
 
@@ -64,7 +64,7 @@ La checklist di Microsoft consente agli istituti finanziari nei Paesi Bassi di e
 
 - [Cheklist di conformità: Paesi bassi](https://aka.ms/FinServ-Guide-Netherlands): le società finanziarie possono ottenere assistenza per la valutazione dei rischi dei servizi cloud Microsoft per le aziende.
 - [Guida alla conformità e alla valutazione dei rischi](https://aka.ms/RiskGovernanceGuide): creare un modello di governance per la valutazione dei rischi dei servizi cloud Microsoft e la notifica all'organismo di regolamentazione.
-- [Casi di utilizzo nel settore finanziario](https://docs.microsoft.com/azure/industry/financial/): panoramiche di casi, tutorial e altre risorse per creare soluzioni con Azure per i servizi finanziari.
+- [Casi di utilizzo nel settore finanziario](/azure/industry/financial/): panoramiche di casi, tutorial e altre risorse per creare soluzioni con Azure per i servizi finanziari.
 
 ## <a name="frequently-asked-questions"></a>Domande frequenti
 

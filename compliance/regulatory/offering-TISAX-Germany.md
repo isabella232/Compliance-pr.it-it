@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f8734dc5ebfd4c6d1c6c3404285dfc6ac22fc6d7
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 9f751777f527a13d4dc572ef58e82ffcbd6ce1b3
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509320"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121175"
 ---
 # <a name="trusted-information-security-assessment-exchange-tisax-germany"></a>TISAX (Trusted Information Security Assessment Exchange) - Germania
 
@@ -67,7 +67,7 @@ La valutazione è valida per tre anni.
 
 ### <a name="manufacturing-use-cases"></a>Casi di utilizzo relativi alla produzione
 
-Panoramiche di casi, guide alle soluzioni, esercitazioni e altre risorse per creare [soluzioni con Azure](https://docs.microsoft.com/azure/industry/manufacturing/).
+Panoramiche di casi, guide alle soluzioni, esercitazioni e altre risorse per creare [soluzioni con Azure](/azure/industry/manufacturing/).
 
 ## <a name="frequently-asked-questions"></a>Domande frequenti
 
@@ -77,7 +77,7 @@ ENX fornisce la conferma della certificazione solo ai rappresentanti del settore
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usare Microsoft Compliance Manager per valutare i rischi
 
-[Microsoft Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) è una funzionalità del [Centro conformità Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) utile per comprendere lo stato di conformità dell'organizzazione e adottare misure per ridurre i rischi. Compliance Manager offre un modello premium per creare una valutazione per questa normativa. È possibile trovare il modello nella pagina dei **modelli di valutazione** in Compliance Manager. Informazioni su come [creare valutazioni in Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
+[Microsoft Compliance Manager](/microsoft-365/compliance/compliance-manager) è una funzionalità nel [Centro conformità Microsoft 365](/microsoft-365/compliance/microsoft-365-compliance-center) utile per comprendere lo stato di conformità dell'organizzazione e intraprendere azioni per ridurre i rischi. Compliance Manager offre un modello premium per creare una valutazione per questa normativa. Individuare il modello nella pagina **modelli di valutazioni** in Compliance Manager. Informazioni su come [creare valutazioni in Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments).
 
 ## <a name="resources"></a>Risorse
 

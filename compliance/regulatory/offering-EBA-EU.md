@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f84f4a57afd968a428cd345dd521a3bd83cea238
-ms.sourcegitcommit: 8af471ad10420ee5fce98d2eb0d69a6d2b992f08
+ms.openlocfilehash: c753092f26df4a0d8ebcb5fc2a7921cee9e79f93
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49937031"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120925"
 ---
 # <a name="european-banking-authority-eba"></a>Autorità bancaria europea (ABE)
 
@@ -54,7 +54,7 @@ Per gli istituti finanziari nell'UE, Microsoft ha inoltre pubblicato il document
 ## <a name="how-to-implement"></a>Come eseguire l'implementazione
 
 - [Risposta alle linee guida dell'ABE](https://aka.ms/FinServ-Guide-EuBankAuth): le linee guida di Microsoft aiutano gli istituti finanziari dell'UE a seguire le raccomandazioni dell'ABE per l'adozione del cloud.
-- [Casi di utilizzo nel settore finanziario](https://docs.microsoft.com/azure/industry/financial/): panoramiche di casi, esercitazioni e altre risorse per creare soluzioni con Azure per i servizi finanziari.
+- [Casi di utilizzo nel settore finanziario](/azure/industry/financial/): panoramiche di casi, esercitazioni e altre risorse per creare soluzioni con Azure per i servizi finanziari.
 - [Financial Compliance Program](https://aka.ms/FSCP-Print): gli istituti finanziari possono ricevere assistenza per valutare i rischi derivanti dall'utilizzo dei servizi cloud Microsoft.
 
 ## <a name="frequently-asked-questions"></a>Domande frequenti

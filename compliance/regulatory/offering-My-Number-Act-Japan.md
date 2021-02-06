@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: b4a006fbbcd4a1af3a8ff118ea7cacaecb2ceadc
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: f9c3ebd4c4988366d429f7b6cfc377f4f9c8a611
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509410"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120075"
 ---
 # <a name="my-number-act-japan"></a>My Number Act (Giappone)
 
@@ -60,11 +60,11 @@ I servizi cloud Microsoft per le aziende soddisfano gli obblighi del My Number A
 
 - [Privacy in Office 365](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=a1b48a5b-bcb1-4c19-9277-952c0df87113&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_FAQ_and_White_Papers): come Microsoft sviluppa misure di protezione della privacy efficaci in Office 365.
 
-- [Accesso degli amministratori in Office 365](https://docs.microsoft.com/office365/SecurityCompliance/office-365-administrative-access-controls-overview): come Microsoft gestisce l'accesso degli amministratori ai dati dei clienti.
+- [Accesso degli amministratori in Office 365](/office365/SecurityCompliance/office-365-administrative-access-controls-overview): come Microsoft gestisce l'accesso degli amministratori ai dati dei clienti.
 
-- [Controlli e report in Office 365](https://docs.microsoft.com/office365/SecurityCompliance/office-365-auditing-and-reporting-overview): quali funzionalità possono usare i clienti per tenere traccia delle attività degli utenti e degli amministratori all'interno del loro tenant.
+- [Controlli e report in Office 365](/office365/SecurityCompliance/office-365-auditing-and-reporting-overview): quali funzionalità possono usare i clienti per tenere traccia delle attività degli utenti e degli amministratori all'interno del loro tenant.
 
-- [Conservazione dei dati in Office 365](https://docs.microsoft.com/office365/SecurityCompliance/office-365-data-retention-deletion-and-destruction-overview): quali sono i criteri di gestione dei dati relativamente al periodo in cui vengono conservati i dati dei clienti dopo l'eliminazione.
+- [Conservazione dei dati in Office 365](/office365/SecurityCompliance/office-365-data-retention-deletion-and-destruction-overview): quali sono i criteri di gestione dei dati relativamente al periodo in cui vengono conservati i dati dei clienti dopo l'eliminazione.
 
 ## <a name="frequently-asked-questions"></a>Domande frequenti
 

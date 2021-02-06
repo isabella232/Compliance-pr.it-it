@@ -17,12 +17,12 @@ ms.collection:
 titleSuffix: Microsoft GDPR
 description: Informazioni su come completare le richieste degli interessati in base al Regolamento generale sulla protezione dei dati (GDPR) e al California Consumer Privacy Act (CCPA) usando i prodotti e i servizi Microsoft.
 ms.custom: seo-marvel-mar2020
-ms.openlocfilehash: ce2be94fec6b2e48a9e7052a1b01302966eb42a3
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 83ba52015eeb7aed73cd231ff01f824f75337360
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508774"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121035"
 ---
 # <a name="data-subject-requests-and-the-gdpr-and-ccpa"></a>Richieste degli interessati nell'ambito del GDPR e del CCPA
 
@@ -68,7 +68,7 @@ Nel completamento di una richiesta dell'interessato possono essere coinvolti div
 
 ### <a name="insights-generated-by-microsoft-products-or-services"></a>Informazioni dettagliate generate da prodotti o servizi Microsoft
 
-[Le informazioni dettagliate](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365#part-2-responding-to-dsrs-with-respect-to-insights-generated-by-office-365) potrebbero essere generate da servizi (MyAnalytics e così via) Office 365 include servizi online che forniscono informazioni dettagliate agli utenti e alle organizzazioni che le usano. I dati generati da questi servizi possono produrre dati personali pertinenti a una richiesta dell’interessato. Seguire il collegamento nell'elenco riportato di seguito per informazioni dettagliate sui processi delle richieste specifici del servizio.  
+[Le informazioni dettagliate](/microsoft-365/compliance/gdpr-dsr-office365#part-2-responding-to-dsrs-with-respect-to-insights-generated-by-office-365) potrebbero essere generate da servizi (MyAnalytics e così via) Office 365 include servizi online che forniscono informazioni dettagliate agli utenti e alle organizzazioni che le usano. I dati generati da questi servizi possono produrre dati personali pertinenti a una richiesta dell’interessato. Seguire il collegamento nell'elenco riportato di seguito per informazioni dettagliate sui processi delle richieste specifici del servizio.  
 
 ### <a name="dsrs-for-system-generated-logs"></a>Richieste dell’interessato per i log generati dal sistema
 
@@ -82,8 +82,8 @@ I log e i dati correlati generati da Microsoft potrebbero contenere dati conside
 
 L'eliminazione dell'account di un utente non comporta la rimozione dei log generati dal sistema per Yammer e Kaizala. Per rimuovere i dati da queste applicazioni, fare riferimento a una delle seguenti risorse:
 
-- [Gestire le richieste dell'interessato per il GDPR in Yammer Enterprise](https://docs.microsoft.com/yammer/manage-security-and-compliance/gdpr-requests-in-yammer-enterprise)
-- [Esportare o eliminare i dati dell'organizzazione di un utente in Kaizala](https://docs.microsoft.com/office365/kaizala/export-or-delete-a-user-s-data)
+- [Gestire le richieste dell'interessato per il GDPR in Yammer Enterprise](/yammer/manage-security-and-compliance/gdpr-requests-in-yammer-enterprise)
+- [Esportare o eliminare i dati dell'organizzazione di un utente in Kaizala](/office365/kaizala/export-or-delete-a-user-s-data)
 
 ### <a name="national-clouds"></a>Cloud nazionali
 

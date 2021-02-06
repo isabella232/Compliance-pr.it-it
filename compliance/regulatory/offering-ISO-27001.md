@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 94ce3e8dbbb210c645fb2f64ed29e441eb9956bf
-ms.sourcegitcommit: 58741a8e28c354bd806418b7263f0db98bf83eac
+ms.openlocfilehash: 16c388f3618fe7b62b596dd158dee05a55608234
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "49759691"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120225"
 ---
 # <a name="isoiec-270012013-information-security-management-standards"></a>Standard di gestione della sicurezza delle informazioni ISO/IEC 27001:2013
 
@@ -111,7 +111,7 @@ La conformità a questi standard, confermata da un revisore accreditato, dimostr
 
 **Dove posso reperire i report di controllo e le dichiarazioni di ambito di ISO/IEC 27001 per i servizi Microsoft?**
 
-Il [Service Trust Portal](https://docs.microsoft.com/microsoft-365/compliance/get-started-with-service-trust-portal) fornisce report di conformità controllati in modo indipendente. È possibile usare il portale per richiedere report, in modo che i revisori possano confrontare i risultati dei servizi cloud di Microsoft ai requisiti normativi e legali che li riguardano.
+Il [Service Trust Portal](/microsoft-365/compliance/get-started-with-service-trust-portal) fornisce report di conformità controllati in modo indipendente. È possibile usare il portale per richiedere report, in modo che i revisori possano confrontare i risultati dei servizi cloud di Microsoft ai requisiti normativi e legali che li riguardano.
 
 **Microsoft conduce test annuali per i problemi dell'infrastruttura?**
 
@@ -130,7 +130,7 @@ Sì. Se l'azienda richiede la certificazione ISO/IEC 27001 per le implementazion
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usare Microsoft Compliance Manager per valutare i rischi
 
-[Microsoft Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) è una funzionalità del [Centro conformità Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) utile per comprendere lo stato di conformità dell'organizzazione e adottare misure per ridurre i rischi. Compliance Manager offre una valutazione predefinita per questa normativa ai clienti Enterprise E5. Il modello per realizzare la valutazione è disponibile nella pagina dei **modelli di valutazioni** di Compliance Manager. Informazioni su come [creare valutazioni in Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
+[Microsoft Compliance Manager](/microsoft-365/compliance/compliance-manager) è una funzionalità del [Centro conformità Microsoft 365](/microsoft-365/compliance/microsoft-365-compliance-center) utile per comprendere lo stato di conformità dell'organizzazione e adottare misure per ridurre i rischi. Compliance Manager offre una valutazione predefinita per questa normativa ai clienti Enterprise E5. Il modello per realizzare la valutazione è disponibile nella pagina dei **modelli di valutazioni** di Compliance Manager. Informazioni su come [creare valutazioni in Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments).
 
 ## <a name="resources"></a>Risorse
 

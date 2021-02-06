@@ -18,12 +18,12 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-mar2020
-ms.openlocfilehash: cc71af74f88592e13f5dacf78d92193cea8ea356
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 638096e88e5931a7468fee9b33200d8fc17702ec
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508711"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121005"
 ---
 # <a name="azure-data-subject-requests-for-the-gdpr-and-ccpa"></a>Richieste degli interessati per Azure nell'ambito del GDPR e del CCPA
 
@@ -151,11 +151,11 @@ Per correggere, aggiornare o eliminare le informazioni personali degli utenti fi
 
     ![Selezionare Utenti.](../media/gdpr-azure-dsr-azure-all-users.png)
 
-4. Nel pannello **Tutti gli utenti** selezionare un utente dall'elenco poi, nel pannello relativo all'utente selezionato, selezionare **Profilo** per visualizzare le informazioni sul profilo utente da correggere o aggiornare.
+4. Nel pannello **Tutti gli utenti** selezionare un utente dall'elenco e quindi, nel pannello relativo all'utente selezionato, fare clic su **Profilo** per visualizzare le informazioni sul profilo utente da correggere o aggiornare.
 
     ![Selezionare il profilo utente](../media/gdpr-azure-dsr-azure-user-profile.png)
 
-5. Correggere o aggiornare le informazioni del profilo utente, tra cui le informazioni professionali, selezionando **Modifica** nella barra dei comandi, quindi selezionare  **Salva** dopo aver apportato le modifiche.
+5. Correggere o aggiornare le informazioni del profilo utente, incluse le informazioni professionali, selezionando **Modifica** nella barra dei comandi, quindi selezionare  **Salva** dopo aver apportato le modifiche.
 
     ![Selezionare Modifica](../media/gdpr-azure-dsr-azure-edit-user-profile.png)
 
@@ -301,7 +301,7 @@ Di seguito viene descritto il processo di esportazione dei dati dal tenant.
 
 - **Utente.** Digitare l'indirizzo e-mail dell'utente di Azure Active Directory che ha richiesto l'esportazione.
 - **Sottoscrizione.** Selezionare l'account utilizzato per creare il report relativo all'utilizzo delle risorse e fatturare i servizi. Si tratta anche della posizione dell'account di archiviazione di Azure.
-- **Account di archiviazione.** Selezionare il percorso di archiviazione di Azure (Blob). Per maggiori informazioni, vedere l’articolo [Introduzione ad archiviazione di Microsoft Azure - archiviazione Blob](https://docs.microsoft.com/azure/storage/common/storage-introduction#blob-storage).
+- **Account di archiviazione.** Selezionare il percorso di archiviazione di Azure (Blob). Per maggiori informazioni, vedere l’articolo [Introduzione ad archiviazione di Microsoft Azure - archiviazione Blob](/azure/storage/common/storage-introduction#blob-storage).
 - **Contenitore.** Creare un nuovo contenitore (o selezionarne uno esistente) come posizione di archiviazione per i dati sulla privacy dell'utente esportati.
 
 4. Selezionare **Crea**.

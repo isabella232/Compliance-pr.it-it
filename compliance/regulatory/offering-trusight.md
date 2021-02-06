@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f6c03f1c9cddbdf1cd62be075f471a3a52e19a19
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 4fe0196ae019dbf35902c2fd0589db96ed1f1086
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509140"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50119885"
 ---
 # <a name="trusight"></a>TruSight
 
@@ -54,7 +54,7 @@ Per acquistare il report *Comprehensive Assessment of Microsoft Cloud* (Valutazi
 ## <a name="how-to-implement"></a>Come eseguire l'implementazione
 
 - [Linee guida per la valutazione dei rischi e per la conformità](https://aka.ms/RiskGovernanceGuide): creare un modello di governance per la valutazione dei rischi dei servizi cloud Microsoft e la notifica all'organismo di regolamentazione.
-- [Casi di utilizzo finanziari](https://docs.microsoft.com/azure/industry/financial/): usare panoramiche di casi, esercitazioni e altre risorse per creare soluzioni di Azure per i servizi finanziari.
+- [Casi di utilizzo finanziari](/azure/industry/financial/): usare panoramiche di casi, esercitazioni e altre risorse per creare soluzioni di Azure per i servizi finanziari.
 - [Regolamento dei servizi finanziari negli Stati Uniti](https://aka.ms/FinServ-Guide-US): in che modo i servizi online Microsoft cono conformi alle principali aspettative normative per le istituzioni finanziarie statunitensi.
 
 ## <a name="frequently-asked-questions"></a>Domande frequenti

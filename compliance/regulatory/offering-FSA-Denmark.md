@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 28fec212d8ba00d2e319abf856db342c83408238
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: a0e643e768d8570f1c65f19e2eec1b84bce5701a
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507938"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120375"
 ---
 # <a name="financial-supervisory-authority-fsa-denmark"></a>Financial Supervisory Authority (FSA) Danimarca
 
@@ -58,7 +58,7 @@ L'elenco di controllo di Microsoft consente agli istituti finanziari danesi di s
 
 - [Elenco di controllo per la conformità: Danimarca](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=524cc66f-b292-49e9-aa14-04560401baa0&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913_Compliance_Guides): gli istituti finanziari possono ottenere assistenza per la valutazione dei rischi dei servizi cloud Microsoft per le aziende.
 - [Valutazione dei rischi e guida alla conformità](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=edee9b14-3661-4a16-ba83-c35caf672bd7&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_FAQ_and_White_Papers): per creare un modello di governance per la valutazione dei rischi dei servizi cloud Microsoft e la notifica all'autorità competente.
-- [Casi di utilizzo del settore finanziario](https://docs.microsoft.com/previous-versions/azure/industry-marketing/financial/index): i casi di utilizzo, le guide e le altre risorse aiutano a sviluppare le soluzioni Azure per i servizi finanziari.
+- [Casi di utilizzo del settore finanziario](/previous-versions/azure/industry-marketing/financial/index): i casi di utilizzo, le guide e le altre risorse aiutano a sviluppare le soluzioni Azure per i servizi finanziari.
 
 ## <a name="frequently-asked-questions"></a>Domande frequenti
 

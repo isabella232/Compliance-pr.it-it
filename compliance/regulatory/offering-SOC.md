@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 23c072badb88621f30648f080fcc0ea1f6588b41
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 2fec2c20a4d2d2ddbf5a39b7cda1ff67a19e5830
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508317"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50119935"
 ---
 # <a name="service-organization-controls-soc"></a>Service Organization Controls (SOC)
 
@@ -123,9 +123,9 @@ Sì. Quando esegui la migrazione delle applicazioni e dei dati ai servizi cloud 
 
 Il [SOC Toolkit for Service Organizations](https://aka.ms/soc-toolkit) è una risorsa utile per comprendere i processi di reporting SOC e per promuoverne l'utilizzo all'interno della tua organizzazione.
 
-## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usare Microsoft Compliance Manager per la valutazione dei rischi
+## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usare Microsoft Compliance Manager per valutare i rischi
 
-[Microsoft Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) è una funzionalità del [Centro conformità Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) utile per comprendere lo stato di conformità dell'organizzazione e adottare misure per ridurre i rischi. Compliance Manager offre un modello premium per creare una valutazione per questa normativa. È possibile trovare il modello nella pagina dei **modelli di valutazione** in Compliance Manager. Informazioni su come [creare valutazioni in Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
+[Microsoft Compliance Manager](/microsoft-365/compliance/compliance-manager) è una funzionalità nel [Centro conformità Microsoft 365](/microsoft-365/compliance/microsoft-365-compliance-center) utile per comprendere lo stato di conformità dell'organizzazione e intraprendere azioni per ridurre i rischi. Compliance Manager offre un modello premium per creare una valutazione per questa normativa. Individuare il modello nella pagina **modelli di valutazioni** in Compliance Manager. Informazioni su come [creare valutazioni in Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments).
 
 ## <a name="resources"></a>Risorse
 
@@ -135,4 +135,4 @@ Il [SOC Toolkit for Service Organizations](https://aka.ms/soc-toolkit) è una ri
 - [Panoramica ISAE 3402](http://isae3402.com/ISAE3402_overview.html)
 - [Condizioni di Microsoft Online Services](https://aka.ms/Online-Services-Terms)
 - [Cloud Microsoft per enti pubblici](https://go.microsoft.com/fwlink/p/?linkid=2087246)
-- [Conformità nel Centro protezione di Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Conformità in Microsoft Trust Center](https://www.microsoft.com/trust-center/compliance/compliance-overview)

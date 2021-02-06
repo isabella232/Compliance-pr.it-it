@@ -1,6 +1,6 @@
 ---
-title: Food and Drug Administration CFR Titolo 21 parte 11
-description: Microsoft aiuta i clienti a rispettare queste normative sul Food and Drug Administration.
+title: Food and Drug Administration CFR Title 21 Parte 11
+description: Microsoft aiuta i clienti a rispettare le normative della Food and Drug Administration degli Stati Uniti.
 keywords: Microsoft 365, conformità, offerte
 localization_priority: None
 ms.prod: microsoft-365-enterprise
@@ -16,42 +16,42 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: a9f7b4799401d01c9d128fed3a0cd880566472f2
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 64a0f95ca98f7c9e398a92bd7127adb385315fc5
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509600"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121665"
 ---
-# <a name="food-and-drug-administration-cfr-title-21-part-11"></a>Food and Drug Administration CFR Titolo 21 parte 11
+# <a name="food-and-drug-administration-cfr-title-21-part-11"></a>Food and Drug Administration CFR Title 21 Parte 11
 
-## <a name="fda-cfr-title-21-overview"></a>Panoramica della FDA CFR Title 21
+## <a name="fda-cfr-title-21-overview"></a>Panoramica del titolo 21 della FDA CFR
 
-Il codice dei regolamenti federali (CFR) contiene le regole e i regolamenti per i servizi esecutivi e le agenzie del governo federale degli Stati Uniti. Ciascuno dei 50 titoli del QRC si rivolge a un'area regolamentata diversa.
+Il Code of Federal Regulations (CFR) contiene le regole e le normative per i reparti esecutivi e le agenzie del governo federale degli Stati Uniti. Ognuno dei 50 titoli del CFR si rivolge a un'area regolamentata diversa.
 
-[FDA cfr title 21](https://aka.ms/FDA-CFR) regola gli alimenti e i farmaci fabbricati o consumati negli Stati Uniti, sotto la giurisdizione del Food and Drug Administration (FDA), dell'amministrazione della Drug Enforcement Administration e dell'Office of National Drug Control Policy. Le normative delineate in QRC title 21 Part 11 configurano le regole di base per i sistemi di tecnologia che gestiscono le informazioni utilizzate dalle organizzazioni soggette alla svista della FDA. Qualsiasi sistema di tecnologia che disciplini tali processi di GxP come buone prassi di laboratorio (BPL), Good Clinical Practices (GCP) e Good Manufacturing Practices (GMP) richiede anche la convalida della sua aderenza a GxP.
+[FDA CFR Title 21](https://aka.ms/FDA-CFR) regola gli generi di consumo di prodotti o prodotti di consumo negli Stati Uniti, sotto la giurisdizione della Food and Drug Administration (FDA), della Drug Enforcement Administration e dell'Office of National Drug Control Policy. Le normative descritte nel titolo CFR 21 parte 11 impostano le regole di base per i sistemi tecnologici che gestiscono le informazioni utilizzate dalle organizzazioni soggette alla supervisione della FDA. Qualsiasi sistema tecnologico che governa processi GxP come Good Practices (GLP), Good Clinical Practices (GCP) e Good Manufacturing Practices (GMP) richiede anche la convalida della sua aderenza a GxP.
 
-CFR Title 21 Part 11 stabilisce i requisiti per garantire che i record elettronici e le firme siano sostituti affidabili, affidabili e equivalenti per i record cartacei e le firme manoscritte. Offre anche linee guida per migliorare la sicurezza dei sistemi informatici nelle industrie regolamentate dalla FDA. Le società soggette devono provare che i processi e i prodotti funzionano come sono stati disegnati e, se questi processi e prodotti cambiano, devono riconvalidare tale prova. Le linee guida per le procedure consigliate riguardano:
+Il titolo CFR 21 parte 11 definisce i requisiti per garantire che i record elettronici e le firme siano sostituti attendibili, affidabili e equivalenti per i registri cartacei e le firme scritte a mano. Sono inoltre disponibili linee guida per migliorare la sicurezza dei sistemi informatici in settori regolamentati dalla FDA. Le società soggette devono dimostrare che i processi e i prodotti funzionano come sono progettati e, se tali processi e prodotti cambiano, devono convalidare di nuovo tale prova. Le linee guida per le procedure consigliate riguardano:
 
-- Procedure operative e controlli standard che supportano record elettronici e firme, ad esempio il backup dei dati, la sicurezza e la convalida del sistema informatico.
-- Caratteristiche che assicurano che il sistema informatico sia sicuro, contiene piste di controllo per i valori dei dati e garantisce l'integrità delle firme elettroniche.
-- La convalida e la documentazione che forniscono la prova che il sistema fa ciò che è previsto e che gli utenti possono rilevare quando il sistema non funziona come progettato.
+- Controlli e procedure operative standard che supportano i record elettronici e le firme, ad esempio il backup dei dati, la sicurezza e la convalida del sistema di computer.
+- Funzionalità che assicurano che il sistema del computer sia sicuro, contenga audit trail per i valori dei dati e garantisca l'integrità delle firme elettroniche.
+- Convalida e documentazione che forniscono la prova che il sistema esegue le operazioni progettate e che gli utenti possono rilevare quando il sistema non funziona come previsto.
 
 ## <a name="microsoft-and-fda-cfr-title-21"></a>Microsoft e FDA CFR Titolo 21
 
-I servizi cloud di Microsoft Enterprise vengono sottoposti a controlli di terze parti indipendenti di tipo 2 e SOC 2 regolari e sono certificati secondo gli standard ISO/IEC 27001 e ISO/IEC 27018.
+I servizi cloud aziendali Microsoft vengono sottoposti a controlli REGOLARI SOC 1 Tipo 2 e SOC 2 Di terze parti e sono certificati in base agli standard ISO/IEC 27001 e ISO/IEC 27018.
 
-Anche se questi controlli regolari e le certificazioni non si concentrano specificamente sulla conformità normativa della FDA, il loro scopo e gli obiettivi sono simili in natura a quelli del titolo CFR 21 parte 11 e servono a garantire la riservatezza, l'integrità e la disponibilità dei dati archiviati nei servizi cloud Microsoft. Il nostro approccio di qualificazione si basa anche sulle procedure consigliate del settore, tra cui la serie di guide di Good Practices della società internazionale per l'ingegneria farmaceutica (ISPE) GAMP e la procedura consigliata per la cooperazione all'ispezione farmaceutica (PIC/S) per sistemi informatizzati in ambienti GxP regolamentati.
+Anche se questi controlli e certificazioni regolari non si concentrano in modo specifico sulla conformità alle normative DELLA FDA, i loro scopi e obiettivi sono simili a quelli del titolo CFR 21 parte 11 e servono a garantire la riservatezza, l'integrità e la disponibilità dei dati archiviati nei servizi cloud Microsoft. Il nostro approccio di qualificazione si basa anche sulle procedure consigliate del settore, tra cui la serie di guide alle buone pratiche DELLA ISPE (International Society for Engineering) e lo schema PIC/S (11133333) per la cooperazione per l'ispezione dei prodotti a base di prodotti e servizi per i sistemi computerizzati in ambienti GxP regolamentati.
 
-I clienti possono richiedere l'accesso ai rapporti di conformità, in base ai termini e alle condizioni dell'accordo di segretezza, tramite il proprio rappresentante dell'account Microsoft o tramite il [Service Trust Portal](https://aka.ms/stphelp). Inoltre, le linee guida per la qualificazione per Microsoft Azure e Microsoft Office 365 forniscono una spiegazione dettagliata del modo in cui i controlli di controllo di Microsoft corrispondono ai requisiti di CFR Title 21 parte 11, linee guida per l'implementazione di una strategia di qualificazione della FDA e una descrizione delle aree di responsabilità condivisa.
+I clienti possono richiedere l'accesso ai report di conformità, in base a condizioni e condizioni del contratto di non conformità, tramite il rappresentante dell'account Microsoft o tramite [Service Trust Portal.](https://aka.ms/stphelp) Inoltre, le linee guida di qualificazione per Microsoft Azure e Microsoft Office 365 forniscono una spiegazione dettagliata del modo in cui i controlli Microsoft corrispondono ai requisiti del titolo CFR 21 parte 11, indicazioni per l'implementazione di una strategia di qualificazione FDA e una descrizione delle aree di responsabilità condivisa.
 
-Informazioni su come accelerare la distribuzione della FDA CFR Title 21: [scaricare la guida alla qualificazione di Azure FDA 21](https://go.microsoft.com/fwlink/p/?linkid=2086604)
+Informazioni su come accelerare la distribuzione del titolo 21 della FDA CFR: scaricare la guida alla qualificazione [di Azure FDA 21](https://go.microsoft.com/fwlink/p/?linkid=2086604)
 
-## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud Microsoft associati
+## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud Microsoft in ambito
 
-Anche se non vi è alcuna certificazione per la conformità con il titolo QRC 21 parte 11, i seguenti servizi cloud di Microsoft Enterprise sono stati sottoposti a controlli di terze parti indipendenti, che possono aiutare i clienti a rispettare le proprie attività. Questi servizi includono:
+Anche se non esiste alcuna certificazione per la conformità con il titolo CFR 21 parte 11, i seguenti servizi cloud aziendali Microsoft sono stati sottoposti a controlli indipendenti di terze parti, che possono aiutare i clienti nei loro sforzi di conformità. Questi servizi includono:
 
-- Azure: Servizi cloud, archiviazione, gestione traffico, macchine virtuali e rete virtuale
+- Azure: servizi cloud, archiviazione, Gestione traffico, macchine virtuali e rete virtuale
 - Azure DevOps
 - Intune
 - [Dynamics 365 e Dynamics 365 U.S. Government](https://aka.ms/d365-compliance-list)
@@ -59,44 +59,44 @@ Anche se non vi è alcuna certificazione per la conformità con il titolo QRC 21
 
 ## <a name="audits-reports-and-certificates"></a>Controlli, report e certificati
 
-I rapporti di controllo per gli standard SOC 1 e SOC 2 di tipo 2, ISO/IEC 27001 e ISO/IEC 27018 confermano l'efficacia dei controlli che Microsoft ha implementato e possono aiutare i clienti a rispettare la conformità con la FDA CFR Title 21 parte 11.
+I report di controllo per gli standard SOC 1 e SOC 2 Tipo 2, ISO/IEC 27001 e ISO/IEC 27018 attestano l'efficacia dei controlli implementati da Microsoft e possono aiutare i clienti nella loro conformità con il titolo CFR FDA 21 parte 11.
 
 ## <a name="frequently-asked-questions"></a>Domande frequenti
 
 **A chi si applica lo standard?**
 
-FDA CFR Title 21 parte 11 si applica alle organizzazioni con prodotti e servizi che si occupano di aspetti regolamentati dalla FDA della ricerca, studio clinico, manutenzione, produzione e distribuzione di prodotti Science Life.
+Fda CFR Titolo 21 Parte 11 si applica alle organizzazioni con prodotti e servizi che si occupano di aspetti della ricerca, studio clinicho, manutenzione, produzione e distribuzione di prodotti di scienze naturali.
 
-**In che modo i servizi cloud di Microsoft Enterprise dimostrano la conformità con FDA QRC title 21 parte 11?**
+**In che modo i servizi cloud aziendali Microsoft dimostrano la conformità con fda CFR Title 21 Parte 11?**
 
-Utilizzando i controlli formali elaborati da terze parti per SOC 1 di tipo 2, SOC 2 di tipo 2, ISO/IEC 27001 e ISO/IEC 27018, Microsoft è in grado di dimostrare in che modo i criteri rilevanti riscontrati all'interno di tali rapporti devono soddisfare i requisiti.
+Usando i controlli formali preparati da terze parti per SOC 1 Tipo 2, SOC 2 Tipo 2, ISO/IEC 27001 e ISO/IEC 27018, Microsoft è in grado di mostrare in che modo i controlli pertinenti notati all'interno di questi report sodcidono i requisiti.
 
-I controlli controllati implementati da Microsoft contribuiscono a garantire la riservatezza, l'integrità e la disponibilità dei dati e corrispondono ai requisiti normativi applicabili definiti nel titolo 21 parte 11 che sono stati identificati come responsabilità di Microsoft. Le linee guida per la qualificazione per Azure e Office 365 illustrano in che modo i controlli di controllo Microsoft corrispondono a tali requisiti.
+I controlli implementati da Microsoft garantiscono la riservatezza, l'integrità e la disponibilità dei dati e corrispondono ai requisiti normativi applicabili definiti nel titolo 21 parte 11 che sono stati identificati come responsabilità di Microsoft. Le linee guida di qualificazione per Azure e Office 365 illustrano in dettaglio in che modo i controlli Microsoft corrispondono a tali requisiti.
 
-**Come è possibile ottenere le copie dei report di un revisore?**
+**Come posso ottenere copie dei report del revisore?**
 
-Il [Service Trust Portal](https://aka.ms/stphelp) fornisce report di conformità controllati in modo indipendente. È possibile utilizzare il portale per richiedere i rapporti di controllo in modo che i revisori possano confrontare i risultati dei servizi cloud di Microsoft con i propri requisiti legali e normativi.
+Il [Service Trust Portal](https://aka.ms/stphelp) fornisce report di conformità controllati in modo indipendente. È possibile utilizzare il portale per richiedere report di controllo in modo che i revisori possano confrontare i risultati dei servizi cloud di Microsoft con i propri requisiti legali e normativi.
 
-**È possibile utilizzare la conformità di Microsoft nel processo di certificazione per la propria organizzazione?**
+**Posso usare la conformità di Microsoft nel processo di certificazione per la mia organizzazione?**
 
-Sì. I rapporti di conformità indipendenti di terze parti degli standard IEC/ISO 27001, ISO/IEC 27018, SOC 1 e SOC 2 attestano l'efficacia dei controlli Microsoft. I clienti di Microsoft Enterprise Cloud possono utilizzare i controlli controllati descritti in questi rapporti correlati come parte delle proprie attività di analisi e qualificazione del titolo CFR Title 21 Part 11. I clienti che costruiscono e distribuiscono applicazioni soggette alla normativa FDA sono responsabili di garantire che le loro applicazioni soddisfino i requisiti FDA.
+Sì. I report di conformità di terze parti indipendenti degli standard IEC/ISO 27001, ISO/IEC 27018, SOC 1 e SOC 2 attestano l'efficacia dei controlli Microsoft. I clienti del cloud aziendale Microsoft possono utilizzare i controlli descritti in questi report correlati nell'ambito delle attività di analisi e qualificazione dei rischi del titolo CFR 21 parte 11. I clienti che compilano e distribuiscono applicazioni soggette alla normativa FDA hanno la responsabilità di garantire che le loro applicazioni soddisfino i requisiti della FDA.
 
 **Quali sono le responsabilità di Microsoft nel mantenere l'adeguamento a questo standard?**
 
-Microsoft garantisce che i servizi cloud aziendali soddisfino i termini definiti all'interno delle [condizioni dei servizi online](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=31) che disciplinano i contratti di servizio (SLA, Service Level Agreement) applicabili. Questi termini definiscono la responsabilità per l'implementazione e la gestione dei controlli adeguati per la protezione e il monitoraggio del sistema.
+Microsoft garantisce che i servizi cloud aziendali soddisfino i termini definiti nelle condizioni dei servizi [online](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=31) e nei contratti di servizio applicabili. Questi termini definiscono la responsabilità di implementare e mantenere controlli adeguati per proteggere e monitorare il sistema.
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usare Microsoft Compliance Manager per valutare i rischi
 
-[Microsoft Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) è una funzionalità del [Centro conformità Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) utile per comprendere lo stato di conformità dell'organizzazione e adottare misure per ridurre i rischi. Compliance Manager offre un modello premium per creare una valutazione per questa normativa. È possibile trovare il modello nella pagina dei **modelli di valutazione** in Compliance Manager. Informazioni su come [creare valutazioni in Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
+[Microsoft Compliance Manager](/microsoft-365/compliance/compliance-manager) è una funzionalità nel [Centro conformità Microsoft 365](/microsoft-365/compliance/microsoft-365-compliance-center) utile per comprendere lo stato di conformità dell'organizzazione e intraprendere azioni per ridurre i rischi. Compliance Manager offre un modello premium per creare una valutazione per questa normativa. Individuare il modello nella pagina **modelli di valutazioni** in Compliance Manager. Informazioni su come [creare valutazioni in Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments).
 
 ## <a name="resources"></a>Risorse
 
 - [Linee guida per la qualificazione GxP di Azure](https://aka.ms/gxpcompliance)
-- [Codice dei regolamenti federali titolo 21](https://aka.ms/FDA-CFR)
-- [Guida della FDA per l'industria parte 11: registri elettronici e firme](https://www.fda.gov/RegulatoryInformation/Guidances/ucm125067.htm)
-- [Linee guida per la qualificazione per Azure](https://aka.ms/azurefda21cfrpart11qualguide)
-- [Linee guida per la qualificazione di Office 365](https://aka.ms/o365-qualification-guideline)
-- [Framework di conformità dell'hub dei controlli comuni di Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Codice delle normative federali Titolo 21](https://aka.ms/FDA-CFR)
+- [Guida FDA per il settore Parte 11: Registrazioni elettroniche e firme](https://www.fda.gov/RegulatoryInformation/Guidances/ucm125067.htm)
+- [Linee guida di qualificazione per Azure](https://aka.ms/azurefda21cfrpart11qualguide)
+- [Linee guida di qualificazione per Office 365](https://aka.ms/o365-qualification-guideline)
+- [Hub dei controlli comuni del framework di conformità Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
 - [Condizioni di Microsoft Online Services](https://aka.ms/Online-Services-Terms)
 - [Microsoft Cloud per enti pubblici](https://aka.ms/govt-cloud)
 - [Conformità in Microsoft Trust Center](https://www.microsoft.com/trust-center/compliance/compliance-overview)

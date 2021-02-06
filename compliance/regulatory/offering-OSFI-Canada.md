@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: da6f212ca993a9e5887f32fe2c0fcc77e425f2e8
-ms.sourcegitcommit: 8af471ad10420ee5fce98d2eb0d69a6d2b992f08
+ms.openlocfilehash: 804d785cc8dfd3d693e34f17b48e2f8b0a94de17
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49937011"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120015"
 ---
 # <a name="office-of-the-superintendent-of-financial-institutions-osfi-canada"></a>Ufficio del sovrintendente delle istituzioni finanziarie (OSFI) del Canada
 
@@ -55,7 +55,7 @@ L'elenco di controllo Microsoft consente alle società finanziarie canadesi di s
 - [Elenco di controllo conformità: Canada](https://aka.ms/Azure-Canada-Compliance): le società finanziarie possono ottenere assistenza per la valutazione dei rischi dei servizi cloud Microsoft per le aziende.
 - [Privacy in Microsoft Cloud](https://aka.ms/MCSPrivacy): informazioni sui principi e gli standard Microsoft sulla privacy e sulle normative specifiche per il Canada.
 - [Valutazione dei rischi e guida alla conformità](https://aka.ms/RiskGovernanceGuide): creare un modello di governance per la valutazione dei rischi dei servizi cloud Microsoft e la notifica all'organismo di regolamentazione.
-- [Casi di utilizzo nel settore per Azure](https://docs.microsoft.com/azure/industry/financial/): panoramiche di casi di utilizzo, esercitazioni e altre risorse per creare soluzioni di Azure per i servizi finanziari.
+- [Casi di utilizzo nel settore per Azure](/azure/industry/financial/): panoramiche di casi di utilizzo, esercitazioni e altre risorse per creare soluzioni di Azure per i servizi finanziari.
 
 ## <a name="frequently-asked-questions"></a>Domande frequenti
 
@@ -71,7 +71,7 @@ Sì, ma solo se la disposizione di esternalizzazione è relativa ai materiali o 
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usare Microsoft Compliance Manager per valutare i rischi
 
-[Microsoft Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) è una funzionalità nel [Centro conformità Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) utile per comprendere lo stato di conformità dell'organizzazione e intraprendere azioni per ridurre i rischi. Compliance Manager offre un modello premium per creare una valutazione per questa normativa. Individuare il modello nella pagina **modelli di valutazioni** in Compliance Manager. Informazioni su come [creare valutazioni in Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
+[Microsoft Compliance Manager](/microsoft-365/compliance/compliance-manager) è una funzionalità nel [Centro conformità Microsoft 365](/microsoft-365/compliance/microsoft-365-compliance-center) utile per comprendere lo stato di conformità dell'organizzazione e intraprendere azioni per ridurre i rischi. Compliance Manager offre un modello premium per creare una valutazione per questa normativa. Individuare il modello nella pagina **modelli di valutazioni** in Compliance Manager. Informazioni su come [creare valutazioni in Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments).
 
 ## <a name="resources"></a>Risorse
 

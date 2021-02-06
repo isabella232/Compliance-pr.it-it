@@ -13,12 +13,12 @@ localization_priority: Priority
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
 ms.collection: MS-Compliance
-ms.openlocfilehash: b750fcc6bceec12a13b909e65dc6283b8938c6da
-ms.sourcegitcommit: fc1da22cf40dfd807c182d3f6df967eee192eacd
+ms.openlocfilehash: 6a6b1fdeac71bfcca68391cbc10ec75be0e18410
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49669727"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121885"
 ---
 # <a name="gdpr-for-on-premises-windows-server-file-shares"></a>Condivide l'RGDP per le condivisioni file di Windows Server locale
 
@@ -56,6 +56,6 @@ L'approccio consigliato per le condivisioni file include i seguenti passaggi:
 
     -   Per trovare i dati personali per le richieste dell'interessato, usare uno scanner di Azure Information Protection. È anche possibile configurare una ricerca per indicizzazione nelle condivisioni file di SharePoint Server.
 
-Per altre informazioni sull'uso dello scanner di Azure Information Protection per individuare ed etichettare i dati personali, vedere [Implementare lo scanner AIP](https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner).
+Per altre informazioni sull'uso dello scanner di Azure Information Protection per individuare ed etichettare i dati personali, vedere [Implementare lo scanner AIP](/azure/information-protection/deploy-aip-scanner).
 
-Per informazioni sulla configurazione dello scanner per le condizioni e l'utilizzo con tipi di informazioni riservate di prevenzione della perdita dei dati di Office 365, vedere [Come configurare le condizioni per la classificazione automatica e consigliata per Azure Information Protection](https://docs.microsoft.com/information-protection/deploy-use/configure-policy-classification). Si noti che i nuovi tipi di informazioni riservate di Office 365 non saranno immediatamente disponibili per l'uso con lo scanner e che i tipi di informazioni riservate personalizzate non possono essere usati con lo scanner.
+Per informazioni sulla configurazione dello scanner per le condizioni e l'utilizzo con tipi di informazioni riservate di prevenzione della perdita dei dati di Office 365, vedere [Come configurare le condizioni per la classificazione automatica e consigliata per Azure Information Protection](/information-protection/deploy-use/configure-policy-classification). Si noti che i nuovi tipi di informazioni riservate di Office 365 non saranno immediatamente disponibili per l'uso con lo scanner e che i tipi di informazioni riservate personalizzate non possono essere usati con lo scanner.

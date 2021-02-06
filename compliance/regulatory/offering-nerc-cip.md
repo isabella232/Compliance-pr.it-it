@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: ff7d22396efc6dcac52c029b2929d77717289c9e
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: f56ceaf5b110c10dbd4f045fd8c094586b86fea7
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508447"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121135"
 ---
 # <a name="north-american-electric-reliability-corporation-nerc"></a>North American Electric Reliability Corporation (NERC)
 
@@ -83,9 +83,9 @@ I [CIP standard](https://www.nerc.com/pa/Stand/Reliability%20Standards%20Complet
 
 La divisione ERO Enterprise della NERC [ha rilasciato](https://www.nerc.com/pa/comp/guidance/Pages/default.aspx) una [guida pratica](https://www.nerc.com/pa/comp/guidance/CMEPPracticeGuidesDL/ERO%20Enterprise%20CMEP%20Practice%20Guide%20_%20BCSI%20-%20v0.2%20CLEAN.pdf) al CMEP (Compliance Monitoring and Enforcement Program), il programma di monitoraggio e applicazione della conformità, in modo da fornire al proprio personale indicazioni utili alla valutazione del processo di autorizzazione di un'entità registrata per l'accesso alle posizioni di archiviazione di BCSI designate e per eventuali controlli di accesso implementati dalla stessa. Inoltre, la NERC ha esaminato i dettagli dell'implementazione del controllo di Azure e le prove di controllo di FedRAMP relative agli standard CIP-004-6 e CIP-011-2 applicabili a BCSI. Considerando la guida pratica rilasciata dall'ERO e la revisione dei controlli di FedRAMP con la finalità di garantire che le entità registrate criptino i dati, non risultano necessarie ulteriori indicazioni o chiarimenti per la distribuzione nel cloud dei carichi di lavoro BCSI e dei carichi associati. Tuttavia, in ultima analisi, le entità registrate sono responsabili della propria conformità ai CIP standard NERC sulla base dei fatti e circostanze a loro noti.
 
-## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usare Microsoft Compliance Manager per la valutazione dei rischi
+## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usare Microsoft Compliance Manager per valutare i rischi
 
-[Microsoft Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) è una funzionalità del [Centro conformità Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) utile per comprendere lo stato di conformità dell'organizzazione e adottare misure per ridurre i rischi. Compliance Manager offre un modello premium per creare una valutazione per questa normativa. È possibile trovare il modello nella pagina dei **modelli di valutazione** in Compliance Manager. Informazioni su come [creare valutazioni in Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
+[Microsoft Compliance Manager](/microsoft-365/compliance/compliance-manager) è una funzionalità nel [Centro conformità Microsoft 365](/microsoft-365/compliance/microsoft-365-compliance-center) utile per comprendere lo stato di conformità dell'organizzazione e intraprendere azioni per ridurre i rischi. Compliance Manager offre un modello premium per creare una valutazione per questa normativa. Individuare il modello nella pagina **modelli di valutazioni** in Compliance Manager. Informazioni su come [creare valutazioni in Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments).
 
 ## <a name="resources"></a>Risorse
 

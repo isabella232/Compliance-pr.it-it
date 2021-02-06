@@ -17,12 +17,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
-ms.openlocfilehash: 6c1e6c0a3aa8362d2bdba68f9919e6edb9919277
-ms.sourcegitcommit: b06fa9f1b230fd5e470817486ea51f460f28b691
+ms.openlocfilehash: d7acc085c3e84772dfecd2c34ee9f4496c06de4d
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50012981"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121935"
 ---
 # <a name="microsoft-support-and-professional-services-data-subject-requests-for-the-gdpr-and-ccpa"></a>Richieste degli interessati per Professional Services e supporto tecnico Microsoft nell'ambito del GDPR e del CCPA
 
@@ -232,7 +232,7 @@ Microsoft è il titolare del trattamento dei dati per i contatti cliente che col
 
 Per i servizi di migrazione FastTrack, Microsoft è responsabile del trattamento dei dati. In conformità all'informativa sulla divulgazione della privacy aggiuntiva Fast Track, tutti i dati in migrazione sono considerati "dati di migrazione". Prestare particolare attenzione qualora fosse necessario dare seguito alle richieste degli interessati mentre la propria organizzazione è impegnata in un progetto di migrazione FastTrack.
   
-Se è necessario elaborare richieste di accesso, rettifica o esportazione degli interessati mentre i dati di un utente vengono trattati tramite i sistemi di migrazione FastTrack, spetterà al cliente soddisfare tali richieste degli interessati tramite i sistemi di origine esistenti in cui sono archiviati i dati dell'utente. Una volta completata la migrazione dell'utente e la migrazione dei dati nel servizio cloud Microsoft di destinazione, saranno quindi applicate le indicazioni fornite da Microsoft su come i clienti possono usare i prodotti, i servizi e gli strumenti di amministrazione di Microsoft per trovare i dati personali e agire su di essi per rispondere alle richieste degli interessati. Per visualizzare questa guida, vedere [Richieste dell'interessato per il GDPR](https://docs.microsoft.com/microsoft-365/compliance/gdpr-data-subject-requests). 
+Se è necessario elaborare richieste di accesso, rettifica o esportazione degli interessati mentre i dati di un utente vengono trattati tramite i sistemi di migrazione FastTrack, spetterà al cliente soddisfare tali richieste degli interessati tramite i sistemi di origine esistenti in cui sono archiviati i dati dell'utente. Una volta completata la migrazione dell'utente e la migrazione dei dati nel servizio cloud Microsoft di destinazione, saranno quindi applicate le indicazioni fornite da Microsoft su come i clienti possono usare i prodotti, i servizi e gli strumenti di amministrazione di Microsoft per trovare i dati personali e agire su di essi per rispondere alle richieste degli interessati. Per visualizzare questa guida, vedere [Richieste dell'interessato per il GDPR](/microsoft-365/compliance/gdpr-data-subject-requests). 
 
 Se è necessario eliminare un account utente in risposta a una richiesta di eliminazione di una richiesta dell'interessato, mentre l'organizzazione è impegnata in un progetto di migrazione FastTrack in corso, è necessario tenere presente che i sistemi di migrazione possono conservare una copia dei dati di migrazione dell'utente per un periodo di tempo successivo al completamento della migrazione dell'utente e l'eliminazione dell'account utente non eliminerà automaticamente tali dati di migrazione degli utenti archiviati nei sistemi di migrazione FastTrack. Se si desidera che il team Microsoft FastTrack elimini i dati di migrazione degli utenti, è possibile [inviare una richiesta](https://go.microsoft.com/fwlink/?linkid=874544). Nel corso della normale attività, Microsoft FastTrack cancellerà tutte le copie dei dati una volta completata la migrazione dell'organizzazione.
 
