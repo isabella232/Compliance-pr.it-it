@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 66ee49e008f26c7af40e33d10f3415fdfac43498
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 7e502188d8c3f43906aff31728f9c3b9f8d23ea0
+ms.sourcegitcommit: 4f70b1fe53943f9d919e7e1f449093b90b30f046
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120275"
+ms.lasthandoff: 02/17/2021
+ms.locfileid: "50276174"
 ---
 # <a name="australian-government-information-security-registered-assessor-program-irap"></a>Australian Government Information Security Registered Assessor Program (IRAP)
 
@@ -58,11 +58,11 @@ Come sempre, altri controlli di compensazione possono essere implementati in bas
 
 La valutazione IRAP dei servizi e delle operazioni cloud di Microsoft consente di garantire ai clienti del settore pubblico governativo e ai loro partner che Microsoft dispone di controlli di sicurezza appropriati ed efficaci per l'elaborazione, l'archiviazione e la trasmissione di dati classificati fino al livello DI PROTEZIONE incluso. Questa valutazione include la maggior parte dei dati relativi a enti pubblici, sanitari ed istruzione in Australia.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud Microsoft in ambito
+## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud Microsoft inclusi
 
 - [Azure](https://aka.ms/AzureCompliance)
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
-- Microsoft Managed Desktop
+- [Microsoft Managed Desktop](/microsoft-365/managed-desktop/intro/compliance)
 - [Office 365](https://aka.ms/Office365ComplianceOfferings)
 
 ## <a name="frequently-asked-questions"></a>Domande frequenti
