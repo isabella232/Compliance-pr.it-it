@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: ef439ccb7c95698a8d7d4f5bc8b6d96bc42694a2
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: e947350388126c74dfce10babcb232a395b1a7f6
+ms.sourcegitcommit: 4f70b1fe53943f9d919e7e1f449093b90b30f046
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120125"
+ms.lasthandoff: 02/17/2021
+ms.locfileid: "50276044"
 ---
 # <a name="isoiec-270172015-code-of-practice-for-information-security-controls"></a>Codice di condotta in materia di controllo della sicurezza informatica ISO/IEC 27017:2015 
 
@@ -52,7 +52,7 @@ ISO/IEC 27017 è unico nel fornire indicazioni tanto ai provider di servizi clou
 - Microsoft Graph
 - Microsoft Healthcare Bot
 - Intune
-- Microsoft Managed Desktop
+- [Microsoft Managed Desktop](/microsoft-365/managed-desktop/intro/compliance)
 - Servizio cloud Power Automate (in precedenza Microsoft Flow), autonomo o incluso in un piano o in una famiglia di prodotti Office 365 o Dynamics 365
 - Office 365, Office 365 U.S. Government, Office 365 U.S. Government Defense e Office 365 Germany
 - Servizio cloud PowerApps, autonomo o incluso in un piano o in una famiglia di prodotti con marchio Office 365 o Dynamics 365

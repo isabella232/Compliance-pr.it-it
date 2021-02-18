@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 7c9a28ca0a89167a951eea1a47633c02bdb14faa
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 951b35d755091555450b7bcd4361d56c5159591e
+ms.sourcegitcommit: 4f70b1fe53943f9d919e7e1f449093b90b30f046
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120135"
+ms.lasthandoff: 02/17/2021
+ms.locfileid: "50276094"
 ---
 # <a name="isoiec-27018-code-of-practice-for-protecting-personal-data-in-the-cloud"></a>Code of Practice per la protezione dei dati personali nel cloud ISO/IEC 27018
 
@@ -52,7 +52,7 @@ Seguendo gli standard ISO/IEC 27001 e il Code of Practice integrato in ISO/IEC 2
 - Microsoft Graph
 - Microsoft Healthcare Bot
 - Intune
-- Microsoft Managed Desktop
+- [Microsoft Managed Desktop](/microsoft-365/managed-desktop/intro/compliance)
 - Power Automate (in precedenza Microsoft Flow): servizio cloud autonomo o incluso in un piano o in una famiglia di prodotti Office 365 o Dynamics 365
 - [Office 365, Office 365 U.S. Government e Office 365 U.S. Government Defense](https://go.microsoft.com/fwlink/p/?linkid=2077751)
 - Office 365 Germany
@@ -122,4 +122,4 @@ Tuttavia, hai la responsabilità di affidare l'incarico a un valutatore affinch�
 - [Criteri di accesso ai dati per servizi cloud aziendali e servizi tecnici Microsoft](https://www.microsoft.com/trustcenter/Privacy/Who-can-access-your-data-and-on-what-terms)
 - [Condizioni di Microsoft Online Services](https://aka.ms/Online-Services-Terms)
 - [Cloud Microsoft per enti pubblici](https://go.microsoft.com/fwlink/p/?linkid=2087246)
-- [Conformità nel Centro protezione di Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Conformità in Microsoft Trust Center](https://www.microsoft.com/trust-center/compliance/compliance-overview)

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 2ecf4d029b1c69e4ce7da1244d71d47433eb3873
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: f0ad19fdeb794d281342367ad9313ac159b9acf0
+ms.sourcegitcommit: 4f70b1fe53943f9d919e7e1f449093b90b30f046
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120145"
+ms.lasthandoff: 02/17/2021
+ms.locfileid: "50276034"
 ---
 # <a name="iso-90012015-quality-management-systems-standards"></a>ISO 9001:2015 Quality Management Systems Standards
 
@@ -33,7 +33,7 @@ ISO 9001:2015 è uno standard internazionale che stabilisce i criteri per un sis
 
 Una società di revisione indipendente di terze parti ha eseguito un esame rigoroso di Microsoft Azure e di diversi servizi online Microsoft per verificarne il rispetto dei principi di gestione della qualità stabiliti dalla norma ISO 9001:2015. La certificazione di terze parti disponibile fornisce una conferma indipendente che Azure e i servizi online Microsoft soddisfano i requisiti ISO 9001:2015.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud Microsoft inclusi nell'ambito
+## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud Microsoft inclusi
 
 - [Azure, Azure per enti pubblici e Azure Germania](https://aka.ms/AzureCompliance)
 - Microsoft Cloud App Security
@@ -42,7 +42,7 @@ Una società di revisione indipendente di terze parti ha eseguito un esame rigor
 - Intune
 - Microsoft Defender Advanced Threat Protection
 - Microsoft Healthcare Bot
-- Microsoft Managed Desktop
+- [Microsoft Managed Desktop](/microsoft-365/managed-desktop/intro/compliance)
 - Servizio cloud Power Automate (in precedenza Microsoft Flow), autonomo o incluso in un piano o in una famiglia di prodotti Office 365 o Dynamics 365
 - Servizio cloud PowerApps, autonomo o incluso in un piano o in una famiglia di prodotti con marchio Office 365 o Dynamics 365
 - Servizio cloud Power BI, autonomo o incluso in un piano o in una famiglia di prodotti con marchio Office 365

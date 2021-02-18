@@ -17,12 +17,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
-ms.openlocfilehash: 44df81658719397271020f38088d3287e67774a1
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 16135ae18d0b0a2a91a61652fed3d1b34d5db124
+ms.sourcegitcommit: 38741d8dc272bc2199d9f27db0335973e6be9735
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121435"
+ms.lasthandoff: 02/18/2021
+ms.locfileid: "50290932"
 ---
 # <a name="general-data-protection-regulation-summary"></a>Riepilogo del Regolamento generale sulla protezione dei dati
 
@@ -141,7 +141,6 @@ Microsoft aderisce ai principi di "privacy by design" (privacy fin dalla progett
 
 Tali controlli della privacy tendono ad essere granulari: un determinato servizio può essere sottoposto a decine o centinaia di controlli. Questi controlli granulari della privacy confluiscono nelle valutazioni d'impatto sulla protezione dei dati che riguardano le principali categorie di trattamento, che in seguito verranno sottoposte al controllo del Responsabile della protezione dei dati dell'Unione europea di Microsoft. Il Responsabile della protezione dei dati valuta i rischi relativi al trattamento dei dati per verificare che siano disponibili soluzioni sufficienti. Se individua dei rischi privi di soluzione, suggerisce le modifiche da apportare al gruppo di progettazione. Le valutazioni d'impatto sulla protezione dei dati verranno riviste e aggiornate man mano che cambiano i rischi per la protezione dei dati.
 
-
 In qualità di responsabile del trattamento dei dati, Microsoft ha il dovere di assistere i titolari del trattamento nel garantire il rispetto dei requisiti relativi alle valutazioni d'impatto sulla protezione dei dati indicati nel GDPR. A questo scopo, le sezioni pertinenti delle valutazioni d'impatto sulla protezione dei dati svolte da Microsoft verranno fornite in questa sezione negli aggiornamenti futuri, per consentire ai titolari del trattamento che usano i servizi Microsoft di sfruttare queste informazioni per creare le proprie valutazioni d'impatto.
 
 ## <a name="breach-notification"></a>Notifica di violazione
@@ -210,7 +209,7 @@ Le Condizioni per il GDPR di Microsoft riflettono gli impegni che l'Articolo 28 
 
 **In che modo Microsoft semplifica il trasferimento dei dati personali al di fuori dell'Unione Europea?**
 
-Microsoft utilizza da molto le clausole contrattuali standard (note anche come Clausole modello) come base per il trasferimento dei dati per i propri servizi online aziendali. Le clausole contrattuali standard sono condizioni standard fornite dalla Commissione Europea che possono essere usate per trasferire i dati al di fuori dello Spazio economico europeo in modo conforme. Microsoft ha integrato le clausole contrattuali standard in tutti i suoi contratti multilicenza tramite le [Condizioni dei servizi online ](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=46). L'implementazione delle clausole contrattuali standard da parte di Microsoft è stata ritenuta conforme dal Gruppo dell'articolo 29 per la tutela dei dati. Inoltre, quando è entrato in vigore l'EU-US Privacy Shield, Microsoft è stata la prima azienda a certificarsi. Vedere la [certificazione Microsoft per il Privacy Shield](https://www.privacyshield.gov/participant?id=a2zt0000000KzNaAAK&status=Active) e leggere le [Condizioni per i servizi online](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=46). L'EU-US Privacy Shield consente ai clienti che desiderano trasferire i propri dati negli Stati Uniti di farlo in maniera conforme ai propri obblighi di protezione dei dati.
+Microsoft utilizza da molto le clausole contrattuali standard (note anche come Clausole modello) come base per il trasferimento dei dati per i propri servizi online aziendali. Le clausole contrattuali standard sono condizioni standard fornite dalla Commissione Europea che possono essere usate per trasferire i dati al di fuori dello Spazio economico europeo in modo conforme. Microsoft ha integrato le clausole contrattuali standard in tutti i suoi contratti multilicenza tramite le [Condizioni dei servizi online ](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=46). Per i dati personali dello Spazio economico europeo, della Svizzera e del Regno Unito, Microsoft garantirà che i trasferimenti di dati personali verso un paese terzo o un'organizzazione internazionale siano soggetti a garanzie appropriate, secondo quanto descritto nell'articolo 46 del GDPR. Oltre agli impegni assunti ai sensi delle clausole contrattuali standard per i responsabili del trattamento e altri contratti modello, Microsoft continua a rispettare le condizioni del framework [Privacy Shield](https://www.privacyshield.gov/), ma non si baserà più su di esso come base per il trasferimento dei dati personali dall'Unione Europea/AEE agli Stati Uniti.
 
 **Quali sono le altre offerte di Microsoft per la conformità?**
 
@@ -269,7 +268,7 @@ La conformità al GDPR costerà tempo e denaro alla maggior parte delle organizz
 
 Il GDPR disciplina la raccolta, l'archiviazione, l'utilizzo e la condivisione dei "dati personali". Nel GDPR, i dati personali sono definiti molto ampiamente come qualsiasi dato relativo a una persona fisica identificata o identificabile.
 
-I dati personali possono includere, ad esempio, identificatori online (come gli indirizzi IP), informazioni sui dipendenti, database di vendita, dati sui servizi al cliente, moduli per i feedback dei clienti, dati sulla posizione, dati biometrici, riprese a circuito chiuso, record relativi a programmi di fidelizzazione, informazioni sanitarie e finanziare e molto altro. Possono anche includere informazioni che potrebbero non sembrare personali, ad esempio la foto di un panorama senza persone, in cui le informazioni sono collegate tramite un numero di account o un codice univoco a una persona identificabile. Anche i dati personali pseudonimizzati possono essere dati personali se lo pseudonimo può essere ricondotto a una persona specifica. 
+I dati personali possono includere, ad esempio, identificatori online (come gli indirizzi IP), informazioni sui dipendenti, database di vendita, dati sui servizi al cliente, moduli per i feedback dei clienti, dati sulla posizione, dati biometrici, riprese a circuito chiuso, record relativi a programmi di fidelizzazione, informazioni sanitarie e finanziare e molto altro. Possono anche includere informazioni che potrebbero non sembrare personali, ad esempio la foto di un panorama senza persone, in cui le informazioni sono collegate tramite un numero di account o un codice univoco a una persona identificabile. Anche i dati personali pseudonimizzati possono essere dati personali se lo pseudonimo può essere ricondotto a una persona specifica.
 
 Il trattamento di alcune categorie "speciali" di dati personali, come i dati che rivelano l'origine etnica o razziale di una persona oppure relativi alla sua salute o al suo orientamento sessuale, è soggetto a regole ancora più rigide rispetto al trattamento dei dati personali "normali". La valutazione dei dati personali dipende in larga misura dalle circostanze, per cui è consigliabile rivolgersi a un esperto per valutare ogni circostanza specifica.
 
@@ -325,6 +324,5 @@ I prodotti e servizi Microsoft, quali Azure, Dynamics 365, Enterprise Mobility +
 
 - [Per affrontare le tue esigenze relative al GDPR, rivolgiti a uno dei nostri partner globali che offrono soluzioni basate su Microsoft](https://aka.ms/findgdprpartner)
 - [Scopri in che modo Microsoft gestisce i dati, dove si trovano, chi può accedervi e a quali condizioni e altro.](https://www.microsoft.com/trust-center/privacy)
-- [Scopri in che modo Microsoft rispetta i principi del framework EU-U.S. Privacy Shield](https://blogs.microsoft.com/eupolicy/2016/07/11/eu-u-s-privacy-shield-progress-for-privacy-rights/)
 - [Scopri quali sono le modalità di rilevamento, risposta e notifica da parte di Microsoft in caso di violazione dei dati personali ai sensi del GDPR](https://www.microsoft.com/trust-center/privacy/gdpr-data-breach)
 - [Valutare subito il tuo grado di preparazione al GDPR](https://discover.microsoft.com/gdpr-readiness-assessment/)
