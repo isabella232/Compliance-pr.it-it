@@ -17,12 +17,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
-ms.openlocfilehash: fb982899fb5159abecc07b90700134b6247b6fee
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 3ffda250e017bd97cbfd9d1cf60c8251699e9740
+ms.sourcegitcommit: 3761eaf22bb2c7ed09ed24b9a526404ac7283ab8
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121945"
+ms.lasthandoff: 03/15/2021
+ms.locfileid: "50822519"
 ---
 # <a name="office-365-data-subject-requests-for-the-gdpr-and-ccpa"></a>Richieste degli interessati per Office 365 nell'ambito del GDPR e del CCPA
 
@@ -727,7 +727,7 @@ Bookings raccoglie e memorizza i seguenti tipi di dati:
 
 ##### <a name="export"></a>Esportazione
 
-Per esportare i dati corrispondenti al titolare dell'azienda, al personale e ai clienti, è possibile utilizzare il portale sulla privacy Business Center. Vedere [Esportare o eliminare i dati degli utenti con il portale sulla privacy Business Center](https://support.office.com/article/export-or-delete-user-data-using-business-center-privacy-portal-eb48e2c1-4c91-4421-988d-5de497d1e8d8).
+Per esportare i dati corrispondenti al titolare dell'azienda, al personale e ai clienti, è possibile utilizzare il [portale sulla privacy Business Center](https://businessaccount.microsoft.com/).
 
 ##### <a name="delete"></a>Eliminazione
 
@@ -738,7 +738,7 @@ Per esportare i dati corrispondenti al titolare dell'azienda, al personale e ai 
 - **Eventi di Bookings:** è possibile eliminare gli eventi di Bookings dal calendario di Bookings, che consente di rimuovere le informazioni del cliente.
 - **Richieste di riunione, conferme/cancellazioni/aggiornamenti e promemoria via e-mail:** è possibile eliminare tutto ciò dal calendario di Bookings per rimuovere le informazioni del cliente.
 
-Gli amministratori e i titolari dell'azienda possono anche eliminare i dati dei clienti tramite il portale sulla privacy Business Center. Vedere [Esportare o eliminare i dati degli utenti con il portale sulla privacy Business Center](https://support.office.com/article/export-or-delete-user-data-using-business-center-privacy-portal-eb48e2c1-4c91-4421-988d-5de497d1e8d8).
+Per esportare i dati corrispondenti al titolare dell'azienda, al personale e ai clienti, è possibile utilizzare il [portale sulla privacy Business Center](https://businessaccount.microsoft.com/).
 
 Inoltre, è possibile eliminare il titolare dell'azienda e i dati del personale, nonché il corrispondente account utente. Vedere la sezione [Eliminazione di un utente](#deleting-a-user).
 
@@ -760,7 +760,7 @@ I proprietari di Listings possono accedere alla dashboard di Listings per visual
 
 ##### <a name="export"></a>Esportazione
 
-Per esportare i dati del titolare dell'azienda, del personale e dei clienti, utilizzare il portale sulla privacy Business Center. Vedere [Esportare o eliminare i dati degli utenti con il portale sulla privacy Business Center](https://support.office.com/article/export-or-delete-user-data-using-business-center-privacy-portal-eb48e2c1-4c91-4421-988d-5de497d1e8d8).
+Per esportare i dati corrispondenti al titolare dell'azienda, al personale e ai clienti, è possibile utilizzare il [portale sulla privacy Business Center](https://businessaccount.microsoft.com/).
 
 ##### <a name="delete"></a>Eliminazione
 
@@ -784,7 +784,7 @@ Un proprietario di Connections può accedere al dashboard di Connections e visua
 
 ##### <a name="export"></a>Esporta
 
-Per esportare i dati del titolare dell'azienda, del personale e dei clienti, utilizzare il portale sulla privacy Business Center. Vedere [Esportare o eliminare i dati degli utenti con il portale sulla privacy Business Center](https://support.office.com/article/export-or-delete-user-data-using-business-center-privacy-portal-eb48e2c1-4c91-4421-988d-5de497d1e8d8).
+Per esportare i dati corrispondenti al titolare dell'azienda, al personale e ai clienti, è possibile utilizzare il [portale sulla privacy Business Center](https://businessaccount.microsoft.com/).
 
 ##### <a name="delete"></a>Eliminazione
 
