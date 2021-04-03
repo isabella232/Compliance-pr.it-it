@@ -1,6 +1,6 @@
 ---
 title: Resilienza dei dati in Microsoft 365
-description: In questo articolo vengono fornite informazioni sulla progettazione e sui principi di resilienza e ripristino dei dati in Microsoft 365.
+description: In questo articolo, informazioni sulla progettazione e sui principi di resilienza e ripristino dei dati in Microsoft 365.
 ms.author: robmazz
 author: robmazz
 manager: laurawi
@@ -19,39 +19,40 @@ f1.keywords:
 - NOCSH
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: 361400bf6330fb82d34f384d17e4d4ee438ccf08
-ms.sourcegitcommit: b06fa9f1b230fd5e470817486ea51f460f28b691
+hideEdit: true
+ms.openlocfilehash: 6e990facde47b07d50f594afb55353a5ef81dd78
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50012902"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51497619"
 ---
 # <a name="data-resiliency-in-microsoft-365"></a>Resilienza dei dati in Microsoft 365
 
-Data la complessità del cloud computing, Microsoft è consapevole del fatto che non si tratta di un caso in cui le cose andranno male, ma piuttosto quando. È possibile progettare i servizi cloud per massimizzare l'affidabilità e ridurre al minimo gli effetti negativi sui clienti quando si verifica un errore. Ci siamo spostati oltre la strategia tradizionale di fare affidamento sull'infrastruttura fisica complessa e abbiamo creato la ridondanza direttamente nei nostri servizi cloud. Viene utilizzata una combinazione di infrastruttura fisica meno complessa e software più intelligente che genera la resilienza dei dati nei servizi e garantisce una disponibilità elevata ai clienti.
+Data la natura complessa del cloud computing, Microsoft è consaci del fatto che non è un caso se le cose andranno storte, ma piuttosto quando. Progettiamo i nostri servizi cloud per ottimizzare l'affidabilità e ridurre al minimo gli effetti negativi sui clienti in caso di problemi. È stata superata la strategia tradizionale di basarsi su un'infrastruttura fisica complessa e la ridondanza è stata creata direttamente nei servizi cloud. Usiamo una combinazione di un'infrastruttura fisica meno complessa e di un software più intelligente che crea resilienza dei dati nei nostri servizi e offre disponibilità elevata ai nostri clienti.
 
-## <a name="resiliency-and-recoverability-are-built-in"></a>La resilienza e la recuperabilità sono incorporate
+## <a name="resiliency-and-recoverability-are-built-in"></a>Resilienza e recuperabilità sono integrate
 
-La creazione di resilienza e ripristino inizia con l'assunto che l'infrastruttura e i processi sottostanti avranno esito negativo a un certo punto: l'hardware (infrastruttura) avrà esito negativo, gli esseri umani commetteranno errori e il software avrà bug. Anche se non è corretto dire che gli sviluppatori di software non stavano pensando a queste operazioni prima del cloud, in che modo questi problemi sono stati gestiti in una tipica implementazione IT era diverso prima del cloud:
+La creazione di resilienza e ripristino inizia con il presupposto che l'infrastruttura e i processi sottostanti avranno esito negativo a un certo punto: l'hardware (infrastruttura) avrà esito negativo, gli umani commetteranno errori e il software avrà bug. Anche se non sarebbe corretto dire che gli sviluppatori di software non stavano pensando a queste cose prima del cloud, il modo in cui questi problemi sono stati gestiti in un'implementazione IT tipica era diverso prima del cloud:
 
-- In primo luogo, le protezioni per l'hardware e l'infrastruttura sono state significative. Questa struttura significava che i centri dati con un'affidabilità del 99,99% richiedevano una ridondanza significativa della rete e dell'alimentazione e che i server venissero implementati con il clustering basato sull'hardware, i doppi alimentatori, le interfacce di rete duali e così.
-- In secondo luogo, il processo è stato fondamentale. I team operativi hanno mantenuto procedure rigorose, sono state apportate modifiche alle finestre e spesso sono stati significativi overhead per la gestione dei progetti.
-- Terza, la distribuzione ha avuto luogo a ritmi glaciali. La distribuzione del codice senza possedere l'origine significava in attesa di rilasci delle patch e la versione principale rilasciava la sostituzione hardware e una significativa spesa di capitale. Inoltre, l'unico modo per correggere un problema è stato quello di eseguire il rollback. In questo modo, la maggior parte delle organizzazioni IT distribuirà solo i rilasci importanti per evitare che il lavoro venga mantenuto aggiornato.
-- Infine, la scala dei sistemi distribuiti e il livello di interconnessione sono stati storicamente molto più piccoli di quanto lo sia ora.
+- In primo luogo, le protezioni hardware e dell'infrastruttura sono state significative. Questa struttura significava che i datacenter con affidabilità del 99,99% richiedevano una notevole ridondanza di alimentazione e di rete e i server venivano implementati con clustering basato su hardware, alimentatori doppi, interfacce di rete doppie e simili.
+- In secondo momento, il processo era fondamentale. I team delle operazioni hanno mantenuto procedure rigorose, sono state impiegate finestre di modifica e spesso si è presente un notevole sovraccarico per la gestione dei progetti.
+- In terzo luogo, la distribuzione ha avuto luogo a un ritmo glaciale. La distribuzione del codice senza possedere l'origine significava attendere i rilasci delle patch e le versioni principali comportavano la sostituzione hardware e un notevole aumento di capitale. Inoltre, l'unico modo per correggere un problema era il rollback. Di conseguenza, la maggior parte delle organizzazioni IT distribuirebbe solo le versioni principali per evitare il lavoro da tenere aggiornato.
+- Infine, la scala dei sistemi distribuiti e il livello di interconnessione erano storicamente molto più piccoli di quanto non lo sia ora.
 
-Oggi, i clienti si aspettano un'innovazione continua da Microsoft senza compromettere la qualità e questo è uno dei motivi per cui i servizi e il software di Microsoft sono stati creati con resilienza e ripristino in mente.
+Oggi, i clienti si aspettano un'innovazione continua da Microsoft senza compromettere la qualità e questo è uno dei motivi per cui i servizi e il software di Microsoft sono creati con resilienza e recuperabilità in mente.
 
 ## <a name="microsoft-365-data-resiliency-principles"></a>Principi di resilienza dei dati di Microsoft 365
 
-La resilienza si riferisce alla capacità di un servizio basato sul cloud di resistere a determinati tipi di errori, ma rimane completamente funzionante dalla prospettiva dei clienti. La resilienza dei dati significa che non importa quali errori si verificano in Microsoft 365, i dati critici dei clienti restano intatti e inalterati. A tal fine, i servizi Microsoft 365 sono stati disegnati attorno a cinque specifici principi di resilienza:
+La resilienza si riferisce alla capacità di un servizio basato su cloud di sopportare determinati tipi di errori e di rimanere completamente funzionante dal punto di vista dei clienti. La resilienza dei dati significa che, indipendentemente da quali errori si verificano in Microsoft 365, i dati critici dei clienti rimangono intatti e inalterati. A tale scopo, i servizi di Microsoft 365 sono stati progettati in base a cinque principi di resilienza specifici:
 
-- Sono presenti dati critici e non critici. I dati non critici, ad esempio l'eventuale lettura di un messaggio, possono essere eliminati in scenari di errore rari. I dati critici (ad esempio, i dati dei clienti come i messaggi di posta elettronica) devono essere protetti a costi estremi. Come obiettivo di progettazione, i messaggi di posta elettronica recapitati sono sempre importanti e gli elementi come se un messaggio è stato letto non sono critici.
-- Le copie dei dati del cliente devono essere separate in aree di errore diverse o come molti domini di errore possibili (ad esempio, Datacenter, accessibili da singole credenziali (processo, server o operatore)) per fornire l'isolamento degli errori. 
-- I dati critici dei clienti devono essere monitorati per la mancanza di qualsiasi parte dell'atomicità, della coerenza, dell'isolamento e della durata (acido).
-- I dati dei clienti devono essere protetti dal danneggiamento. Deve essere analizzato o monitorato attivamente, ripristinabile e ripristinabile.
-- La maggior parte delle perdite di dati risulta dalle azioni dei clienti, quindi consente ai clienti di eseguire il ripristino autonomo utilizzando una GUI che consente di ripristinare accidentalmente gli elementi eliminati.
+- Sono presenti dati critici e non critici. I dati non critici (ad esempio, se un messaggio è stato letto) possono essere eliminati in rari scenari di errore. I dati critici (ad esempio, i dati dei clienti come i messaggi di posta elettronica) devono essere protetti a costi estremi. Come obiettivo di progettazione, i messaggi di posta recapitati sono sempre critici e operazioni come la lettura di un messaggio non sono critiche.
+- Le copie dei dati dei clienti devono essere separate in diverse aree di errore o nel maggior numero possibile di domini di errore (ad esempio datacenter, accessibili con credenziali singole (processo, server o operatore)) per garantire l'isolamento degli errori. 
+- I dati critici dei clienti devono essere monitorati per eventuali errori di atomicità, coerenza, isolamento, durabilità (ACID).
+- I dati dei clienti devono essere protetti da danneggiamenti. Deve essere analizzato o monitorato attivamente, ripristinabile e ripristinabile.
+- La maggior parte dei risultati della perdita di dati deriva dalle azioni dei clienti, quindi consenti ai clienti di eseguire il ripristino da soli usando un'interfaccia utente grafica che consente loro di ripristinare gli elementi eliminati accidentalmente.
 
-Tramite la creazione dei servizi cloud a questi principi, insieme a testing e convalida robusti, Microsoft 365 è in grado di soddisfare e superare i requisiti dei clienti garantendo una piattaforma per l'innovazione continua e il miglioramento.
+Grazie alla creazione dei servizi cloud a questi principi, insieme a test e convalida affidabili, Microsoft 365 è in grado di soddisfare e superare i requisiti dei clienti garantendo al contempo una piattaforma per l'innovazione e il miglioramento continui.
 
 ## <a name="related-articles"></a>Articoli correlati
 

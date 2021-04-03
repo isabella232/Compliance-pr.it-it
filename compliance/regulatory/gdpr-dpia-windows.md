@@ -17,12 +17,13 @@ ms.collection:
 - GDPR
 - M365-security-compliance
 - MS-Compliance
-ms.openlocfilehash: b0f23f9143d96ddc1f22f1bc1014769384838531
-ms.sourcegitcommit: b366fb7c148b4da40f8c5d8ff41adbff0bcb850e
+hideEdit: true
+ms.openlocfilehash: 69c2eaed3d4a84fa11337fe5ec9b6be94c2e814b
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "49585381"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51496253"
 ---
 # <a name="data-protection-impact-assessments-guidance-for-data-controllers-using-microsoft-data-processor-service-for-windows-enterprise"></a>Valutazioni d'impatto sulla protezione dei dati: guida per i titolari del trattamento dei dati che usano il servizio di trattamento dei dati di Microsoft Enterprise
 
@@ -51,7 +52,7 @@ L'articolo 35 del GDPR richiede che un titolare del trattamento dei dati crei un
 
 L'articolo 35, paragrafo 7, stabilisce che una valutazione d'impatto sulla protezione dei dati specifichi le finalità del trattamento e contenga una descrizione sistematica dei trattamenti previsti. Una descrizione sistematica di una DPIA completa potrebbe includere fattori quali i tipi di dati trattati, per quanto tempo vengono conservati, i luoghi in cui si trovano e possono essere trasferiti e le terze parti che potrebbero avere accesso a tali dati. Inoltre, la DPIA deve includere: 
 
-una valutazione della necessità e proporzionalità delle operazioni di elaborazione in relazione alle finalità; 
+una valutazione della necessità e proporzionalità delle operazioni di trattamento in relazione alle finalità; 
 
 una valutazione dei rischi per i diritti e le libertà delle persone fisiche; 
 

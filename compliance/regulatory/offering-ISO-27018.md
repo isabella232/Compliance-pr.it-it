@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 951b35d755091555450b7bcd4361d56c5159591e
-ms.sourcegitcommit: 4f70b1fe53943f9d919e7e1f449093b90b30f046
+ms.openlocfilehash: 319f51416b0bcafb17d8ac343093789146d13742
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/17/2021
-ms.locfileid: "50276094"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51497728"
 ---
 # <a name="isoiec-27018-code-of-practice-for-protecting-personal-data-in-the-cloud"></a>Code of Practice per la protezione dei dati personali nel cloud ISO/IEC 27018
 
@@ -63,7 +63,7 @@ Seguendo gli standard ISO/IEC 27001 e il Code of Practice integrato in ISO/IEC 2
 - Power Virtual Agents
 - Microsoft Threat Experts
 - Microsoft Stream
-- Windows Defender ATP: Rilevamento e reazione dagli endpoint, Analisi e risoluzione automatiche, Secure Score
+- Microsoft Defender ATP: Rilevamento e reazione dagli endpoint, Analisi e risoluzione automatiche, Secure Score
 
 ## <a name="audits-reports-and-certificates"></a>Controlli, report e certificati
 

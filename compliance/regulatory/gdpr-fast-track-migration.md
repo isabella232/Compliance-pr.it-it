@@ -17,12 +17,13 @@ ms.collection:
 - M365-security-compliance
 - MS-Compliance
 titleSuffix: Microsoft GDPR
-ms.openlocfilehash: b4c46e63ecbde1d160b0e0224a77ead751c37557
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+hideEdit: true
+ms.openlocfilehash: 134bf099671830856f97bf4dd770123d7efaf41a
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509051"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51496107"
 ---
 # <a name="fasttrack-migration-toolset-for-submitting-delete-request"></a>Set di strumenti di migrazione di FastTrack per inviare una richiesta di eliminazione
 
@@ -32,11 +33,11 @@ Se si è un cliente attualmente coinvolto in una migrazione di FastTrack, elimin
 
 ### <a name="supported-platforms"></a>Piattaforme supportate
 
-Microsoft supporta la versione iniziale di questo set di strumenti nella piattaforma Windows e nella console di PowerShell. Il set di strumenti supporta le seguenti piattaforme note:
+Microsoft supporta la versione iniziale di questo set di strumenti nella piattaforma Windows e nella console di PowerShell. Il set di strumenti supporta le seguenti piattaforme:
 
-***Tabella 1 - Piattaforme supportate da questo set di strumenti** _
+***Tabella 1 — Piattaforme supportate da questo set di strumenti***
 
-_***
+****
 
 |Versione di PowerShell|Windows 7|Windows 8|Windows 10|Windows Server 2012|Windows Server 2016|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -58,9 +59,9 @@ Ora che la console è aperta, è necessario impostare le autorizzazioni per l'es
 Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
 ```
 
-Verrà richiesto di confermare l'azione, poiché l'amministratore può modificare l'ambito a propria discrezione.
+Verrà richiesto di confermare l'azione, in quanto l'amministratore può modificare l'ambito a propria discrezione.
 
-**_Impostare criteri di esecuzione_* _
+***Impostare criteri di esecuzione***
 
 ![Impostare la modifica dei criteri di esecuzione in PowerShell](../media/powershell-set-execution-policy_image.png)
 
@@ -80,9 +81,9 @@ Per inviare un DSR, è prima necessario eseguire l'accesso con le credenziali di
 Login-FastTrackAccount -ApiKey <API Key provided by FastTrack MVM>
 ```
 
-Una volta eseguito correttamente l'accesso, le credenziali e la chiave saranno conservate per l'utilizzo con i moduli FastTrack per il resto della sessione corrente di PowerShell.
+Una volta eseguito l'accesso, le credenziali e la chiave saranno conservate per l'utilizzo con i moduli FastTrack per il resto della sessione corrente di PowerShell.
 
-Se è necessario connettersi a un ambiente cloud diverso da quello commerciale, sarà necessario aggiungere _-Environment* al comando *Login* con uno dei seguenti ambienti validi:
+Se è necessario connettersi a un ambiente cloud diverso da quello commerciale, sarà necessario aggiungere *-Environment* al comando *Login* con uno dei seguenti ambienti validi:
 
 - AzureCloud
 - AzureChinaCloud

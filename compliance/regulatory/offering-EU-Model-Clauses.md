@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: bb86eb3d5e1ce8b8580a35b78718df303bd6770f
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: e50e5a8e0dd8ec400b4ca5ae053f3898e4cb0abc
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509611"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51496528"
 ---
 # <a name="european-union-model-clauses"></a>Clausole del modello dell'Unione europea
 
@@ -53,7 +53,7 @@ Il gruppo ha stabilito che l'implementazione delle disposizioni negli accordi Mi
 - Servizio cloud PowerApps come servizio autonomo o incluso in un piano o in una famiglia di prodotti con marchio Office 365 o Dynamics 365
 - Servizio cloud Power BI, autonomo o incluso in un piano o in una famiglia di prodotti con marchio Office 365
 - Azure DevOps Services
-- Windows Defender Advanced Threat Protection per le seguenti parti del servizio cloud: rilevamento e reazione dagli endpoint, indagine e rimedio automatici e Secure Score.
+- Microsoft Defender per endpoint per le seguenti parti del servizio cloud: rilevamento e reazione dagli endpoint, analisi e risoluzioni automatiche e Secure Score.
 
 ## <a name="audits-reports-and-certificates"></a>Controlli, report e certificati
 

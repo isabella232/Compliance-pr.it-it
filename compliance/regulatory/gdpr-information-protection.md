@@ -1,7 +1,7 @@
 ---
 title: Protezione delle informazioni
 description: Informazioni sulle funzionalità di protezione delle informazioni in Microsoft 365 per il Regolamento generale sulla protezione dei dati (GDPR).
-keywords: Microsoft 365, Microsoft 365 Education, Documentazione Microsoft 365, RGPD
+keywords: Microsoft 365, Microsoft 365 Education, Documentazione Microsoft 365, GDPR
 localization_priority: Priority
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,13 @@ ms.collection:
 - M365-security-compliance
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
-ms.openlocfilehash: df5131af45a938199df1a52bbf3e437f34ed3f9a
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+hideEdit: true
+ms.openlocfilehash: 59f32d9ae9afc5e3682c032168d296dc0eec95f4
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121855"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51496037"
 ---
 # <a name="information-protection-for-gdpr-with-microsoft-365-capabilities"></a>Protezione delle informazioni per RGPD con le funzionalità di Microsoft 365
 
@@ -57,8 +58,8 @@ La protezione dalle minacce è incorporata in tutti i servizi Microsoft 365. Ecc
 
 - [Roadmap sulla sicurezza di Office 365: priorità per i primi 30 giorni, 90 giorni e oltre](/microsoft-365/security/office-365-security/security-roadmap). Questa roadmap include elementi consigliati per l'implementazione delle funzionalità. 
 - [Proteggere l'ambiente dalle minacce in Office 365](/microsoft-365/security/office-365-security/protect-against-threats). Informazioni sulle azioni di protezione che è possibile effettuare nel centro sicurezza Microsoft 365.
-- [Protezione dalle minacce in Windows](/windows/security/threat-protection/). Ulteriori informazioni su Windows Defender Advanced Threat Protection e altre funzionalità in Windows 10.
+- [Protezione dalla minacce Windows](/windows/security/threat-protection/). Altre informazioni su Microsoft Defender per endpoint e altre funzionalità in Windows 10.
 
-## <a name="learn-more"></a>Altre informazioni
+## <a name="learn-more"></a>Ulteriori informazioni
 
 [Centro protezione Microsoft](https://www.microsoft.com/trust-center/privacy/gdpr-overview)
