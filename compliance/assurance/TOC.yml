@@ -92,12 +92,8 @@
   items:
     - name: Panoramica sulla sicurezza di rete
       href: assurance-network-security.md
-    - name: Difesa da attacchi Denial of Service
-      href: assurance-defending-cloud-services-against-dos-attacks.md
     - name: Strategia di difesa da attacchi Denial of Service
       href: assurance-microsoft-dos-defense-strategy.md
-    - name: Principi chiave della difesa da attacchi Denial of Service
-      href: assurance-core-principles-of-defense-against-dos-attacks.md
     - name: Servizi di rilevamento virus in Microsoft 365
       href: /microsoft-365/security/office-365-security/virus-detection-in-spo?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
 - name: Privacy
@@ -116,6 +112,10 @@
       href: assurance-sharepoint-online-data-deletion.md
     - name: Immutabilità dei dati di Microsoft 365
       href: assurance-data-immutability.md
+    - name: Classificazione dei dati ed etichette di riservatezza
+      href: assurance-data-classification-and-labels.md
+    - name: Creare un framework di classificazione dei dati
+      href: assurance-create-data-classification-framework.md
 - name: Resilienza e continuità
   items:
     - name: Panoramica sulla resilienza e sulla continuità
