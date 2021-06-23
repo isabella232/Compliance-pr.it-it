@@ -1,6 +1,6 @@
 ---
-title: Considerazioni sulla sicurezza e sulla privacy di cloud computing del governo neozelandese
-description: Microsoft NZ affronta le domande pubblicate nella nuova Zelanda cloud computing Framework.
+title: Considerazioni sulla sicurezza e sulla privacy del cloud computing per enti pubblici neozelandesi
+description: Microsoft NZ affronta le domande pubblicate nel framework di cloud computing della Nuova Zelanda.
 keywords: Microsoft 365, conformità, offerte
 localization_priority: None
 ms.prod: microsoft-365-enterprise
@@ -16,62 +16,57 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: db1168d494fd5a8d0a31176ccccdff72dd096f1d
-ms.sourcegitcommit: c697549cdc5785e163bd6147cf0d95ba61b078fe
+ms.openlocfilehash: da53b5e2cdac7095e2fc3ff9b243d2863b85fdbf
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49528892"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088785"
 ---
-# <a name="new-zealand-government-cloud-computing-security-and-privacy-considerations"></a>Considerazioni sulla sicurezza e sulla privacy di cloud computing del governo neozelandese
+# <a name="new-zealand-government-cloud-computing-security-and-privacy-considerations"></a>Considerazioni sulla sicurezza e sulla privacy del cloud computing per enti pubblici neozelandesi
 
-## <a name="new-zealand-government-cloud-computing-security-and-privacy-overview"></a>Panoramica sulla sicurezza e sulla privacy di cloud computing del governo neozelandese
+## <a name="new-zealand-government-cloud-computing-security-and-privacy-overview"></a>Panoramica sulla sicurezza e sulla privacy del cloud computing per enti pubblici neozelandesi
 
-Nell'ottobre 2015, il governo neozelandese ha approvato una strategia ICT riveduta su tutto il governo che ha ribadito la propria politica "cloud First" sull'utilizzo di tecnologie informatiche in tutto il settore pubblico. La strategia riveduta conserva il ' cloud computing Risk and Assurance Framework ' che è stato sviluppato e implementato sotto l'autorità del Chief Information Officer (GCIO) del governo neozelandese.
+Nell'ottobre 2015, il governo neozelandese ha approvato una strategia TIC tutta governativa rivista che ha riaffermato la sua politica "cloud first" sull'utilizzo delle tecnologie dell'informazione nel settore pubblico. La strategia rivista mantiene il "Cloud Computing Risk and Assurance Framework" sviluppato e implementato sotto l'autorità del Chief Information Officer (GCIO) del governo NZ.
 
-Il governo prevede che tutte le agenzie del servizio informazioni sullo stato della Nuova Zelanda funzionino all'interno di questo contesto quando valutano e adottano servizi cloud. ' Requisiti per il cloud computing ' delinea quali agenzie devono fare quando adottano i servizi cloud insieme a una panoramica della cronologia dei criteri cloud del governo.
+Il governo si aspetta che tutte le agenzie del servizio di stato della Nuova Zelanda lavorino in questo quadro per la valutazione e l'adozione di servizi cloud. "Requirements for Cloud Computing" descrive cosa devono fare le agenzie quando adottano i servizi cloud insieme a una panoramica della cronologia dei criteri cloud del governo.
 
-Per assistere gli enti governativi neozelandesi nello svolgimento di due diligence coerenti e robusti su possibili soluzioni cloud, la GCIO ha pubblicato ' cloud computing: Information Security and privacy considerazioni ' (' cloud computing ISPC '). Questo documento contiene più di 100 domande relative alla sovranità dei dati, alla privacy, alla sicurezza, alla governance, alla riservatezza, all'integrità dei dati, alla disponibilità e alla gestione e alla risposta degli incidenti. ' Cloud computing IPSC ' non definisce uno standard di governo NZ in base al quale i provider di servizi cloud devono dimostrare la conformità formale. Molte delle domande riportate nel documento, tuttavia, indicano l'importanza di comprendere in che modo i provider di servizi cloud sono conformi a una vasta gamma di standard rilevanti.
+Per assistere le agenzie governative NZ nell'esecuzione di due diligence coerenti e affidabili su potenziali soluzioni cloud, il GCIO ha pubblicato [Cloud Computing: Information Security and Privacy Considerations (ISPC).](https://www.digital.govt.nz/dmsdocument/1~cloud-computing-information-security-and-privacy-considerations/html) Questo documento contiene più di 100 domande incentrate sulla sovranità dei dati, la privacy, la sicurezza, la governance, la riservatezza, l'integrità dei dati, la disponibilità e la gestione e la risposta agli incidenti. L'ISPC non definisce uno standard NZ government rispetto al quale i provider di servizi cloud devono dimostrare la conformità formale. Molte delle domande poste nel documento, tuttavia, puntano all'importanza di comprendere in che modo i provider di servizi cloud sono conformi a un'ampia gamma di standard pertinenti.
 
-Considerazioni sulla sicurezza e sulla privacy di Microsoft e della Nuova Zelanda sul cloud computing
+## <a name="microsoft-and-new-zealand-government-cloud-computing-security-and-privacy-considerations"></a>Considerazioni sulla sicurezza e sulla privacy di Microsoft e New Zealand Government Cloud Computing
 
-Per aiutare le agenzie a eseguire l'analisi e la valutazione dei servizi cloud di Microsoft Enterprise, Microsoft New Zealand ha prodotto documenti che mostrano come i servizi cloud aziendali affrontino le domande definite nel ' cloud computing ISPC ', collegando gli standard in base ai quali i servizi cloud Microsoft sono certificati. Queste certificazioni sono al centro del modo in cui Microsoft garantisce ai clienti del settore pubblico e privato che i servizi cloud sono stati disegnati, costruiti e gestiti per attenuare efficacemente la privacy e i rischi per la sicurezza e per risolvere i problemi relativi alla sovranità dei dati.
+Per aiutare le agenzie a intraprendere l'analisi e la valutazione dei servizi cloud aziendali Microsoft, Microsoft New Zealand ha prodotto documenti che mostrano come i servizi cloud aziendali affrontano le domande poste nel "Cloud Computing ISPC" collegandoli agli standard in base ai quali i servizi cloud Microsoft sono certificati. Queste certificazioni sono centrali per il modo in cui Microsoft garantisce ai clienti del settore pubblico e privato che i suoi servizi cloud sono progettati, creati e gestiti per ridurre in modo efficace i rischi per la privacy e la sicurezza e affrontare i problemi di sovranità dei dati. La [risposta di Azure all'ISPC cloud computing](https://azure.microsoft.com/resources/microsoft-azure-response-to-nz-gcio-cloud-computing-information-security-privacy-considerations/) è disponibile per il download per i clienti.
 
-Informazioni su come accelerare la distribuzione del Framework NZ CC con il modello di sicurezza e conformità di Azure: [scaricare la risposta di Azure per il Framework NZ CC](https://gallery.technet.microsoft.com/Response-to-GCIO-Cloud-e117bbb9)
-
-## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud Microsoft associati
+## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud Microsoft inclusi nell'ambito
 
 - [Azure e Azure per enti pubblici](https://aka.ms/AzureCompliance)
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune
 - Servizio cloud Power BI, autonomo o incluso in un piano o in una famiglia di prodotti con marchio Office 365
 - [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
-- Exchange Online, SharePoint Online e Microsoft teams. Microsoft NZ ha collaborato con il team di GCIO per sviluppare un'architettura di riferimento per l'integrazione di Exchange Online e della posta elettronica.
+- Exchange Online, SharePoint Online e Microsoft Teams. Microsoft NZ ha collaborato con il team GCIO per sviluppare un'architettura di riferimento per l'integrazione di Exchange Online e SEEMail.
 
 ## <a name="frequently-asked-questions"></a>Domande frequenti
 
-**A chi si applica il Framework?**
+**A chi si applica il framework?**
 
-Le organizzazioni che rientrano nel mandato GCIO, i reparti dei servizi pubblici e non pubblici, i 20 comitati di integrità distrettuali e le 7 entità Crown devono attenersi al framework quando decidono l'utilizzo di un servizio cloud.
+Le organizzazioni che rientrano nel mandato GCIO, i servizi pubblici e non pubblici, i 20 consigli sanitari distrettuale e 7 entità corona, devono rispettare il framework quando decidono l'uso di un servizio cloud.
 
-**La mia agenzia può utilizzare le risposte di Microsoft a questo Framework nel processo di certificazione dei sistemi ICT?**
+**La mia agenzia può usare le risposte di Microsoft a questo framework nel processo di certificazione dei nostri sistemi ICT?**
 
-Se l'Agenzia è tenuta a effettuare la certificazione e l'accreditamento del sistema ICT nell'ambito del [Manuale di sicurezza delle informazioni sulla nuova Zelanda](https://go.microsoft.com/fwlink/p/?linkid=2099496), è possibile utilizzare queste risposte come parte dell'analisi.
+Se l'agenzia è necessaria per eseguire la certificazione e l'accreditamento del suo sistema ICT nell'ambito del Manuale per la sicurezza delle informazioni in [Nuova](https://go.microsoft.com/fwlink/p/?linkid=2099496)Zelanda, è possibile utilizzare queste risposte come parte dell'analisi.
 
 ## <a name="resources"></a>Risorse
 
-- [Requisiti di sicurezza per servizi di produttività Office ospitati offshore: Guida di conformità per Office 365](https://aka.ms/o365-gcio-conformance-guidance)
-- [Conformità di Microsoft Azure nel contesto dei requisiti per la sicurezza e la privacy in Nuova Zelanda](https://aka.ms/azurecompliancenewzealand)
-- [Strategia ICT del governo NZ 2015](https://www.ict.govt.nz/strategy-and-action-plan/strategy/)
-- [Requisiti governativi NZ per il cloud computing](https://aka.ms/NZ-Cloud-Requirements)
+- [Requisiti di sicurezza per i servizi di produttività Office off-Office: guida alla conformità per Office 365](https://aka.ms/o365-gcio-conformance-guidance)
+- [NZ Government ICT Strategy 2015](https://www.ict.govt.nz/strategy-and-action-plan/strategy/)
 - [Cloud Computing: considerazioni sulla sicurezza delle informazioni e sulla privacy (ISPC)](https://www.digital.govt.nz/standards-and-guidance/technology-and-architecture/cloud-services/)
 - [Condizioni di Microsoft Online Services](https://aka.ms/Online-Services-Terms)
 - [Conformità nel Centro protezione Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
 
-## <a name="microsoft-responses-to-cloud-computing-ipsc"></a>Microsoft Responses to ' cloud computing IPSC '
+## <a name="microsoft-responses-to-cloud-computing-ipsc"></a>Risposte Microsoft a "Cloud Computing IPSC"
 
 - [Azure](https://aka.ms/Azure-NZ-response)
-- [Dynamics 365](https://aka.ms/d365-nz-response)
 - [Intune](https://aka.ms/Intune-NZ-response)
 - [Office 365](https://aka.ms/O365-NZ-Response)
 - [Power BI](https://download.microsoft.com/download/5/1/7/51726B9B-2E76-49C4-9D4F-A36BF025CB93/Response-to-GCIO-105-questions-Power-BI.pdf)

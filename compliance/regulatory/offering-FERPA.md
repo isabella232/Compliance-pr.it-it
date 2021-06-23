@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f027f0ef83272c1102433f4c7534035f27f8a483
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 3f87b4d376c43db9d8524c200cd1fd86d2791b49
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496513"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089740"
 ---
 # <a name="family-educational-rights-and-privacy-act-ferpa"></a>Family Educational Rights and Privacy Act (FERPA)
 
@@ -37,13 +37,13 @@ La sicurezza è fondamentale per la conformità con FERPA, che richiede la prote
 
 FERPA non richiede o riconosce controlli o altre certificazioni, pertanto qualsiasi istituto accademico soggetto a FERPA deve valutare se e in che modo l'uso di un servizio cloud influisce sulla capacità di soddisfare i requisiti FERPA. Tuttavia, Microsoft ha preso i seguenti impegni contrattuali che attestano la conformità:
 
-- Nelle sue [Condizioni per i servizi](https://aka.ms/Online-Services-Terms)online, Microsoft accetta di essere designata come "funzionario scolastico" con "interessi educativi legittimi" nei dati dei clienti, come definito in FERPA. I dati dei clienti includono tutti i record degli studenti forniti tramite l'uso dei servizi cloud Microsoft da parte di un istituto di istruzione. Durante la gestione dei record di istruzione degli studenti, Microsoft accetta di rispettare le limitazioni e i requisiti imposti da 34 CFR 99.33(a) come fanno i funzionari scolastici.
+- Nelle sue [Condizioni per i servizi](https://aka.ms/Online-Services-Terms)online, Microsoft accetta di essere designato come "funzionario scolastico" con "interessi educativi legittimi" nei dati dei clienti, come definito in FERPA. I dati dei clienti includono tutti i record degli studenti forniti tramite l'uso dei servizi cloud Microsoft da parte di un istituto di istruzione. Durante la gestione dei record di istruzione degli studenti, Microsoft accetta di rispettare le limitazioni e i requisiti imposti da 34 CFR 99.33(a) come fanno i funzionari scolastici.
 - Inoltre, Microsoft si impegna a utilizzare i dati dei clienti solo per fornire alle organizzazioni i propri servizi cloud e scopi compatibili (ad esempio, migliorare il rilevamento di malware) e non estrae i dati dei clienti per la pubblicità.
 - Microsoft si impegna inoltre contrattualmente a non divulgare i dati dei clienti se non come indicato dall'istituto di istruzione, come descritto nel contratto o come richiesto dalla legge. Le scuole che forniscono i record di istruzione a Microsoft tramite l'uso di un servizio cloud Microsoft possono pertanto essere certi che tali record sono soggetti a stringenti restrizioni contrattuali relative all'uso e alla divulgazione.
 
 Come risultato di questi impegni contrattuali, i clienti soggetti a FERPA , sia gli istituti di istruzione che le terze parti a cui forniscono l'accesso ai dati sensibili degli studenti, possono usare in modo sicuro i servizi cloud aziendali Microsoft nell'ambito per elaborare, archiviare e trasmettere tali dati.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud Microsoft inclusi
+## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud Microsoft inclusi nell'ambito
 
 I servizi per i quali Microsoft accetta di essere designato come "funzionario scolastico" con "interessi educativi legittimi" nei dati dei clienti includono:
 
@@ -51,7 +51,7 @@ I servizi per i quali Microsoft accetta di essere designato come "funzionario sc
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune
 - [Office 365, Office 365 U.S. Government e Office 365 U.S. Government Defense](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
-- Power BI, PowerApps e Power Automate (in precedenza Microsoft Flow) come servizio autonomo o incluso in un piano o in una famiglia di prodotti office 365
+- Power BI, PowerApps e Power Automate (in precedenza Microsoft Flow) come servizio autonomo o come incluso in un piano o in una famiglia di prodotti Office 365 branded
 - Azure DevOps Services
 - Microsoft Defender per endpoint
 
@@ -79,7 +79,7 @@ Questa legge federale degli Stati Uniti impone la protezione della privacy dei r
 - [Family Educational Rights and Privacy Act](https://www.ed.gov/policy/gen/guid/fpco/ferpa/index.html)
 - [Codice elettronico delle normative federali: FERPA](https://aka.ms/FERPA-GPO)
 - [Federal Register: FERPA Final Rule](https://aka.ms/ferpa-reg)
-- [Guida all'implementazione ferPA per Microsoft Azure](https://aka.ms/azureferpa)
+- [Guida all'implementazione di FERPA per Microsoft Azure](https://aka.ms/azureferpa)
 - [Mapping del framework di conformità di Azure FERPA](https://aka.ms/AzureFERPAMapping)
 - [Condizioni di Microsoft Online Services](https://aka.ms/Online-Services-Terms)
 - [Conformità nel Centro protezione Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)

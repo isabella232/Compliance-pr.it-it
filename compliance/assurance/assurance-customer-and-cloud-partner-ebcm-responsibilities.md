@@ -17,12 +17,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 74bdf63fcf704aa285a2803e5b7af7455a0291c6
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 1133c5467553eb5d158230c2d6e599187e507822
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51497647"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088665"
 ---
 # <a name="enterprise-business-continuity-management-customer-and-cloud-partner-responsibilities"></a>Responsabilità del partner di cloud e dei clienti nella gestione della continuità aziendale
 
@@ -73,7 +73,7 @@ Considerare gli eventi che possono avere un impatto sulla forza lavoro come una 
 ### <a name="location"></a>Posizione
 
 Molte organizzazioni richiedono che i dipendenti si trovino in posizioni fisiche o di rete specifiche per connettersi ai sistemi aziendali e ai servizi cloud.  
-Microsoft pubblica i [principi di connettività di rete](/microsoft-365/enterprise/microsoft-365-network-connectivity-principles) che guidano le imprese attraverso le procedure consigliate per configurare la connettività di rete alle risorse cloud. Esempi di ottimizzazione includono l'implementazione di VPN tunnel split per consentire le connessioni direttamente dalla rete di un utente invece che su un tunnel VPN.  Anche se questi principi di connettività sono importanti per mantenere connessioni con una latenza bassa, la resilienza dei servizi richiede metodi alternativi per la connessione a risorse aziendali per la collaborazione generale.
+Microsoft pubblica i [principi di connettività di rete](/microsoft-365/enterprise/microsoft-365-network-connectivity-principles) che guidano le imprese attraverso le procedure consigliate per configurare la connettività di rete alle risorse cloud. Esempi di ottimizzazione includono l'implementazione di VPN split tunnel per consentire le connessioni direttamente dalla rete di un utente anziché tramite un tunnel VPN.  Anche se questi principi di connettività sono importanti per mantenere connessioni con una latenza bassa, la resilienza dei servizi richiede metodi alternativi per la connessione a risorse aziendali per la collaborazione generale.
 
 ### <a name="systems"></a>Sistemi
 

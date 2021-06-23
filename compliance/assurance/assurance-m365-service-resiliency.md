@@ -1,6 +1,6 @@
 ---
-title: Resilienza dei servizi integrata in Microsoft 365
-description: Descrizione di Microsoft 365 Service Resilience
+title: Resilienza del servizio integrata in Microsoft 365
+description: Descrizione di Microsoft 365 resilienza del servizio
 author: robmazz
 ms.author: robmazz
 manager: laurawi
@@ -17,14 +17,14 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: b97e8876f0ef69faefbeb5cf50a1891d36bf8795
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: fc8964f453c5a2924fc9a4b43a2c89aa1dec4271
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51497028"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088575"
 ---
-# <a name="built-in-service-resiliency-in-microsoft-365"></a>Resilienza dei servizi integrata in Microsoft 365
+# <a name="built-in-service-resiliency-in-microsoft-365"></a>Resilienza del servizio integrata in Microsoft 365
 
 Come provider di servizi cloud, Microsoft riconosce la necessità di guadagnare continuamente la fiducia degli utenti fornendo soluzioni che funzionino in modo coerente e che piacciano agli utenti. Quando un determinato servizio non è disponibile, viene chiamato tempo di inattività. La definizione del tempo di inattività varia in base a ogni servizio Microsoft 365, ma in genere sta a indicare un periodo di tempo in cui gli utenti non riescono a usare le funzionalità essenziali del servizio. Ad esempio, ecco la definizione di tempo di inattività per SharePoint Online, tratta dal contratto di servizio di Microsoft 365:
 
@@ -36,7 +36,7 @@ Per ridurre al minimo i tempi di inattività, sia previsti che non previsti, i s
 
 ## <a name="activeactive-design"></a>Modello attivo/attivo
 
-In Microsoft 365, tutti i servizi sono stati architettati e gestiti in una progettazione attiva/attiva che aumenta la resilienza. Questa progettazione significa che sono sempre presenti più istanze di un servizio in esecuzione che possono rispondere alle richieste degli utenti e che sono ospitate in datacenter geograficamente dislocati. Tutto il traffico degli utenti passa per il servizio Frontdoor di Microsoft e viene automaticamente instradato verso l'istanza del servizio meglio posizionata ed evitando qualsiasi errore di servizio per impedire o ridurre l'impatto sui clienti.
+In Microsoft 365, stiamo guidando verso l'architettura e l'attività di tutti i servizi in una progettazione attiva/attiva che aumenta la resilienza. Questa progettazione significa che sono sempre presenti più istanze di un servizio in esecuzione che possono rispondere alle richieste degli utenti e che sono ospitate in datacenter geograficamente dislocati. Tutto il traffico degli utenti passa per il servizio Frontdoor di Microsoft e viene automaticamente instradato verso l'istanza del servizio meglio posizionata ed evitando qualsiasi errore di servizio per impedire o ridurre l'impatto sui clienti.
 
 ## <a name="reduce-incident-scope"></a>Ridurre la portata degli eventi imprevisti
 
@@ -46,7 +46,7 @@ La portata di un evento imprevisto relativo a un servizio viene misurata in base
 - distribuire gli aggiornamenti in modo controllato e graduato usando anelli di convalida in modo che gli eventuali problemi che potrebbero derivare dall'aggiornamento possano essere individuati e attenuati all'inizio del processo di distribuzione. Questa progettazione consente di eseguire la regressione dell'aggiornamento, se necessario, e si verifica prima in un piccolo gruppo all'interno di Microsoft (anello interno) prima di essere distribuito per gruppi più grandi come tutti i 140.000 dipendenti Microsoft (anello 2), quindi per gli anelli early adopter (anello 3) e infine per tutti i clienti a livello globale (anello 4).
 - migliorare il monitoraggio tramite l’automazione. Microsoft 365 è un servizio di grandi dimensioni e il tempo di attività di destinazione del contratto di servizio è elevato. All'inizio di un evento imprevisto di un servizio, se gli esseri umani dovessero occuparsi del rilevamento e della risposta, non sarebbe possibile rispondervi abbastanza velocemente da rispettare il contratto di servizio. L'automazione è la chiave per individuare e rispondere in modo rapido ed efficace. Prima si viene a conoscenza di un problema, prima questo può essere risolto.
 
-Insieme alle funzionalità attive/attive integrate nell'architettura dei servizi di Microsoft 365, questi sforzi attenuano la gravità, la durata e il numero di clienti in impatto durante un incidente di servizio.  
+Insieme alle funzionalità attive/attive integrate nell'architettura del servizio Microsoft 365, questi sforzi attenuano la gravità, la durata e il numero di clienti che hanno un impatto durante un incidente di servizio.  
 
 ## <a name="fault-isolation"></a>Isolamento del guasto
 
@@ -55,7 +55,7 @@ Le misure di isolamento degli errori vengono applicate in più fasi dello svilup
 
 Il Microsoft Security Development Lifecycle (SDL) favorisce ulteriormente la resilienza e consiste in una serie di procedure che supportano i requisiti di sicurezza e conformità. SDL consente agli sviluppatori di creare servizi resilienti, sicuri e conformi. Gli elementi principali di SDL includono revisioni di codice, modellazione delle minacce, test di penetrazione e processi standard di risposta agli eventi imprevisti nel cloud di Microsoft.
 
-I servizi di Microsoft 365 sono altamente interconnessi, ma i sistemi e la tecnologia alla base di essi sono progettati in modo da limitarne l'impatto dal riversamento su altri servizi. Un problema che colpisce Exchange Online, ad esempio, non influisce sulle funzionalità di base di Teams, e un problema relativo alla funzionalità di ricerca in SharePoint Online non influisce sulla possibilità per gli utenti di caricare o scaricare file.
+Microsoft 365 servizi sono altamente interconnessi, ma i sistemi e la tecnologia alla base di essi sono progettati in modo da limitarne l'impatto dal riversamento su altri servizi. Ad esempio, un problema che interessa Exchange Online non influisce sulle funzionalità di base in Teams o un problema con la funzionalità di ricerca in SharePoint Online non influisce sulla capacità degli utenti di caricare o scaricare file.
 
 ## <a name="continuous-service-improvement"></a>Miglioramento continuo del servizio
 

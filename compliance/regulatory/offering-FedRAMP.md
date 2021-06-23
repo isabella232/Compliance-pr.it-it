@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: b8835b605ef41336828acbf2f60da71b9f8ac641
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: ef6b2fd3c7254251831b84fbfd3c4d5e1648f9c7
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496505"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089720"
 ---
 # <a name="federal-risk-and-authorization-management-program-fedramp"></a>FedRAMP (Federal Risk and Authorization Management Program)
 
@@ -29,7 +29,7 @@ ms.locfileid: "51496505"
 
 Il Federal Risk and Authorization Management Program (FedRAMP) statunitense è stato creato per fornire un approccio standardizzato per la valutazione, il monitoraggio e l'autorizzazione di prodotti e servizi di cloud computing ai sensi del Federal Information Security Management Act (FISMA) e per accelerare l'adozione di soluzioni cloud sicure da parte delle agenzie federali.
 
-L'Office of Management and Budget ora richiede a tutte le agenzie federali esecutivi di utilizzare FedRAMP per convalidare la sicurezza dei servizi cloud. Anche altre agenzie lo hanno adottato, quindi è utile anche in altre aree del settore pubblico. Il National Institute of Standards and Technology (NIST) SP 800-53 definisce gli standard obbligatori, stabilisce le categorie di sicurezza dei sistemi in informazioni ( riservatezza, integrità e disponibilità) per valutare il potenziale impatto su un'organizzazione in caso di compromissione dei sistemi in materia di informazioni e informazioni. FedRAMP è il programma che certifica che un provider di servizi cloud (CSP) soddisfa tali standard.
+Il Office gestione e budget ora richiede a tutte le agenzie federali esecutivi di utilizzare FedRAMP per convalidare la sicurezza dei servizi cloud. Anche altre agenzie lo hanno adottato, quindi è utile anche in altre aree del settore pubblico. Il National Institute of Standards and Technology (NIST) SP 800-53 definisce gli standard obbligatori, stabilisce le categorie di sicurezza dei sistemi in informazioni ( riservatezza, integrità e disponibilità) per valutare il potenziale impatto su un'organizzazione in caso di compromissione dei sistemi in materia di informazioni e informazioni. FedRAMP è il programma che certifica che un provider di servizi cloud (CSP) soddisfa tali standard.
 
 I CSP che desiderano vendere servizi a un'agenzia federale possono intraprendere tre percorsi per dimostrare la conformità FedRAMP:
 
@@ -43,7 +43,7 @@ Le autorizzazioni FedRAMP vengono concesse a tre livelli di impatto in base alle
 
 ## <a name="microsoft-and-fedramp"></a>Microsoft e FedRAMP
 
-I servizi cloud per enti pubblici di Microsoft, tra cui Azure Government, Dynamics 365 Government e Office 365 U.S. Government soddisfano i requisiti impegnativi del Federal Risk and Authorization Management Program (FedRAMP), che consente alle agenzie federali statunitensi di trarre vantaggio dai risparmi sui costi e dalla rigorosa sicurezza di Microsoft Cloud.
+I servizi cloud governativi di Microsoft, tra cui Azure Government, Dynamics 365 Government e Office 365 U.S. Government soddisfano i requisiti impegnativi del Federal Risk and Authorization Management Program (FedRAMP) statunitense, consentendo alle agenzie federali statunitensi di trarre vantaggio dai risparmi sui costi e dalla rigorosa sicurezza di Microsoft Cloud.
 
 I servizi cloud microsoft per enti pubblici offrono ai clienti del settore pubblico una vasta gamma di servizi conformi a FedRAMP e strumenti di implementazione e indicazioni affidabili, tra cui [il modello FedRAMP High,](https://aka.ms/fedrampblueprint)che consente ai clienti di distribuire un set di criteri di base per qualsiasi architettura distribuita da Azure che deve implementare i controlli FedRAMP High.
 
@@ -57,26 +57,26 @@ Azure continua a supportare più servizi a livello fedraMP ad alto impatto rispe
 
 ## <a name="microsoft-dynamics-365-us-government-ato"></a>Microsoft Dynamics 365 U.S. Government ATO
 
-Dynamics 365 U.S. Government was granted a FedRAMP Agency ATO at the High Impact Level by the US Department of Housing and Urban Development (HUD). Anche se l'ambito della certificazione è limitato a Government Community Cloud, i piani aziendali e aziendali di Dynamics 365 U.S. Government operano seguendo lo stesso set di controlli FedRAMP stringenti.
+Dynamics 365 U.S. Government was granted a FedRAMP Agency ATO at the High Impact Level by the US Department of Housing and Urban Development (HUD). Sebbene l'ambito della certificazione sia limitato al Government Community Cloud, i piani aziendali e aziendali di Dynamics 365 U.S. Government operano seguendo lo stesso set di controlli FedRAMP stringenti.
 
-## <a name="microsoft-office-365-and-office-365-us-government-atos"></a>Microsoft Office 365 e Office 365 U.S. Government ATO
+## <a name="microsoft-office-365-and-office-365-us-government-atos"></a>Microsoft Office 365 e Office 365 ATO del governo degli Stati Uniti
 
-- Office 365 e Office 365 U.S. Government hanno un ATO del Dipartimento della salute e dei servizi umani (DHHS) degli Stati Uniti.
-- Office 365 U.S. Government Defense ha un P-ATO dalla US Defense Information Systems Agency (DISA). Tutti i clienti che desiderano distribuire Office 365 U.S. Government Defense possono usare diSA P-ATO per generare un'agenzia ATO per documentarne l'accettazione.
-- Office 365 (piani aziendali e aziendali) e Office 365 U.S. Government hanno un ATO FedRAMP Agency al livello di impatto moderato dall'Ufficio DHHS dell'Inspector General. Office 365 U.S. Government è stato il primo servizio di collaborazione e posta elettronica basato su cloud a ottenere questa autorizzazione.
+- Office 365 e Office 365 governo degli Stati Uniti hanno un ATO dal Dipartimento della salute e dei servizi umani (DHHS).
+- Office 365 U.S. Government Defense ha un P-ATO dalla US Defense Information Systems Agency (DISA). Tutti i clienti che desiderano distribuire un Office 365 U.S. Government Defense possono usare il DISA P-ATO per generare un'agenzia ATO per documentarne l'accettazione.
+- Office 365 (piani aziendali e aziendali) e Office 365 U.S. Government hanno un ATO FedRAMP Agency al livello di impatto moderato dal Office DHHS dell'Inspector General. Office 365 Il governo degli Stati Uniti è stato il primo servizio di collaborazione e posta elettronica basato sul cloud a ottenere questa autorizzazione.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud Microsoft inclusi
+## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud Microsoft inclusi nell'ambito
 
 - [Azure e Azure per enti pubblici](https://go.microsoft.com/fwlink/p/?linkid=2095323)
 - [Dynamics 365 U.S. Government](https://aka.ms/d365-compliance-list)
 - Intune
-- [Office 365 e Office 365 U.S. Governmen](https://go.microsoft.com/fwlink/p/?linkid=2077751)
+- [Office 365 e Office 365 governmen statunitensi](https://go.microsoft.com/fwlink/p/?linkid=2077751)
 - Office 365 U.S. Government Defense
 - Servizio cloud Power BI, autonomo o incluso in un piano o in una famiglia di prodotti con marchio Office 365
 - Microsoft Defender per endpoint
 
 > [!NOTE]
-> L'uso di Azure Active Directory all'interno di Azure Per enti pubblici richiede l'uso di componenti distribuiti all'esterno di Azure Government nel cloud pubblico di Azure.
+> L'uso di Azure Active Directory all'interno di Azure Government richiede l'uso di componenti distribuiti all'esterno di Azure Government nel cloud pubblico di Azure.
 
 ## <a name="audits-reports-and-certificates"></a>Controlli, report e certificati
 

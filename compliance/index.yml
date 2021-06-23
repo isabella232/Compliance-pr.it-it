@@ -1,217 +1,211 @@
 ### YamlMime:Hub
-title: Documentazione sulla conformità
+title: Conformità Microsoft
 summary: Documentazione e risorse Microsoft necessarie per iniziare a utilizzare la conformità per l'azienda o l'organizzazione.
 brand: m365
 metadata:
-  title: Documentazione sulla conformità
+  title: Conformità Microsoft
   description: Documentazione e risorse Microsoft necessarie per iniziare a utilizzare la conformità per l'azienda o l'organizzazione.
   services: service
   ms.service: service
   ms.subservice: subservice
   ms.topic: hub-page
   ms.collection:
-  - M365-security-compliance
-  - MS-Compliance
+    - M365-security-compliance
+    - MS-Compliance
   author: robmazz
   ms.author: robmazz
   ms.date: 11/30/2020
-  ms.openlocfilehash: 67c37d1bc68017f0ecf66d1d446ab885400d2293
-  ms.sourcegitcommit: 2b347c9b778ac9b6450daf20fdf8eb74ed14cbbd
-  ms.translationtype: MT
-  ms.contentlocale: it-IT
-  ms.lasthandoff: 03/23/2021
-  ms.locfileid: "51002186"
 highlightedContent:
   items:
-  - title: Attività rapide per iniziare a usare il Centro conformità Microsoft 365
-    itemType: get-started
-    url: /microsoft-365/compliance/compliance-quick-tasks
-  - title: 'Distribuire la protezione delle informazioni per le normative sulla privacy dei dati '
-    itemType: get-started
-    url: /microsoft-365/solutions/information-protection-deploy
-  - title: Informazioni sulla responsabilità condivisa nel cloud
-    itemType: overview
-    url: /azure/security/fundamentals/shared-responsibility
-  - title: Informazioni su come Microsoft protegge i dati dei clienti
-    itemType: learn
-    url: /learn/paths/audit-safeguard-customer-data/
-  - title: Informazioni su Microsoft Compliance Manager
-    itemType: learn
-    url: /learn/paths/compmgmt/
-  - title: Gestire i rischi insider in Microsoft 365
-    itemType: learn
-    url: /learn/paths/m365-compliance-insider/
-  - title: Gestire la protezione e la governance delle informazioni
-    itemType: learn
-    url: /learn/paths/m365-compliance-information/
-  - title: Informazioni su Advanced eDiscovery e Advanced Audit
-    itemType: learn
-    url: /learn/paths/compliance-discover/
+    - title: Attività rapide per iniziare a usare il Centro conformità Microsoft 365
+      itemType: get-started
+      url: /microsoft-365/compliance/compliance-quick-tasks
+    - title: 'Distribuire la protezione delle informazioni per le normative sulla privacy dei dati '
+      itemType: get-started
+      url: /microsoft-365/solutions/information-protection-deploy
+    - title: Informazioni sulla responsabilità condivisa nel cloud
+      itemType: overview
+      url: /azure/security/fundamentals/shared-responsibility
+    - title: Informazioni su come Microsoft protegge i dati dei clienti
+      itemType: learn
+      url: /learn/paths/audit-safeguard-customer-data/
+    - title: Informazioni su Microsoft Compliance Manager
+      itemType: learn
+      url: /learn/paths/compmgmt/
+    - title: Gestione del rischio Insider in Microsoft 365
+      itemType: learn
+      url: /learn/paths/m365-compliance-insider/
+    - title: Gestire la protezione e la governance delle informazioni
+      itemType: learn
+      url: /learn/paths/m365-compliance-information/
+    - title: Informazioni su Advanced eDiscovery controllo avanzato
+      itemType: learn
+      url: /learn/paths/compliance-discover/
 productDirectory:
-  title: Conformità normativa
+  title: Conformità alle normative
   summary: Linee guida Microsoft sulla conformità agli standard e alle normative internazionali e nazionali.
   items:
-  - title: Regolamento generale sulla protezione dei dati (GDPR)
-    imageSrc: /office/media/icons/compliance-blue.svg
-    summary: Linee guida per rispettare i diritti e adempiere agli obblighi previsti dal GDPR quando si utilizzano prodotti e servizi Microsoft.
-    url: /compliance/regulatory/gdpr
-  - title: Offerte di conformità Microsoft
-    imageSrc: /office/media/icons/globe-internet.svg
-    summary: Microsoft offre un set completo di offerte di conformità per aiutare l'organizzazione a rispettare i requisiti nazionali, regionali e specifici del settore che regolano la raccolta e l'uso dei dati.
-    url: /compliance/regulatory/offering-home
-  - title: Conformità normativa e Microsoft Azure
-    imageSrc: /media/logos/logo_azure.svg
-    summary: Informazioni sulla conformità normativa e Microsoft Azure.
-    url: /azure/compliance/
+    - title: Regolamento generale sulla protezione dei dati (GDPR)
+      imageSrc: /office/media/icons/compliance-blue.svg
+      summary: Linee guida per rispettare i diritti e adempiere agli obblighi previsti dal GDPR quando si utilizzano prodotti e servizi Microsoft.
+      url: /compliance/regulatory/gdpr
+    - title: Offerte di conformità Microsoft
+      imageSrc: /office/media/icons/globe-internet.svg
+      summary: 'Microsoft offre un set completo di offerte di conformità per aiutare l''organizzazione a rispettare i requisiti nazionali, regionali e specifici del settore che regolano la raccolta e l''uso dei dati.'
+      url: /compliance/regulatory/offering-home
+    - title: Conformità normativa e Microsoft Azure
+      imageSrc: /media/logos/logo_azure.svg
+      summary: Informazioni sulla conformità normativa e sulle Microsoft Azure.
+      url: /azure/compliance/
 conceptualContent:
   title: Garanzia del servizio
   summary: Iniziare le valutazioni della sicurezza e dei rischi con una conoscenza del modo in cui Microsoft protegge i dati dei clienti.
   items:
-  - title: Architettura
-    links:
-    - url: /learn/modules/audit-architecture/
-      itemType: learn
-      text: Informazioni sull'architettura
-    - url: /compliance/assurance/assurance-architecture
-      itemType: concept
-      text: Panoramica dell'architettura
-  - title: Registrazione di controllo
-    links:
-    - url: /learn/modules/audit-logging-monitoring/
-      itemType: learn
-      text: Informazioni sulla registrazione di controllo
-    - url: /compliance/assurance/assurance-audit-logging
-      itemType: concept
-      text: Panoramica sulla registrazione di controllo
-  - title: Sicurezza del datacenter
-    links:
-    - url: /learn/modules/audit-physical-security/
-      itemType: learn
-      text: Informazioni sulla sicurezza del datacenter
-    - url: /compliance/assurance/assurance-datacenter-security
-      itemType: concept
-      text: Panoramica sulla sicurezza del datacenter
-  - title: Crittografia e gestione delle chiavi
-    links:
-    - url: /learn/modules/audit-encryption/
-      itemType: learn
-      text: Informazioni sulla crittografia e sulla gestione delle chiavi
-    - url: /compliance/assurance/assurance-encryption
-      itemType: concept
-      text: Panoramica sulla crittografia e sulla gestione delle chiavi
-  - title: Governance
-    links:
-    - url: /learn/modules/audit-governance/
-      itemType: learn
-      text: Informazioni sulla governance
-    - url: /compliance/assurance/assurance-governance
-      itemType: concept
-      text: Panoramica sulla governance
-  - title: Risorse umane
-    links:
-    - url: /learn/modules/audit-governance/personnel-security-governance
-      itemType: learn
-      text: Informazioni sulle risorse umane
-    - url: /compliance/assurance/assurance-human-resources
-      itemType: concept
-      text: 'Panoramica sulle risorse umane '
-  - title: Gestione delle identità e degli accessi
-    links:
-    - url: /learn/modules/audit-identity-access-management/
-      itemType: learn
-      text: Informazioni sulla gestione delle identità e degli accessi
-    - url: /compliance/assurance/assurance-identity-and-access-management
-      itemType: concept
-      text: Panoramica sulla gestione delle identità e degli accessi
-  - title: Gestione degli incidenti
-    links:
-    - url: /learn/modules/audit-incident-management/
-      itemType: learn
-      text: Informazioni sulla gestione degli eventi imprevisti
-    - url: /compliance/assurance/assurance-incident-management
-      itemType: concept
-      text: Panoramica sulla gestione degli incidenti
-  - title: Sicurezza di rete
-    links:
-    - url: /compliance/assurance/assurance-network-security
-      itemType: concept
-      text: Panoramica sulla sicurezza di rete
-  - title: Privacy
-    links:
-    - url: /learn/modules/audit-privacy/
-      itemType: learn
-      text: Informazioni sulla privacy
-    - url: /compliance/assurance/assurance-privacy
-      itemType: concept
-      text: Panoramica sulla privacy
-  - title: Resilienza e continuità
-    links:
-    - url: /learn/modules/audit-resiliency-continuity/
-      itemType: learn
-      text: Informazioni su resilienza e continuità
-    - url: /compliance/assurance/assurance-resiliency-and-continuity
-      itemType: concept
-      text: Panoramica sulla resilienza e sulla continuità
-  - title: Gestione dei rischi
-    links:
-    - url: /learn/modules/audit-risk-management/
-      itemType: learn
-      text: Informazioni sulla gestione dei rischi
-    - url: /compliance/assurance/assurance-risk-management
-      itemType: concept
-      text: Panoramica sulla gestione dei rischi
-  - title: Operazioni e sviluppo della sicurezza
-    links:
-    - url: /learn/modules/audit-security-development-operation/
-      itemType: learn
-      text: Informazioni sull'operazione di sviluppo della sicurezza
-    - url: /compliance/assurance/assurance-security-development-and-operation
-      itemType: concept
-      text: Panoramica dell'operazione di sviluppo della sicurezza
-  - title: Monitoraggio della sicurezza
-    links:
-    - url: /learn/modules/audit-vulnerability-management/security-monitoring
-      itemType: learn
-      text: Informazioni sul monitoraggio della sicurezza
-    - url: /compliance/assurance/assurance-security-monitoring
-      itemType: concept
-      text: Panoramica sul monitoraggio della sicurezza
-  - title: Gestione dei fornitori
-    links:
-    - url: /learn/modules/audit-subprocessor-management/
-      itemType: learn
-      text: Informazioni sulla gestione dei fornitori
-    - url: /compliance/assurance/assurance-supplier-management
-      itemType: concept
-      text: Panoramica sulla gestione dei fornitori
-  - title: Gestione delle vulnerabilità
-    links:
-    - url: /learn/modules/audit-vulnerability-management/
-      itemType: learn
-      text: Informazioni sulla gestione delle vulnerabilità
-    - url: /compliance/assurance/assurance-vulnerability-management
-      itemType: concept
-      text: Panoramica sulla gestione delle vulnerabilità
+    - title: Architettura
+      links:
+        - url: /learn/modules/audit-architecture/
+          itemType: learn
+          text: Informazioni sull'architettura
+        - url: /compliance/assurance/assurance-architecture
+          itemType: concept
+          text: Panoramica dell'architettura
+    - title: Registrazione di controllo
+      links:
+        - url: /learn/modules/audit-logging-monitoring/
+          itemType: learn
+          text: Informazioni sulla registrazione di controllo
+        - url: /compliance/assurance/assurance-audit-logging
+          itemType: concept
+          text: Panoramica sulla registrazione di controllo
+    - title: Sicurezza del datacenter
+      links:
+        - url: /learn/modules/audit-physical-security/
+          itemType: learn
+          text: Informazioni sulla sicurezza del datacenter
+        - url: /compliance/assurance/assurance-datacenter-security
+          itemType: concept
+          text: Panoramica sulla sicurezza del datacenter
+    - title: Crittografia e gestione delle chiavi
+      links:
+        - url: /learn/modules/audit-encryption/
+          itemType: learn
+          text: Informazioni sulla crittografia e sulla gestione delle chiavi
+        - url: /compliance/assurance/assurance-encryption
+          itemType: concept
+          text: Panoramica sulla crittografia e sulla gestione delle chiavi
+    - title: Governance
+      links:
+        - url: /learn/modules/audit-governance/
+          itemType: learn
+          text: Informazioni sulla governance
+        - url: /compliance/assurance/assurance-governance
+          itemType: concept
+          text: Panoramica sulla governance
+    - title: Risorse umane
+      links:
+        - url: /learn/modules/audit-governance/personnel-security-governance
+          itemType: learn
+          text: Informazioni sulle risorse umane
+        - url: /compliance/assurance/assurance-human-resources
+          itemType: concept
+          text: 'Panoramica sulle risorse umane '
+    - title: Gestione delle identità e degli accessi
+      links:
+        - url: /learn/modules/audit-identity-access-management/
+          itemType: learn
+          text: Informazioni sulla gestione delle identità e degli accessi
+        - url: /compliance/assurance/assurance-identity-and-access-management
+          itemType: concept
+          text: Panoramica sulla gestione delle identità e degli accessi
+    - title: Gestione degli incidenti
+      links:
+        - url: /learn/modules/audit-incident-management/
+          itemType: learn
+          text: Informazioni sulla gestione degli eventi imprevisti
+        - url: /compliance/assurance/assurance-incident-management
+          itemType: concept
+          text: Panoramica sulla gestione degli incidenti
+    - title: Sicurezza di rete
+      links:
+        - url: /compliance/assurance/assurance-network-security
+          itemType: concept
+          text: Panoramica sulla sicurezza di rete
+    - title: Privacy
+      links:
+        - url: /learn/modules/audit-privacy/
+          itemType: learn
+          text: Informazioni sulla privacy
+        - url: /compliance/assurance/assurance-privacy
+          itemType: concept
+          text: Panoramica sulla privacy
+    - title: Resilienza e continuità
+      links:
+        - url: /learn/modules/audit-resiliency-continuity/
+          itemType: learn
+          text: Informazioni su resilienza e continuità
+        - url: /compliance/assurance/assurance-resiliency-and-continuity
+          itemType: concept
+          text: Panoramica sulla resilienza e sulla continuità
+    - title: Gestione dei rischi
+      links:
+        - url: /learn/modules/audit-risk-management/
+          itemType: learn
+          text: Informazioni sulla gestione dei rischi
+        - url: /compliance/assurance/assurance-risk-management
+          itemType: concept
+          text: Panoramica sulla gestione dei rischi
+    - title: Operazioni e sviluppo della sicurezza
+      links:
+        - url: /learn/modules/audit-security-development-operation/
+          itemType: learn
+          text: Informazioni sull'operazione di sviluppo della sicurezza
+        - url: /compliance/assurance/assurance-security-development-and-operation
+          itemType: concept
+          text: Panoramica dell'operazione di sviluppo della sicurezza
+    - title: Monitoraggio della sicurezza
+      links:
+        - url: /learn/modules/audit-vulnerability-management/security-monitoring
+          itemType: learn
+          text: Informazioni sul monitoraggio della sicurezza
+        - url: /compliance/assurance/assurance-security-monitoring
+          itemType: concept
+          text: Panoramica sul monitoraggio della sicurezza
+    - title: Gestione dei fornitori
+      links:
+        - url: /learn/modules/audit-subprocessor-management/
+          itemType: learn
+          text: Informazioni sulla gestione dei fornitori
+        - url: /compliance/assurance/assurance-supplier-management
+          itemType: concept
+          text: Panoramica sulla gestione dei fornitori
+    - title: Gestione delle vulnerabilità
+      links:
+        - url: /learn/modules/audit-vulnerability-management/
+          itemType: learn
+          text: Informazioni su gestione delle vulnerabilità
+        - url: /compliance/assurance/assurance-vulnerability-management
+          itemType: concept
+          text: Panoramica sulla gestione delle vulnerabilità
 additionalContent:
   sections:
-  - title: Introduzione alla conformità in Microsoft 365
-    summary: Se non si ha familiarità con la conformità di Microsoft 365 e si chiede da dove iniziare, in questa sezione vengono forniti collegamenti a soluzioni chiave e vengono date priorità alle aree di conformità importanti.
-    items:
-    - title: Informazioni su Compliance Manager
-      summary: Scopri cos'è Compliance Manager, come semplifica la conformità e riduce i rischi e i relativi componenti chiave.
-      url: /microsoft-365/compliance/compliance-manager
-    - title: Gestire i rischi Insider
-      summary: Ridurre al minimo i rischi interni rilevando, analizzando e agendo su attività dannose e involontarie nell'organizzazione.
-      url: /microsoft-365/compliance/insider-risk-solution-overview
-    - title: Gestire la protezione delle informazioni
-      summary: Utilizzare Microsoft Information Protection (MIP) per individuare, classificare e proteggere le informazioni riservate in qualsiasi luogo di vita o in viaggio.
-      url: /microsoft-365/compliance/protect-information
-    - title: Gestire la governance delle informazioni
-      summary: Utilizzare le funzionalità di Microsoft Information Governance (MIG) per regolamentare i dati in base ai requisiti normativi o di conformità.
-      url: /microsoft-365/compliance/manage-information-governance
-    - title: Gestione di eDiscovery
-      summary: Utilizzare eDiscovery per identificare e analizzare il contenuto come prova in casi legali.
-      url: /microsoft-365/compliance/ediscovery
-    - title: 'Distribuire la protezione delle informazioni per le normative sulla privacy dei dati '
-      summary: Identificare, individuare, proteggere, regolamentare e rispondere agli incidenti sulla privacy dei dati per i dati personali archiviati nei servizi di Microsoft 365 soggetti alle normative sulla privacy dei dati.
-      url: /microsoft-365/solutions/information-protection-deploy
+    - title: Introduzione alla conformità in Microsoft 365
+      summary: 'Se non si ha familiarità con Microsoft 365 e si chiede da dove iniziare, in questa sezione vengono forniti collegamenti a soluzioni chiave e vengono date priorità alle aree di conformità importanti.'
+      items:
+        - title: Informazioni su Compliance Manager
+          summary: 'Scopri cos''è Compliance Manager, come semplifica la conformità e riduce i rischi e i relativi componenti chiave.'
+          url: /microsoft-365/compliance/compliance-manager
+        - title: Gestire i rischi Insider
+          summary: 'Ridurre al minimo i rischi interni rilevando, analizzando e agendo su attività dannose e involontarie nell''organizzazione.'
+          url: /microsoft-365/compliance/insider-risk-solution-overview
+        - title: Gestire la protezione delle informazioni
+          summary: 'Usa Microsoft Information Protection (MIP) per individuare, classificare e proteggere le informazioni riservate ovunque si recintino o viaggino.'
+          url: /microsoft-365/compliance/protect-information
+        - title: Gestire la governance delle informazioni
+          summary: Utilizzare le funzionalità di Microsoft Information Governance (MIG) per regolamentare i dati in base ai requisiti normativi o di conformità.
+          url: /microsoft-365/compliance/manage-information-governance
+        - title: Gestione di eDiscovery
+          summary: Utilizzare eDiscovery per identificare e analizzare il contenuto come prova in casi legali.
+          url: /microsoft-365/compliance/ediscovery
+        - title: 'Distribuire la protezione delle informazioni per le normative sulla privacy dei dati '
+          summary: 'Identificare, individuare, proteggere, regolamentare e rispondere agli incidenti sulla privacy dei dati per i dati personali archiviati nei servizi Microsoft 365 soggetti alle normative sulla privacy dei dati.'
+          url: /microsoft-365/solutions/information-protection-deploy

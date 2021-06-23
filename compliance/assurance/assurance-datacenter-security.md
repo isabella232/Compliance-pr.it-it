@@ -22,24 +22,24 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: acf244f5a8e9ab10e2fea02e2dc1c115156c0297
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 0ac1cdfb315c872e78872d144fa24d28500be096
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51497604"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088655"
 ---
 # <a name="datacenter-security-overview"></a>Panoramica sulla sicurezza del datacenter
 
 ## <a name="how-does-microsoft-host-its-online-services"></a>In che modo Microsoft ospita i servizi online?
 
-Microsoft fornisce più di 200 servizi cloud, inclusi i servizi aziendali come Microsoft Azure, Microsoft 365 e Microsoft Dynamics 365, ai clienti 24x7x365. Questi servizi sono ospitati nell'infrastruttura cloud di Microsoft composta da datacenter distribuiti a livello globale, nodi di elaborazione perimetrale e centri operazioni di servizio. Sono supportati e connessi da una delle reti globali più grandi al mondo, con un'ampia fibra ingombro.
+Microsoft offre più di 200 servizi cloud, inclusi i servizi aziendali come Microsoft Azure, Microsoft 365 e Microsoft Dynamics 365, ai clienti 24x7x365. Questi servizi sono ospitati nell'infrastruttura cloud di Microsoft composta da datacenter distribuiti a livello globale, nodi di elaborazione perimetrale e centri operazioni di servizio. Sono supportati e connessi da una delle reti globali più grandi al mondo, con un'ampia fibra ingombro.
 
 I data center che supportano le nostre offerte cloud si concentrano su elevata affidabilità, eccellenza operativa, efficienza in termini di costi, ecosostenibilità e un'esperienza online affidabile per clienti e partner in tutto il mondo. Microsoft verifica regolarmente la sicurezza del datacenter tramite controlli interni e di terze parti. Di conseguenza, le organizzazioni più altamente regolamentate al mondo si affidano al cloud Microsoft, che è conforme a più certificazioni rispetto a qualsiasi altro provider di servizi cloud.
 
 ## <a name="how-does-microsoft-protect-its-datacenters-from-unauthorized-access"></a>In che modo Microsoft protegge i datacenter da accessi non autorizzati?
 
-L'accesso alle strutture del datacenter fisico è strettamente controllato dai perimetri esterni ed interni con una maggiore sicurezza a ogni livello, tra cui la recinzione perimetrale, i responsabili della sicurezza, i rack dei server bloccati, i sistemi di allarme integrati, la videosorveglianza 24 ore su 24 dal centro operativo e il controllo degli accessi a più fattori. Solo il personale necessario è autorizzato ad accedere ai datacenter Microsoft. L'accesso logico all'infrastruttura di Microsoft 365, inclusi i dati dei clienti, non è consentito all'interno dei datacenter Microsoft.
+L'accesso alle strutture del datacenter fisico è strettamente controllato dai perimetri esterni ed interni con una maggiore sicurezza a ogni livello, tra cui la recinzione perimetrale, i responsabili della sicurezza, i rack dei server bloccati, i sistemi di allarme integrati, la videosorveglianza 24 ore su 24 dal centro operativo e il controllo degli accessi a più fattori. Solo il personale necessario è autorizzato ad accedere ai datacenter Microsoft. L'accesso logico Microsoft 365'infrastruttura, inclusi i dati dei clienti, non è consentito all'interno dei datacenter Microsoft.
 
 I nostri Centri operativi di sicurezza usano la videosorveglianza insieme ai sistemi di controllo degli accessi elettronici integrati per monitorare i siti e le strutture dei datacenter. Le fotocamere sono posizionate strategicamente per una copertura efficace del perimetro della struttura, degli accessi, delle baie di spedizione, delle gabbie dei server, dei corridoi interni e di altri punti di interesse sensibili per la sicurezza. Nell'ambito del nostro approccio alla sicurezza su più livelli, eventuali tentativi di immissione non autorizzati rilevati dai sistemi di sicurezza integrati generano avvisi al personale di sicurezza per una risposta e una correzione immediate.
 
@@ -64,3 +64,7 @@ I servizi online di Microsoft vengono regolarmente controllati per la conformit�
 | [ISO 27001/27002 (Azure)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=e9116047-f327-430c-a83f-166b7e561ad6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [Dichiarazione di applicabilità](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=00af6c3e-7f3e-4e0d-8b0e-79f45ef2cef1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br> [Certificazione](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=d7af5304-3a31-40e6-9abb-e26352305d41&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A.11: Sicurezza fisica e ambientale | 2 dicembre 2020 |
 | [SOC 1 (Azure)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=66043614-5628-4e26-83be-057eb3bb026c&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | PE-1: provisioning dell'accesso fisico del datacenter <br> PE-2: verifica della sicurezza del datacenter <br> PE-3: verifica dell'accesso degli utenti del datacenter <br> PE-4: Meccanismi di accesso fisico del datacenter <br> PE-5: monitoraggio della sorveglianza fisica del datacenter <br> PE-6: Manutenzione dell'ambiente critico del datacenter <br> PE-7: Controlli ambientali del datacenter <br> PE-8: Risposta a eventi imprevisti del datacenter | 30 ottobre 2020 |
 | [SOC 2 (Azure)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=ce5bfbea-3514-40ae-a8a6-3617106a0b56&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | PE-1: provisioning dell'accesso fisico del datacenter <br> PE-2: verifica della sicurezza del datacenter <br> PE-3: verifica dell'accesso degli utenti del datacenter <br> PE-4: Meccanismi di accesso fisico del datacenter <br> PE-5: monitoraggio della sorveglianza fisica del datacenter <br> PE-6: Manutenzione dell'ambiente critico del datacenter <br> PE-7: Controlli ambientali del datacenter <br> PE-8: Risposta a eventi imprevisti del datacenter | 30 ottobre 2020 |
+
+## <a name="resources"></a>Risorse
+
+- [Microsoft Story Labs: We Live in the Cloud](https://news.microsoft.com/stories/microsoft-datacenter-tour/)

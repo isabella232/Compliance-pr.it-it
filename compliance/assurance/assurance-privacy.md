@@ -19,12 +19,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: b94a8e610a782559a322eb9db812202f7f8698ed
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 42cc3db2ce0e072cb42ee4694757896958cd5e5c
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496915"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53087665"
 ---
 # <a name="privacy-overview"></a>Panoramica sulla privacy
 
@@ -40,7 +40,7 @@ Microsoft mantiene l'Informativa sulla privacy aziendale Microsoft e Microsoft P
 
 Il ciclo di vita dei dati descrive il modo in cui Microsoft elabora i dati in base alle indicazioni dei clienti e in conformità con la normativa applicabile in materia di sicurezza e privacy. Le fasi del ciclo di vita dei dati includono la raccolta, l'elaborazione, la condivisione di terze parti (ove applicabile), la conservazione e la distruzione. L'approccio di Microsoft alla privacy informa ogni fase del ciclo di vita dei dati per proteggere la privacy dei clienti.
 
-Microsoft limita la raccolta dei dati dei clienti a quattro categorie di dati [specifiche:](https://www.microsoft.com/trust-center/privacy/customer-data-definitions?rtc=1)dati dei clienti, dati generati dal servizio, dati di diagnostica e dati dei servizi professionali. Microsoft usa i dati di queste categorie per eseguire un set limitato di operazioni aziendali legittime (LFO) necessarie per fornire servizi ai clienti. Quando i dati vengono raccolti ed elaborati per eseguire operazioni LBO, Microsoft protegge i singoli clienti e utenti mediante lo pseudonimo dei dati di diagnostica e l'aggregazione dei dati prima dell'uso. Microsoft non accede al contenuto dei dati dei clienti per determinare quali specifici dati potrebbero essere considerati personali. Presuppongiamo invece che tutti i dati dei clienti e di tutti i servizi professionali contengano dati personali e proteggano i dati di conseguenza.
+Microsoft limita la raccolta dei dati dei clienti a quattro categorie di dati [specifiche:](https://www.microsoft.com/trust-center/privacy/customer-data-definitions?rtc=1)dati dei clienti, dati generati dal servizio, dati di diagnostica e dati Professional servizi. Microsoft usa i dati di queste categorie per eseguire un set limitato di operazioni aziendali legittime (LFO) necessarie per fornire servizi ai clienti. Quando i dati vengono raccolti ed elaborati per eseguire operazioni LBO, Microsoft protegge i singoli clienti e utenti mediante lo pseudonimo dei dati di diagnostica e l'aggregazione dei dati prima dell'uso. Microsoft non accede al contenuto dei dati dei clienti per determinare quali specifici dati potrebbero essere considerati personali. Presuppongiamo invece che tutti i dati dei clienti e di tutti i servizi professionali contengano dati personali e proteggano i dati di conseguenza.
 
 ## <a name="how-does-microsoft-handle-third-party-sharing"></a>In che modo Microsoft gestisce la condivisione di terze parti?
 
@@ -50,7 +50,7 @@ La condivisione di terze parti è la condivisione o la divulgazione di dati a te
 
 Microsoft Data Handling Standard specifica per quanto tempo i dati dei clienti vengono conservati dopo l'eliminazione. Quando un cliente termina la sottoscrizione, Microsoft conserva i dati dei clienti in un account con funzione limitata per 90 giorni per consentire al cliente di estrarre i dati. Al termine del periodo di conservazione di 90 giorni, Microsoft eliminerà i dati dei clienti a meno che non siano autorizzati a conservare o a conservare i dati per legge. Non più di 180 giorni dopo la scadenza o la chiusura di una sottoscrizione a Microsoft 365, Microsoft disabilita l'account ed elimina tutti i dati dei clienti dall'account. Una volta trascorso il periodo di conservazione massimo per tutti i dati, i dati vengono resi commercialmente irrecuperabili.
 
-Microsoft elimina anche tutti i dati di diagnostica e generati dal servizio nell'ambito del ciclo di vita standard dei dati Microsoft, a meno che non siano necessari per mantenere la sicurezza e la stabilità del servizio. Per qualsiasi sottoscrizione, un sottoscrittore può contattare il supporto Tecnico Microsoft e richiedere il de-provisioning rapido dell'abbonamento. Quando un cliente sfrutta questo processo, tutti i dati utente vengono eliminati tre giorni dopo che l'amministratore ha immesso il codice di blocco fornito da Microsoft. Questa eliminazione include i dati in SharePoint Online ed Exchange Online in attesa o archiviati in cassette postali inattive.
+Microsoft elimina anche tutti i dati di diagnostica e generati dal servizio nell'ambito del ciclo di vita standard dei dati Microsoft, a meno che non siano necessari per mantenere la sicurezza e la stabilità del servizio. Per qualsiasi sottoscrizione, un sottoscrittore può contattare il supporto Tecnico Microsoft e richiedere il de-provisioning rapido dell'abbonamento. Quando un cliente sfrutta questo processo, tutti i dati utente vengono eliminati tre giorni dopo che l'amministratore ha immesso il codice di blocco fornito da Microsoft. Questa eliminazione include i dati in SharePoint Online e Exchange Online in attesa o archiviati in cassette postali inattive.
 
 ## <a name="related-external-regulations--certifications"></a>Normative esterne correlate & certificazioni
 
@@ -58,7 +58,7 @@ I servizi online di Microsoft vengono regolarmente controllati per la conformit�
 
 | **Controlli esterni** | **Sezione** | **Data ultimo report** |
 |:--------------------|:------------|:-----------------------|  
-| [ISO 27018 (Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=d7864d4f-e053-4cc4-a964-fa526d07c3be&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [Dichiarazione di applicabilità](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=8ee1e46b-2ada-4e7b-bb7d-4c55a8cb6fcd&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_ISO_Reports) <br> [Certificazione](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=43e89534-f48d-42ea-a7a7-3523ff516036&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A-2.1: Scopo del processore piI cloud pubblico | 22 febbraio 2020 |
+| [ISO 27018 (Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [Dichiarazione di applicabilità](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br> [Certificazione](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=43e89534-f48d-42ea-a7a7-3523ff516036&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A-2.1: Scopo del processore piI cloud pubblico | 20 aprile 2021 |
 | [SOC 2 (Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=a73c1738-7892-42b7-acd3-87b6371c53f6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-12: Contratti di servizio <br> CA-17: Criteri di sicurezza Microsoft <br> CA-25: Aggiornamenti del framework di controllo | 24 dicembre 2020 |
 
 ## <a name="resources"></a>Risorse
