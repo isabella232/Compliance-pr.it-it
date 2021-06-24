@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: a33f9e6d19caa5a3b26f011b985481224123ea38
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 2918cc1d046719435b8661754b1d869f62505c7f
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496557"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088835"
 ---
 # <a name="cloud-security-alliance-csa-star-certification"></a>Certificazione Cloud Security Alliance (CSA) STAR
 
@@ -92,4 +92,4 @@ Azure, Microsoft Cloud App Security, Intune e Power BI hanno ottenuto la certifi
 - [Cloud Controls Matrix (CCM)](https://cloudsecurityalliance.org/group/cloud-controls-matrix/)
 - [ISO/IEC 27001](offering-iso-27001.md)
 - [Quadro di conformità dell'hub dei controlli comuni di Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
-- [Conformità nel Centro protezione Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Conformità nel Centro protezione di Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)

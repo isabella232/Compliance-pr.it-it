@@ -16,18 +16,18 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: d542698eff82fa8f24a32d9f831553a9807609ce
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 43d95a4bedeca768dd6e9bf8bb4e38655382bd05
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507928"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089700"
 ---
 # <a name="korea-information-security-management-system-k-isms"></a>Certificazione K-ISMS (Korea Information Security Management System)
 
 ## <a name="about-k-isms"></a>Informazioni sulla certificazione K-ISMS
 
-In base all'articolo 47 della legge sulla promozione delle informazioni e dell'utilizzo della rete per le comunicazioni e la protezione delle informazioni ([lingua coreana](https://law.go.kr/lsSc.do?tabMenuId=tab18&query=%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%A7%9D%20%EC%9D%B4%EC%9A%A9%EC%B4%89%EC%A7%84%20%EB%B0%8F%20%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8) e [lingua inglese](https://law.go.kr/engLsSc.do?tabMenuId=tab45)), il Governo Coreano ha introdotto [la certificazione K-ISMS (Korea-Information Security Management System)](https://isms.kisa.or.kr/main/isms/intro/). Si tratta di un quadro normativo sui sistemi di gestione delle informazioni specifico per il Paese che definisce un insieme rigoroso di requisiti di controllo che consentono di garantire alle organizzazioni in Corea una protezione coerente e sicura delle informazioni.
+In base all'articolo 47 della legge sulla promozione delle informazioni e l'utilizzo della rete per le comunicazioni e la protezione delle informazioni (lingua [coreana](https://law.go.kr/lsSc.do?tabMenuId=tab18&query=%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%A7%9D%20%EC%9D%B4%EC%9A%A9%EC%B4%89%EC%A7%84%20%EB%B0%8F%20%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8) e [inglese](https://law.go.kr/engLsSc.do?tabMenuId=tab45)), il governo Coreano ha introdotto la certificazione [K-ISMS (Korea-Information Security Management System)](https://isms.kisa.or.kr/main/isms/intro/). Si tratta di un quadro normativo sui sistemi di gestione delle informazioni specifico per il Paese che definisce un insieme rigoroso di requisiti di controllo che consentono di garantire alle organizzazioni in Corea una protezione coerente e sicura delle informazioni.
 
 Per ottenere la certificazione, è necessario che una società si sottoponga a un processo di valutazione da parte di un revisore indipendente che include contromisure di sicurezza e di gestione della sicurezza delle informazioni. La valutazione copre 104 criteri, inclusi 12 controlli in 5 settori della gestione della sicurezza delle informazioni e 92 controlli in 13 settori delle contromisure di sicurezza. Alcuni di questi controlli includono l'analisi delle responsabilità di gestione della sicurezza dell'organizzazione, dei criteri di sicurezza, della formazione sulla sicurezza, della risposta agli incidenti, della gestione dei rischi e così via. Un comitato esamina i risultati del controllo e concede la certificazione.
 

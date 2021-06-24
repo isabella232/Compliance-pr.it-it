@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 37a561845b4eaa4568ed71a4873bb5927a42f761
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: c0b7a9583b8b6d2420837156e836b75326870f1d
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51497273"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089690"
 ---
 # <a name="iso-90012015-quality-management-systems-standards"></a>ISO 9001:2015 Quality Management Systems Standards
 
@@ -33,7 +33,7 @@ ISO 9001:2015 è uno standard internazionale che stabilisce i criteri per un sis
 
 Una società di revisione indipendente di terze parti ha eseguito un esame rigoroso di Microsoft Azure e di diversi servizi online Microsoft per verificarne il rispetto dei principi di gestione della qualità stabiliti dalla norma ISO 9001:2015. La certificazione di terze parti disponibile fornisce una conferma indipendente che Azure e i servizi online Microsoft soddisfano i requisiti ISO 9001:2015.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud Microsoft inclusi
+## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud Microsoft inclusi nell'ambito
 
 - [Azure, Azure per enti pubblici e Azure Germania](https://aka.ms/AzureCompliance)
 - Microsoft Cloud App Security
@@ -59,7 +59,7 @@ Una società di revisione indipendente di terze parti ha eseguito un esame rigor
 
 A chi si applica lo standard?
 
-Questa norma fornisce indicazioni e strumenti per i provider e i clienti di servizi cloud per assicurare che i prodotti e i servizi cloud soddisfino sempre i requisiti del cliente. È strutturato in un formato simile a ISO 27001:2013.
+Questa norma fornisce indicazioni e strumenti per i provider e i clienti di servizi cloud per assicurare che i prodotti e i servizi cloud soddisfino regolarmente i requisiti del cliente. È strutturato in un formato simile a ISO 27001:2013.
 
 **Dove posso reperire i report di controllo e le dichiarazioni di ambito di ISO 9001:2015 per i servizi Microsoft?**
 
@@ -69,7 +69,7 @@ Il [Service Trust Portal](/microsoft-365/compliance/get-started-with-service-tru
 
 Sì. La valutazione annuale ISO 9001:2015 include il infrastruttura fisica sottostante, ovvero il data center. [Rivedere il certificato](https://www.microsoft.com/?ref=aka) per i dettagli della copertura.
 
-**Dove posso consultare le informazioni sull'adeguamento di Microsoft per ISO 9001:2015?**
+**Dove posso consultare le informazioni sulla conformità Microsoft per ISO 9001:2015?**
 
 È possibile scaricare il [certificato ISO 9001:2015](https://www.microsoft.com/?ref=aka) per Azure e altri servizi inclusi nell'ambito della valutazione.
 

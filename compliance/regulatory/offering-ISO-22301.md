@@ -16,18 +16,18 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: afe6f7f5d5758442b6a016834456459ff9d40e7c
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: d87d143479cab3dffb881c58dc19d11a81b1c7a9
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51497763"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088935"
 ---
 # <a name="iso-223012012-business-continuity-management-standard"></a>Standard di gestione della continuità aziendale ISO 22301:2012
 
 ## <a name="iso-22301-overview"></a>Panoramica di ISO 22301
 
-International Organization for Standardization (ISO) è un'organizzazione non governativa indipendente nonché il più grande sviluppatore al mondo di standard internazionali volontari.. ISO ha costituito il comitato tecnico TC 223 "Societal Security", incaricato di sviluppare standard per la protezione della società, incluse le organizzazioni, in caso di catastrofe, ad esempio una calamità naturale, un grave attacco o un blackout.
+International Organization for Standardization (ISO) è un'organizzazione non governativa indipendente nonché il più grande sviluppatore al mondo di standard internazionali volontari. ISO ha costituito il comitato tecnico TC 223 "Societal Security", incaricato di sviluppare standard per la protezione della società, incluse le organizzazioni, in caso di catastrofe, ad esempio una calamità naturale, un grave attacco o un blackout.
 
 Pubblicato nel 2012 dal comitato tecnico, ISO 22301:2012 è il primo standard internazionale per i sistemi di gestione che contribuiscono a garantire la continuità aziendale. ISO 22301 è lo standard premium per la continuità aziendale e la certificazione dimostra la conformità a prassi rigorose per prevenire, mitigare, rispondere e riprendere le operazioni dopo eventi disastrosi.
 

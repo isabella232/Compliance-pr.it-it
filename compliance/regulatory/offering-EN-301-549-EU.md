@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: d9dfe0936b6df031fd8d50fff3554e9c9cb5ced1
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 4ec39ccbeb9780c51ef813c1520675abb1d19cc9
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509620"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089569"
 ---
 # <a name="european-standards-en-301-549"></a>Standard europei EN 301 549
 
@@ -35,7 +35,7 @@ Microsoft è uno dei principali provider di software e servizi cloud per gli sta
 
 Il rispetto della norma EN 301 549 nello sviluppo dei prodotti e servizi di Microsoft dimostra l’impegno per favorire l'accessibilità per tutti i clienti.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud Microsoft associati
+## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud Microsoft inclusi nell'ambito
 
 - [Azure e Azure per enti pubblici](https://go.microsoft.com/fwlink/p/?linkid=2051569)
 - Azure DevOps Services
@@ -54,4 +54,4 @@ Sono disponibili [report di conformità](https://cloudblogs.microsoft.com/indust
 - [Sito Microsoft sull'accessibilità](https://www.microsoft.com/accessibility): consente di ottenere informazioni sull'uso delle funzionalità di accessibilità e di esplorare le novità Microsoft che permettono a tutti gli utenti di lavorare in modo più proficuo.
 - [Office 365 Accessibility Center](https://go.microsoft.com/fwlink/p/?linkid=2051801): le risorse di Office 365 per persone con disabilità.
 - [Enterprise Disability Answer Desk](https://go.microsoft.com/fwlink/p/?linkid=2050890): supporto dedicato per clienti aziendali con domande sull'accessibilità sui prodotti e servizi Microsoft o sulla conformità.
-- [Conformità nel Centro protezione Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Conformità nel Centro protezione di Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)

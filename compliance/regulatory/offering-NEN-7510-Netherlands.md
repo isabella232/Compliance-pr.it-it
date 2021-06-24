@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 3688ffe46405e6c8eea8f6896a94d8470151bb4d
-ms.sourcegitcommit: b06fa9f1b230fd5e470817486ea51f460f28b691
+ms.openlocfilehash: 9ae0ba0b3ad10e4b1f2d308090f05c698bce092f
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50012972"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088485"
 ---
 # <a name="nen-7510"></a>NEN 7510
 

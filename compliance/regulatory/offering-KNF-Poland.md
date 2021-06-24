@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 7cb696db772f0bffda701c7ecadbb768c2575343
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 68d5fc100ac504eaed07f45dabbfe37c82e1c66a
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120155"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089589"
 ---
 # <a name="financial-supervision-authority-knf-poland"></a>Autorità di vigilanza finanziaria (KNF) della Polonia
 
@@ -37,7 +37,7 @@ Sono previsti diversi requisiti e linee guida di cui gli istituti finanziari in 
 - La comunicazione, rilasciata dall'ufficio della KNF nel 2017, include un elenco di controllo e un piano d'azione dettagliati per le istituzioni disciplinate che intendono spostare le proprie funzioni aziendali nel cloud.
 - La [Raccomandazione D](https://www.knf.gov.pl/knf/en/komponenty/img/Recommendation_D_44255.pdf): Gestione delle tecnologie dell'informazione e Sicurezza dell’ambiente ICT nelle banche definisce le aspettative della KNF per la gestione prudenziale della sicurezza informatica da parte delle banche, soprattutto per quanto riguarda la gestione dei rischi. La KNF ha stipulato 22 raccomandazioni sulle procedure consigliate sulla sicurezza e ha pubblicato delle linee guida analoghe per le [compagnie assicurative](https://www.knf.gov.pl/knf/en/komponenty/img/knf_136041_KNF_IT_Guidelines_for_Insurance_41850.pdf), le [imprese di investimento](https://www.knf.gov.pl/knf/en/komponenty/img/knf_158416_Wytyczne_IT_firmy_inwestycyjne_eng_47464.pdf) e le [società di previdenza generale](https://www.knf.gov.pl/knf/en/komponenty/img/knf_136042_KNF_IT_Guidelines_for_Pensions_41851.pdf).
 
-Inoltre, l'uso dei servizi cloud da parte degli istituti finanziari deve essere conforme alla legge sulla protezione dei dati personali della Polonia del 1997, che è fondamentale per il trattamento dei dati personali. Per renderla conforme al GDPR, questa legge è stata modificata verso la fine del 2018 dalla Legge sulla facilitazione delle prestazioni delle attività aziendali ([polacco](https://orka.sejm.gov.pl/proc7.nsf/ustawy/2606_u.htm)) ed entrerà in vigore a partire dal 1° gennaio 2019.
+Inoltre, l'uso dei servizi cloud da parte degli istituti finanziari deve essere conforme alla legge sulla protezione dei dati personali della Polonia del 1997, fondamentale per il trattamento dei dati personali. Per renderla conforme al GDPR, questa legge è stata modificata verso la fine del 2018 dalla Legge sulla facilitazione delle prestazioni delle attività aziendali ([polacco](https://orka.sejm.gov.pl/proc7.nsf/ustawy/2606_u.htm)) ed entrerà in vigore a partire dal 1° gennaio 2019.
 
 ## <a name="microsoft-and-the-knf"></a>Microsoft e la KNF
 

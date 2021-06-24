@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: b5921a0535b9fe3dd84f4faf57dca4d7d117498e
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 16965373da1be8289a86319bb715f987624badd4
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121306"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088825"
 ---
 # <a name="canadian-privacy-laws"></a>Normativa sulla privacy in Canada
 

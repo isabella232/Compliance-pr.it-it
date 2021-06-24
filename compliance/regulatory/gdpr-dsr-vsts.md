@@ -20,12 +20,12 @@ ms.workload:
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-mar2020
 hideEdit: true
-ms.openlocfilehash: c27890900be85d951fb3a9dbfd11e4140ef955ff
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 5511888b34cd9e3eb7f4e76d86c91cea4f4924c6
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496208"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088525"
 ---
 # <a name="azure-devops-services-data-subject-requests-for-the-gdpr-and-ccpa"></a>Richieste degli interessati per Azure DevOps Services nell'ambito del GDPR e del CCPA
 
@@ -43,11 +43,11 @@ Gli articoli riguardanti l'[informativa sulla privacy di Microsoft](https://priv
 
 ## <a name="personal-data-we-collect"></a>Dati personali raccolti da Microsoft
 
-Microsoft raccoglie i dati dagli utenti per eseguire e migliorare Azure DevOps Services. Azure DevOps Services raccoglie due categorie di dati, i dati dei clienti e i log generati dal sistema. I dati dei clienti includono dati transazionali e interazionali identificabili dell'utente necessari ad Azure DevOps Services necessita per fornire il servizio. I log generati dal sistema includono i dati sull'utilizzo del servizio che vengono aggregati per ogni area e funzionalità del prodotto.
+Microsoft raccoglie i dati dagli utenti per eseguire e migliorare Azure DevOps Services. Azure DevOps Services raccoglie due categorie di dati: i dati dei clienti e i log generati dal sistema. I dati dei clienti includono dati transazionali e interazionali identificabili dall'utente di cui Azure DevOps Services necessita per eseguire il servizio. I log generati dal sistema includono i dati sull'utilizzo del servizio che vengono aggregati per ogni area e funzionalità del prodotto.
 
 ## <a name="delete-azure-devops-data"></a>Eliminare i dati di Azure DevOps
 
-Il primo passaggio per eliminare i dati dei clienti Azure DevOps Services associati e per rendere anonimi i dati personali identificabili trovati nei log generati dal sistema è quello di chiudere l'account identificativo di Azure Active Directory (AAD) o l'account Microsoft (MSA). Azure DevOps Services è considerato un sistema di record con rigide regole di integrità, tracciabilità e controllo. Questi obblighi esistenti riguardano gli obblighi di cancellazione e conservazione per il GDPR. La chiusura dell'account identificativo non altera, rimuove o modifica elementi e record associati all'identità individuale nell'organizzazione di Azure DevOps Services. Microsoft assicura che, nel momento in cui viene eliminata un'intera organizzazione Azure DevOps Services, tutti i dati personali identificabili e i log generati dal sistema rilevati in tale organizzazione vengono rimossi dal sistema (dopo il periodo di eliminazione temporanea di 30 giorni dell'organizzazione Azure DevOps Services richiesto).
+Il primo passaggio per eliminare i dati dei clienti Azure DevOps Services associati e per rendere anonimi i dati personali identificabili trovati nei log generati dal sistema è quello di chiudere l'account identificativo di Azure Active Directory (AAD) o l'account Microsoft (MSA). Azure DevOps Services è considerato un sistema di record con rigide regole di integrità, tracciabilità e controllo. Questi obblighi esistenti riguardano gli obblighi di cancellazione e conservazione per il GDPR. La chiusura dell'account identificativo non altera, rimuove o modifica elementi e record associati all'identità individuale nell'organizzazione di Azure DevOps Services. Microsoft assicura che, nel momento in cui viene eliminato un'intera organizzazione di Azure DevOps Services, tutti i dati personali identificabili e i log generati dal sistema rilevati in tale organizzazione vengono rimossi dal sistema (dopo il periodo di eliminazione temporanea di 30 giorni dell'organizzazione di Azure DevOps Services richiesto).
 
 ## <a name="export-azure-devops-data"></a>Esportare i dati di Azure DevOps
 
@@ -59,7 +59,7 @@ I titolari possono esportare i dati dei clienti e i log generati dal sistema rac
 
 ## <a name="export-or-delete-issues"></a>Problemi relativi all'esportazione o all'eliminazione
 
-Per le identità AAD, se si verificano problemi durante l'esportazione o l'eliminazione di dati dal portale di Azure, accedere al pannello **Guida e Supporto** del portale di Azure e inviare un nuovo ticket in **Gestione della sottoscrizione** > **Altre richieste di sicurezza e conformità** > **Pannello privacy e richieste GDPR**.
+Per le identità AAD, se si verificano problemi durante l'esportazione o l'eliminazione di dati dal portale di Azure, accedere al pannello **Guida e Supporto** del portale di Azure e inviare un nuovo ticket in **Gestione dell'abbonamento** > **Privacy e richieste di conformità per gli abbonamenti** > **Pannello privacy e richieste GDPR**.
 
 Per le identità MSA, se si verificano problemi durante l'esportazione dei dati dal sito per le richieste di privacy, accedere al [sito per le richieste di privacy](https://www.microsoft.com/concern/privacyrequest-msa) e inviare una richiesta di aiuto al team della privacy di Microsoft tramite il modulo Web di richiesta.
 

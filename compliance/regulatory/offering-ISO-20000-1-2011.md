@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: a04e5b7b0a292cfe419118085d387051e0c56e48
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 9995a237a82d41bfbb6740dbbe448f1ef3ae750a
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51497769"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088995"
 ---
 # <a name="isoiec-20000-12011-information-technology-service-management"></a>Gestione dei servizi informatici ISO/IEC 20000-1:2011 
 
@@ -37,7 +37,7 @@ L'ottenimento della certificazione ISO 20000-1:2011 è un passaggio logico per M
   
 Una società di revisione indipendente di terze parti ha eseguito un esame rigoroso di Microsoft Azure e di diversi servizi online Microsoft per verificarne il rispetto dei requisiti stabiliti dallo standard ISO 20000-1:2011. Il certificato ISO 20000-1 disponibile dimostra che Azure e i servizi online Microsoft coperti hanno implementato le corrette procedure di gestione dei servizi IT volte a garantirne efficienza e affidabilità, soggette a regolare monitoraggio, verifica e aggiornamento.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud Microsoft inclusi
+## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud Microsoft inclusi nell'ambito
 
 - [Azure, Azure per enti pubblici e Azure Germania](https://aka.ms/AzureCompliance)
 - Microsoft Cloud App Security
@@ -70,7 +70,7 @@ Il portale di attendibilità dei servizi fornisce report di adeguamento controll
 
 Sì. La valutazione annuale ISO 20000-1:2011 include il infrastruttura fisica sottostante, ovvero il data center. Rivedere il certificato per i dettagli della copertura.
 
-**Dove è possibile consultare le informazioni sull'adeguamento di Microsoft per ISO 20000-1:2011?**
+**Dove posso consultare le informazioni sulla conformità Microsoft per ISO 20000-1:2011?**
 
 È possibile scaricare il certificato ISO 20000-1:2011 per Azure e altri servizi inclusi nell'ambito della valutazione.
 

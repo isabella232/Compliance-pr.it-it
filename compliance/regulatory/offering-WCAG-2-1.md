@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: c8bc078a84501b329f80a10cf218fbebfee53fbf
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 6330ee298949353c24a4b95ff65696807b78b09b
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508298"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088795"
 ---
 # <a name="web-content-accessibility-guidelines"></a>Linee guida per l'accessibilità dei contenuti Web
 
@@ -60,4 +60,4 @@ Consultare i report WCAG per [tutti i prodotti e i servizi Microsoft](https://cl
 - [Sito Microsoft sull'accessibilità](https://www.microsoft.com/accessibility): consente di ottenere informazioni sull'uso delle funzionalità di accessibilità e di esplorare le novità Microsoft che permettono a tutti gli utenti di lavorare in modo più proficuo.
 - [Office 365 Accessibility Center](https://go.microsoft.com/fwlink/p/?linkid=2051801): le risorse di Office 365 per persone con disabilità.
 - [Enterprise Disability Answer Desk](https://go.microsoft.com/fwlink/p/?linkid=2050890): supporto dedicato per clienti aziendali con domande sull'accessibilità sui prodotti e servizi Microsoft o sulla conformità.
-- [Conformità nel Centro protezione Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Conformità nel Centro protezione di Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)

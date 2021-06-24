@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: cd26a6a8256d2efa85451e84f1caffc7e68c043b
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: e83206a9d8f0639d529b64f00c07a79a16d40f0d
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121405"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088515"
 ---
 # <a name="financial-authority-amf-and-prudential-authority-acpr-france"></a>Organismi di vigilanza AMF (Autorité des Marchés Financiers) e ACPR (Autorité de Contrôle Prudentiel et de Résolution) in Francia
 
@@ -36,7 +36,7 @@ Esistono diversi requisiti e linee guida in Francia di cui gli istituti finanzia
 - Il Regolamento generale dell'AMF ([lingua francese](https://amf-france.org/eli/fr/aai/amf/rg/livre/1/fr.html) e [lingua inglese](https://amf-france.org/eli/fr/aai/amf/rg/20180103/notes/en.pdf)) definisce le regole e le procedure per l'applicazione della normativa in materia finanziaria. In particolare, l'articolo 313-75 stabilisce le condizioni che devono essere applicate ai contratti che gli istituti finanziari stipulano con i fornitori di servizi cloud.
 - L'ACPR ha pubblicato il documento The risks associated with cloud computing (I rischi associati al cloud computing) ([lingua francese](https://acpr.banque-france.fr/sites/default/files/medias/documents/201307-risques-associes-au-cloud-computing.pdf) e [lingua inglese](https://acpr.banque-france.fr/sites/default/files/medias/documents/201307-the-risks-associated-with-cloud-computing.pdf)), che incoraggia le organizzazioni sotto la supervisione dell'ACPR a prendere misure adeguate per gestire i rischi quando esternalizzano le proprie funzioni aziendali nel cloud. Inoltre, [l'articolo 239 dell'Ordinanza ACPR del 3 novembre 2014, relativa al controllo interno delle aziende ](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000029700770&categorieLien=id) (lingua francese) sotto la supervisione ACPR, definisce inoltre le condizioni obbligatorie da includere nei contratti con i fornitori di servizi cloud.
 - In alcuni casi, gli istituti regolamentati devono inviare una notifica ad AMF e ACPR riguardanti gli accordi di esternalizzazione dei materiali, in particolare se rischiano di avere un impatto significativo sulle operazioni aziendali.
-- Nel suo ruolo di autorità garante in Francia, il [CNIL](https://www.cnil.fr/en/home) (Commission Nationale de l’Informatique et des Libertés) ha pubblicato diverse linee guida relative al cloud computing, incluse le raccomandazioni per aziende che intendono utilizzare i servizi di cloud computing ([lingua francese](https://www.cnil.fr/sites/default/files/typo/document/Recommandations_pour_les_entreprises_qui_envisagent_de_souscrire_a_des_services_de_Cloud.pdf) e [lingua inglese](https://www.cnil.fr/sites/default/files/typo/document/Recommendations_for_companies_planning_to_use_Cloud_computing_services.pdf)).
+- Nel suo ruolo di autorità garante in Francia, il [CNIL](https://www.cnil.fr/en/home) (Commission Nationale de l’Informatique et des Libertés) ha pubblicato diverse linee guida relative al cloud computing, incluse le raccomandazioni per aziende che intendono utilizzare i servizi di cloud computing (lingua [francese](https://www.cnil.fr/sites/default/files/typo/document/Recommandations_pour_les_entreprises_qui_envisagent_de_souscrire_a_des_services_de_Cloud.pdf) e lingua [inglese](https://www.cnil.fr/sites/default/files/typo/document/Recommendations_for_companies_planning_to_use_Cloud_computing_services.pdf)).
 
 ## <a name="microsoft-and-the-amf-and-acpr"></a>Microsoft e gli organismi AMF e ACPR
 

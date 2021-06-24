@@ -17,16 +17,16 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft GDPR
 hideEdit: true
-ms.openlocfilehash: 44fb1842d315a0161255fd9a1b0165e2af2805c8
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 45603a822385d996baeeef33e39964e8726951bb
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51495902"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089005"
 ---
 # <a name="additional-steps-to-export-system-generated-log-data"></a>Ulteriore procedura di esportazione dei dati del log generato dal sistema
 
-**Kaizala**: il portale di gestione Kaizala consente di esportare dati sull'utilizzo di servizi e prodotti dell'organizzazione e quindi di utilizzare le funzionalità di Excel per filtrare i dati per un utente specifico. Per istruzioni dettagliate, vedere [Esportare o eliminare dati organizzativi di un utente in Kaizala](/office365/kaizala/export-or-delete-a-user-s-data).
+**Kaizala**: il portale di gestione di Kaizala consente di esportare dati sull'utilizzo di servizi e prodotti dell'organizzazione e quindi di utilizzare le funzionalità di Excel per filtrare i dati per un utente specifico. Per istruzioni dettagliate, vedere [Esportare o eliminare dati dell’organizzazione di un utente in Kaizala](/office365/kaizala/export-or-delete-a-user-s-data).
 
 **Servizio roaming di Office**: il roaming di Office è un servizio che consente di archiviare le impostazioni relative a Office, come il tema, il dizionario personalizzato, le impostazioni della lingua, la modalità sviluppatore e la correzione automatica. Per istruzioni su come esportare questi dati, vedere [Gestire le richieste dell'interessato per il GDPR con lo strumento dei casi di richiesta dell'interessato nel Centro sicurezza e conformità](/microsoft-365/compliance/manage-gdpr-data-subject-requests-with-the-dsr-case-tool). 
  

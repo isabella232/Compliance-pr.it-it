@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 420f95b0a7f7625ff10d76baf5f1c9d9efb69c6a
-ms.sourcegitcommit: 2b347c9b778ac9b6450daf20fdf8eb74ed14cbbd
+ms.openlocfilehash: 9d228a02e9c2eaa268d36a8948dbcbb417580f0c
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "51002196"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089780"
 ---
 # <a name="trusted-information-security-assessment-exchange-tisax-germany"></a>TISAX (Trusted Information Security Assessment Exchange) - Germania
 
@@ -64,7 +64,7 @@ Panoramiche di casi, guide alle soluzioni, esercitazioni e altre risorse per cre
 
 **Perché non è possibile visualizzare una copia della certificazione TISAX di Microsoft?**
 
-ENX fornisce la conferma della certificazione solo ai rappresentanti del settore registrati attraverso il portale ENX. Per avere informazioni su come procedere, consultare la sezione "Controlli, report e certificati" presente in alto.
+ENX fornisce la conferma della certificazione solo ai rappresentanti del settore registrati attraverso il portale ENX. Per informazioni su come procedere, consultare la sezione "Controlli, report e certificati" indicata in precedenza.
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usare Microsoft Compliance Manager per valutare i rischi
 
