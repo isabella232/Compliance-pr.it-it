@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 27f0072091520317a6780e00331e0997022941a0
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 88e85b1060374932320a4191c4eb4b2b665fe986
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509560"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088945"
 ---
 # <a name="center-for-financial-industry-information-systems-fisc"></a>Center for Financial Industry Information Systems (FISC)
 

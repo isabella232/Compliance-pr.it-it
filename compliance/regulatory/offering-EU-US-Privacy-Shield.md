@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: ae241dcff38ac764c2b57f559e95c079d6e59cd7
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: afe763500a4c8f3af261870af53216c6f6f95d39
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121235"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088955"
 ---
 # <a name="eu-us-and-swiss-us-privacy-shield-frameworks"></a>Accordo quadro sullo Scudo UE-USA e Svizzera-USA per la privacy (Privacy Shield)
 

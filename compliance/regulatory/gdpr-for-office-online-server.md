@@ -15,12 +15,12 @@ ms.custom:
 - seo-marvel-mar2020
 titleSuffix: Microsoft GDPR
 hideEdit: true
-ms.openlocfilehash: b047b4ccf7fa9745a7237de79bbaa198e079865e
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 298f0efe74539c8a8bd10330cfeb80894ef9edb1
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496026"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089015"
 ---
 # <a name="gdpr-for-office-web-apps-server-and-office-online-server"></a>GDPR per Server Office Web Apps e Office Online Server
 
@@ -72,7 +72,7 @@ Per raccogliere tutti i log associati a UserID 1, ad esempio, il primo passaggio
 
 ## <a name="types-of-data"></a>Tipi di dati
 
-I log di Office contengono un'ampia varietà di tipi di dati. Di seguito sono riportati alcuni esempi di dati che potrebbero essere contenuti dai log di Servizio di registrazione unificato:
+I log di Office contengono vari tipi di dati. Di seguito sono riportati esempi dei dati che possono contenere i log del Servizio di registrazione unificato:
 
 - Codici di errore per problemi riscontrati durante l'utilizzano del prodotto
 
@@ -82,7 +82,7 @@ I log di Office contengono un'ampia varietà di tipi di dati. Di seguito sono ri
 
 - Informazioni generali sulla posizione del computer dell'utente (ad esempio paese/area geografica, provincia e città, derivate dall'indirizzo IP), ma non la precisa posizione geografica.
 
-- I metadati di base sul browser, ad esempio la versione e il nome del browser e del computer, ad esempio il tipo di sistema operativo e la versione
+- I metadati di base del browser, ad esempio nome e versione del browser, e del computer, ad esempio tipo e versione del sistema operativo
 
 - Messaggi di errore dall'host del documento (ad esempio OneDrive, SharePoint, Exchange)
 

@@ -9,7 +9,7 @@ manager: laurawi
 audience: Admin
 ms.topic: article
 ms.service: O365-seccomp
-localization_priority: Normal
+localization_priority: Priority
 search.appverid:
 - MET150
 ms.collection:
@@ -20,12 +20,12 @@ ms.collection:
 ms.assetid: ce9eb942-3589-42cb-88fd-1576ecb09c5c
 ms.custom: seo-marvel-apr2020
 hideEdit: true
-ms.openlocfilehash: f89faf915e31e375674020fda1fe56fe7cd78410
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 8448d9a77352491ce0066dbf74ed5aea0e8f7a29
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496064"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089579"
 ---
 # <a name="manage-gdpr-data-subject-requests-with-the-dsr-case-tool-in-the-security--compliance-center"></a>Gestire richieste degli interessati per il GDPR con lo strumento per i casi DSR nel Centro sicurezza e conformità
 
@@ -126,7 +126,7 @@ Il passaggio successivo consiste nella creazione di un caso DSR. Quando si crea 
     
 ## <a name="step-3-run-the-search-query"></a>Passaggio 3: Eseguire la query di ricerca
 
-Dopo aver creato un caso DSR e aver aggiunto membri, il passaggio successivo consiste nell'eseguire la ricerca predefinita associata al caso. Questa query di ricerca predefinita esegue le operazioni seguenti:
+Dopo aver creato un caso di richiesta dell'interessato e aver aggiunto membri, il passaggio successivo consiste nell'eseguire la ricerca predefinita associata al caso. Questa query di ricerca predefinita esegue le operazioni seguenti:
   
 - Cerca tutte le e-mail inviate o ricevute dall'interessato in tutte le cassette postali dell'organizzazione. Questa operazione viene eseguita usando la proprietà di posta elettronica *Participants*, che cerca l'interessato in tutti i campi delle persone di un messaggio di posta elettronica. Questa proprietà restituisce gli elementi in cui l'interessato è presente nei campi **Da**, **A**, **Cc** e **Ccn**. I messaggi inviati o ricevuti dall'interessato vengono cercati anche nelle cartelle pubbliche di Exchange Online. 
     
@@ -373,13 +373,13 @@ Quando si esportano dati dal Servizio roaming di Office, questi vengono salvati 
 
 È consigliabile non esportare gli elementi parzialmente indicizzati, detti anche elementi non indicizzati, dalla ricerca predefinita creata quando si crea un caso di richiesta dell'interessato. Il motivo è che i risultati della ricerca includeranno molto probabilmente elementi parzialmente indicizzati di altri utenti dell'organizzazione e non solo elementi dell'interessato. Si consiglia di creare invece una ricerca contenuto separata associata al caso DSR, progettata in modo da esportare solo gli elementi parzialmente indicizzati correlati all'interessato. 
   
-Ecco un processo generale per l'esportazione di elementi parzialmente indicizzati. Dopo l'esportazione, è possibile esaminarli per determinare se un elemento risponde a una richiesta di accesso o esportazione DSR.
+Ecco un processo di alto livello per l'esportazione di elementi parzialmente indicizzati. Dopo l'esportazione, è possibile esaminarli per determinare se un elemento risponde a una richiesta di accesso o esportazione della richiesta dell'interessato.
   
 1. Aprire il caso DSR e creare una ricerca nella pagina di **** ricerca. 
     
 2. Usare i criteri seguenti per configurare la query di ricerca e le posizioni dei contenuti in cui cercare:
     
-    - Usare una query con parole chiave vuota. In questo modo, verranno restituiti tutti gli elementi presenti nelle posizioni dei contenuti in cui viene eseguita la ricerca.
+    - Usare una query con parole chiave vuote. In questo modo, verranno restituiti tutti gli elementi presenti nelle posizioni dei contenuti in cui viene eseguita la ricerca.
     
     - Cercare solo nella cassetta postale di Exchange Online dell'interessato e nel relativo account di OneDrive.
     

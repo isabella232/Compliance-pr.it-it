@@ -16,18 +16,18 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: c079230e1fca6ea19248218a6ecd01eeb896fd87
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 36347cd4df74a87db2dba5977b5ed1270c29086e
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509481"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089810"
 ---
 # <a name="it-grundschutz-compliance-workbook"></a>Manuale di conformità IT-Grundschutz
 
 ## <a name="it-grundschutz-compliance-workbook-overview"></a>Panoramica del manuale di conformità IT-Grundschutz
 
-Per aiutare le organizzazioni a identificare e implementare le misure di sicurezza dei sistemi IT, l'Ufficio Federale per la Sicurezza Informatica (Bundesamt für Sicherheit in der Informationstechnik, BSI) ha pubblicato un insieme di standard di riferimento per la protezione della tecnologia dell'informazione (in tedesco IT-Grundschutz). Questi standard del BSI comprendono:
+Per consentire le organizzazioni di identificare e implementare le misure di sicurezza dei sistemi IT, l'Ufficio federale tedesco per la sicurezza delle informazioni (Bundesamt für Sicherheit in der Informationstechnik, BSI) ha pubblicato un insieme di standard di riferimento per la protezione della tecnologia dell'informazione (in tedesco IT-Grundschutz). Questi standard del BSI comprendono:
 
 - Un sistema di gestione della sicurezza delle informazioni (SGSI) basato sugli standard ISO/IEC 27001 (standard BSI 100-1)
 - La metodologia IT-Grundschutz, che descrive come configurare e gestire un SGSI (standard BSI 100-2)
@@ -53,7 +53,7 @@ Questo manuale consente ai clienti di Microsoft Cloud per la Germania di impleme
 
 **Posso usare il manuale di conformità IT-Grundschutz di Microsoft per aiutare l'organizzazione a rispettare l'IT-Grundschutz?**
 
-Sì. Lo scopo di questo manuale è quello di aiutate i clienti di Microsoft Cloud per la Germania a usare i servivi offerti per implementare la metodologia IT-Grundschutz nell'ambito della certificazione ISO 27001 esistente o pianificata basata sulla IT-Grundschutz.
+Sì. Lo scopo di questo manuale è quello di consentire ai clienti di Microsoft Cloud per la Germania di usare i servivi offerti per implementare la metodologia IT-Grundschutz nell'ambito della certificazione ISO 27001 esistente o pianificata basata sulla IT-Grundschutz.
 
 **Qual è la differenza tra i cataloghi IT-Grundschutz e il C5?**
 

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: a076f51bbbefe60b1bdb41e656398da9e6d41825
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 379720a1769048fea6abc22f850a6ef54f601351
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509430"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089055"
 ---
 # <a name="monetary-authority-of-singapore-mas-and-association-of-banks-in-singapore-abs"></a>Monetary Authority of Singapore (MAS) e Association of Banks in Singapore (ABS)
 
@@ -31,7 +31,7 @@ ms.locfileid: "49509430"
 
 Nel mese di luglio 2016, MAS, la banca centrale di Singapore e l’autorità di regolamentazione finanziaria, ha pubblicato le [Linee guida per la gestione dei rischi dell’esternalizzazione](https://www.mas.gov.sg/~/media/MAS/Regulations%20and%20Financial%20Stability/Regulatory%20and%20Supervisory%20Framework/Risk%20Management/Outsourcing%20Guidelines_Jul%202016.pdf). In queste linee guida MAS delinea le proprie aspettative in merito all'esternalizzazione dei servizi cloud per gli istituti finanziari di Singapore, tra cui banche, compagnie di assicurazioni e società fiduciarie. Le linee guida sono state precedute da una consultazione iniziata a ottobre 2014 a cui hanno partecipato varie autorità, enti e leader del settore, tra cui Microsoft.
 
-Le linee guida di MAS semplificano sostanzialmente la procedura di adozione della tecnologia, definiscono le aspettative dell'autorità di regolamentazione e chiariscono molti pregiudizi e dubbi che in passato hanno rallentato l'adozione delle soluzioni cloud da parte del settore finanziario.
+Le linee guida dello standard di accessibilità Microsoft semplificano sostanzialmente la procedura di adozione della tecnologia, definiscono le aspettative dell'autorità di regolamentazione e chiariscono molti pregiudizi e dubbi che in passato hanno rallentato l'adozione delle soluzioni cloud da parte del settore finanziario.
 
 Inoltre, queste linee guida supportano in maniera inequivocabile l'uso dei servizi cloud, compreso il cloud pubblico, da parte degli istituti finanziari sottolineandone i vantaggi. Ora gli istituti finanziari non devono più notificare MAS prima di intraprendere attività di esternalizzazione determinanti. Gli istituti regolamentati da MAS invece devono svolgere una valutazione mirata dei rischi quando considerano di procedere con un’attività di esternalizzazione determinante e devono condurre un'autovalutazione di tutte le attività di esternalizzazione ai sensi di queste linee guida (per ora queste linee guida non sono legalmente vincolanti, ma il MAS ha specificato che in futuro istituirà un termine legale di preavviso). 
 
@@ -54,7 +54,7 @@ Il **documento di riferimento di Microsoft sulle linee guida di MAS e sulla guid
 
 Ottieni supporto pratico per il trasferimento dei dati e dei carichi di lavoro nel cloud Microsoft rispettando le linee guida di MAS
 
-[Scarica la guida Navigating your way to the cloud: Microsoft’s response to MAS outsourcing guidelines and ABS guidance](https://download.microsoft.com/download/3/E/8/3E80AACD-86A0-478E-BF94-DDBDA5B2E8AF/Navigating%20a%20Path%20to%20the%20Cloud%20-%20Singapore.pdf)
+[Scaricare la guida Navigating your way to the cloud: Microsoft’s response to MAS outsourcing guidelines and ABS guidance](https://download.microsoft.com/download/3/E/8/3E80AACD-86A0-478E-BF94-DDBDA5B2E8AF/Navigating%20a%20Path%20to%20the%20Cloud%20-%20Singapore.pdf)
 
 L’elenco di controllo di conformità per gli istituti finanziari a Singapore
 
@@ -66,25 +66,25 @@ Ottieni supporto pratico per il trasferimento dei dati e dei carichi di lavoro n
 
 [Scarica l’elenco di controllo di conformità per gli istituti finanziari a Singapore](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=37557722-d5ed-419b-9365-2762982bacbf&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
 
-## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud Microsoft associati
+## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud Microsoft inclusi nell'ambito
 
 - [Azure](https://aka.ms/AzureCompliance)
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune
-- Servizio cloud Power BI, autonomo o incluso in un piano o una famiglia di prodotti Office 365
+- Servizio cloud Power BI, autonomo o incluso in un piano o in una famiglia di prodotti con marchio Office 365
 - [Office 365](https://aka.ms/o365-compliance-framework)
 
 ## <a name="frequently-asked-questions"></a>Domande frequenti
 
-**È necessaria l'approvazione delle autorità competenti?**
+**È richiesta l'approvazione dell’autorità competente?**
 
-No, non esiste alcun obbligo di previa notifica, consultazione o approvazione delle attività di esternalizzazione. Tuttavia, MAS si aspetta che gli istituti finanziari siano in grado di dimostrare in che modo rispettino gli obblighi e comunichino quanto prima a MAS eventuali sviluppi negavi derivanti da attività di esternalizzazione dell'istituto, ad esempio, una violazione dei dati.
+No, non esiste alcun obbligo di previa notifica, consultazione o approvazione delle attività di esternalizzazione. Tuttavia, lo standard di accessibilità Microsoft si aspetta che gli istituti finanziari siano in grado di dimostrare in che modo rispettino gli obblighi e comunichino quanto prima eventuali sviluppi negavi derivanti da attività di esternalizzazione dell'istituto, ad esempio, una violazione dei dati.
 
-**Cos'è un’attività di esternalizzazione essenziale e perché è importante la sua definizione?**
+**Che cosa è un’attività di esternalizzazione "essenziale" e perché è importante la sua definizione?**
 
-Un accordo di esternalizzazione si definisce determinante se una violazione o un guasto al servizio può influire in modo determinante sulle operazioni dell'istituto finanziario o sulla sua capacità di gestire il rischio e di rispettare le normative e le leggi applicabili, oppure se coinvolge i dati dei clienti e, nell’eventualità di accesso non autorizzato o divulgazione, perdita o furto dei dati dei clienti, abbia un effetto determinante sui clienti dell'istituto. La definizione di "dati dei clienti" esclude espressamente i dati crittografati protetti.
+Un accordo di esternalizzazione si definisce determinante se una violazione o un guasto al servizio può influire in modo determinante sulle operazioni dell'istituto finanziario o sulla sua capacità di gestire il rischio e di rispettare le normative e le leggi applicabili, oppure se coinvolge i dati dei clienti e, nell’eventualità di accesso non autorizzato o divulgazione, perdita o furto dei dati dei clienti, abbia un effetto determinante sui clienti dell'istituto. La definizione di "informazioni del cliente" esclude espressamente le informazioni crittografate in modo sicuro.
 
-Questa definizione è importante in quanto alcune disposizioni delle linee guida di esternalizzazione di MAS si applicano solamente alle "attività di esternalizzazione determinanti". Queste disposizioni comprendono l’obbligo di condurre revisioni annuali, le clausole contrattuali obbligatorie relative ai diritti dei controlli e la garanzia che le attività di esternalizzazione a località esterne a Singapore rientrino nell’ambito di supervisione di MAS.
+Questa definizione è importante in quanto alcune disposizioni delle linee guida di esternalizzazione degli standard di accessibilità Microsoft si applicano solamente alle "attività di esternalizzazione determinanti". Queste disposizioni comprendono l’obbligo di condurre revisioni annuali, le clausole contrattuali obbligatorie relative ai diritti dei controlli e la garanzia che le attività di esternalizzazione a località esterne a Singapore rientrino nell’ambito di supervisione di MAS.
 
 ## <a name="resources"></a>Risorse
 

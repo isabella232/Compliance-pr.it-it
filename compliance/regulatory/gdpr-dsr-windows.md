@@ -18,12 +18,12 @@ ms.collection:
 - M365-security-compliance
 - MS-Compliance
 hideEdit: true
-ms.openlocfilehash: 702a51589a3ce7118b8d3a8dafb6c96db247232f
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 1c677e2877142c866f82c00df6c1b3957231ae99
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496187"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088735"
 ---
 # <a name="data-processor-service-for-windows-enterprise-data-subject-requests-for-the-gdpr-and-ccpa"></a>Servizio di trattamento dei dati per Windows Enterprise Richieste dell’interessato relative al GDPR e alla legge californiana sulla privacy (CCPA) 
 
@@ -34,9 +34,9 @@ ms.locfileid: "51496187"
 
 Il Regolamento generale europeo sulla protezione dei dati (GDPR) attribuisce alle persone (definite nel regolamento _soggetti interessati_) il diritto di gestire i dati personali raccolti da un datore di lavoro o da un altro tipo di ente o organizzazione (definito _titolare del trattamento dei dati_ o semplicemente _titolare del trattamento_). Nel GDPR, i dati personali sono definiti molto ampiamente come qualsiasi dato relativo a una persona fisica identificata o identificabile. In base al regolamento GDPR, ai soggetti dei dati vengono assegnati diritti specifici relativamente ai dati personali, tra i quali il diritto di ottenerne copie, richiedere correzioni, limitarne l'elaborazione, eliminarli o riceverli in formato elettronico in modo che possano essere trasferiti a un altro titolare. Una richiesta formale da un soggetto interessato a un titolare del trattamento di agire sui dati personali viene definita una _Richiesta dell’interessato_ o DSR. 
 
-Analogamente, il California Consumer Privacy Act (CCPA) fornisce obblighi e diritti in materia di privacy per i consumatori della California, inclusi diritti simili ai diritti dell'interessato del GDPR, ad esempio il diritto di eliminare, ricevere e accedere alle informazioni personali (portabilità). Nell'ambito dei diritti che i consumatori possono esercitare, il CCPA prevede inoltre l'obbligo per determinate divulgazioni, di protezioni contro la discriminazione e requisiti di consenso o rifiuto esplicito per alcuni trasferimenti di dati classificati come "vendite". In generale, la definizione di vendite include la condivisione di dati a titolo oneroso. Per altre informazioni sul CCPA, vedere il [California Consumer Privacy Act](/microsoft-365/compliance/offering-ccpa) e le [Domande frequenti sul California Consumer Privacy Act](/microsoft-365/compliance/ccpa-faq).
+Analogamente, il California Consumer Privacy Act (CCPA) prevede obblighi e diritti in materia di privacy per i consumatori della California, inclusi diritti simili a quelli che il GDPR riconosce all'interessato, ad esempio il diritto di eliminare, ricevere e accedere alle informazioni personali (portabilità). Nell'ambito dei diritti che i consumatori possono esercitare, il CCPA prevede inoltre l'obbligo per determinate divulgazioni, di protezioni contro la discriminazione e requisiti di "consenso o rifiuto esplicito" per alcuni trasferimenti di dati classificati come "vendite". In generale, la definizione di vendite include la condivisione di dati a titolo oneroso. Per altre informazioni sul CCPA, vedere il [California Consumer Privacy Act](/microsoft-365/compliance/offering-ccpa) e le [Domande frequenti sul California Consumer Privacy Act](/microsoft-365/compliance/ccpa-faq).
 
-La guida descrive come utilizzare i prodotti, i servizi e gli strumenti di amministrazione Microsoft per aiutare i nostri clienti titolari del trattamento dei dati a individuare e gestire i dati personali per rispondere alle richieste DSR. In particolare, ciò include come identificare, accedere e usare i dati personali che risiedono nel cloud Microsoft. Di seguito è riportata una rapida panoramica dei processi descritti in questa guida: 
+La guida descrive come utilizzare i prodotti, i servizi e gli strumenti di amministrazione Microsoft per aiutare i nostri clienti titolari del trattamento dei dati a individuare e gestire i dati personali per rispondere alle richieste degli interessati. In particolare, sono incluse informazioni su come identificare, accedere e gestire i dati personali che si trovano nel cloud Microsoft. Di seguito è riportata una rapida panoramica delle procedure descritte in questa guida: 
 
 1. **Accedere**: recuperare i dati personali che risiedono nel cloud Microsoft e, se richiesto, fare una copia di tali dati che può essere disponibile per l'interessato. 
 2. **Eliminare**: rimuovere in modo definitivo i dati personali che risiedevano nel cloud Microsoft. 
@@ -66,7 +66,7 @@ Se si usa il servizio di trattamento dei dati per i dispositivi registrati a Win
 
 ## <a name="windows-diagnostic-data"></a>Dati di diagnostica di Windows 
 
-Microsoft consente di accedere, eliminare ed esportare i dati di diagnostica Windows associati all'uso da parte dell'utente del servizio di trattamento dei dati per Windows Enterprise.
+Microsoft consente di accedere, eliminare ed esportare i dati di diagnostica di Windows associati all'uso da parte dell'utente del servizio di trattamento dei dati per Windows Enterprise.
 
 >[!IMPORTANT]
 >La possibilità di rettificare i dati di diagnostica non è supportata. I dati diagnostica di Windows costituiscono le azioni effettive eseguite all’interno di Windows e le modifiche a tali dati potrebbero compromettere il record cronologico delle azioni, aumentare i rischi per la sicurezza e compromettere l’affidabilità. Tutti i dati trattati in questo documento sono da considerarsi dati di diagnostica di Windows. 
@@ -77,15 +77,15 @@ Microsoft consente di accedere, eliminare ed esportare alcuni dati di diagnostic
 
 ### <a name="step-1-access"></a>Passaggio 1: accesso 
 
-L'amministratore tenant è l'unica persona all’interno dell'organizzazione che può accedere ai dati di diagnostica di Windows associati all'uso da parte di un utente specifico di un servizio di trattamento dei dati per dispositivi registrati a Windows Enterprise. I dati recuperati per una richiesta di accesso saranno disponibili, tramite esportazione, in formato leggibile dal computer e verranno forniti nei file che consentiranno all'utente di comprendere a quali servizi e dispositivi sono associati i dati. Come indicato in precedenza, i dati recuperati non includeranno dati che potrebbero compromettere la sicurezza o la stabilità del dispositivo Windows. 
+L'amministratore tenant è l'unica persona all’interno dell'organizzazione che può accedere ai dati di diagnostica di Windows associati all'uso da parte di un utente specifico di un servizio di trattamento dei dati per dispositivi registrati a Windows Enterprise. I dati recuperati per una richiesta di accesso saranno resi disponibili, tramite esportazione, in un formato leggibile dal computer e verranno forniti in file che consentiranno all'utente di comprendere a quali servizi e dispositivi sono associati i dati. Come indicato in precedenza, i dati recuperati non includeranno dati che potrebbero compromettere la sicurezza o la stabilità del dispositivo Windows. 
 
-Microsoft fornisce un’esperienza portale che consente all'amministratore del tenant del cliente aziendale di gestire le richieste di accesso DSR. [DSR per Azure, parte 2, passaggio 3: esportazione](/microsoft-365/compliance/gdpr-dsr-azure#step-3-export) descrive come eseguire una richiesta di accesso DSR, tramite esportazione, attraverso il portale di Azure.
+Microsoft fornisce un’esperienza portale che consente all'amministratore del tenant del cliente aziendale di gestire le richieste di accesso dell'interessato. [DSR per Azure, parte 2, passaggio 3: esportazione](/microsoft-365/compliance/gdpr-dsr-azure#step-3-export) descrive come eseguire una richiesta di accesso DSR, tramite esportazione, attraverso il portale di Azure.
 
 ### <a name="step-2-delete"></a>Passaggio 2: eliminazione 
 
-Microsoft fornisce una modalità di esecuzione delle richieste di eliminazione DSR basate sull'utente, in base a un particolare oggetto di Azure Active Directory.
+Microsoft offre la possibilità di eseguire le richieste di eliminazione dell’interessato, sulla base di un oggetto Azure Active Directory per un particolare utente.
 
-Per le richieste di eliminazione basate sull’utente, Microsoft fornisce un’esperienza portale che consente all'amministratore tenant del cliente aziendale di gestire le richieste di eliminazione DSR. [DSR per Azure, parte 1, passaggio 5: eliminazione](/microsoft-365/compliance/gdpr-dsr-azure#step-5-delete) descrive come eseguire una richiesta di eliminazione DSR tramite il portale di Azure. 
+Per le richieste di eliminazione basate sull’utente, Microsoft fornisce un’esperienza portale che consente all'amministratore tenant del cliente aziendale di gestire le richieste di eliminazione dell'interessato. [DSR per Azure, parte 1, passaggio 5: eliminazione](/microsoft-365/compliance/gdpr-dsr-azure#step-5-delete) descrive come eseguire una richiesta di eliminazione DSR tramite il portale di Azure. 
 
 Microsoft consente di eliminare gli utenti, che a loro volta elimineranno i dati dei clienti, direttamente tramite l’interfaccia di programmazione dell'applicazione preesistente (API). Informazioni dettagliate sono disponibili nella [ documentazione di riferimento dell’interfaccia di programmazione dell'applicazione (API)](/graph/api/directory-deleteditems-delete). 
 
@@ -102,4 +102,4 @@ Microsoft consente di esportare i dati dei clienti direttamente tramite l’inte
 
 ## <a name="notify-about-exporting-or-deleting-issues"></a>Notificare problemi riguardanti l'esportazione o l'eliminazione 
 
-Se si verificano problemi durante l'esportazione o l'eliminazione di dati dal portale di Azure, accedere al pannello **Guida e Supporto** del portale di Azure e inviare un nuovo ticket in **Gestione della sottoscrizione > Altre richieste di sicurezza e conformità > Pannello privacy e richieste GDPR**. 
+Se si verificano problemi durante l'esportazione o l'eliminazione di dati dal portale di Azure, accedere al pannello **Guida e Supporto** del portale di Azure e inviare un nuovo ticket in **Gestione dell'abbonamento > Privacy e richieste di conformità per gli abbonamenti > Pannello privacy e richieste GDPR**. 

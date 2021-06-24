@@ -16,18 +16,18 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: cf7d749df05d4be1396fa988615daa5c195c51cf
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 285b2d041b5ca1d7c3366cb98274a5aa8a812638
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508057"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089830"
 ---
 # <a name="baseline-informatiebeveiliging-rijksdienst-standard-bir-2012"></a>Standard BIR 2012 (Baseline Informatiebeveiliging Rijksdienst)
 
 ## <a name="bir-2012-overview"></a>Panoramica dello standard BIR 2012
 
-Le organizzazioni che operano nella pubblica amministrazione dei Paesi Bassi devono dimostrare la loro conformità allo standard BIR 2012 (Baseline Informatiebeveiliging Rijksdienst). Lo standard BIR 2012 fornisce un quadro normativo di riferimento basato sugli standard ISO 27001 e ISO 27002. Quando si utilizza Microsoft Azure o Office 365, una parte dei controlli relativi allo standard BIR 2012 per i servizi cloud sono gestiti da Microsoft in linea con il modello di responsabilità condivisa nel cloud computing. Le organizzazioni che devono rispettare i requisiti di questa normativa sono pertanto obbligate a verificare che i servizi Microsoft utilizzati siano conformi allo standard BIR 2012.
+Le organizzazioni che operano nella pubblica amministrazione dei Paesi Bassi devono dimostrare la loro conformità allo standard BIR 2012 (Baseline Informatiebeveiliging Rijksdienst). Lo standard BIR 2012 fornisce un quadro normativo di riferimento basato sugli standard ISO 27001 e ISO 27002. Quando si utilizza Microsoft Azure o Office 365, una parte dei controlli relativi allo standard BIR 2012 per i servizi cloud sono gestiti da Microsoft in linea con il modello di responsabilità condivisa nel cloud computing. Le organizzazioni che devono rispettare i requisiti di questa normativa sono pertanto obbligate a verificare se i servizi Microsoft utilizzati sono conformi allo standard BIR 2012.
 
 Il report sulla copertura BIR fornisce indicazioni sugli standard BIR coperti dalle certificazioni ISO 27001 esistenti e disponibili per i servizi cloud Microsoft. Laddove siano presenti ulteriori controlli BIR non coperti dalla norma ISO 27001, è necessario fare riferimento ad altre certificazioni indipendenti, ai documenti di controllo o alle clausole contrattuali.
 
@@ -37,7 +37,7 @@ Anche se Microsoft non è soggetta alla conformità BIR 2012, i clienti della pu
 
 [Scaricare la Guida per l'utente sulla copertura BIR-2012 per Microsoft Cloud: Azure e Office 365](https://go.microsoft.com/fwlink/p/?linkid=2099461)
 
-## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud Microsoft associati
+## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud Microsoft inclusi nell'ambito
 
 - [Azure](https://aka.ms/AzureCompliance)
 - Intune
@@ -45,8 +45,7 @@ Anche se Microsoft non è soggetta alla conformità BIR 2012, i clienti della pu
 
 ## <a name="audits-reports-and-certificates"></a>Controlli, report e certificati
 
-- [Copertura BIR-2012 per Azure e Office 365](https://protection.office.com/DownloadFile/ServiceAssurance/Document/compliance/Azure%20and%20Office%20365%20BIR-2012%20Baseline%20Coverage/pdf)
-- [Guida per l'utente sulla copertura BIR 2012 per Azure e Office 365 (lingua olandese)](https://protection.office.com/DownloadFile/ServiceAssurance/Document/compliance/Azure%20and%20Office%20365%20BIR-2012%20Baseline%20Coverage%20User%20Guide_Dutch/docx)
+Microsoft ha incaricato una società di revisione indipendente di terze parti di analizzare la misura in cui le certificazioni e attestazioni di Azure e Office 365 correnti (come ISO/IEC 27001 e SOC 2 Tipo 2) coprono la parte di BIR 2012 di cui Microsoft è responsabile. Il report risultante fornisce una mappatura di queste certificazioni e attestazioni esistenti ai controlli elencati nello standard BIR 2012. I clienti possono usare il report come strumento per adottare Azure in modo conforme al BIR 2012. Il report illustra chiaramente quali controlli BIR 2012 sono coperti da Microsoft e quali devono essere implementati dai clienti. Il report "Microsoft Cloud: Azure e Office 365 BIR 2012 Baseline Coverage" può essere scaricato dalla sezione [Report di controllo del Service Trust Portal - Report di valutazione GRC](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3).
 
 ## <a name="frequently-asked-questions"></a>Domande frequenti
 
@@ -56,15 +55,15 @@ La responsabilità relativa alla conformità per lo standard BIR si applica alla
 
 **I clienti che usano i servizi cloud Microsoft sono conformi alla normativa BIR 2012?**
 
-Dimostrare la conformità alla normativa BIR è responsabilità del cliente. Quando si utilizza un fornitore di servizi cloud, i clienti in genere richiedono garanzie al fornitore e aggiungono decisioni, scelte e processi tecnologici e organizzativi personali (supplementari). Il risultato è una valutazione complessiva da parte del cliente sulla conformità alla normativa BIR, che può essere presentata per il controllo o la certificazione a un revisore di terze parti. Il report sulla copertura della normativa BIR fornisce informazioni sui controlli BIR già inclusi dai servizi cloud Microsoft, ma non garantisce la conformità end-to-end.
+Dimostrare la conformità alla normativa BIR è responsabilità del cliente. Quando si utilizza un fornitore di servizi cloud, i clienti in genere richiedono garanzie al fornitore e aggiungono la propria tecnologia (supplementare) e le proprie decisioni, scelte e processi organizzativi. Il risultato è una valutazione complessiva da parte del cliente sulla conformità alla normativa BIR, che può essere presentata per il controllo o la certificazione a un revisore di terze parti. Il report sulla copertura della normativa BIR fornisce informazioni sui controlli BIR già inclusi dai servizi cloud Microsoft, ma non garantisce la conformità end-to-end.
 
 **Il report non mostra una copertura del 100%. Ciò significa che non sarà possibile ottenere la conformità alla norma BIR 2012?**
 
-I servizi cloud Microsoft forniscono molti dei controlli che consentono alle organizzazioni olandesi di soddisfare le loro esigenze di conformità alla normativa BIR. Tuttavia, un'organizzazione deve integrare le garanzie dei fornitore con scelte di implementazione, controlli tecnologici aggiuntivi e processi amministrativi personali. Il report indica già una copertura diretta di oltre il 91% dell'elenco completo dei controlli applicabili. Per gli altri controlli, Microsoft fornisce nel report indicazioni su come dimostrarne la conformità.
+I servizi cloud Microsoft forniscono molti dei controlli che consentono alle organizzazioni olandesi di soddisfare le loro esigenze di conformità alla normativa BIR. Tuttavia, un'organizzazione deve integrare le garanzie del fornitore con le proprie scelte di implementazione, i controlli tecnologici aggiuntivi e i processi amministrativi. Il report indica già una copertura diretta di oltre il 91% dell'elenco completo dei controlli applicabili. Per gli altri controlli, Microsoft fornisce nel report indicazioni su come dimostrarne la conformità.
 
 **Il report sulla copertura della normativa BIR è un documento legalmente valido?**
 
-No. Si tratta di uno strumento di supporto per il processo interno di adeguamento alla normativa BIR da parte del cliente e per dimostrare la fattibilità della conformità a tale norma. Il report è descrittivo e include una dichiarazione di non responsabilità legale.
+No. Si tratta di uno strumento di supporto per il processo interno di adeguamento alla normativa BIR da parte del cliente e consente di dimostrare la fattibilità di tale norma. Il report è descrittivo e include una dichiarazione di non responsabilità legale.
 
 **Il report può essere condiviso?**
 

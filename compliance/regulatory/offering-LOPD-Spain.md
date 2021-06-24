@@ -16,24 +16,24 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 36a04d2669548d837409280d6bf615bebe7f15d9
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: a665e6be33d42901597de23f39b6e71ae9c2fe70
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508358"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089800"
 ---
 # <a name="spanish-royal-decree-17202007-spanish-organic-law-151999"></a>Decreto Reale spagnolo 1720/2007, Legge Organica spagnola 15/1999
 
 ## <a name="spanish-royal-decree-17202007-spanish-organic-law-151999-overview"></a>Panoramica sul Decreto Reale spagnolo 1720/2007, Legge Organica spagnola 15/1999
 
-L'AEPD è l'autorità pubblica che supervisiona il rispetto della Legge Organica spagnola 15/1999 per la protezione dei dati personali ([Ley Orgánica 15/1999 de Protección de Datos](https://www.boe.es/buscar/act.php?id=BOE-A-1999-23750), o LOPD), che disciplina anche il trasferimento internazionale di dati. Nel 2014, l'AEPD ha esaminato i termini e condizioni di Microsoft applicabili ai servizi Microsoft Azure, Dynamics 365 e Office 365, tutti conformi alle clausole modello UE, emettendo una risoluzione che afferma come tali termini forniscano ai clienti adeguate garanzie per lo spostamento dei propri dati personali a questi servizi Microsoft.
+L'AEPD è l'autorità pubblica che supervisiona il rispetto della Legge Organica spagnola 15/1999 per la protezione dei dati personali ([Ley Orgánica 15/1999 de Protección de Datos](https://www.boe.es/buscar/act.php?id=BOE-A-1999-23750), o LOPD), che disciplina anche il trasferimento internazionale di dati. Nel 2014, l'AEPD ha esaminato i termini e le condizioni di Microsoft applicabili ai servizi Microsoft Azure, Dynamics 365 e Office 365, tutti conformi alle clausole modello UE, emettendo una risoluzione che afferma come tali termini forniscano ai clienti adeguate garanzie per lo spostamento dei dati personali a tali servizi Microsoft.
 
 Il titolo VIII del Decreto Reale 1720/2007 stabilisce stringenti requisiti per il trattamento dei dati personali, includendo l'obbligo di implementazione di una dettagliata serie di misure di sicurezza, di livello base, intermedio ed elevato. Microsoft si è rivolta a una società di revisione indipendente in Spagna, BDO Auditores, affinché valutasse la conformità al Decreto Reale 1720/2007 di Microsoft Azure e Office 365, relativamente ai requisiti di livello elevato, e di Microsoft Dynamics 365 per quanto riguarda i requisiti di livello intermedio. Basandosi su interviste, visite presso le strutture nonché su una revisione delle misure e dei controlli di sicurezza fisica e ambientale, tale società di revisione ha stabilito che Microsoft Azure e Office 365, con i loro sistemi informatici, le strutture e i metodi di elaborazione dei dati, soddisfano gli standard più elevati senza alcuna necessità di ulteriore adattamento.
 
 ## <a name="microsoft-and-spanish-royal-decree-17202007-spanish-organic-law-151999"></a>Microsoft e il Decreto Reale spagnolo 1720/2007, Legge Organica spagnola 15/1999
 
-Microsoft è il primo provider di servizi cloud con iperscalabilità che riceve l'autorizzazione dell'Agenzia spagnola per la protezione dei dati (Agencia Española de Protección de Datos o AEPD) per la sua conformità agli elevati standard in materia di trasferimento internazionale di dati previsti dalla Legge Organica spagnola 15/1999 (Ley Orgánica 15/1999 de Protección de Datos o LOPD). Microsoft è anche il primo provider di servizi cloud con iperscalabilità che ottiene la certificazione di un ente di controllo terzo in merito alla conformità dei propri servizi online alle misure di sicurezza descritte nel titolo VIII del Decreto Reale 1720/2007. Questa autorizzazione consente ai clienti il trasferimento di dati personali ai servizi Microsoft Azure, Dynamics 365 e Office 365 nel rispetto delle clausole modello dell'Unione Europea.
+Microsoft è il primo provider di servizi cloud con iperscalabilità che riceve l'autorizzazione dell'Agenzia spagnola per la protezione dei dati (Agencia Española de Protección de Datos o AEPD) per la sua conformità agli elevati standard in materia di trasferimento internazionale di dati previsti dalla Legge Organica spagnola 15/1999 (Ley Orgánica 15/1999 de Protección de Datos o LOPD). Microsoft è anche il primo provider di servizi cloud con iperscalabilità ad ottenere la certificazione di un ente di controllo terzo in merito alla conformità dei propri servizi online secondo le misure di sicurezza descritte nel titolo VIII del Decreto Reale 1720/2007. Questa autorizzazione consente ai clienti il trasferimento di dati personali ai servizi Microsoft Azure, Dynamics 365 e Office 365 nel rispetto delle clausole modello dell'Unione Europea.
 
 ## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud Microsoft inclusi nell'ambito
 
@@ -67,7 +67,7 @@ Tali standard di alto livello si applicano all'elaborazione di dati sensibili co
 
 **Posso usare la conformità di Microsoft nel processo di certificazione della mia organizzazione?**
 
-Sì. Se la tua organizzazione ha bisogno o cerca di ottenere un accreditamento in linea con la LOPD o il Decreto Reale 1720/2007, è possibile avvalersi dell'autorizzazione dell'AEPD e della certificazione delle misure di sicurezza ai fini della propria valutazione di conformità. Tuttavia, hai la responsabilità di affidare l'incarico a un esperto, affinché valuti la tua implementazione distribuita su Microsoft Azure, Dynamics 365 od Office 365, nonché per i controlli e i processi interni all'organizzazione.
+Sì. Se l'organizzazione richiede o sta cercando di ottenere un accreditamento in linea con la LOPD o il Decreto Reale 1720/2007, è possibile avvalersi dell'autorizzazione dell'AEPD e della certificazione delle misure di sicurezza ai fini della propria valutazione di conformità. Tuttavia, hai la responsabilità di affidare l'incarico a un esperto, affinché valuti la tua implementazione distribuita su Microsoft Azure, Dynamics 365 od Office 365, nonché per i controlli e i processi interni all'organizzazione.
 
 ## <a name="resources"></a>Risorse
 

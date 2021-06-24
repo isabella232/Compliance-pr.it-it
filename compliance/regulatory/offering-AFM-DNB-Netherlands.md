@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: a7f6f07a2dd58d4a99559488c3f9d3b92d4fe195
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 13a628ee832079bd0402e5aec9969ec6e1f14cb4
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121805"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089840"
 ---
 # <a name="dutch-authority-for-the-financial-markets-and-the-central-bank-of-the-netherlands"></a>Autorità Olandese per i Mercati Finanziari e la Banca centrale dei Paesi Bassi
 
@@ -29,11 +29,11 @@ ms.locfileid: "50121805"
 
 Le principali autorità di regolamentazione dei Paesi Bassi sono l'[Autorità olandese per i mercati finanziari](https://afm.nl/en) ([Autoriteit Financiële Markt, AFM](https://afm.nl/)) e la [Banca centrale dei Paesi Bassi](https://www.dnb.nl/en/home/index.jsp) ([De Nederlandsche Bank, DNB](https://www.dnb.nl/home/)). L'AFM, il cui ruolo è paragonabile alla SEC negli Stati Uniti, è "l'autorità di vigilanza indipendente per il risparmio, il prestito, gli investimenti e il mercato assicurativo". Il DNB, all'interno del Sistema europeo di banche centrali, determina ed implementa la politica monetaria ed esercita una supervisione prudenziale degli organismi finanziarie per i Paesi Bassi.  
   
-Entrambi gli istituti agiscono in sinergia con l'Autorità bancaria europea (ABE), "un'autorità indipendente dell'Unione Europea (UE) che opera per assicurare un livello di regolamentazione e di vigilanza efficace e uniforme nel settore bancario europeo". A tal fine, l'ABE ha definito un approccio globale relativo all'uso del cloud computing da parte degli istituti finanziari dell'UE, le [Raccomandazioni in materia di esternalizzazione a fornitori di servizi cloud](https://eba.europa.eu/sites/default/documents/files/documents/10180/1848359/c1005743-567e-40fc-a995-d05fb93df5d1/Draft%20Recommendation%20on%20outsourcing%20to%20Cloud%20Service%20%20%28EBA-CP-2017-06%29.pdf ).  
+Entrambi gli istituti agiscono in sinergia con l'Autorità bancaria europea (ABE), "un'autorità indipendente dell'UE che opera per assicurare un livello di regolamentazione e di vigilanza efficace e uniforme nel settore bancario europeo". A tal fine, l'ABE ha definito un approccio globale all'uso del cloud computing da parte degli istituti finanziari dell'UE, le [Raccomandazioni in materia di esternalizzazione ai fornitori di servizi cloud](https://eba.europa.eu/sites/default/documents/files/documents/10180/1848359/c1005743-567e-40fc-a995-d05fb93df5d1/Draft%20Recommendation%20on%20outsourcing%20to%20Cloud%20Service%20%20%28EBA-CP-2017-06%29.pdf ).  
   
-In generale, le leggi e le linee guida indicano il cloud computing che coinvolge i servizi di terze parti come forma di esternalizzazione e che per questo gli istituti finanziari dei Paesi Bassi devono affrontarne i rischi associati prima di trasferire l'attività aziendale nel cloud. Ad esempio:
+In generale, le leggi e le linee guida supportano il punto di vista secondo il quale il cloud computing che coinvolge servizi di terze parti si qualifica come una forma di esternalizzazione, e gli istituti finanziari nei Paesi Bassi devono affrontarne i rischi associati prima di trasferire le attività aziendali nel cloud. Ad esempio:
 
-- L'Atto di supervisione finanziaria (FSA) ([in olandese](https://wetten.overheid.nl/BWBR0020368/2018-02-09) e [inglese](https://www.toezicht.dnb.nl/en/binaries/51-217291.pdf)), emesso dal legislatore olandese nel 2018, attribuisce agli istituti finanziari le condizioni per il controllo dei rischi associati all'esternalizzazione e assicura che non venga ostacolata la regolare vigilanza.
+- L'Atto di supervisione finanziaria (FSA) ([in olandese](https://wetten.overheid.nl/BWBR0020368/2018-02-09) e [inglese](https://www.toezicht.dnb.nl/en/binaries/51-217291.pdf)), emesso dalla legislazione olandese nel 2018, attribuisce agli istituti finanziari le condizioni per il controllo dei rischi associati all'esternalizzazione e assicura che non venga ostacolata la regolare vigilanza.
 - La Circolare sul cloud computing ([in olandese](https://www.toezicht.dnb.nl/binaries/50-224828.pdf) e inglese[](https://www.toezicht.dnb.nl/en/binaries/51-224828.pdf)), rilasciata dalla DNB, richiede che, prima che le istituzioni olandesi adottino soluzioni di cloud computing, queste devono informare la DNB dei loro futuri accordi di esternalizzazione per garantire che i processi operativi e i rischi siano sotto controllo.
 
 Se si usa un modello fornito dal DNB, è necessario che venga obbligatoriamente inviata un'analisi di rischio che include:
@@ -72,7 +72,7 @@ La checklist di Microsoft consente agli istituti finanziari nei Paesi Bassi di e
 
 No. Tuttavia, la Circolare sul cloud computing afferma che il DNB prevede che gli istituti olandesi supervisionati inviino un'analisi dei rischi riguardanti i futuri accordi di esternalizzazione, prima di adottare soluzioni di cloud computing.
 
-**Devono essere incluse clausole obbligatorie nel contratto con il fornitore dei servizi cloud?**
+**Devono essere incluse condizioni obbligatorie nel contratto con il fornitore di servizi cloud?**
 
 Sì. Le disposizioni e gli accordi da includere nei contratti cloud dipendono dal tipo di istituto finanziario. I requisiti, come quelli descritti nell'Art. 31 del Regolamento delegato dalla commissione (EU) 2017/565, sono riportati nella parte 2 della checklist.
 
