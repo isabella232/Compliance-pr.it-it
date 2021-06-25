@@ -18,12 +18,12 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-mar2020
-ms.openlocfilehash: 638096e88e5931a7468fee9b33200d8fc17702ec
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 8d4dc89e8733db718491fcaa7c69b51e7b6d74f2
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121005"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089850"
 ---
 # <a name="azure-data-subject-requests-for-the-gdpr-and-ccpa"></a>Richieste degli interessati per Azure nell'ambito del GDPR e del CCPA
 
@@ -33,7 +33,7 @@ Il [Regolamento generale sulla protezione dei dati (GDPR)](https://ec.europa.eu/
 
 Analogamente, il California Consumer Privacy Act (CCPA) fornisce obblighi e diritti in materia di privacy per i consumatori della California, inclusi diritti simili ai diritti dell'interessato del GDPR, ad esempio il diritto di eliminare, ricevere e accedere alle informazioni personali (portabilità). Nell'ambito dei diritti che i consumatori possono esercitare, il CCPA prevede inoltre l'obbligo per determinate divulgazioni, di protezioni contro la discriminazione e requisiti di consenso o rifiuto esplicito per alcuni trasferimenti di dati classificati come "vendite". In generale, la definizione di vendite include la condivisione di dati a titolo oneroso. Per altre informazioni sul CCPA, vedere il [California Consumer Privacy Act](offering-ccpa.md) e le [Domande frequenti sul California Consumer Privacy Act](ccpa-faq.md).
 
-Questa guida illustra come usare i prodotti, i servizi e gli strumenti di amministrazione di Microsoft per aiutare i clienti titolari del trattamento dei dati a trovare i dati personali e agire su di essi per rispondere alle richieste degli interessati. In particolare, spiega come trovare i dati personali che si trovano nel cloud di Microsoft, nonché come accedervi e agire su di essi. Ecco una rapida panoramica dei processi descritti in questa guida:
+La guida descrive come utilizzare i prodotti, i servizi e gli strumenti di amministrazione Microsoft per aiutare i nostri clienti titolari del trattamento dei dati a individuare e gestire i dati personali per rispondere alle richieste degli interessati. In particolare, sono incluse informazioni su come identificare, accedere e gestire i dati personali che si trovano nel cloud Microsoft. Di seguito è riportata una rapida panoramica delle procedure descritte in questa guida:
 
 - **Individuazione:** usare gli strumenti di ricerca per trovare più facilmente i dati del cliente che possono essere oggetto di una richiesta dell’interessato. Dopo aver raccolto i documenti potenzialmente rilevanti, è possibile eseguire una o più delle azioni DSR descritte nei passaggi seguenti per rispondere alla richiesta del soggetto interessato. In alternativa, è possibile stabilire che la richiesta non soddisfa le linee guida della propria organizzazione in merito alla risposta alle richieste dell'interessato.
 - **Accesso:** recuperare i dati personali che risiedono nel cloud Microsoft e, se richiesto, crearne una copia che può essere disponibile per l'interessato.
@@ -83,13 +83,13 @@ Microsoft consente di accedere, eliminare ed esportare alcuni dati dei clienti t
 
 ### <a name="step-1-discover"></a>Passaggio 1: scoprire
 
-Il primo passaggio per rispondere a un DSR consiste nell'individuare i dati personali oggetto della richiesta. Questo primo passaggio, che consente nell’individuare ed esaminare i dati personali in questione, consente di determinare se un DSR soddisfa i requisiti dell'organizzazione per rispettare o rifiutare un DSR. Ad esempio, dopo aver trovato ed esaminato i dati personali, si potrebbe stabilire che la richiesta non soddisfa i requisiti dell'organizzazione perché potrebbe ledere i diritti e le libertà altrui.
+Il primo passo nella risposa a una richiesta DSR consiste nell'individuare i dati personali oggetto della richiesta. Questa fase, individuazione e analisi dei dati personali in questione, consente di determinare se una richiesta DSR soddisfa i requisiti dell'organizzazione per accettare o rifiutare una DSR. Ad esempio, dopo aver individuato e analizzato i dati personali in questione, si può stabilire che la richiesta non soddisfa i requisiti dell'organizzazione perché potrebbe ledere i diritti e le libertà altrui.
 
-Dopo avere trovato i dati, è quindi possibile eseguire un'azione specifica per soddisfare la richiesta dell'interessato.
+Dopo avere trovato i dati, è quindi possibile eseguire un'azione specifica per soddisfare la richiesta da parte dell'interessato.
 
-[Azure Active Directory](https://azure.microsoft.com/services/active-directory/) è il servizio di directory e di gestione delle identità multi-tenant e basato sul cloud di Microsoft. Per individuare le informazioni personali degli utenti finali, come profili utente di clienti e dipendenti e informazioni professionali sugli utenti contenenti dati personali, nell'ambiente [Azure Active Directory](https://azure.microsoft.com/services/active-directory/) (AAD), è possibile usare il [portale di Azure](https://portal.azure.com/).
+[Azure Active Directory](https://azure.microsoft.com/services/active-directory/) è un servizio di gestione delle identità e una directory multi-tenant basata nel cloud Microsoft. È possibile individuare informazioni personali degli utenti finali, come profili utente di clienti e dipendenti e informazioni professionali sugli utenti contenenti dati personali nell'ambiente di[ Azure Active Directory ](https://azure.microsoft.com/services/active-directory/) (AAD) tramite il [portale di Azure](https://portal.azure.com/).
 
-È particolarmente utile per trovare o modificare i dati personali di un determinato utente. È anche possibile aggiungere o modificare il profilo utente e le informazioni professionali. È necessario accedere al portale di Azure con un account di amministratore globale per la directory.
+Ciò è particolarmente utile per trovare o modificare i dati personali per un utente specifico. È anche possibile aggiungere o modificare il profilo utente e le informazioni professionali. È necessario accedere con un account di amministratore globale della directory.
 
 #### <a name="how-do-i-locate-or-view-user-profile-and-work-information"></a>Come si individuano o si visualizzano le informazioni professionali e il profilo utente?
 
@@ -121,7 +121,7 @@ Quando si invia una copia all'interessato, potrebbe essere necessario rimuovere 
 
 #### <a name="azure-active-directory"></a>Azure Active Directory
 
-Microsoft fornisce un portale ed esperienze nel prodotto che consentono all'amministratore tenant del cliente aziendale di gestire le richieste di accesso ai dati degli interessati. Le richieste di accesso DSR consentono l'accesso ai dati personali dell'utente, tra cui: (a) informazioni che consentono l'identificazione di un utente finale e (b) i log generati dal sistema.
+Microsoft mette a disposizione un portale ed esperienze nel prodotto per offrire all'amministratore tenant del cliente aziendale la possibilità di gestire richieste di accesso DSR. Tali richieste consentono di accedere ai dati personali dell'utente, tra cui: (a) informazioni personali su un utente finale e (b) log generati dal sistema.
 
 #### <a name="service-specific-interfaces"></a>Interfacce specifiche dei servizi
 
@@ -129,7 +129,7 @@ Microsoft consente di individuare i dati dei clienti direttamente tramite le API
 
 ### <a name="step-3-rectify"></a>Passaggio 3: rettificare
 
-Se un interessato chiede di rettificare i dati personali che risiedono nei dati dell'organizzazione, è necessario determinare, insieme alla propria organizzazione, se è opportuno accettare la richiesta. La rettifica dei dati può comportare l'esecuzione di operazioni come la modifica, l'oscuramento o la rimozione di dati personali da un documento o da un altro tipo o elemento. Di seguito è indicato il modo più semplice per procedere per i dati del Supporto tecnico Microsoft e di FastTrack.
+Se un interessato ha chiesto di rettificare i dati personali che fanno parte dei dati dell'organizzazione, l'utente e l'organizzazione dovranno determinare se la richiesta possa essere accettata. La rettifica dei dati potrebbe includere operazioni quali la modifica, la revisione o la rimozione di dati personali da un documento o altro. Il modo migliore per farlo per i dati di FastTrack e del supporto tecnico Microsoft viene fornito di seguito.
 
 #### <a name="azure-active-directory"></a>Azure Active Directory
 
@@ -137,7 +137,7 @@ I clienti aziendali hanno la possibilità di gestire le richieste di rettifica D
 
 ##### <a name="azure-active-directory-rectifycorrect-inaccurate-or-incomplete-personal-data"></a>Azure Active Directory: rettificare/correggere dati personali incompleti o inesatti
 
-Per correggere, aggiornare o eliminare le informazioni personali degli utenti finali, come profili utente di clienti e dipendenti e informazioni professionali sugli utenti contenenti dati personali, ad esempio nome utente, titolo professionale, indirizzo o numero di telefono, nell'ambiente [Azure Active Directory](https://azure.microsoft.com/services/active-directory/) (AAD), è possibile usare il [portale di Azure](https://portal.azure.com/). È necessario accedere al portale di Azure con un account di amministratore globale per la directory.
+È possibile correggere, aggiornare o eliminare informazioni personali sugli utenti finali, come profili utente di clienti e dipendenti e informazioni professionali degli utenti contenenti dati personali come nome utente, titolo professionale, indirizzo o numero di telefono, nell'ambiente [Azure Active Directory](https://azure.microsoft.com/services/active-directory/) (AAD) tramite il [portale di Azure](https://portal.azure.com/). È necessario accedere con un account amministratore globale per la directory.
 
 ###### <a name="how-do-i-correct-or-update-user-profile-and-work-information-in-azure-active-directory"></a>Come si correggono o si aggiornano le informazioni professionali e il profilo utente in Azure Active Directory?
 
@@ -165,7 +165,7 @@ Microsoft consente di individuare i dati dei clienti direttamente tramite le API
 
 ### <a name="step-4-restrict"></a>Passaggio 4: limitare
 
-Gli interessati potrebbero richiedere la limitazione del trattamento dei loro dati personali. Microsoft fornisce il portale di Azure e le interfacce di programmazione dell'applicazione (API) o le interfacce utente (UI) esistenti. Tali esperienze consentono all'amministratore tenant del cliente aziendale di gestire le richieste degli interessati con una combinazione di esportazione dei dati ed eliminazione dei dati. Un cliente potrebbe (1) esportare una copia elettronica dei dati personali dell'utente, compresi (a) account, (b) log generati dal sistema e (c) log associati, per poi (2) eliminare l'account e i dati associati che si trovano all'interno dei sistemi Microsoft.
+Gli interessati potrebbero richiedere la limitazione del trattamento dei loro dati personali. Microsoft fornisce il portale di Azure e le API (Application Programming Interface) o le interfacce utente (UI) pre-esistenti. Tali esperienze consentono all'amministratore tenant del cliente aziendale di gestire tali richieste DSR con una combinazione di esportazione dei dati ed eliminazione dei dati. Un cliente potrebbe (1) esportare una copia elettronica dei dati personali dell'utente, compresi (a) account, (b) log generati dal sistema e (c) log associati, per poi (2) eliminare l'account e i dati associati che si trovano all'interno dei sistemi Microsoft.
 
 ### <a name="step-5-delete"></a>Passaggio 5: eliminare
 
@@ -184,7 +184,7 @@ Di seguito viene descritto il processo di eliminazione degli utenti dal tenant.
 
 1. Accedere al portale di Azure e individuare l'utente.
 
-2. Eliminare l'utente. Quando si elimina inizialmente l'utente, l'account utente viene inviato al Cestino. **A questo punto, l'utente viene eliminato temporaneamente, ossia l'account viene disabilitato, ma non eliminato da Azure Active Directory.**
+2. Eliminare l'utente. In questa fase, l'account dell'utente viene inviato al Cestino. **A questo punto, l'utente è eliminato temporaneamente, ovvero l'account è disabilitato ma non rimosso da Azure Active Directory.**
 
 3. Accedere all'elenco Utenti eliminati di recente ed eliminare definitivamente l'utente. **A questo punto, l'utente è eliminato in modo permanente, ovvero l'account è stato rimosso da Azure Active Directory.**
 
@@ -211,7 +211,7 @@ Di seguito viene descritto il processo di eliminazione degli utenti dal tenant.
 4. Selezionare di nuovo lo stesso utente, selezionare  **Elimina definitivamente** nella barra dei comandi, quindi selezionare  **Sì**  nell'apposita casella per confermare.
 
 >[!IMPORTANT]  
->Tenere presente che, facendo clic su **Sì**, vengono eliminati in modo definitivo e irrevocabile l'utente, tutti i dati associati e i log generati dal sistema. Se si esegue questa operazione per errore, sarà necessario aggiungere di nuovo manualmente l'utente al tenant. I dati associati e i log generati dal sistema non sono ripristinabili.
+>Tenere presente che, facendo clic su **Sì**, si elimina in modo permanente e irrevocabile l'utente e tutti i dati e i log generati dal sistema associati. Se si effettua questa operazione per errore, sarà necessario aggiungere nuovamente in modo manuale l'utente al tenant. I dati e i log generati dal sistema ad esso associati non sono recuperabili.
 
    ![Visualizzare le informazioni utente professionali](../media/gdpr-azure-dsr-azure-permanently-deleted-user.png)
 
@@ -221,7 +221,7 @@ Microsoft consente di individuare i dati dei clienti direttamente tramite le API
 
 ## <a name="step-6-export"></a>Passaggio 6: esportare
 
-Il "diritto alla portabilità dei dati" consente a un interessato di richiedere una copia dei propri dati personali in un formato elettronico (ovvero un "in un formato strutturato, di uso comune, leggibile da dispositivo automatico e interoperabile") che possa essere trasmessa a un altro titolare del trattamento dei dati. Azure supporta questa caratteristica, consentendo all'organizzazione di esportare i dati in formato JSON nativo nel contenitore di Archiviazione di Azure specificato.
+Il "diritto alla portabilità dei dati" consente a un interessato di richiedere una copia dei propri dati personali in un formato elettronico, ovvero un "formato che sia interoperabile, leggibile, di uso comune e strutturato", che possa essere trasmessa a un altro titolare del trattamento dei dati. A tale scopo, Azure consente all'organizzazione di esportare i dati nel formato JSON nativo, nel Contenitore di archiviazione di Azure specificato.
 
 >[!IMPORTANT]
 >È necessario essere un amministratore tenant per esportare i dati di un utente dal tenant.
@@ -243,18 +243,18 @@ Microsoft consente anche di accedere, eliminare ed esportare determinati log gen
 
 ### <a name="executing-dsrs-against-system-generated-logs"></a>Esecuzione di DSR rispetto ai log generati dal sistema
 
-Microsoft consente di accedere, eliminare ed esportare determinati log generati dal sistema tramite il portale di Azure e anche direttamente tramite le interfacce di programmazione o le interfacce utente per specifici servizi. Informazioni dettagliate sono disponibili nella documentazione di riferimento dei servizi corrispondenti.
+Microsoft consente di accedere, eliminare ed esportare determinati log generati dal sistema tramite il portale di Azure e anche direttamente tramite le interfacce programmatiche o le interfacce utente dei servizi specifici. Altre informazioni in merito vengono fornite nella documentazione di riferimento dei relativi servizi.
 
 >[!IMPORTANT]  
-> I servizi che supportano le richieste degli interessati all'interno dei prodotti richiedono l'uso diretto dell'API (Application Programming Interface) o dell'interfaccia utente del servizio. Pertanto, l'esecuzione di una richiesta dell'interessato all'interno di un prodotto **deve essere accompagnata dall'esecuzione di una richiesta dell'interessato nel portale di Azure per completare una richiesta completa per un determinato interessato. Per maggiori dettagli, consultare la documentazione di riferimento per i servizi specifici.**
+> I servizi che supportano le richieste DSR nel prodotto richiedono l'uso diretto dell'API (Application Programming Interface) o dell'interfaccia utente (UI) del servizio. Pertanto, l'esecuzione di una richiesta DSR nel prodotto **deve essere effettuata unitamente all'esecuzione di una richiesta DSR all'interno del portale di Azure per completare una richiesta per uno specifico soggetto dei dati. Per ulteriori dettagli, consultare la documentazione di riferimento per i relativi servizi.**
 
-### <a name="step-1-access"></a>Passaggio 1: accedere
+### <a name="step-1-access"></a>Passaggio 1: accesso
 
-L'amministratore tenant è l'unica persona dell'organizzazione che può accedere ai log generati dal sistema associati all'uso di Azure di un particolare utente. I dati recuperati per una richiesta di accesso saranno disponibili in un formato leggibile dal computer e verranno forniti in file che consentiranno all'utente di comprendere a quali servizi sono associati i dati. Come indicato in precedenza, i dati recuperati non includeranno dati che possono compromettere la sicurezza del servizio.
+L'amministratore tenant è l'unica persona all'interno dell'organizzazione che può accedere ai log generati dal sistema associati all'utilizzo di Azure di un particolare utente. I dati recuperati per una richiesta di accesso verranno forniti in un formato leggibile e in file che consentiranno all'utente di conoscere i servizi ai quali sono associati i dati. Come indicato in precedenza, i dati recuperati non includono quelli che potrebbero compromettere la sicurezza del servizio.
 
 #### <a name="azure-active-directory"></a>Azure Active Directory
 
-Microsoft fornisce un portale ed esperienze nel prodotto che consentono all'amministratore tenant del cliente aziendale di gestire le richieste di accesso. Le richieste di accesso consentiranno l'accesso ai dati personali dell'utente, tra cui: (a) informazioni che consentono l'identificazione di un utente finale e (b) i log generati dal servizio. Il processo è identico a quello descritto nella sezione di Azure Active Directory nella Parte 1, Passaggio 2: Accesso.
+Microsoft mette a disposizione un portale ed esperienze nel prodotto per offrire all'amministratore tenant del cliente aziendale la possibilità di gestire richieste di accesso. Tali richieste consentono di accedere ai dati personali dell'utente, tra cui: (a) informazioni personali su un utente finale e (b) log generati dal sistema. Il processo è identico a quello descritto nella sezione dedicata ad Azure Active Directory della Parte 1, Passaggio 2: accedere.
 
 #### <a name="service-specific-interfaces"></a>Interfacce specifiche dei servizi
 
@@ -266,7 +266,7 @@ L'amministratore è l'unica persona all'interno dell'organizzazione che può ese
 
 #### <a name="azure-active-directory"></a>Azure Active Directory
 
-Microsoft fornisce un portale ed esperienze nel prodotto che consentono all'amministratore tenant del cliente aziendale di gestire le richieste di eliminazione dei dati degli interessati. Le richieste di eliminazione dei dati degli interessati seguono la stessa procedura descritta nella sezione Eliminare un utente e i dati associati tramite il portale di Azure riportata nella Parte 1, Passaggio 5: eliminare.
+Microsoft fornisce un portale ed esperienze nel prodotto che consentono all'amministratore tenant del cliente aziendale di gestire le richieste di eliminazione DSR. Tali richieste seguono la stessa procedura descritta nella sezione Eliminare un utente e i dati associati tramite il portale di Azure della Parte 1, Passaggio 5: eliminare.
 
 #### <a name="service-specific-interfaces"></a>Interfacce specifiche dei servizi
 
@@ -274,7 +274,7 @@ Microsoft consente di individuare i dati dei clienti direttamente tramite le API
 
 ### <a name="step-3-export"></a>Passaggio 3: esportare
 
-L'amministratore tenant è l'unica persona dell'organizzazione che può accedere ai log generati dal sistema associati all'uso di Azure di un particolare utente. I dati recuperati per una richiesta di esportazione saranno disponibili in un formato leggibile dal computer e verranno forniti in file che consentiranno all'utente di comprendere a quali servizi sono associati i dati. Come indicato in precedenza, i dati recuperati non includeranno dati che possono compromettere la sicurezza o la stabilità del servizio.
+L'amministratore tenant è l'unica persona all'interno dell'organizzazione che può accedere ai log generati dal sistema associati all'utilizzo di Azure di un particolare utente. I dati recuperati per una richiesta di esportazione verranno forniti in un formato leggibile e in file che consentiranno all'utente di conoscere i servizi ai quali sono associati i dati. Come indicato in precedenza, i dati recuperati non includono quelli che potrebbero compromettere la sicurezza o la stabilità del servizio.
 
 #### <a name="export-system-generated-logs-using-the-azure-portal"></a>Esportare i log generati dal sistema tramite il portale di Azure
 
@@ -301,12 +301,12 @@ Di seguito viene descritto il processo di esportazione dei dati dal tenant.
 
 - **Utente.** Digitare l'indirizzo e-mail dell'utente di Azure Active Directory che ha richiesto l'esportazione.
 - **Sottoscrizione.** Selezionare l'account utilizzato per creare il report relativo all'utilizzo delle risorse e fatturare i servizi. Si tratta anche della posizione dell'account di archiviazione di Azure.
-- **Account di archiviazione.** Selezionare il percorso di archiviazione di Azure (Blob). Per maggiori informazioni, vedere l’articolo [Introduzione ad archiviazione di Microsoft Azure - archiviazione Blob](/azure/storage/common/storage-introduction#blob-storage).
-- **Contenitore.** Creare un nuovo contenitore (o selezionarne uno esistente) come posizione di archiviazione per i dati sulla privacy dell'utente esportati.
+- **Account di archiviazione.** Selezionare la posizione del BLOB del servizio di archiviazione di Azure. Per altre informazioni, vedere l'articolo [Introduzione ad Archiviazione di Azure](/azure/storage/common/storage-introduction#blob-storage).
+- **Contenitore**. Creare un nuovo contenitore, o selezionarne uno esistente, come posizione di archiviazione per i dati sulla privacy dell'utente esportati.
 
 4. Selezionare **Crea**.
 
-La richiesta di esportazione passa allo stato **In sospeso**. È possibile visualizzare lo stato del report nel pannello **Privacy degli utenti - Panoramica**.
+La richiesta di esportazione passa allo stato **In sospeso**. È possibile visualizzare lo stato del report nel pannello **Privacy dell'utente - Panoramica**.
 
 >[!IMPORTANT]  
 >Poiché i dati personali possono provenire da più sistemi, è possibile che il completamento del processo di esportazione richieda fino a un mese.
@@ -317,7 +317,7 @@ Microsoft consente di individuare i dati dei clienti direttamente tramite le API
 
 ### <a name="notify-about-exporting-or-deleting-issues"></a>Notificare problemi riguardanti l'esportazione o l'eliminazione.
 
-Se si verificano problemi durante l'esportazione o l'eliminazione di dati dal portale di Azure, accedere al pannello **Guida e Supporto** del portale di Azure e inviare un nuovo ticket in **Gestione della sottoscrizione > Altre richieste di sicurezza e conformità > Pannello privacy e richieste GDPR**.
+Se si verificano problemi durante l'esportazione o l'eliminazione di dati dal portale di Azure, accedere al pannello **Guida e Supporto** del portale di Azure e inviare un nuovo ticket in **Gestione dell'abbonamento > Privacy e richieste di conformità per gli abbonamenti > Pannello privacy e richieste GDPR**.
 
 ## <a name="learn-more"></a>Altre informazioni
 
