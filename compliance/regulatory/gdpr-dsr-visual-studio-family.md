@@ -20,24 +20,24 @@ ms.workload:
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
 hideEdit: true
-ms.openlocfilehash: eccc07b5f40182c3dad8652f0e4c1671b5eb9843
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 46b59094b188e6ceac58c4aa1fac6dedf8c55671
+ms.sourcegitcommit: 5d8e670e9d9968458047b51b6b2930f7bd14a011
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496225"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "53141467"
 ---
 # <a name="visual-studio-family-data-subject-requests-for-the-gdpr-and-ccpa"></a>Richieste degli interessati per la famiglia Visual Studio nell'ambito del GDPR e del CCPA
 
 Il [Regolamento generale sulla protezione dei dati (GDPR)](https://ec.europa.eu/justice/data-protection/reform/index_en.htm) dell'Unione europea garantisce alle persone (denominate nel regolamento _interessati_) il diritto di gestire i loro dati personali. I dati personali sono ampiamente descritti nel GDPR come dati che si riferiscono a una persona fisica identificata o identificabile. Il GDPR garantisce agli interessati diritti specifici sui propri dati personali; tali diritti includono la possibilità di ottenere delle copie dei dati personali, richiedere di apportare delle modifiche ai dati, limitare il trattamento dei dati, eliminarli o riceverli in un formato elettronico. Una richiesta formale di un interessato rivolta a un titolare (un impiegato o un tipo di agenzia o organizzazione che detiene il controllo dei dati personali) in merito a un'operazione da effettuare sui propri dati personali è denominata _Richiesta dell'interessato_.
 
-Analogamente, il California Consumer Privacy Act (CCPA) fornisce obblighi e diritti in materia di privacy per i consumatori della California, inclusi diritti simili ai diritti dell'interessato del GDPR, ad esempio il diritto di eliminare, ricevere e accedere alle informazioni personali (portabilità).  Nell'ambito dei diritti che i consumatori possono esercitare, il CCPA prevede inoltre l'obbligo per determinate divulgazioni, di protezioni contro la discriminazione e requisiti di consenso o rifiuto esplicito per alcuni trasferimenti di dati classificati come "vendite". In generale, la definizione di vendite include la condivisione di dati a titolo oneroso. Per altre informazioni sul CCPA, vedere il [California Consumer Privacy Act](offering-ccpa.md) e le [Domande frequenti sul California Consumer Privacy Act](ccpa-faq.md).
+Analogamente, il California Consumer Privacy Act (CCPA) fornisce obblighi e diritti in materia di privacy per i consumatori della California, inclusi diritti simili ai diritti dell'interessato del GDPR, ad esempio il diritto di eliminare, ricevere e accedere alle informazioni personali (portabilità).  Nell'ambito dei diritti che i consumatori possono esercitare, il CCPA prevede inoltre l'obbligo per determinate divulgazioni, di protezioni contro la discriminazione e requisiti di consenso o rifiuto esplicito per alcuni trasferimenti di dati classificati come "vendite". In generale, la definizione di vendite include la condivisione di dati a titolo oneroso. Per altre informazioni sul CCPA, vedere il [California Consumer Privacy Act](offering-ccpa.md) e le [Domande frequenti sul California Consumer Privacy Act](ccpa-faq.yml).
 
 Per informazioni generali sul GDPR, consultare la [sezione riguardante il GDPR del Service Trust Portal](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted).
 
 ## <a name="products-covered-by-this-guide"></a>Prodotti inclusi in questa guida
 
-Questa guida illustra come usare gli strumenti Microsoft per esportare o eliminare i dati personali raccolti durante una sessione autenticata (dopo aver effettuato l'accesso) di Visual Studio, Visual Studio per Mac e delle estensioni Microsoft per questi prodotti e per Visual Studio Code. La guida illustra inoltre come effettuare richieste dell'interessato per i dati personali raccolti durante l'uso dei siti Web Developer Community di Visual Studio, NuGet.org e ASP.NET. Questi prodotti possono consentire l'uso di strumenti ed estensioni non Microsoft e Microsoft non ha il ruolo di responsabile o titolare del trattamento di dati per questi strumenti ed estensioni. Gli utenti dovranno contattare il provider di tali estensioni o strumenti per conoscerne i criteri riguardanti i dati personali e la raccolta.
+Questa guida spiega come utilizzare gli strumenti Microsoft per esportare o eliminare i dati personali raccolti durante una sessione di utilizzo autenticato (con accesso effettuato) di Visual Studio e per le estensioni Microsoft di Visual Studio per Mac e per Visual Studio Code. La guida illustra inoltre come effettuare richieste dell'interessato per i dati personali raccolti durante l'utilizzo dei siti Web della Community degli sviluppatori di Visual Studio, NuGet.org e ASP.NET. Questi prodotti possono consentire l'uso di strumenti ed estensioni non Microsoft, inoltre Microsoft non ha il ruolo di responsabile o titolare del trattamento di dati per questi strumenti ed estensioni. Gli utenti dovranno contattare il provider di tali estensioni o strumenti per comprenderne i criteri riguardanti i dati personali e la raccolta.
 
 ## <a name="additional-privacy-information"></a>Ulteriori informazioni sulla privacy
 
