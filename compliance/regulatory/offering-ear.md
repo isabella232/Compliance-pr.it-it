@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 0c05010d43ea345024b63e2653e37eb0f42443f4
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: b3867c9d8c165c451813929d49dc5936e643e95c
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089770"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384226"
 ---
 # <a name="us-export-administration-regulations-ear"></a>Normative per l'amministrazione delle esportazioni statunitensi (EAR)
 
@@ -51,7 +51,7 @@ Il Dipartimento del commercio statunitense, che applica l'EAR, ha assunto la pos
 - **Crittografia end-to-end**. Sfruttando il safe harbor di crittografia end-to-end per le posizioni di archiviazione fisiche specificate nell'EAR, i servizi cloud microsoft nell'ambito offrono funzionalità di crittografia che consentono di proteggersi dai rischi di controllo delle esportazioni. Offrono inoltre ai clienti [un'ampia gamma](https://aka.ms/Azure-Encryption-Overview) di opzioni per crittografare i dati in transito e in pausa e la flessibilità di scegliere tra le opzioni di crittografia.
 - **Strumenti e protocolli per impedire l'esportazione non autorizzata.** L'uso della crittografia aiuta anche a proteggere da una potenziale esportazione considerata (o riesportare) nell'EAR, perché anche se una persona non statunitense ha accesso ai dati crittografati, non viene rivelato nulla se non riesce a leggere o comprendere i dati mentre sono crittografati; pertanto non esiste un "rilascio" di dati controllati.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud Microsoft inclusi nell'ambito
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme cloud microsoft nell'ambito & servizi
 
 - [Azure e Azure per enti pubblici](https://aka.ms/AzureCompliance)
 - [Office 365 Government (GCC-High e DoD)](https://aka.ms/Office-365-Export-Controls)

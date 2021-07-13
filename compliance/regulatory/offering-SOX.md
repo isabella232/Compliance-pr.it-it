@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 3720eb98ee6f903d59316500ffe008398f388bf0
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 3621d34a87402722e18d50a298dff4d5a10ac3a9
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089790"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384346"
 ---
 # <a name="sarbanes-oxley-act-of-2002-sox"></a>Sarbanes-Oxley Act del 2002 (SOX)
 
@@ -39,21 +39,35 @@ Anche se non esiste alcuna certificazione SOX o convalida per i provider di serv
 
 Il report di controllo, prodotto da una società di controllo di terze parti, attesta che i controlli Microsoft sono stati progettati in modo appropriato, in funzione in una data specificata e che operano in modo efficace in un determinato periodo di tempo. I clienti possono esaminare i report per informazioni sugli obiettivi del controllo Microsoft e sull'efficacia dei controlli e ottenere l'accesso ai controlli complementari.
 
-Per aiutare ulteriormente i client di Azure a risolvere i propri obblighi SOX, Microsoft ha pubblicato le linee guida di [Azure per Sarbanes-Oxley.](https://aka.ms/Azure-SOX-Guide) In questo documento vengono fornite le procedure consigliate per la migrazione, incluse le implicazioni della conformità con SOX, e si apprendono all'esperienza interna di migrazione delle applicazioni rilevanti per SOX ( Microsoft Treasury e Microsoft Finance) ad Azure.
-
 Microsoft condivide la responsabilità della conformità con i clienti. Forniamo le specifiche dei nostri programmi di conformità, che puoi verificare richiedendo risultati di controllo dettagliati da terze parti che certificano. In ultima analisi, tuttavia, sta a te determinare se i nostri servizi sono conformi alle leggi e alle normative specifiche applicabili alla tua azienda. Ad esempio, esistono controlli di sicurezza correlati a SOX, ad esempio l'accesso degli utenti alle risorse cloud, che sono responsabilità dell'organizzazione: l'organizzazione deve sviluppare un controllo appropriato di questi controlli come parte della conformità SOX.
 
-Altre informazioni su come usare i Microsoft Azure di conformità per affrontare gli obblighi di conformità SOX: scaricare le linee guida di [Azure per Sarbanes-Oxley](https://aka.ms/Azure-SOX-Guide)
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme cloud microsoft nell'ambito & servizi
 
-## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud Microsoft inclusi nell'ambito
-
-- [Azure](https://aka.ms/AzureCompliance)
+- Azure
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune
-- [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
-- Servizio cloud Power BI, autonomo o incluso in un piano o in una famiglia di prodotti con marchio Office 365
+- Office 365
+- Power BI cloud (come servizio autonomo o come incluso in un piano o in una famiglia di prodotti Office 365 personalizzazione)
 
-## <a name="audits-reports-and-certificates"></a>Controlli, report e certificati
+## <a name="azure-dynamics-365-and-sox"></a>Azure, Dynamics 365 e SOX
+
+Per altre informazioni sulla conformità di Azure, Dynamics 365 e altri servizi online, vedi [l'offerta SOX di Azure.](/azure/compliance/offerings/offering-sox-us)
+
+## <a name="office-365-and-sox"></a>Office 365 e SOX
+
+### <a name="office-365-cloud-environments"></a>Office 365 cloud
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 applicabilità e servizi nell'ambito
+
+Utilizzare la tabella seguente per determinare l'applicabilità per i servizi Office 365 e la sottoscrizione:
+
+| **Applicabilità** | **Servizi nell'ambito** |
+|:------------------|:----------------------|
+| **Office 365** | Augmentation Loop, Auto Alt Text, Azure Information Protection, Binary Conversion Services, Bookings, Delve, Document Item, Editor, Exchange Online, Forms, Insert Online Media, Insights, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Graph, Microsoft Teams, MyAnalytics, Office 365 Cloud App Security, Office 365 Groups, Office 365 Video, OneDrive for Business, Planner, Power Apps, PowerApps, Power Automate, Power BI, PowerPoint Designer, PowerPoint Online Document Service, SharePoint Online, Skype for Business, StaffHub, Stream,Sway, To-Do, Web Rendering Service, Yammer Enterprise  |
+
+### <a name="audits-reports-and-certificates"></a>Controlli, report e certificati
 
 [Report SOC 1 di tipo 2](offering-SOC.md) per:
 
@@ -61,17 +75,15 @@ Altre informazioni su come usare i Microsoft Azure di conformità per affrontare
 - Dynamics 365
 - Office 365
 
-## <a name="frequently-asked-questions"></a>Domande frequenti
+### <a name="frequently-asked-questions"></a>Domande frequenti
 
 **Come posso usare la conformità SOX Microsoft per facilitare il processo di conformità dell'organizzazione?**
 
 Quando si esegue la migrazione delle applicazioni e dei dati ai servizi cloud Microsoft coperti, è possibile basarsi sulle certificazioni e sulle certificazioni conservate da Microsoft. I report dei revisori indipendenti attestano l'efficacia dei controlli implementati da Microsoft per mantenere la sicurezza e la privacy dei dati. Tuttavia, l'utente è completamente responsabile della conformità dell'organizzazione a tutte le leggi e normative applicabili.
 
-## <a name="resources"></a>Risorse
+### <a name="resources"></a>Risorse
 
-- [Guida di Azure per Sarbanes-Oxley](https://aka.ms/Azure-SOX-Guide)
-- [Programma di conformità dei servizi finanziari Microsoft](https://www.microsoft.com/download/details.aspx?id=55332)
-- [Conformità dei servizi finanziari in Azure](https://azure.microsoft.com/resources/videos/azurecon-2015-financial-services-compliance-in-azure/)
-- [Servizi finanziari e servizi cloud aziendali di Microsoft](https://www.microsoft.com/trustcenter/cloudservices/financialservices)
+- [Microsoft Financial Services Compliance Program](https://www.microsoft.com/download/details.aspx?id=55332)
+- [Servizi cloud e servizi finanziari di Microsoft per le aziende](https://www.microsoft.com/trustcenter/cloudservices/financialservices)
 - [Responsabilità condivise per il cloud computing](https://aka.ms/sharedresponsibility)
 - [Conformità nel Centro protezione Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)

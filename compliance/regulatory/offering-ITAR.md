@@ -16,18 +16,18 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 5ee31d5d61048593eec53a6bb72f8af538d2c3b3
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 0797161b0c7bfca8d4fda37cbf05a037d29322de
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088925"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384636"
 ---
 # <a name="international-traffic-in-arms-regulations-itar"></a>Norme internazionali sul traffico di armi (ITAR)
 
 ## <a name="itar-overview"></a>Panoramica ITAR
 
-Il Dipartimento di Stato degli Stati Uniti è responsabile della gestione dell'esportazione e dell'importazione temporanea di articoli di difesa (vale a dire qualsiasi elemento o dati tecnici designati nell'US Munitions List, come descritto nel titolo 22 CFR 121.1) che sono disciplinati dall'Arms Export Control Act (Title 22 USC 2778) e dall'International Traffic in Arms Regulations (ITAR) (Title 22 CFR 120–130). Il Directorate for Defense Trade Controls (DDTC) è responsabile della gestione delle entità disciplinate da questi programmi.
+Il Dipartimento di Stato degli Stati Uniti è responsabile della gestione dell'esportazione e dell'importazione temporanea di articoli di difesa (vale a dire qualsiasi elemento o dati tecnici designati nell'us Munitions List, come descritto nel titolo 22 CFR 121.1) che sono disciplinati dall'Arms Export Control Act (Title 22 USC 2778) e dal International Traffic in Arms Regulations (ITAR) (Title 22 CFR 120-130). Il Directorate for Defense Trade Controls (DDTC) è responsabile della gestione delle entità disciplinate da questi programmi.
 
 ## <a name="microsoft-and-itar"></a>Microsoft e ITAR
 
@@ -41,22 +41,39 @@ L'ITAR ha obblighi specifici per segnalare violazioni, che possono fornire deter
   
 I clienti che desiderano ospitare dati regolamentati da ITAR devono collaborare con il proprio account Microsoft e i team di gestione delle licenze per saperne di più, ottenere contratti adeguati e accedere alle informazioni rilevanti sull'architettura del sistema.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud Microsoft inclusi nell'ambito
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme cloud microsoft nell'ambito & servizi
 
-- [Azure Per enti pubblici](https://aka.ms/AzureCompliance)
-- [Office 365 U.S. Government Defense](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
+- Azure Per enti pubblici
+- Office 365 U.S. Government - High, Office 365 Defense
 
-## <a name="frequently-asked-questions"></a>Domande frequenti
+## <a name="azure-dynamics-365-and-itar"></a>Azure, Dynamics 365 e ITAR
 
-**Dove è possibile richiedere informazioni sulla conformità?**
+Per altre informazioni sulla conformità di Azure, Dynamics 365 e altri servizi online, vedi l'offerta [ITAR di Azure.](/azure/compliance/offerings/offering-itar)
 
-Contattare il rappresentante dell'account Microsoft.
+## <a name="office-365-and-itar"></a>Office 365 e ITAR
 
-## <a name="resources"></a>Risorse
+### <a name="office-365-cloud-environments"></a>Office 365 cloud
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 applicabilità e servizi nell'ambito
+
+Utilizzare la tabella seguente per determinare l'applicabilità per i servizi Office 365 e la sottoscrizione:
+
+| **Applicabilità** | **Servizi nell'ambito** |
+|:------------------|:----------------------|
+| **GCC High** | Activity Feed Service, Bing Services, Exchange Online, Intelligent Services, Microsoft Teams, Office 365 Customer Portal, Office Online, Office Service Infrastructure, Office Usage Reports, OneDrive for Business, People Card, SharePoint Online, Skype for Business, Windows Ink |
+| **DoD** | Activity Feed Service, Bing Services, Exchange Online, Intelligent Services, Microsoft Teams, Office 365 Customer Portal, Office Online, Office Service Infrastructure, Office Usage Reports, OneDrive for Business, People Card, SharePoint Online, Skype for Business, Windows Ink |
+
+### <a name="frequently-asked-questions"></a>Domande frequenti
+
+**Dove è possibile richiedere informazioni Office 365 conformità per ITAR?**
+
+Contattare il proprio Microsoft Office 365 account.
+
+### <a name="resources"></a>Risorse
 
 - [DDTC ITAR](https://www.pmddtc.state.gov/?id=ddtc_kb_article_page&sys_id=24d528fddbfc930044f9ff621f961987)
 - [ITAR Title 22 CFR 120-130](https://aka.ms/itar)
-- [Uso di Azure Government con dati controllati da ITAR](https://aka.ms/azure-itar-guide)
-- [Azure Per enti pubblici](https://azure.microsoft.com/features/gov/)
 - [Office 365 Governo degli Stati Uniti](https://products.office.com/government/office-365-web-services-for-government)
 - [Conformità nel Centro protezione di Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)

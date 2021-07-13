@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 887d6a2be0ef4b1d9f1d22eefc53e3fc23e75e22
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: b39c658a768dc106008dcd73a064b05706f734c6
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088815"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384966"
 ---
 # <a name="united-kingdom-government-cloud-g-cloud"></a>Regno Unito Government-Cloud (G-Cloud)
 
@@ -41,16 +41,30 @@ La nomina di servizi Microsoft al Digital Marketplace significa che le agenzie g
 
  [14 Cloud Security Controls for UK cloud](https://azure.microsoft.com/resources/14-cloud-security-controls-for-uk-cloud-using-microsoft-azure/) using Microsoft Azure fornisce strategie dei clienti per trasferire i propri servizi in Azure e contribuire a soddisfare gli obblighi del Regno Unito previsti dal CESG/NCSC. Il white paper fornisce informazioni dettagliate su come azure può essere usato per aiutare a risolvere i 14 controlli descritti nelle entità di sicurezza cloud e descrive come i clienti possono spostarsi più velocemente e ottenere di più risparmiando denaro man mano che adottano i servizi Microsoft Azure.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud Microsoft inclusi nell'ambito
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme cloud microsoft nell'ambito & servizi
 
-- [Azure](https://aka.ms/AzureCompliance)
+- Azure
 - Microsoft Cloud App Security
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune
-- Servizio cloud Power Automate (in precedenza Microsoft Flow), autonomo o incluso in un piano o in una famiglia di prodotti Office 365 o Dynamics 365
-- Office 365: Exchange Online, SharePoint Online e Skype for Business Online
-- Servizio cloud PowerApps, autonomo o incluso in un piano o in una famiglia di prodotti con marchio Office 365 o Dynamics 365
-- Servizio cloud Power BI, autonomo o incluso in un piano o in una famiglia di prodotti con marchio Office 365
+- Office 365
+- Power Automate (in precedenza Microsoft Flow) (come servizio autonomo o incluso in un piano o in una famiglia di prodotti Office 365 o Dynamics 365)
+- Servizio cloud PowerApps (come servizio autonomo o incluso in un piano o in una famiglia di prodotti Office 365 o Dynamics 365)
+- Power BI cloud (come servizio autonomo o come incluso in un piano o in una famiglia di prodotti Office 365 personalizzazione)
+
+## <a name="office-365-and-uk-g-cloud"></a>Office 365 e Regno Unito G-Cloud
+
+### <a name="office-365-cloud-environments"></a>Office 365 cloud
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 applicabilità e servizi nell'ambito
+
+Utilizzare la tabella seguente per determinare l'applicabilità per i servizi Office 365 e la sottoscrizione:
+
+| **Applicabilità** | **Servizi nell'ambito** |
+|:------------------|:----------------------|
+| **Office 365** | Exchange Online, SharePoint Online, Skype for Business |
 
 ## <a name="audits-reports-and-certificates"></a>Controlli, report e certificati
 

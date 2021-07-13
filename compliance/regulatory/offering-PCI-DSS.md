@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: feba7b943f04dc0a9470cef23465f1f63fc55ef7
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: ab92c2d12477e0e7fa1890ae25e06d264305e95c
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51497723"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384386"
 ---
 # <a name="payment-card-industry-pci-data-security-standard-dss"></a>Payment Card Industry (PCI) Data Security Standard (DSS)
 
@@ -39,36 +39,46 @@ I clienti che intendono sviluppare un ambiente per i titolari di carte di credit
 
 È importante capire che lo stato di conformità allo standard PCI DSS di Azure, OneDrive for Business e SharePoint Online non si traduce automaticamente in una certificazione PCI DSS per i servizi che i clienti creano o ospitano su queste piattaforme. Il rispetto dei requisiti PCI DSS è responsabilità dei clienti.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud Microsoft inclusi
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme e servizi cloud Microsoft inclusi nell'ambito
 
-- [Azure e Azure per enti pubblici](https://aka.ms/AzureCompliance)
-- Microsoft Cloud App Security
-- Servizio cloud Flow, indipendente o incluso in un piano o in una famiglia di prodotti Office 365 o Dynamics 365
-- Microsoft Graph
+- Azure e Azure per enti pubblici
 - Intune
+- Microsoft Cloud App Security
 - [Microsoft Defender per endpoint](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection)
-- Servizio cloud PowerApps, autonomo o incluso in un piano o in una famiglia di prodotti con marchio Office 365 o Dynamics 365
-- Servizio cloud Power BI, autonomo o incluso in un piano o in una famiglia di prodotti con marchio Office 365
-- Ricerca in OneDrive for Business e SharePoint Online (solo Stati Uniti)
+- Microsoft Graph
+- Office 365
+- OneDrive for Business e SharePoint Online (solo Stati Uniti)
+- Servizio cloud PowerApps come servizio autonomo o incluso in un piano o in una famiglia di prodotti con marchio Office 365 o Dynamics 365
+- Power Automate: servizio autonomo o incluso in un piano o in una famiglia di prodotti Office 365 o Dynamics 365
+- Servizio cloud Power BI, servizio autonomo o incluso in un piano o in una famiglia di prodotti Office 365
 
-## <a name="audit-reports-and-certificates"></a>Controlli, report e certificati
+## <a name="azure-dynamics-365-and-pci-dss"></a>Azure, Dynamics 365 e PCI DSS
 
-- [Attestato di conformità PCI DSS di Azure](https://aka.ms/azure-pci)
+Per altre informazioni su Azure, Dynamics 365 e la conformità dei servizi online, vedere l'[offerta Azure PCI DSS](/azure/compliance/offerings/offering-pci-dss).
+
+## <a name="office-365-and-pci-dss"></a>Office 365 e PCI DSS
+
+### <a name="office-365-cloud-environments"></a>Ambienti cloud di Office 365
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Applicabilità di Office 365 e servizi inclusi nell'ambito
+
+Usare la tabella seguente per determinare l'applicabilità per i servizi e l'abbonamento a Office 365:
+
+| **Applicabilità** | **Servizi inclusi nell'ambito** |
+|:------------------|:----------------------|
+| **Office 365** | OneDrive for Business (Stati Uniti), SharePoint Online |
+
+### <a name="office-365-audit-reports-and-certificates"></a>Controlli, report e certificati di Office 365
+
 - [Attestato di conformità PCI DSS di OneDrive for Business e SharePoint Online](https://aka.ms/spo-pci)
 
-## <a name="get-your-pci-dss-solution-running-on-azure"></a>Creare una soluzione PCI DSS per Azure
-
-Per creare e implementare una soluzione PCI DSS nel cloud in maniera ancora più rapida è possibile usare i progetti di sicurezza e conformità di Azure per PCI DSS. Architettura di riferimento, guide per l'implementazione, mappe di controllo dell'implementazione, script automatizzati e molto altro. [Iniziare a usare il modello di progetto PCI DSS di Azure](https://aka.ms/pciblueprint).
-
-## <a name="frequently-asked-questions"></a>Domande frequenti
+### <a name="frequently-asked-questions"></a>Domande frequenti
 
 **Perché la data riportata sulla prima pagina dell'Attestato di conformità adeguamento (AoC) è ‘giugno 2018’?**
 
-La data giugno 2018 riportata sulla prima pagina dell’attestato si riferisce a quando il modello AoC è stato pubblicato. Fare riferimento alla Sezione 2 per la data della valutazione.
-
-**Perché ci sono vari Attestati di conformità di Azure?**
-
-Il pacchetto Attestati di conformità di Azure comprende gli attestati per il cloud di Azure Public, Azure Germania e Azure per gli enti pubblici. I clienti dovrebbero usare l'attestato di conformità corrispondente al proprio ambiente Azure.  
+La data giugno 2018 riportata sulla prima pagina dell’attestato si riferisce a quando il modello AoC è stato pubblicato. Fare riferimento alla Sezione 2 per la data della valutazione. 
 
 **Qual è la relazione tra PA DSS e PCI DSS?**
 
@@ -82,12 +92,6 @@ Un acquirente è una banca o un altro istituto finanziario che elabora le transa
 
 PCI DSS si applica a qualsiasi azienda, a prescindere dalle dimensioni o dal numero di transazioni elaborate, che accetta, trasmette o archivia i dati dei titolari di carte. Ciò significa che se un cliente effettua un pagamento all'azienda usando una carta di credito o debito, si applicano i requisiti PCI DSS. Le aziende vengono valutate rispetto ai quattro livelli disponibili in base al volume di transazioni totale elaborate in un periodo di 12 mesi. Il livello 1 è per le aziende che elaborano oltre 6 milioni di transazioni all'anno, il livello 2 da 1 milione a 6 milioni, il livello 3 da 20.000 a 1 milione e il livello 4 fino a 20.000 transazioni.
 
-**Come inizio il processo di adeguamento a PCI DSS della mia organizzazione per una soluzione in un ambiente Azure?**
-
-Le pubblicazioni del PCI Security Standards Council offrono informazioni molto utili sui requisiti di conformità. L’organizzazione pubblica la [PCI DSS Quick Reference Guide](https://www.pcisecuritystandards.org/documents/PCISSC%20QRG%20August%202014%20-print.pdf) per gli esercenti e gli altri istituti che elaborano i pagamenti con le carte. La guida spiega come lo standard PCI DSS contribuisce a proteggere l'ambiente in cui avvengono le transazioni con carta di credito e come applicarlo.
-
-Il processo di adeguamento implica diversi elementi, tra cui la valutazione dei sistemi e dei processi non ospitati in Azure. I singoli requisiti dipendono dai servizi di Azure usati e da come vengono impiegati nell'ambito della soluzione.
-
 **OneDrive for Business e SharePoint Online saranno conformi a PCI DSS al fuori degli Stati Uniti?**
 
 Al momento, OneDrive for Business e SharePoint Online sono conformi a PCI DSS solo negli Stati Uniti. Microsoft valuterà i requisiti e le tempistiche per le altre aree geografiche e informerà i clienti se il processo di adozione di PCI DSS interesserà altre aree geografiche.
@@ -96,14 +100,13 @@ Al momento, OneDrive for Business e SharePoint Online sono conformi a PCI DSS so
 
 Al momento, solo i file e i documenti caricati su OneDrive for Business e SharePoint Online saranno conformi a PCI DSS.
 
-## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usare Microsoft Compliance Manager per valutare i rischi
+### <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usare Microsoft Compliance Manager per valutare i rischi
 
 [Microsoft Compliance Manager](/microsoft-365/compliance/compliance-manager) è una funzionalità nel [Centro conformità Microsoft 365](/microsoft-365/compliance/microsoft-365-compliance-center) utile per comprendere lo stato di conformità dell'organizzazione e intraprendere azioni per ridurre i rischi. Compliance Manager offre un modello premium per creare una valutazione per questa normativa. Individuare il modello nella pagina **modelli di valutazioni** in Compliance Manager. Informazioni su come [creare valutazioni in Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments).
 
-## <a name="resources"></a>Risorse
+### <a name="resources"></a>Risorse
 
 - [PCI Security Standards Council](https://www.pcisecuritystandards.org/)
 - [PCI Data Security Standard](https://www.pcisecuritystandards.org/documents/PCI_DSS_v3-1.pdf)
-- [Azure PCI DSS 3.2.1 Blueprint](/azure/governance/blueprints/samples/pci-dss-3.2.1/)
 - [PCI DSS Quick Reference Guide](https://www.pcisecuritystandards.org/documents/PCISSC%20QRG%20August%202014%20-print.pdf)
 - [Conformità nel Centro protezione Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)

@@ -1,5 +1,5 @@
 ---
-title: Trasferimento e risoluzione dei dipendenti Microsoft
+title: Trasferimento e cessazione dei dipendenti Microsoft
 description: Informazioni sul processo di trasferimento e risoluzione dei dipendenti Microsoft in Microsoft 365
 ms.author: robmazz
 author: robmazz
@@ -19,18 +19,18 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: b31dd13f4a6209712a9cc212ab3bcd9c5addf6b7
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 862bd05a84e5144602a24ac2aca1780cffaff3fe
+ms.sourcegitcommit: 48b8ec2dd00e957508e5af82458bf697e1a97ebb
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089626"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53395616"
 ---
-# <a name="microsoft-employee-transfer-and-termination"></a>Trasferimento e risoluzione dei dipendenti Microsoft
+# <a name="microsoft-employee-transfer-and-termination"></a>Trasferimento e cessazione dei dipendenti Microsoft
 
-I trasferimenti e le terminazioni dei dipendenti fanno parte delle normali operazioni aziendali di ogni organizzazione. Quando un dipendente cambia posizione o lascia l'azienda, è essenziale revocare l'accesso inappropriato in modo rapido. Per facilitare le modifiche di accesso e le revoche di accesso efficienti, Microsoft 365 utilizza procedure standardizzate e processi automatizzati per coordinare il sistema HRIS (Human Resources Information System) con il sistema IDM (Identity Management). L'orchestrazione automatizzata tra questi due sistemi è essenziale per mantenere la coerenza operativa, salvaguardare i servizi e i dati di Microsoft 365, prevenire il rischio di perdita dei privilegi e ridurre i rischi correlati alle minacce interne.
+Microsoft, come tutte le altre organizzazioni, gestisce i trasferimenti e le terminazioni dei dipendenti come parte del normale funzionamento aziendale. Quando un dipendente cambia posizione o lascia l'azienda, è essenziale revocare l'accesso inappropriato in modo rapido. Per facilitare le modifiche di accesso e le revoche di accesso efficienti, Microsoft utilizza procedure standardizzate e processi automatizzati per coordinare il sistema HRIS (Human Resources Information System) con il sistema IDM (Identity Management). L'orchestrazione automatizzata tra questi due sistemi è essenziale per mantenere la coerenza operativa, salvaguardare i dati e i servizi online di Microsoft, evitare il rischio di perdita dei privilegi e ridurre i rischi correlati alle minacce insider.
 
-Microsoft 365 sono progettati per funzionare senza un accesso amministrativo permanente agli ambienti di produzione per i nostri tecnici. Microsoft usa un modello JEA (Just-In-Time), Just-Enough-Access (JEA) per fornire ai tecnici l'accesso temporaneo necessario per supportare il servizio quando necessario. Per richiedere e utilizzare un account del team di servizio per l'accesso JIT, i tecnici devono richiedere e mantenere le autorizzazioni tramite lo strumento IDM. Quando i dipendenti vengono trasferiti o terminati, l'account del team di servizio e le relative autorizzazioni vengono modificati automaticamente per impedire l'accesso inappropriato.
+I servizi online Microsoft sono progettati per funzionare senza un accesso amministrativo permanente agli ambienti di produzione per i nostri tecnici. Microsoft usa un modello JEA (Just-In-Time), Just-Enough-Access (JEA) per fornire ai tecnici l'accesso temporaneo necessario per supportare il servizio quando necessario. Per richiedere e utilizzare un account del team di servizio per l'accesso JIT, i tecnici devono richiedere e mantenere le autorizzazioni tramite lo strumento IDM. Quando i dipendenti vengono trasferiti o terminati, l'account del team di servizio e le relative autorizzazioni vengono modificati automaticamente per impedire l'accesso inappropriato.
 
 ## <a name="transfer-and-reassignment"></a>Trasferimento e riassegnazione
 

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 978979483be55852b34a4ab65e6949a7f234c82d
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: a559597f3fc959ffdc20ecfb14c7b143ae9b1849
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088495"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385346"
 ---
 # <a name="cloud-security-mark-gold-cs-gold-mark"></a>Marchio CS (Cloud Security) Gold (CS Gold Mark)
 
@@ -41,11 +41,25 @@ La JASA ha messo a punto l'Authorized Information Security Audit System (AISAS),
 
 Dopo rigorose valutazioni da parte di un auditor certificato JASA, Microsoft ha ottenuto il Marchio CS Gold per tutte e tre le classificazioni dei servizi. Gli accreditamenti sono stati concessi per Infrastruttura distribuita come servizio (IaaS) e Piattaforma distribuita come servizio (PaaS) di Microsoft Azure e per Software come un servizio (SaaS) di Microsoft Office 365. Microsoft è stato il primo provider di servizi cloud globale a ottenere questo accreditamento per tutte e tre le classificazioni.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud Microsoft inclusi nell'ambito
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme e servizi cloud Microsoft inclusi nell'ambito
 
-- [Azure](https://aka.ms/AzureCompliance)
+- Azure
 - Intune
-- [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
+- Office 365
+
+## <a name="office-365-and-cs-gold-mark"></a>Office 365 e CS Gold Mark
+
+### <a name="office-365-cloud-environments"></a>Ambienti cloud di Office 365
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Applicabilità di Office 365 e servizi inclusi nell'ambito
+
+Usare la tabella seguente per determinare l'applicabilità per i servizi e l'abbonamento a Office 365:
+
+| **Applicabilità** | **Servizi inclusi nell'ambito** |
+|:------------------|:----------------------|
+| **Office 365** | Azure Active Directory, Azure Information Protection, Bookings, Compliance Manager, Delve, Exchange Online, Exchange Online Protection, Forms, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Defender per Office 365, Microsoft Graph, Microsoft Teams, Microsoft To-Do per il Web, MyAnalytics, componente aggiuntivo Conformità avanzata di Office 365, Office 365 Cloud App Security, Gruppi di Office 365, Centro sicurezza e conformità di Office 365, Video di Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, Microsoft SharePoint Online, Skype for Business, StaffHub, Microsoft Stream, Sway, Yammer Enterprise |
 
 ## <a name="audits-reports-and-certificates"></a>Controlli, report e certificati
 

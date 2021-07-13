@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 07620a613cefd4ebac5acd0626ee855f8d077089
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 111a13f2b9d3e3988f8ae673d5ae9f0c053e2ec9
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120094"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384516"
 ---
 # <a name="multi-tier-cloud-security-mtcs-standard-for-singapore"></a>Standard Multi-Tier Cloud Security (MTCS) per Singapore
 
@@ -40,25 +40,37 @@ MTCS è il primo standard di sicurezza cloud con livelli diversi di sicurezza, p
 
 ## <a name="microsoft-and-mtcs"></a>Microsoft e MTCS
 
-Dopo valutazioni rigorose condotte dall'organo di certificazione di MTCS, i servizi cloud Microsoft hanno ricevuto la certificazione MTCS 584:2013 su tutte e tre le classificazioni dei servizi: Infrastruttura distribuita come servizio (IaaS), Piattaforma distribuita come servizio (PaaS) e Software come un servizio (SaaS). Microsoft è stato il primo provider di servizi cloud globale a ottenere questa certificazione per tutte e tre le classificazioni.
+Dopo valutazioni rigorose condotte dall'organo di certificazione di MTCS, i servizi cloud Microsoft hanno ricevuto la certificazione MTCS 584:2013 su tutte e tre le classificazioni dei servizi: Infrastruttura distribuita come servizio (IaaS), Piattaforma distribuita come servizio (PaaS) e Software come un servizio (SaaS). Microsoft è stato il primo CSP globale a ricevere questa certificazione in tutte e tre le classificazioni.
 
 Le certificazione rilasciate sono di livello 3 per i servizi Microsoft Azure (IaaS e PaaS), Microsoft Dynamics 365 Services (SaaS) e Microsoft Office 365 Services (SaaS).  Una certificazione di livello 3 indica che i servizi cloud Microsoft interni all'ambito possono ospitare dati ad alto impatto per le organizzazioni regolamentate con i requisiti di sicurezza più rigidi. È richiesta per determinate implementazioni di soluzioni cloud del governo di Singapore.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud Microsoft inclusi
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme e servizi cloud Microsoft inclusi nell'ambito
 
-- [Azure](https://go.microsoft.com/fwlink/p/?linkid=2092718)
-- [Dynamics 365](https://go.microsoft.com/fwlink/p/?linkid=2051700)
-- Microsoft Cloud App Security
+- Azure
+- [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Genomica
+- Intune
+- Microsoft Cloud App Security
 - Microsoft Graph
 - Microsoft Healthcare Bot
-- Intune
-- Flow
+- Office 365
 - Mapping dei servizi OMS
 - PowerApps
 - Power BI
-- Microsoft Stream
-- [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
+
+## <a name="office-365-and-mtcs"></a>Office 365 e MTCS
+
+### <a name="office-365-cloud-environments"></a>Ambienti cloud di Office 365
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Applicabilità di Office 365 e servizi inclusi nell'ambito
+
+Usare la tabella seguente per determinare l'applicabilità per i servizi e l'abbonamento a Office 365:
+
+| **Applicabilità** | **Servizi inclusi nell'ambito** |
+|:------------------|:----------------------|
+| **Office 365** | Delve, Exchange Online, Exchange Online Protection Loki, Microsoft Teams, Portale per i clienti di Office 365, Office Online, Infrastruttura dei servizi di Office, SharePoint Online, Skype for Business |
 
 ## <a name="audits-reports-and-certificates"></a>Controlli, report e certificati
 
@@ -88,7 +100,7 @@ Si applica alle aziende di Singapore che acquistano servizi cloud che richiedono
 MTCS ha un totale di 535 controlli che coprono tre livelli di sicurezza:
 
 - Il livello 1 ha costo contenuto con un numero minimo di controlli di livello di sicurezza base richiesti. È adatto per l'hosting di siti Web, per lavoro di test e sviluppo, per simulazioni e per applicazioni aziendali non critiche.
-- Il livello 2 soddisfa le esigenze della maggior parte delle organizzazioni che si preoccupano della sicurezza dei dati con un set di controlli più rigidi rivolti ai rischi per la sicurezza e per i dati. Il livello 2 è applicabile alla maggior parte degli utilizzi del cloud, incluse applicazioni aziendali mission-critical.
+- Il livello 2 soddisfa le esigenze della maggior parte delle organizzazioni che si preoccupano della sicurezza dei dati con un set di controlli più rigidi rivolti ai rischi per la sicurezza e per i dati. Il livello 2 è applicabile per la maggior parte dell'utilizzo del cloud, incluse le applicazioni aziendali cruciali.
 - Il livello 3 è previsto per le organizzazioni regolamentate con requisiti specifici nonché alle organizzazioni disposte a sostenere un costo maggiore per requisiti di sicurezza più rigidi. Il livello 3 aggiunge un set di controlli di sicurezza che integra quelli già presenti nei livelli 1 e 2. Tali controlli sono rivolti ai rischi per la sicurezza e alle minacce presenti in sistemi informatici ad alto impatto che utilizzano servizi cloud, ad esempio l'hosting di applicazioni con informazioni riservate in sistemi regolamentati.
 
 **Qual è la fase iniziale del percorso di adeguamento della mia organizzazione?**

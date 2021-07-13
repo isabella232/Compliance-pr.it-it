@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 55f600c7b1fa5f4573c389ca2c5fc5f3b827bb10
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 2896f3dea06181ef11393a40a4822b3b6fd345a5
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089529"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384936"
 ---
 # <a name="financial-supervisory-authority-fsa-denmark"></a>Financial Supervisory Authority (FSA) Danimarca
 
@@ -45,13 +45,13 @@ Quando gli istituti finanziari danesi esternalizzano le attività aziendali, dev
 
 L'elenco di controllo di Microsoft consente agli istituti finanziari danesi di svolgere valutazioni di due diligence dei servizi cloud Microsoft per le aziende e include:
 
-- Una panoramica del contesto normativo.
+- Informazioni generali sul panorama normativo a scopo di contestualizzazione.
 - Un elenco di controllo che definisce le problematiche da affrontare e associa i servizi Microsoft Azure, Microsoft Dynamics 365 e Microsoft 365 agli obblighi normativi. L'elenco di controllo può essere usato come strumento per misurare la conformità ad alcune normative e definire uno schema interno per documentare la conformità e aiutare i clienti a svolgere le loro valutazioni dei rischi rispetto ai servizi cloud Microsoft per le aziende.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud Microsoft inclusi nell'ambito
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme e servizi cloud Microsoft inclusi nell'ambito
 
 - [Azure](https://gallery.technet.microsoft.com/Overview-of-Azure-c1be3942)
-- [Dynamics 365](https://download.microsoft.com/download/E/1/9/E1977163-7A86-4812-AC18-C03ADC958AAF/Microsoft_Dynamics_365_Cloud_Service_Compliance_Datasheet.pdf)
+- [Dynamics 365](https://aka.ms/d365-compliance-list)
 - [Microsoft 365](https://aka.ms/RiskGovernanceGuide)
 
 ## <a name="how-to-implement"></a>Come implementare
@@ -62,7 +62,7 @@ L'elenco di controllo di Microsoft consente agli istituti finanziari danesi di s
 
 ## <a name="frequently-asked-questions"></a>Domande frequenti
 
-**È richiesta l'approvazione dell’autorità competente?**
+**È richiesta l'approvazione da parte delle autorità competenti?**
 
 No. L'FSA non approva l'esternalizzazione e l'esternalizzatore (il provider di servizi cloud) e quindi non è necessario ottenere il previo consenso dell'FSA. Tuttavia, l'FSA specifica che il fornitore deve dare notifica entro otto giorni lavorativi dopo aver sottoscritto un contratto di esternalizzazione. La notifica deve essere fatta per iscritto usando un modello specificato dall'FSA.
 

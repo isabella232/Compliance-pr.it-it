@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: a969d446296605fd3ea9b1d7b9225009e99f4471
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
-ms.translationtype: HT
+ms.openlocfilehash: 494acc364123c32d409a64324715bcc27e81e7a8
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121285"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385276"
 ---
 # <a name="defense-federal-acquisition-regulation-supplement-dfars"></a>DFARS (Defense Federal Acquisition Regulation Supplement)
 
@@ -34,31 +34,48 @@ La clausola finale DFARS 252.204-7012 (Safeguarding Covered Defense Information 
 ## <a name="microsoft-and-dfars"></a>Microsoft e DFARS
 
 I servizi Microsoft Cloud per enti pubblici Cloud aiutano i clienti negli Stati Uniti a rispettare i requisiti DFARS elencati nelle clausole DFARS da 252.204-7012, applicabili ai provider di servizi cloud. Quando gli appaltatori per la difesa devono conformarsi alla clausola DFARS 252.204-7012 nei contratti, Microsoft può supportare i requisiti applicabili ai provider di servizi cloud per i servizi di Azure per enti pubblici e Office 365 U.S. Government Defense. Entrambi i servizi dimostrano il supporto per le funzionalità necessarie ai clienti per garantire la conformità alle clausole DFARS 7012 tramite l'accredito L5 alla guida ai requisiti di sicurezza del Dipartimento della difesa.  
-  
-Informazioni su come accelerare la distribuzione DFARS con il progetto di sicurezza e conformità di Azure: [Scaricare Azure - Matrice delle responsabilità del'utente di Blueprint DFARS](https://servicetrust.microsoft.com/ViewPage/Blueprint?command=Download&downloadType=Document&downloadId=7ed1b47c-b180-4323-9aec-21712d54b167&docTab=fc060920-cdb8-11e7-bacf-0bf52b09d912_DoD_Blueprint)
 
-## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud nell'ambito Microsoft
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme cloud microsoft nell'ambito & servizi
 
 Servizi coperti per il livello di impatto del DoD - Livello 5
 
-- [Azure e Azure per enti pubblici](https://aka.ms/AzureCompliance)
-- [Office 365 U.S. Government e Office 365 U.S. Government Defense](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
+- Azure e Azure per enti pubblici
+- Office 365 U.S. Government e Office 365 U.S. Government Defense
 
-## <a name="audits-reports-and-certificates"></a>Controlli, report e certificati
+## <a name="azure-dynamics-365-and-dfars"></a>Azure, Dynamics 365 e DFARS
+
+Per altre informazioni sulla conformità di Azure, Dynamics 365 e altri servizi online, vedi l'offerta [DFARS di Azure.](/azure/compliance/offerings/offering-dfars)
+
+## <a name="office-365-and-dfars"></a>Office 365 e DFARS
+
+### <a name="office-365-cloud-environments"></a>Office 365 cloud
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 applicabilità e servizi nell'ambito
+
+Utilizzare la tabella seguente per determinare l'applicabilità per i servizi Office 365 e la sottoscrizione:
+
+| **Applicabilità** | **Servizi nell'ambito** |
+|:------------------|:----------------------|
+| **GCC** | Azure Active Directory, Compliance Manager, Delve, Exchange Online, Forms, Microsoft Defender for Office 365, Microsoft Teams, MyAnalytics, Office 365 Advanced Compliance add-on, Office 365 Security & Compliance Center, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business, Stream |
+| **GCC High** | Azure Active Directory, Exchange Online, Forms, Microsoft Defender for Office 365, Microsoft Teams, Office 365 Advanced Compliance add-on, Office 365 Security & Compliance Center, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business |
+| **DoD** | Azure Active Directory, Exchange Online, Forms, Microsoft Defender for Office 365, Microsoft Teams, Office 365 Advanced Compliance add-on, Office 365 Security & Compliance Center, Office Online, Office Pro Plus, OneDrive for Business, Planner, Power BI, SharePoint Online, Skype for Business |
+
+### <a name="office-365-audits-reports-and-certificates"></a>Office 365 Controlli, report e certificati
 
 - [Autorizzazioni dei servizi cloud Microsoft](https://marketplace.fedramp.gov/index.html#/products?status=Compliant&sort=productName)
-- [Lettera P-ATO di Azure firmata il 3 marzo 2017](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=94ff5b42-4077-4612-8cf7-3194ded323dc&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_GRC_Assessment_Reports)
 - [Vedere gli altri report di controllo](https://aka.ms/auditreports)
 
-## <a name="frequently-asked-questions"></a>Domande frequenti
+### <a name="frequently-asked-questions"></a>Domande frequenti
 
-**Quali requisiti DFARS sono supportati da Microsoft Azure per enti pubblici e da Office 365 U.S. Government Defense?**
+**Quali requisiti DFARS sono supportati Office 365 difesa governativa degli Stati Uniti?**
 
-Azure per enti pubblici e Office 365 U.S. Government Defense consentono ai clienti degli appaltatori dell'industria della difesa e i clienti dei contraenti della difesa di difesa di soddisfare i requisiti DFARS elencati nelle clausole DFARS da 252.204-7012, applicabili ai provider di servizi cloud.
+Office 365 U.S. Government Defense consente ai clienti della base industriale di difesa e degli appaltatori della difesa di soddisfare i requisiti DFARS, come indicato nelle clausole DFARS di 252.204-7012 che si applicano ai provider di servizi cloud.
 
-**Un assessore indipendente ha convalidato che Azure per enti pubblici e Office 365 U.S. Government Defense supportano i requisiti DFARS?**
+**Un valutatore indipendente ha convalidato che Office 365 difesa governativa degli Stati Uniti supporta i requisiti DFARS?**
 
-Sì, un'organizzazione di valutazione di terze parti ha attestato che l'offerta di servizi cloud di Azure per enti pubblici e Office 365 U.S. Government Defense soddisfa i requisiti applicabili della clausola DFARS 252.204-7012 (Safeguarding Unclassified Controlled Technical Information).
+Sì, un'organizzazione di valutazione di terze parti ha attestato che l'offerta di servizio cloud Office 365 U.S. Government Defense soddisfa i requisiti applicabili della clausola DFARS 252.204-7012 (Salvaguardia delle informazioni tecniche controllate non classificate).
 
 **Qual è la relazione tra informazioni non classificate controllate (CUI) e informazioni di difesa coperte (CDI)?**
 
@@ -69,19 +86,19 @@ L'interfaccia CDI è controllata da informazioni tecniche o altre informazioni, 
 - Contrassegnati o identificati in altro modo nel contratto, nell'ordine di attività o nell'ordine di consegna e forniti all'appaltatore da o per conto di DoD in relazione all'esecuzione del contratto o
 - Raccolti, sviluppati, ricevuti, trasmessi, usati o archiviati da o per conto dell'appaltatore a supporto dell'esecuzione del contratto
 
-**Tutti i servizi Microsoft soddisfano i requisiti di "sicurezza adeguata" applicabili alle "informazioni di difesa coperte" dalle normative DFARS?**
+**Tutti i Microsoft Office 365 soddisfano i requisiti di "sicurezza adeguata" applicabili alle "informazioni di difesa coperte" ai sensi del regolamento DFARS?**
 
 Nel mese di ottobre 2016, il Dipartimento della difesa ha promulgato una regola finale che implementa le clausole DFARS (Defense Federal Acquisition Regulation Supplement) che si applicano a tutti gli appaltatori DoD che elaborano, archiviano o trasmettono "informazioni coperte della difesa" attraverso i loro sistemi in informazioni. La regola specifica che tali sistemi devono soddisfare i requisiti di sicurezza impostati in NIST SP 800-171, [Protezione delle informazioni non classificate controllate in sistemi informatici e organizzazioni non federali](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-171.pdf), o una "misura di sicurezza alternativa, ma altrettanto efficace", approvata dal funzionario contraente del DoD. Inoltre, quando un contraente di DoD usa un provider di servizi cloud esterno per elaborare, archiviare o trasmettere informazioni di difesa coperte, tale provider deve rispettare requisiti di sicurezza equivalenti alla linea di base FedRAMP Moderate.
 
-I seguenti servizi cloud Microsoft hanno ricevuto un'autorizzazione moderata fedRAMP e sono adeguati per il Dipartimento della difesa del governo degli Stati Uniti: Azure Government, Dynamics 365 U.S. Government, Office 365 U.S. Government e Office 365 Government Defense.
+I seguenti Microsoft Office 365 cloud hanno ricevuto un'autorizzazione moderata FedRAMP e sono adeguati per DFARS: Office 365 U.S. Government e Office 365 U.S. Government Defense.
 
 Inoltre, le offerte Microsoft al di fuori dei limiti certificati FedRAMP che potrebbero essere usate dagli appaltatori di DoD per elaborare, archiviare o trasmettere "informazioni coperte dala difesa" sono in fase di revisione per rispettare una scadenza di conformità del 31 dicembre 2017. Microsoft sta lavorando alla documentazione del modo in cui questi servizi interni e rivolti ai clienti sono conformi a NIST SP 800-171 o a un equivalente di sicurezza accettabile per rispettare le clausole pertinenti del DFARS.
 
-## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usare Microsoft Compliance Manager per valutare i rischi
+### <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usare Microsoft Compliance Manager per valutare i rischi
 
 [Microsoft Compliance Manager](/microsoft-365/compliance/compliance-manager) è una funzionalità nel [Centro conformità Microsoft 365](/microsoft-365/compliance/microsoft-365-compliance-center) utile per comprendere lo stato di conformità dell'organizzazione e intraprendere azioni per ridurre i rischi. Compliance Manager offre un modello premium per creare una valutazione per questa normativa. Individuare il modello nella pagina **modelli di valutazioni** in Compliance Manager. Informazioni su come [creare valutazioni in Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments).
 
-## <a name="resources"></a>Risorse
+### <a name="resources"></a>Risorse
 
 - [DFARS (Defense Federal Acquisition Regulation Supplement)](https://www.acq.osd.mil/dpap/dars/dfarspgi/current/index.html)
 - [Microsoft Cloud per enti pubblici](https://enterprise.microsoft.com/industries/government/start-your-microsoft-cloud-for-government-trial-today)

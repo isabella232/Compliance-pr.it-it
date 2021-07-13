@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 84af03217d697f6f54db1a7d87230ae08c2b02b4
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 65739fcf3b787ea50523c3195ffaf7e31d315d3f
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508887"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384906"
 ---
 # <a name="health-data-hosting-hds-france"></a>Hosting di dati sanitari (HDS) Francia
 
@@ -46,7 +46,7 @@ Il rigoroso controllo è stato effettuato sulle misure adottate da Microsoft per
 - La certificazione [ISO/IEC 27001:2013 sulla gestione della sicurezza delle informazioni](offering-iso-27001.md) dei servizi cloud di Microsoft, la cui conformità viene verificata ogni anno.
 - L’elevato livello di privacy basato sulla conformità al GDPR e al [Codice di condotta per la protezione dei dati personali nel cloud ISO/IEC 27018](offering-iso-27018.md).
 
-## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud Microsoft inclusi nell’ambito
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme e servizi cloud Microsoft inclusi nell'ambito
 
 - [Azure](https://aka.ms/AzureCompliance). Il certificato HDS è valido per i servizi di Azure elencati come conformi alle normative ISO/IEC 27001 nelle offerte di conformità di Azure e forniti dalle aree di Azure Francia centrale, Francia meridionale, Europa occidentale ed Europa settentrionale.
 - Dynamics 365. Il certificato HDS è valido per i [servizi online standard](https://aka.ms/Online-Services-Terms) di Dynamics 365 forniti dalle aree geografiche della Francia e dell’Unione Europea.

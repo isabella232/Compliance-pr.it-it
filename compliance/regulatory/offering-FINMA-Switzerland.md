@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 1b391d3f3cd748047e24bf9e82d3c267ca7425a7
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 1fe73fa10549c0126dc0b38b93cf1edd5b132855
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089549"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385046"
 ---
 # <a name="financial-market-supervisory-authority-finma-switzerland"></a>Autorità federale di vigilanza sui mercati finanziari (FINMA) - Svizzera
 
@@ -42,7 +42,7 @@ L'elenco di controllo di Microsoft consente agli istituti finanziari in Svizzera
 - Informazioni generali sul panorama regolatorio del contesto.
 - Un elenco di controllo che definisce le problematiche da affrontare e associa i servizi Microsoft Azure, Microsoft Dynamics 365 e Microsoft 365 agli obblighi normativi. L'elenco di controllo può essere usato come strumento per misurare la conformità ad alcune normative e definire uno schema interno per documentare la conformità e aiutare i clienti a svolgere le loro valutazioni dei rischi rispetto ai servizi cloud Microsoft per le aziende.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud Microsoft inclusi nell'ambito
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme e servizi cloud Microsoft inclusi nell'ambito
 
 - [Azure](https://aka.ms/AzureCompliance)
 - [Dynamics 365](https://aka.ms/d365-compliance-list)

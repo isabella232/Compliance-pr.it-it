@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: b6c48ebc9461010db1e129e88e53b4ada5c32683
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: b761a9848e29b09fa46fdac822a545dc67be61f1
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088805"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384336"
 ---
 # <a name="us-section-508"></a>Sezione 508 degli Stati Uniti
 
@@ -35,21 +35,37 @@ Microsoft è uno dei principali provider di software e servizi cloud per i gover
 
 L'attenzione di Microsoft sulla sezione 508 degli Stati Uniti per lo sviluppo di prodotti e servizi indica il suo impegno a rendere la tecnologia e i dati accessibili per tutti i clienti.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud Microsoft inclusi nell'ambito
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme cloud microsoft nell'ambito & servizi
 
-- [Azure e Azure per enti pubblici](https://go.microsoft.com/fwlink/p/?linkid=2051569)
+- Azure e Azure per enti pubblici
 - Azure DevOps Services
 - Dynamics 365 e Dynamics 365 U.S. Government
 - Intune
-- [Office 365 e Office 365 U.S. Government](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
-- [Office 365 U.S. Government Defense](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
+- Office 365, Office 365 U.S. Government, Office 365 U.S. Government Defense
 - Windows Server 2016
 
-## <a name="microsoft-accessibility-conformance-reports"></a>Report Microsoft sulla conformità agli standard di accessibilità
+## <a name="office-365-and-us-section-508"></a>Office 365 e U.S. Section 508
+
+### <a name="office-365-cloud-environments"></a>Office 365 cloud
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 applicabilità e servizi nell'ambito
+
+Utilizzare la tabella seguente per determinare l'applicabilità per i servizi Office 365 e la sottoscrizione:
+
+| **Applicabilità** | **Servizi nell'ambito** |
+|:------------------|:----------------------|
+| **Office 365** | Access, Azure Active Directory, Bookings, Compliance Manager, Delve, Excel, Exchange Online, Forms, Kaizala, Microsoft Defender for Office 365, Microsoft Teams, MyAnalytics, Office 365 admin portal for Android,Office 365 admin portal for iOS, Office 365 admin portal, Office 365 Advanced Compliance add-on, Office 365 and Azure AD sign-in, Office 365 Business Center, Office 365 Security & Compliance Center, Office 365 Video, Office 365 Web Suite, Office Configuration Tool, Office Lens, Office Online, Office Pro Plus, OneDrive for Business, OneDrive, OneNote, Outlook Groups, Outlook, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, SharePoint, Skype for Business, StaffHub , Stream, To-Do, Visio, Word, Yammer  |
+| **GCC** | Azure Active Directory, Compliance Manager, Delve, Exchange Online, Forms, Microsoft Defender for Office 365, Microsoft Teams, MyAnalytics, Office 365 Advanced Compliance add-on, Office 365 Security & Compliance Center, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business, Stream |
+| **GCC High** | Azure Active Directory, Exchange Online, Forms, Microsoft Defender for Office 365, Microsoft Teams, Office 365 Advanced Compliance add-on, Office 365 Security & Compliance Center, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business |
+| **DoD** | Azure Active Directory, Exchange Online, Forms, Microsoft Defender for Office 365, Microsoft Teams, Office 365 Advanced Compliance add-on, Office 365 Security & Compliance Center, Office Online, Office Pro Plus, OneDrive for Business, Planner, Power BI, SharePoint Online, Skype for Business |
+
+### <a name="microsoft-accessibility-conformance-reports"></a>Report Microsoft sulla conformità agli standard di accessibilità
 
 Sono disponibili [report di conformità](https://cloudblogs.microsoft.com/industry-blog/government/2018/09/11/accessibility-conformance-reports/) per tutti i prodotti e i servizi Microsoft.
 
-## <a name="resources"></a>Risorse
+### <a name="resources"></a>Risorse
 
 - [Pagina accessibilità Microsoft](https://go.microsoft.com/fwlink/p/?linkid=2051579): esplorare i modi in cui Microsoft innova in modo che tutti hanno la possibilità di ottenere di più.
 - [Office 365 Accessibility Center](https://go.microsoft.com/fwlink/p/?linkid=2051801): le risorse di Office 365 per persone con disabilità.

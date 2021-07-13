@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f35e72bc81a93bcba3ecea5ca8a416553e6116a8
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 7cc2131bf35f4f230ed3d18a22d7da0533dd3be5
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121375"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385396"
 ---
 # <a name="center-for-internet-security-cis-benchmarks"></a>Benchmark del Center for Internet Security (CIS)
 
@@ -50,7 +50,7 @@ Come tutti i benchmark CIS , i benchmark Microsoft sono stati creati tramite un 
   
 Oltre ai benchmark per prodotti e servizi Microsoft, il CIS ha anche pubblicato [CIS Hardened Images for use on Azure virtual machines](https://www.cisecurity.org/blog/cis-hardened-images-now-in-microsoft-azure-marketplace/) (Immagini con protezione avanzata del CIS per l'uso su macchine virtuali di Azure) configurate per soddisfare i benchmark CIS. Questi includono l'immagine con protezione avanzata del CIS per Microsoft Windows Server 2016 certificata per l'esecuzione su Azure. Il CIS afferma che "tutte le immagini con protezione avanzata del CIS disponibili su [Azure Marketplace ](https://azuremarketplace.microsoft.com/marketplace/apps?search=center%20for%20internet%20security) sono certificate per l'esecuzione su Azure. Sono state precedentemente testate per l'idoneità e la compatibilità con il cloud pubblico di Azure, la piattaforma cloud Microsoft ospitata dai provider di servizi attraverso la rete del sistema operativo cloud e le distribuzioni in locale di Hyper-V di Windows Server del cloud privato interno gestite dai clienti".
 
-## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud Microsoft inclusi
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme e servizi cloud Microsoft inclusi nell'ambito
 
 - [Azure e Azure per enti pubblici](https://aka.ms/AzureCompliance)
 - [Office e Microsoft 365](https://aka.ms/o365-compliance-framework)
@@ -97,4 +97,4 @@ Il CIS afferma che i rispettivi benchmark sono "sviluppati attraverso il generos
 - [Procedure consigliate del CIS per un uso sicuro di Microsoft 365](https://www.microsoft.com/security/blog/2019/01/10/best-practices-for-securely-using-microsoft-365-the-cis-microsoft-365-foundations-benchmark-now-available/)
 - [Impostazioni relative ai criteri di sicurezza di Windows 10](/windows/security/threat-protection/security-policy-settings/security-policy-settings)
 - [Sicurezza di livello enterprise di Windows 10](/windows/security/index)
-- [Conformità nel Centro protezione Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Conformità nel Centro protezione di Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)

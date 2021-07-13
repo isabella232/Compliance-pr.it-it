@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 9ae0ba0b3ad10e4b1f2d308090f05c698bce092f
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 79dc7fc209b85048189016a9bed8f5ca45b99bdb
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088485"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384456"
 ---
 # <a name="nen-7510"></a>NEN 7510
 
@@ -35,11 +35,25 @@ Microsoft ha analizzato le attuali certificazioni e dichiarazioni di affidabilit
 
 Per informazioni su come accelerare la distribuzione della norma NEN 7510 con i progetti di sicurezza e conformità di Azure: [Scaricare la guida per l'utente Microsoft Cloud: Azure and Office 365 NEN7510-2011 Standard Coverage](https://aka.ms/Azure-NEN7510-2011)
 
-## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud Microsoft in ambito
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme e servizi cloud Microsoft inclusi nell'ambito
 
-- [Azure e Azure per enti pubblici](https://aka.ms/AzureCompliance)
+- Azure e Azure per enti pubblici
 - Intune
-- [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
+- Office 365
+
+## <a name="office-365-and-iso-27001"></a>Office 365 e ISO 27001
+
+### <a name="office-365-cloud-environments"></a>Ambienti cloud di Office 365
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Applicabilità di Office 365 e servizi inclusi nell'ambito
+
+Usare la tabella seguente per determinare l'applicabilità per i servizi e l'abbonamento a Office 365:
+
+| **Applicabilità** | **Servizi inclusi nell'ambito** |
+|:------------------|:----------------------|
+| **Office 365** | Azure Information Protection, Bookings, Delve, Exchange Online, Exchange Online Protection, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Graph, Microsoft Teams, Microsoft To-Do per il Web, MyAnalytics, Office 365 Cloud App Security, Gruppi di Office 365, Office 365 Video, OneDrive for Business,Planner, Power Apps, Power Automate, Power BI per Office 365, PowerApps, SharePoint Online, Skype for Business, StaffHub, Stream, Sway, Yammer Enterprise |
 
 ## <a name="audits-reports-and-certificates"></a>Controlli, report e certificati
 

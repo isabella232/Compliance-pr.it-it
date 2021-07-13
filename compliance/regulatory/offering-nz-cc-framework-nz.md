@@ -16,16 +16,16 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: da53b5e2cdac7095e2fc3ff9b243d2863b85fdbf
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 4c27c84d2abc2de4866471d652d8b11351bc3168
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088785"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385656"
 ---
-# <a name="new-zealand-government-cloud-computing-security-and-privacy-considerations"></a>Considerazioni sulla sicurezza e sulla privacy del cloud computing per enti pubblici neozelandesi
+# <a name="new-zealand-government-information-security-and-privacy-considerations-ispc"></a>Considerazioni sulla privacy e sulla sicurezza delle informazioni del governo neozelandese (ISPC)
 
-## <a name="new-zealand-government-cloud-computing-security-and-privacy-overview"></a>Panoramica sulla sicurezza e sulla privacy del cloud computing per enti pubblici neozelandesi
+## <a name="new-zealand-government-information-security-and-privacy-considerations-overview"></a>Panoramica sulla sicurezza e sulla privacy delle informazioni del governo neozelandese
 
 Nell'ottobre 2015, il governo neozelandese ha approvato una strategia TIC tutta governativa rivista che ha riaffermato la sua politica "cloud first" sull'utilizzo delle tecnologie dell'informazione nel settore pubblico. La strategia rivista mantiene il "Cloud Computing Risk and Assurance Framework" sviluppato e implementato sotto l'autorità del Chief Information Officer (GCIO) del governo NZ.
 
@@ -37,14 +37,30 @@ Per assistere le agenzie governative NZ nell'esecuzione di due diligence coerent
 
 Per aiutare le agenzie a intraprendere l'analisi e la valutazione dei servizi cloud aziendali Microsoft, Microsoft New Zealand ha prodotto documenti che mostrano come i servizi cloud aziendali affrontano le domande poste nel "Cloud Computing ISPC" collegandoli agli standard in base ai quali i servizi cloud Microsoft sono certificati. Queste certificazioni sono centrali per il modo in cui Microsoft garantisce ai clienti del settore pubblico e privato che i suoi servizi cloud sono progettati, creati e gestiti per ridurre in modo efficace i rischi per la privacy e la sicurezza e affrontare i problemi di sovranità dei dati. La [risposta di Azure all'ISPC cloud computing](https://azure.microsoft.com/resources/microsoft-azure-response-to-nz-gcio-cloud-computing-information-security-privacy-considerations/) è disponibile per il download per i clienti.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud Microsoft inclusi nell'ambito
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme cloud microsoft nell'ambito & servizi
 
-- [Azure e Azure per enti pubblici](https://aka.ms/AzureCompliance)
+- Azure e Azure per enti pubblici
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune
-- Servizio cloud Power BI, autonomo o incluso in un piano o in una famiglia di prodotti con marchio Office 365
-- [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
-- Exchange Online, SharePoint Online e Microsoft Teams. Microsoft NZ ha collaborato con il team GCIO per sviluppare un'architettura di riferimento per l'integrazione di Exchange Online e SEEMail.
+- Office 365
+- Servizio cloud Power BI, indipendente o incluso in un piano o in una famiglia di prodotti con marchio Office 365
+
+## <a name="office-365-and-ispc"></a>Office 365 e ISPC
+
+### <a name="office-365-cloud-environments"></a>Office 365 cloud
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 applicabilità e servizi nell'ambito
+
+Utilizzare la tabella seguente per determinare l'applicabilità per i servizi Office 365 e la sottoscrizione:
+
+| **Applicabilità** | **Servizi nell'ambito** |
+|:------------------|:----------------------|
+| **Office 365** | Exchange Online, SharePoint Online, Skype for Business |
+
+>[!Note]
+>Microsoft NZ ha collaborato con il team GCIO per sviluppare un'architettura di riferimento per l'integrazione di Exchange Online e SEEMail descritta in Office 365: SEEMail Integration and Reference Architecture.
 
 ## <a name="frequently-asked-questions"></a>Domande frequenti
 
@@ -64,7 +80,7 @@ Se l'agenzia è necessaria per eseguire la certificazione e l'accreditamento del
 - [Condizioni di Microsoft Online Services](https://aka.ms/Online-Services-Terms)
 - [Conformità nel Centro protezione Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
 
-## <a name="microsoft-responses-to-cloud-computing-ipsc"></a>Risposte Microsoft a "Cloud Computing IPSC"
+## <a name="microsoft-responses-to-cloud-computing-ipsc"></a>Risposte Microsoft all'IPSC cloud computing
 
 - [Azure](https://aka.ms/Azure-NZ-response)
 - [Intune](https://aka.ms/Intune-NZ-response)

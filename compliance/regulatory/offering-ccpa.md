@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 83fa62315fa141e19c5c838c4b2961c1af364531
-ms.sourcegitcommit: 5d8e670e9d9968458047b51b6b2930f7bd14a011
+ms.openlocfilehash: 2d06aefc89312dece2ecbe81aa6c0a9f10500369
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "53141448"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384156"
 ---
 # <a name="california-consumer-privacy-act-ccpa"></a>California Consumer Privacy Act (CCPA)
 
@@ -41,7 +41,7 @@ Per i clienti commerciali che fanno affari in California, Microsoft fungerà da 
 
 Come descritto nell'OST, Microsoft è conforme a tutte le leggi e le normative applicabili alla fornitura dei Servizi online, che includerebbe il CCPA.  
 
-## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud Microsoft inclusi nell'ambito
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme cloud microsoft nell'ambito & servizi
 
 - [Azure](https://aka.ms/AzureCompliance)
 - Azure Dev Ops

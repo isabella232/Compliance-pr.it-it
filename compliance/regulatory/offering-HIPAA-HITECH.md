@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f32ebfe11debbace7783722553d37f68815a9085
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 8145c8e4fc1617371acdfa10cd20daa4f3ba3bf3
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089519"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384866"
 ---
 # <a name="health-insurance-portability-and-accountability-act-hipaa--health-information-technology-for-economic-and-clinical-health-hitech-act"></a>Health Insurance Portability and Accountability Act (HIPAA) & Health Information Technology for Economic and Clinical Health (HITECH) Act
 
@@ -47,30 +47,42 @@ I servizi cloud aziendali Microsoft sono inoltre coperti dalle valutazioni FedRA
 
 Per informazioni su come Microsoft Cloud aiuta i clienti a supportare HIPAA e i requisiti HITECH, visitare [Microsoft Customer Stories.](https://customers.microsoft.com/)
 
-## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud Microsoft inclusi nell'ambito
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme cloud microsoft nell'ambito & servizi
 
-- [Azure e Azure Per](https://aka.ms/AzureCompliance)enti pubblici (vedere *Appendice A* e *B* per l'elenco completo dei servizi nell'ambito del contratto hipaaa business associate di Microsoft)
+- Azure e Azure per enti pubblici
+- Azure DevOps Services
+- Dynamics 365 e Dynamics 365 U.S. Government
+- Intune
 - Microsoft Cloud App Security
 - [Microsoft Cloud per il settore sanitario](https://aka.ms/MicrosoftCloudforHealthcareCompliance)
 - Microsoft Healthcare Bot Service
 - [Microsoft Managed Desktop](/microsoft-365/managed-desktop/intro/compliance)
-- Microsoft Stream
 - Microsoft Professional Services: premier e locale per Azure, Dynamics 365, Intune e per le medie e grandi imprese clienti di Microsoft 365 per le aziende
-- [Dynamics 365 e Dynamics 365 U.S. Government](https://aka.ms/d365-compliance-list)
+- Office 365, Office 365 U.S. Government
 - Servizio cloud Power Automate (in precedenza Microsoft Flow), autonomo o incluso in un piano o in una famiglia di prodotti Office 365 o Dynamics 365
-- Intune
-- [Office 365, Office 365 U.S. Government e Office 365 U.S. Government Defense](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
 - Servizio cloud PowerApps, autonomo o incluso in un piano o in una famiglia di prodotti con marchio Office 365 o Dynamics 365
 - Power BI servizio cloud come servizio autonomo o come incluso in un piano o in una famiglia di prodotti Office 365 o Dynamics 365
-- Azure DevOps Services
 
-## <a name="accelerate-your-deployment-of-hipaahitrust-solutions-on-azure"></a>Accelerare la distribuzione di soluzioni HIPAA/HITRUST in Azure
+## <a name="azure-dynamics-365-and-hipaa"></a>Azure, Dynamics 365 e HIPAA
 
-Iniziare a sfruttare i vantaggi del cloud per le soluzioni di dati sanitari con Il blueprint di [sicurezza e conformità di Azure.](/azure/governance/blueprints/samples/hipaa-hitrust-9-2) Questo progetto fornisce strumenti e indicazioni per iniziare a creare soluzioni HIPAA/HITRUST oggi.
+Per altre informazioni sulla conformità di Azure, Dynamics 365 e altri servizi online, vedi l'offerta [HIPAA di Azure.](/azure/compliance/offerings/offering-hipaa-us)
 
-Per altre [informazioni, visita l'offerta Azure e HIPAA.](/azure/compliance/offerings/offering-hipaa-us)
+## <a name="office-365-and-hipaa"></a>Office 365 e HIPAA
 
-## <a name="frequently-asked-questions"></a>Domande frequenti
+### <a name="office-365-cloud-environments"></a>Office 365 cloud
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 applicabilità e servizi nell'ambito
+
+Utilizzare la tabella seguente per determinare l'applicabilità per i servizi Office 365 e la sottoscrizione:
+
+| **Applicabilità** | **Servizi nell'ambito** |
+|:------------------|:----------------------|
+| **Office 365** | Access Online, Azure Active Directory, Azure Communications Service, Compliance Manager, Customer Lockbox, Delve, Exchange Online, Forms, Griffin, Identity Manager, Lockbox (Torus), Microsoft Defender for Office 365, Microsoft Teams, MyAnalytics, Office 365 Advanced Compliance add-on, Office 365 Customer Portal, Office 365 Microservices (inclusi Kaizala, ObjectStore, Sway, Power Automate, PowerPoint Online Document Service, Query Annotation Service, Servizio annotazioni, School Data Sync, Siphon, Speech, StaffHub, eXtensible Application Program), Office 365 Security & Compliance Center, Office Online, Office Pro Plus, Office Services Infrastructure, OneDrive for Business, Planner, PowerApps, Power BI, Project Online, Service Encryption with Customer Key, SharePoint Online, Skype for Business, Stream |
+| **GCC** | Azure Active Directory, Azure Communications Service, Compliance Manager, Delve, Exchange Online, Forms, Microsoft Defender for Office 365, Microsoft Teams, MyAnalytics, Office 365 Advanced Compliance add-on, Office 365 Security & Compliance Center, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business, Stream |
+
+### <a name="frequently-asked-questions"></a>Domande frequenti
 
 **L'organizzazione può entrare in un baa con Microsoft?**
 
@@ -99,17 +111,13 @@ Per assistere i clienti in questa attività, Microsoft ha pubblicato queste guid
 - La guida all'implementazione di HIPAA/HITECH Act per [Azure](/azure/governance/blueprints/samples/hipaa-hitrust-9-2/) per i responsabili della privacy, della sicurezza e della conformità e altri responsabili dell'implementazione hipaaa e HITECH Act, descrive i passi concreti che l'organizzazione può intraprendere per mantenere la conformità.
 - [Guida pratica alla progettazione di soluzioni](https://aka.ms/azureindustrysecurity) sanitarie sicure Microsoft Azure consente di comprendere meglio cosa serve per adottare correttamente un servizio cloud in modo sicuro.
 
-## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usare Microsoft Compliance Manager per valutare i rischi
+### <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usare Microsoft Compliance Manager per valutare i rischi
 
 [Microsoft Compliance Manager](/microsoft-365/compliance/compliance-manager) è una funzionalità nel [Centro conformità Microsoft 365](/microsoft-365/compliance/microsoft-365-compliance-center) utile per comprendere lo stato di conformità dell'organizzazione e intraprendere azioni per ridurre i rischi. Compliance Manager offre un modello premium per creare una valutazione per questa normativa. Individuare il modello nella pagina **modelli di valutazioni** in Compliance Manager. Informazioni su come [creare valutazioni in Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments).
 
-## <a name="resources"></a>Risorse
+### <a name="resources"></a>Risorse
 
 - [Contratto Microsoft HIPAA Business Associate](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3)
-- [Guida all'implementazione di Azure HIPAA](https://azure.microsoft.com/resources/a-practical-guide-to-designing-secure-health-solutions-using-microsoft-azure/)
-- [Azure HIPAA/HITRUST Blueprint](/azure/governance/blueprints/samples/hipaa-hitrust-9-2/)
 - [Microsoft Cloud per le offerte di conformità sanitaria](https://aka.ms/MicrosoftCloudforHealthcareCompliance)
-- [Azure per il settore sanitario](https://azure.microsoft.com/industries/healthcare/)
-- [Azure High-Performance Computing for Health and Life Sciences](https://azure.microsoft.com/solutions/high-performance-computing/health-and-life-sciences/)
 - [Microsoft Cloud per il settore sanitario](https://www.microsoft.com/industry/health/microsoft-cloud-for-healthcare)
 - [Assistenza sanitaria nel Centro protezione Microsoft](https://www.microsoft.com/trust-center/cloudservices/health)

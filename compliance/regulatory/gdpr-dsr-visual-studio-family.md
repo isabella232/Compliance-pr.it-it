@@ -20,18 +20,18 @@ ms.workload:
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
 hideEdit: true
-ms.openlocfilehash: 46b59094b188e6ceac58c4aa1fac6dedf8c55671
-ms.sourcegitcommit: 5d8e670e9d9968458047b51b6b2930f7bd14a011
+ms.openlocfilehash: 4a4ec723a046b65ade51b2e7aaa08fcda3a1908d
+ms.sourcegitcommit: 8bf2602d56eedee4447ddb374ef95b0587f254e7
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "53141467"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53377943"
 ---
 # <a name="visual-studio-family-data-subject-requests-for-the-gdpr-and-ccpa"></a>Richieste degli interessati per la famiglia Visual Studio nell'ambito del GDPR e del CCPA
 
-Il [Regolamento generale sulla protezione dei dati (GDPR)](https://ec.europa.eu/justice/data-protection/reform/index_en.htm) dell'Unione europea garantisce alle persone (denominate nel regolamento _interessati_) il diritto di gestire i loro dati personali. I dati personali sono ampiamente descritti nel GDPR come dati che si riferiscono a una persona fisica identificata o identificabile. Il GDPR garantisce agli interessati diritti specifici sui propri dati personali; tali diritti includono la possibilità di ottenere delle copie dei dati personali, richiedere di apportare delle modifiche ai dati, limitare il trattamento dei dati, eliminarli o riceverli in un formato elettronico. Una richiesta formale di un interessato rivolta a un titolare (un impiegato o un tipo di agenzia o organizzazione che detiene il controllo dei dati personali) in merito a un'operazione da effettuare sui propri dati personali è denominata _Richiesta dell'interessato_.
+Il [Regolamento generale sulla protezione dei dati](https://ec.europa.eu/justice/data-protection/reform/index_en.htm) dell'Unione europea (GDPR) conferisce alle persone (conosciute nel regolamento come _interessati_) il diritto di gestire i propri dati personali. Nel GDPR, i dati personali sono definiti molto ampiamente come qualsiasi dato relativo a una persona fisica identificata o identificabile. In base al regolamento GDPR, ai soggetti dei dati vengono assegnati diritti specifici relativamente ai dati personali, tra i quali il diritto di ottenerne copie, richiedere correzioni, limitarne l'elaborazione, eliminarli o riceverli in formato elettronico. Una richiesta formale da parte di un interessato a un responsabile del trattamento dei dati (un datore di lavoro o altro tipo di agenzia o organizzazione che ha il controllo sui dati personali) di intraprendere un'azione sui dati personali dell'interessato è chiamata _richiesta dell'interessato_.
 
-Analogamente, il California Consumer Privacy Act (CCPA) fornisce obblighi e diritti in materia di privacy per i consumatori della California, inclusi diritti simili ai diritti dell'interessato del GDPR, ad esempio il diritto di eliminare, ricevere e accedere alle informazioni personali (portabilità).  Nell'ambito dei diritti che i consumatori possono esercitare, il CCPA prevede inoltre l'obbligo per determinate divulgazioni, di protezioni contro la discriminazione e requisiti di consenso o rifiuto esplicito per alcuni trasferimenti di dati classificati come "vendite". In generale, la definizione di vendite include la condivisione di dati a titolo oneroso. Per altre informazioni sul CCPA, vedere il [California Consumer Privacy Act](offering-ccpa.md) e le [Domande frequenti sul California Consumer Privacy Act](ccpa-faq.yml).
+Analogamente, il California Consumer Privacy Act (CCPA) prevede obblighi e diritti in materia di privacy per i consumatori della California, inclusi diritti simili a quelli che il GDPR riconosce all'interessato, ad esempio il diritto di eliminare, ricevere e accedere alle informazioni personali (portabilità).  Nell'ambito dei diritti che i consumatori possono esercitare, il CCPA prevede inoltre l'obbligo per determinate divulgazioni, di protezioni contro la discriminazione e requisiti di consenso o rifiuto esplicito per alcuni trasferimenti di dati classificati come "vendite". In generale, la definizione di vendite include la condivisione di dati a titolo oneroso. Per altre informazioni sul CCPA, vedere il [California Consumer Privacy Act](offering-ccpa.md) e le [Domande frequenti sul California Consumer Privacy Act](ccpa-faq.yml).
 
 Per informazioni generali sul GDPR, consultare la [sezione riguardante il GDPR del Service Trust Portal](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted).
 
@@ -212,9 +212,9 @@ Per informazioni su DSR per il sito Web IIS.NET, vedere [Sito Web IIS.NET e trat
 
 ## <a name="other-visual-studio-family-services"></a>Altri servizi appartenenti alla famiglia Visual Studio
 
-### <a name="surveymonkey"></a>SurveyMonkey
+### <a name="survey-monkey"></a>Survey Monkey
 
-Di tanto in tanto, Microsoft invita i clienti a fornire feedback relativi a questi prodotti tramite SurveyMonkey. Questi dati vengono eliminati entro 28 giorni. Nella gestione delle richieste dell'interessato per questi prodotti, se Microsoft riceve risposte autenticate ai sondaggi, queste vengono incluse nell'esportazione ed eliminate insieme alle richieste dell'interessato.
+Di tanto in tanto, invitiamo i clienti a fornire feedback su questi prodotti tramite Survey Monkey. Questi dati vengono eliminati da Survey Monkey entro 28 giorni. Microsoft può conservare questi dati internamente per un massimo di 18 mesi. Se le risposte al sondaggio vengono autenticate, le includiamo nelle richieste di esportazione ed eliminazione dell'interessato durante la gestione delle richieste dell'interessato per questi prodotti.
 
 ## <a name="learn-more"></a>Ulteriori informazioni
 
