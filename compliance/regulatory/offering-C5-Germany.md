@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 7154e239956c624d621977b8c9167ec5e58c5001
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 7a530d78107af4f37607f90c6a93008ec695f765
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121775"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385466"
 ---
 # <a name="cloud-computing-compliance-controls-catalog-c5"></a>Cloud Computing Compliance Controls Catalog (C5)
 
@@ -39,7 +39,7 @@ Anche il BSI sottolinea la trasparenza. Nell'ambito di un controllo, il provider
 
 I servizi cloud Microsoft vengono controllati almeno una volta l'anno rispetto agli standard SOC 2 (Sezione AT 101). Secondo BSI, un controllo C5 può essere associato a un controllo SOC 2 per poter riutilizzare parti della descrizione del sistema e i risultati del controllo, in caso di controlli sovrapposti. Microsoft Azure, Azure per enti pubblici e Azure Germania gestiscono un report combinato (C5, SOC 2 tipo 2, attestazione CSA STAR) basato sul controllo eseguito da un revisore indipendente, che dimostra la conformità al C5.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud Microsoft inclusi
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme e servizi cloud Microsoft inclusi nell'ambito
 
 - [Azure, Azure per enti pubblici e Azure Germania](https://go.microsoft.com/fwlink/p/?linkid=2051569)
 - Office 365 Germania
@@ -69,7 +69,7 @@ Microsoft Cloud per la Germania si trova fisicamente in Germania e rispetta i re
 ## <a name="resources"></a>Risorse
 
 - Cloud Computing Compliance Controls Catalog (C5) ([Inglese](https://www.bsi.bund.de/EN/Topics/CloudComputing/Compliance_Criteria_Catalogue/Compliance_Criteria_Catalogue_node.html)) ([tedesco](https://www.bsi.bund.de/DE/Themen/DigitaleGesellschaft/CloudComputing/Kriterienkatalog/Kriterienkatalog_node.html))
-- Raccomandazioni sulla sicurezza per i provider di cloud computing ([inglese](https://www.bsi.bund.de/EN/Topics/CloudComputing/Secure_use_of_cloud_services/Secure_use_cloud_services_node.html)) ([tedesco](https://www.bsi.bund.de/DE/Themen/DigitaleGesellschaft/CloudComputing/Sichere_Nutzung_Cloud/Sichere_Nutzung_Cloud_node.html))
+- Raccomandazioni sulla sicurezza per i provider di cloud computing ([inglese](https://www.bsi.bund.de/EN/Topics/CloudComputing/Secure_use_of_cloud_services/Secure_use_cloud_services_node.html)) ([tedesco](https://www.bsi.bund.de/DE/Themen/DigitaleGesellschaft/CloudComputing/Sichere_Nutzung_Cloud/Sichere_Nutzung_Cloud_node.html))
 - [Report di conformità: C5-und SOC-Testate Azure Deutschland](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=df100ae1-baf9-4785-8a6d-864c0bc5c308&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_SOC%20%2F%20SSAE%2016%20Reports)
 - [Manuale di conformità IT-Grundschutz](https://gallery.technet.microsoft.com/Azure-Germany-IT-fca4afd7) per Microsoft Azure Germania
 - [Conformità nel Centro protezione Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)

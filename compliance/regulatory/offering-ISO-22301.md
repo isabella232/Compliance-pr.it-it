@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: d87d143479cab3dffb881c58dc19d11a81b1c7a9
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 1c4cf624eb6f658bcdddde1acbef7bc43323f257
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088935"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384716"
 ---
 # <a name="iso-223012012-business-continuity-management-standard"></a>Standard di gestione della continuità aziendale ISO 22301:2012
 
@@ -35,7 +35,7 @@ Pubblicato nel 2012 dal comitato tecnico, ISO 22301:2012 è il primo standard in
 
 Microsoft è stato il primo provider di servizi cloud iperscalabile a ricevere la certificazione ISO 22301 per la gestione della continuità aziendale. Un organismo di certificazione indipendente ha rilasciato questa certificazione a Microsoft Azure, Microsoft Azure per enti pubblici, Microsoft Office 365 (incluse le offerte commerciali, per enti pubblici e per l'istruzione), Microsoft Cloud App Security, Microsoft Intune e Microsoft Power BI dopo un controllo rigoroso di tutti gli aspetti dei processi di continuità aziendale. Il controllo ha riguardato i servizi in ambito elencati di seguito e le funzionalità di gestione di Azure, il portale di Azure e i sistemi usati per monitorare, gestire e aggiornare i servizi rientranti nell'ambito.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud Microsoft inclusi
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme e servizi cloud Microsoft inclusi nell'ambito
 
 - [Azure, Azure per enti pubblici e Azure Germania](https://aka.ms/AzureCompliance)
 - Microsoft Cloud App Security
@@ -46,7 +46,7 @@ Microsoft è stato il primo provider di servizi cloud iperscalabile a ricevere l
 - Intune
 - [Microsoft Managed Desktop](/microsoft-365/managed-desktop/intro/compliance)
 - Servizio cloud Power Automate (in precedenza Microsoft Flow), autonomo o incluso in un piano o in una famiglia di prodotti Office 365 o Dynamics 365
-- [Office 365 commerciale, per enti pubblici e per l'istruzione](https://go.microsoft.com/fwlink/p/?linkid=2077751)
+- Office 365 commerciale, per enti pubblici e per l'istruzione
 - Servizio cloud PowerApps, autonomo o incluso in un piano o in una famiglia di prodotti con marchio Office 365 o Dynamics 365
 - Servizio cloud Power BI, autonomo o incluso in un piano o in una famiglia di prodotti con marchio Office 365
 - Power BI Embedded

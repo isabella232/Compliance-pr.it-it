@@ -19,12 +19,12 @@ ms.custom:
 - seo-marvel-mar2020
 titleSuffix: Microsoft GDPR
 hideEdit: true
-ms.openlocfilehash: f6b0582215242dd1de187b4cd0386e44b144dba8
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: b0b16b88ede35ed71cdc90b27a7e3076e51ae56b
+ms.sourcegitcommit: 8bf2602d56eedee4447ddb374ef95b0587f254e7
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496484"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53377813"
 ---
 # <a name="support-your-gdpr-program-with-accountability-readiness-checklists"></a>Supportare il programma GDPR con elenchi di controllo di preparazione della conformità
 
@@ -37,8 +37,9 @@ Gli elenchi di controllo di preparazione della conformità vengono forniti per a
 Esiste una guida specifica per quattro famiglie di prodotti e servizi Microsoft:
 
 - [Office 365](gdpr-arc-Office365.md)
-- [Dynamics 365](gdpr-arc-azure-dynamics.md)
-- [Azure](gdpr-arc-azure-dynamics.md)
+- [Dynamics 365](gdpr-arc-azure-dynamics-windows.md)
+- [Azure](gdpr-arc-azure-dynamics-windows.md)
+- [Windows](gdpr-arc-azure-dynamics-windows.md)
 - [Servizi professionali e supporto tecnico Microsoft](gdpr-arc-prof-services.md)
 
 È possibile gestire gli elementi di questo elenco di controllo con [Compliance Manager](/microsoft-365/compliance/compliance-manager) usando il codice e il nome dei controlli nel riquadro del GDPR che comprende i controlli gestiti dai clienti.

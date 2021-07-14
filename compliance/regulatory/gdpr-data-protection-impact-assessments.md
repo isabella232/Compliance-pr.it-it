@@ -17,12 +17,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft GDPR
 hideEdit: true
-ms.openlocfilehash: eb609f081f3f2aeb182bfe7a24327ebc89513a9c
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 711cbafddaa6fbdff4050b138edacbd399666ef3
+ms.sourcegitcommit: 8bf2602d56eedee4447ddb374ef95b0587f254e7
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496309"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53377783"
 ---
 # <a name="data-protection-impact-assessment-for-the-gdpr"></a>Valutazione dell'impatto sulla protezione dei dati per il GDPR
 
@@ -43,7 +43,7 @@ Il GDPR richiede che i titolari preparino una valutazione dell'impatto sulla pro
 
 ## <a name="dpia-in-action"></a>Scopri come funziona la DPIA
 
-Le indicazioni DPIA si applicano a Office 365, Azure, Dynamics 365 e al supporto tecnico Microsoft e ai servizi professionali. Tali indicazioni includono le seguenti considerazioni:
+Le indicazioni DPIA si applicano a Office 365, Azure, Dynamics 365, al supporto tecnico Microsoft e ai servizi professionali. Tali indicazioni includono le seguenti considerazioni:
 
 **Quando è necessaria una DPIA?**
 
@@ -77,6 +77,7 @@ Di seguito sono riportati dettagli specifici che possono essere rilevanti per l'
 - [Office 365](gdpr-dpia-office365.md): questo documento riguarda le applicazioni e i servizi di Office 365, inclusi, a titolo esemplificativo, Exchange Online, SharePoint Online, Yammer, Skype for Business e Power BI. Per altre informazioni, vedere le Tabelle [1](/microsoft-365/compliance/gdpr-dpia-office365#part-1--determining-whether-a-dpia-is-needed) e [2](/microsoft-365/compliance/gdpr-dpia-office365#part-2--contents-of-a-dpia).  
 - [Azure](gdpr-dpia-azure.md): i clienti sono invitati a collaborare con i responsabili della privacy e il consiglio legale per determinare la necessità e il contenuto di qualsiasi DPIA relativa all'uso di Microsoft Azure.  
 - [Dynamics 365](gdpr-dpia-dynamics.md): il contenuto di una DPIA può variare in base al tipo di strumenti di Dynamics 365 che si usano. Per informazioni dettagliate, fare riferimento alla [Parte 2 Contenuti di una DPIA](/microsoft-365/compliance/gdpr-dpia-dynamics#part-2--contents-of-a-dpia).
+- [Windows](/compliance/regulatory/gdpr-dpia-windows): il documento si applica alla [configurazione del responsabile del trattamento dei dati di diagnostica Windows](/windows/privacy/configure-windows-diagnostic-data-in-your-organization). I clienti sono invitati a collaborare con i responsabili della privacy e il proprio consulente legale per determinare la necessità e il contenuto di qualsiasi DPIA relativa all'uso della configurazione del responsabile del trattamento dei dati di diagnostica Windows.
 - [Supporto tecnico Microsoft e servizi professionali](gdpr-dpia-prof-services.md): i servizi professionali non conducono determinate routine o elaborazioni automatizzate dei dati, né il trattamento di categorie speciali o l'esecuzione di attività che facilitino o richiedano il monitoraggio di dati accessibili pubblicamente. Per informazioni dettagliate, vedere [Parte 1: Determinare se è necessaria una DPIA](/microsoft-365/compliance/gdpr-dpia-prof-services#part-1--determining-whether-a-dpia-is-needed). I titolari devono considerare gli elementi DPIA descritti sopra, insieme ad altri fattori rilevanti, nel contesto delle implementazioni e degli usi specifici dei servizi professionali da parte del titolare. Per informazioni sui servizi professionali, vedere la [Parte 2: Contenuti di una DPIA](/microsoft-365/compliance/gdpr-dpia-prof-services#part-2--contents-of-a-dpia).
 
 ## <a name="learn-more"></a>Ulteriori informazioni

@@ -15,12 +15,12 @@ ms.custom:
 - seo-marvel-mar2020
 titleSuffix: Microsoft GDPR
 hideEdit: true
-ms.openlocfilehash: 298f0efe74539c8a8bd10330cfeb80894ef9edb1
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 6e088f64d6b0113640100269b29ef31737befe92
+ms.sourcegitcommit: 8bf2602d56eedee4447ddb374ef95b0587f254e7
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089015"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53377953"
 ---
 # <a name="gdpr-for-office-web-apps-server-and-office-online-server"></a>GDPR per Server Office Web Apps e Office Online Server
 
@@ -80,7 +80,7 @@ I log di Office contengono vari tipi di dati. Di seguito sono riportati esempi d
 
 - Dati sulle prestazioni dell'applicazione e/o funzionalità particolari all'interno dell'applicazione
 
-- Informazioni generali sulla posizione del computer dell'utente (ad esempio paese/area geografica, provincia e città, derivate dall'indirizzo IP), ma non la precisa posizione geografica.
+- Informazioni generali sulla posizione del computer dell'utente (ad esempio paese/area geografica, provincia e città, derivate dall'indirizzo IP), ma non sulla precisa posizione geografica.
 
 - I metadati di base del browser, ad esempio nome e versione del browser, e del computer, ad esempio tipo e versione del sistema operativo
 

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 8f3471ee619bd2c67641d621652f1ce99322959a
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 0769681ba9a8885639c52eaa1a3d4d55ea9ab0c0
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509280"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384150"
 ---
 # <a name="enisa-information-assurance-framework"></a>ENISA Information Assurance Framework
 
@@ -43,19 +43,30 @@ Azure Compliance è elencato nel CSA STAR Registry, un registro di sistema acces
 
 Dato che questi report di autovalutazione sono accessibili pubblicamente, i clienti Azure possono ottenere una panoramica delle procedure di sicurezza Microsoft e confrontare diversi CSP usando lo stesso strumento di riferimento.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud Microsoft inclusi nell'ambito
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme e servizi cloud Microsoft inclusi nell'ambito
 
-- [Azure](https://aka.ms/AzureCompliance)
+- Azure
+- Office 365
 
-## <a name="audits-reports-and-certificates"></a>Controlli, report e certificati
+## <a name="azure-dynamics-365-and-enisa-iaf"></a>Azure, Dynamics 365 ed ENISA IAF
 
-Microsoft attesta la conformità di Azure con il framework CSA CCM basato sull'autovalutazione e l'allineamento dei servizi con  
-ENISA IAF.
+Per altre informazioni su Azure, Dynamics 365 e la conformità dei servizi online, vedere l'[offerta ENISA IAF](/azure/compliance/offerings/offering-eu-enisa-iaf).
 
-- [Registro CSA STAR](https://aka.ms/Azure_STAR)
+## <a name="office-365-and-enisa-iaf"></a>Office 365 ed ENISA IAF
 
-## <a name="resources"></a>Risorse
+### <a name="office-365-cloud-environments"></a>Ambienti cloud di Office 365
 
-- [Risposta standard di Azure per le richieste di informazioni](https://gallery.technet.microsoft.com/Azure-Standard-Response-to-5de19cb6)
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Applicabilità di Office 365 e servizi inclusi nell'ambito
+
+Usare la tabella seguente per determinare l'applicabilità per i servizi e l'abbonamento a Office 365:
+
+| **Applicabilità** | **Servizi inclusi nell'ambito** |
+|:------------------|:----------------------|
+| **Office 365** | Azure Active Directory, Azure Information Protection, Bookings, Compliance Manager, Delve, Exchange Online, Exchange Online Protection, Forms, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Defender per Office 365, Microsoft Graph, Microsoft Teams, Microsoft To-Do per il Web, MyAnalytics, componente aggiuntivo Conformità avanzata di Office 365, Office 365 Cloud App Security, Gruppi di Office 365, Centro sicurezza e conformità di Office 365, Video di Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, Microsoft SharePoint Online, Skype for Business, StaffHub, Microsoft Stream, Sway, Yammer Enterprise |
+
+### <a name="resources"></a>Risorse
+
 - [Microsoft e l'autovalutazione CSA STAR](offering-csa-star-self-assessment.md)
 - [Microsoft e ISO/IEC 27001](offering-ISO-27001.md)

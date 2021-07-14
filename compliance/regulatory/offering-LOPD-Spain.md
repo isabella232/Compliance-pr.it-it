@@ -1,5 +1,5 @@
 ---
-title: Decreto Reale spagnolo 1720/2007, Legge Organica spagnola 15/1999
+title: Decreto Reale spagnolo 1720/2007, Legge Organica spagnola 15/1999 (LOPD)
 description: I clienti di Microsoft Cloud sono autorizzati al trasferimento di dati oltre confine da parte dell'Agenzia spagnola per la protezione dei dati (AEPD).
 keywords: Microsoft 365, conformità, offerte
 localization_priority: Priority
@@ -16,14 +16,14 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: a665e6be33d42901597de23f39b6e71ae9c2fe70
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 29b4c3bf83d2fea147e2e7ce5294136040fa58ba
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089800"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384566"
 ---
-# <a name="spanish-royal-decree-17202007-spanish-organic-law-151999"></a>Decreto Reale spagnolo 1720/2007, Legge Organica spagnola 15/1999
+# <a name="spanish-royal-decree-17202007-spanish-organic-law-151999-lopd"></a>Decreto Reale spagnolo 1720/2007, Legge Organica spagnola 15/1999 (LOPD)
 
 ## <a name="spanish-royal-decree-17202007-spanish-organic-law-151999-overview"></a>Panoramica sul Decreto Reale spagnolo 1720/2007, Legge Organica spagnola 15/1999
 
@@ -35,12 +35,26 @@ Il titolo VIII del Decreto Reale 1720/2007 stabilisce stringenti requisiti per i
 
 Microsoft è il primo provider di servizi cloud con iperscalabilità che riceve l'autorizzazione dell'Agenzia spagnola per la protezione dei dati (Agencia Española de Protección de Datos o AEPD) per la sua conformità agli elevati standard in materia di trasferimento internazionale di dati previsti dalla Legge Organica spagnola 15/1999 (Ley Orgánica 15/1999 de Protección de Datos o LOPD). Microsoft è anche il primo provider di servizi cloud con iperscalabilità ad ottenere la certificazione di un ente di controllo terzo in merito alla conformità dei propri servizi online secondo le misure di sicurezza descritte nel titolo VIII del Decreto Reale 1720/2007. Questa autorizzazione consente ai clienti il trasferimento di dati personali ai servizi Microsoft Azure, Dynamics 365 e Office 365 nel rispetto delle clausole modello dell'Unione Europea.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud Microsoft inclusi nell'ambito
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme e servizi cloud Microsoft inclusi nell'ambito
 
-- [Microsoft Azure](https://aka.ms/AzureCompliance)
-- [Microsoft Dynamics 365](https://aka.ms/d365-compliance-list)
+- Azure
+- [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune
-- [Microsoft Office 365](https://aka.ms/o365-compliance-framework)
+- Office 365
+
+## <a name="office-365-and-lopd"></a>Office 365 e LOPD
+
+### <a name="office-365-cloud-environments"></a>Ambienti cloud di Office 365
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Applicabilità di Office 365 e servizi inclusi nell'ambito
+
+Usare la tabella seguente per determinare l'applicabilità per i servizi e l'abbonamento a Office 365:
+
+| **Applicabilità** | **Servizi inclusi nell'ambito** |
+|:------------------|:----------------------|
+| **Office 365** | Azure Active Directory, Azure Information Protection, Bookings, Compliance Manager, Delve, Exchange Online, Exchange Online Protection, Forms, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Defender per Office 365, Microsoft Graph, Microsoft Teams, Microsoft To-Do per il Web, MyAnalytics, componente aggiuntivo Conformità avanzata di Office 365, Office 365 Cloud App Security, Gruppi di Office 365, Centro sicurezza e conformità di Office 365, Video di Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, Microsoft SharePoint Online, Skype for Business, StaffHub, Microsoft Stream, Sway, Yammer Enterprise |
 
 ## <a name="audits-reports-and-certificates"></a>Controlli, report e certificati
 

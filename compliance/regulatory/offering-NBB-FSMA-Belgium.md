@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: abe7b849b8cb10ddbe11eb1a95a972d244ac43c3
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 3e0cedef50d4ac52547c785e5a5395b8b67ca1d6
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120085"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384446"
 ---
 # <a name="national-bank-of-belgium-nbb-and-the-financial-services-and-markets-authority-fsma"></a>Banca nazionale del Belgio e FSMA (Financial Services Markets Authority)
 
@@ -45,12 +45,12 @@ Per aiutare gli istituti finanziari in Belgio che desiderano esternalizzare le f
 
 Quando le organizzazioni finanziarie in Belgio esternalizzano le funzioni aziendali sul cloud, queste devono adeguarsi alla normativa e alle linee guida della Banca nazionale del Belgio e della FSMA (Financial Services and Markets Authority), nell'ampio quadro legislativo dell'Autorità bancaria europea (ABE).
 
-L'elenco di controllo di Microsoft consente alle società finanziarie in Belgio di svolgere valutazioni di due diligence dei servizi cloud di Microsoft per le aziende. Esso include:
+L'elenco di controllo di Microsoft consente alle società finanziarie in Belgio di svolgere valutazioni di due diligence dei servizi cloud di Microsoft per le aziende. Include:
 
 - Informazioni generali sul panorama normativo a scopo di contestualizzazione.
 - Un elenco di controllo che definisce le problematiche da affrontare e associa i servizi Microsoft Azure, Microsoft Dynamics 365 e Microsoft 365 agli obblighi normativi. L'elenco di controllo può essere usato come strumento per misurare la conformità ad alcune normative e definire uno schema interno per documentare la conformità e aiutare i clienti a svolgere le loro valutazioni dei rischi rispetto ai servizi cloud Microsoft per le aziende.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud Microsoft inclusi nell'ambito
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme e servizi cloud Microsoft inclusi nell'ambito
 
 - [Azure](https://aka.ms/AzureCompliance)
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
@@ -64,7 +64,7 @@ L'elenco di controllo di Microsoft consente alle società finanziarie in Belgio 
 
 ## <a name="frequently-asked-questions"></a>Domande frequenti
 
-**È richiesta l'approvazione dell’autorità competente?**
+**È richiesta l'approvazione da parte delle autorità competenti?**
 
 No. Tuttavia, gli istituti finanziari devono informare la Banca nazionale del Belgio e la FSMA in caso si verifichi un'interruzione del piano di esternalizzazione che potrebbe avere un impatto significativo sulle operazioni, la reputazione, la redditività o la possibilità dell'azienda di gestire i rischi e conformarsi alle leggi e alle normative applicabili.
 
@@ -82,4 +82,4 @@ Sì. Esistono punti specifici che gli istituti finanziari devono inserire nei pr
 - [Servizi cloud e servizi finanziari di Microsoft per le aziende](https://www.microsoft.com/trustcenter/cloudservices/financialservices)
 - [Azure Financial Services Compliance Program](https://azure.microsoft.com/resources/videos/azurecon-2015-financial-services-compliance-in-azure/)
 - [Strumento di valutazione del rischio cloud di Azure per i servizi finanziari](https://servicetrust.microsoft.com/ViewPage/FFIECBlueprint?command=Download&downloadType=Document&downloadId=079a1973-711a-428f-9312-9ddd290cff7b&docTab=c726d5c0-2d1e-11e8-a485-57140ec19669_PaaS)
-- [Conformità nel Centro protezione Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Conformità nel Centro protezione di Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
