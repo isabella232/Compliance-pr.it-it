@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f9c3ebd4c4988366d429f7b6cfc377f4f9c8a611
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 92e67729125916b1ec34f7e305468f7e07489d12
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120075"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384466"
 ---
 # <a name="my-number-act-japan"></a>My Number Act (Giappone)
 
@@ -47,23 +47,33 @@ Per quanto riguarda le problematiche della sicurezza, i servizi cloud Microsoft 
 
 I servizi cloud Microsoft per le aziende soddisfano gli obblighi del My Number Act e non creano ulteriori obblighi ai sensi di tale legge per i clienti, come il consenso da parte di un singolo proprietario dei dati personali.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud Microsoft inclusi nell'ambito
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme e servizi cloud Microsoft inclusi nell'ambito
 
-- [Azure](https://gallery.technet.microsoft.com/Overview-of-Azure-c1be3942)
-- [Dynamics 365](https://download.microsoft.com/download/E/1/9/E1977163-7A86-4812-AC18-C03ADC958AAF/Microsoft_Dynamics_365_Cloud_Service_Compliance_Datasheet.pdf)
+- Azure
+- [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune
-- [Office 365](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=9f756cce-b15d-45a9-94d7-6a583dee4401&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
+- Office 365
+
+## <a name="office-365-and-the-my-number-act"></a>Office 365 e il My Number Act
+
+### <a name="office-365-cloud-environments"></a>Ambienti cloud di Office 365
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Applicabilità di Office 365 e servizi inclusi nell'ambito
+
+Usare la tabella seguente per determinare l'applicabilità per i servizi e l'abbonamento a Office 365:
+
+| **Applicabilità** | **Servizi inclusi nell'ambito** |
+|:------------------|:----------------------|
+| **Office 365** | Azure Active Directory, Azure Information Protection, Bookings, Compliance Manager, Delve, Exchange Online, Exchange Online Protection, Forms, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Defender per Office 365, Microsoft Graph, Microsoft Teams, Microsoft To-Do per il Web, MyAnalytics, componente aggiuntivo Conformità avanzata di Office 365, Office 365 Cloud App Security, Gruppi di Office 365, Centro sicurezza e conformità di Office 365, Video di Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, Microsoft SharePoint Online, Skype for Business, StaffHub, Microsoft Stream, Sway, Yammer Enterprise |
 
 ## <a name="how-to-implement"></a>Come eseguire l'implementazione
 
 - [Criteri di sicurezza di Microsoft](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=231213ea-9954-41fd-a757-ae62f3721dc7&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_FAQ_and_White_Papers): come Microsoft gestisce la sicurezza delle informazioni personali e delle organizzazioni nei suoi servizi cloud.
-
 - [Privacy in Office 365](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=a1b48a5b-bcb1-4c19-9277-952c0df87113&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_FAQ_and_White_Papers): come Microsoft sviluppa misure di protezione della privacy efficaci in Office 365.
-
 - [Accesso degli amministratori in Office 365](/office365/SecurityCompliance/office-365-administrative-access-controls-overview): come Microsoft gestisce l'accesso degli amministratori ai dati dei clienti.
-
 - [Controlli e report in Office 365](/office365/SecurityCompliance/office-365-auditing-and-reporting-overview): quali funzionalità possono usare i clienti per tenere traccia delle attività degli utenti e degli amministratori all'interno del loro tenant.
-
 - [Conservazione dei dati in Office 365](/office365/SecurityCompliance/office-365-data-retention-deletion-and-destruction-overview): quali sono i criteri di gestione dei dati relativamente al periodo in cui vengono conservati i dati dei clienti dopo l'eliminazione.
 
 ## <a name="frequently-asked-questions"></a>Domande frequenti

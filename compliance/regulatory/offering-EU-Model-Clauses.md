@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: e50e5a8e0dd8ec400b4ca5ae053f3898e4cb0abc
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 456ce920d3327926541c78b1153577dcc6bb8e42
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496528"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385156"
 ---
 # <a name="european-union-model-clauses"></a>Clausole del modello dell'Unione europea
 
@@ -41,19 +41,33 @@ Microsoft ha sottoposto le sue clausole contrattuali standard al Gruppo di lavor
 
 Il gruppo ha stabilito che l'implementazione delle disposizioni negli accordi Microsoft era conforme ai loro rigidi requisiti (Microsoft è stato il primo provider di servizi cloud a ricevere una lettera di approvazione da parte del gruppo). L'approvazione riguardava gli impegni riportati nelle clausole del modello 2010/87/EU ma non nelle appendici, che descrivono i trasferimenti di dati e le misure di sicurezza implementati dalla persona incaricata a importare i dati. Le appendici possono essere analizzate separatamente dalla DPA.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud Microsoft inclusi
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme e servizi cloud Microsoft inclusi nell'ambito
 
-- [Azure e Azure per enti pubblici](https://aka.ms/AzureCompliance)
-- Microsoft Cloud App Security
-- Microsoft Professional Services: premier e locale per Azure, Dynamics 365, Intune e per le medie e grandi imprese clienti di Microsoft 365 per le aziende
+- Azure e Azure per enti pubblici
+- Azure DevOps Services
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune: parte del servizio cloud del prodotto del componente aggiuntivo Intune e gestione di dispositivi mobili per Office 365
+- Microsoft Cloud App Security
+- Microsoft Defender per endpoint per le seguenti parti del servizio cloud: rilevamento e reazione dagli endpoint, analisi e risoluzioni automatiche e punteggio di sicurezza.
+- Microsoft Professional Services: premier e locale per Azure, Dynamics 365, Intune e per le medie e grandi imprese clienti di Microsoft 365 per le aziende
+- Office 365
 - Servizio cloud Power Automate (in precedenza Microsoft Flow), autonomo o incluso in un piano o in una famiglia di prodotti Office 365 o Dynamics 365
-- [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
-- Servizio cloud PowerApps come servizio autonomo o incluso in un piano o in una famiglia di prodotti con marchio Office 365 o Dynamics 365
+- Servizio cloud PowerApps, autonomo o incluso in un piano o in una famiglia di prodotti con marchio Office 365 o Dynamics 365
 - Servizio cloud Power BI, autonomo o incluso in un piano o in una famiglia di prodotti con marchio Office 365
-- Azure DevOps Services
-- Microsoft Defender per endpoint per le seguenti parti del servizio cloud: rilevamento e reazione dagli endpoint, analisi e risoluzioni automatiche e Secure Score.
+
+## <a name="office-365-and-european-union-model-clauses"></a>Office 365 e le clausole del modello dell'Unione europea
+
+### <a name="office-365-cloud-environments"></a>Ambienti cloud di Office 365
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Applicabilità di Office 365 e servizi inclusi nell'ambito
+
+Usare la tabella seguente per determinare l'applicabilità per i servizi e l'abbonamento a Office 365:
+
+| **Applicabilità** | **Servizi inclusi nell'ambito** |
+|:------------------|:----------------------|
+| **Office 365** | Protezione dalla minacce di Azure, Azure Active Directory, Azure Information Protection, Bookings, Compliance Manager, Delve, Exchange Online, Exchange Online Protection, Forms, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Graph, Microsoft Teams, Microsoft To-Do per il Web, MyAnalytics, componente aggiuntivo Conformità avanzata di Office 365, Office 365 Cloud App Security, Gruppi di Office 365, Centro sicurezza e conformità di Office 365, Video di Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, Microsoft SharePoint Online, Skype for Business, StaffHub, Microsoft Stream, Sway, Yammer Enterprise |
 
 ## <a name="audits-reports-and-certificates"></a>Controlli, report e certificati
 
@@ -88,7 +102,6 @@ Un "responsabile secondario del trattamento dei dati" è chiunque elabori i dati
 - [Direttiva europea sulla protezione dei dati](https://aka.ms/EU-DPD)
 - [Comitato europeo per la protezione dei dati](https://edpb.europa.eu/)
 - [Domande frequenti sulle clausole del modello dell'UE per Dynamics 365 e Office 365](https://products.office.com/business/office-365-trust-center-eu-model-clauses-faq)
-- [Microsoft e il Privacy Shield UE-USA](offering-eu-us-privacy-shield.md)
-- [Framework di conformità dell'hub dei controlli comuni di Microsoft](https://www.microsoft.com/trustcenter/common-controls-hub)
+- [Hub dei controlli comuni del framework di conformità Microsoft](https://www.microsoft.com/trustcenter/common-controls-hub)
 - [Condizioni di Microsoft Online Services](https://aka.ms/Online-Services-Terms)
 - [Conformità nel Centro protezione Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)

@@ -28,8 +28,12 @@
           href: /azure/compliance/offerings/offering-iso-27701?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
         - name: ISO-9001
           href: /azure/compliance/offerings/offering-iso-9001?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
-        - name: SOC
-          href: offering-soc.md
+        - name: SOC 1
+          href: offering-soc-1.md
+        - name: SOC 2
+          href: offering-soc-2.md
+        - name: SOC 3
+          href: offering-soc-3.md
         - name: WCAG
           href: offering-wcag-2-1.md
     - name: Governo degli Stati Uniti
@@ -40,8 +44,10 @@
           href: /azure/compliance/offerings/offering-cnssi-1253?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
         - name: DFARS
           href: offering-dfars.md
-        - name: 'DoD DISA L2, L4, L5'
-          href: offering-dod-disa-l2-l4-l5.md
+        - name: DoD IL2
+          href: offering-dod-il2.md
+        - name: DoD IL5
+          href: offering-dod-il5.md
         - name: DoE 10 CFR parte 810
           href: /azure/compliance/offerings/offering-doe-10-cfr-part-810?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
         - name: EAR
@@ -248,8 +254,8 @@
       items:
         - name: Elenchi di controllo di preparazione della conformità
           href: gdpr-arc.md
-        - name: Azure e Dynamics 365
-          href: gdpr-arc-azure-dynamics.md
+        - name: 'Azure, Dynamics 365 e Windows'
+          href: gdpr-arc-azure-dynamics-windows.md
         - name: Professional Services e supporto tecnico Microsoft
           href: gdpr-arc-prof-services.md
         - name: Office 365
@@ -274,20 +280,18 @@
           href: gdpr-dsr-office365.md
         - name: Famiglia di prodotti Visual Studio
           href: gdpr-dsr-visual-studio-family.md
-        - name: Windows Enterprise
+        - name: Windows
           href: gdpr-dsr-windows.md
     - name: Notifica di violazione
       items:
         - name: Notifica di violazione
           href: gdpr-breach-notification.md
-        - name: Azure e Dynamics 365
-          href: gdpr-breach-azure-dynamics.md
-        - name: Professional Services e Supporto tecnico Microsoft
+        - name: 'Azure, Dynamics 365 & Windows'
+          href: gdpr-breach-azure-dynamics-windows.md
+        - name: Professional Services e supporto tecnico Microsoft
           href: gdpr-breach-microsoft-support-professional-services.md
         - name: Office 365
           href: gdpr-breach-office365.md
-        - name: Windows Enterprise
-          href: gdpr-breach-windows.md
     - name: Valutazioni d'impatto sulla protezione dei dati
       items:
         - name: Valutazioni d'impatto sulla protezione dei dati
@@ -300,7 +304,7 @@
           href: gdpr-dpia-prof-services.md
         - name: Office 365
           href: gdpr-dpia-office365.md
-        - name: Windows Enterprise
+        - name: Windows
           href: gdpr-dpia-windows.md
     - name: GDPR per server locali di Office
       items:

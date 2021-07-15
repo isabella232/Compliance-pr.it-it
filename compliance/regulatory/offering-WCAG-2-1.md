@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 6330ee298949353c24a4b95ff65696807b78b09b
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: baea6a472b247d3f86019792a56fb28a6a256b77
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088795"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384316"
 ---
 # <a name="web-content-accessibility-guidelines"></a>Linee guida per l'accessibilità dei contenuti Web
 
@@ -41,15 +41,31 @@ Microsoft pubblica report delle linee guida WCAG che rispecchiano il prodotto o 
 
 [Scaricare gli standard di accessibilità WCAG (ISO/IEC 40500)](https://www.w3.org/WAI/standards-guidelines/wcag/)
 
-## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud Microsoft associati
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme e servizi cloud Microsoft inclusi nell'ambito
 
 - [Azure e Azure per enti pubblici](https://go.microsoft.com/fwlink/p/?linkid=2051569)
 - Azure DevOps Services
 - Dynamics 365 e Dynamics 365 U.S. Government
 - Intune
-- Office 365 e Office 365 U.S. Government
-- Office 365 U.S. Government Defense
+- Office 365, Office 365 U.S. Government, Office 365 U.S. Government Defense
 - Windows Server 2016
+
+## <a name="office-365-and-wcag"></a>Office 365 e Web Content Accessibility Guidelines
+
+### <a name="office-365-cloud-environments"></a>Ambienti cloud di Office 365
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Applicabilità di Office 365 e servizi inclusi nell'ambito
+
+Usare la tabella seguente per determinare l'applicabilità per i servizi e l'abbonamento a Office 365:
+
+| **Applicabilità** | **Servizi inclusi nell'ambito** |
+|:------------------|:----------------------|
+| **Office 365** | Excel, interfaccia di amministrazione di Exchange, interfaccia di amministrazione di Office 365 (portale), esperienza di accesso di Office 365 e Azure AD, portale per i clienti di Office 365, Centro sicurezza e conformità di Office 365, Office 365 Video, Office Lens, Office.com, interfaccia di amministrazione di OneDrive, OneDrive for Business, client di sincronizzazione di OneDrive, OneNote, Orcas, Outlook Groups, Outlook, PowerPoint, Project, Word  |
+| **GCC** | Azure Active Directory, Compliance Manager, Delve, Exchange Online, Forms, Microsoft Defender per Office 365, Microsoft Teams, MyAnalytics, componente aggiuntivo Office 365 Advanced Compliance, Centro sicurezza e conformità di Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business, Stream |
+| **GCC High** | Azure Active Directory, Exchange Online, Forms, Microsoft Defender per Office 365, Microsoft Teams, componente aggiuntivo Office 365 Advanced Compliance, Centro sicurezza e conformità di Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business |
+| **DoD** | Azure Active Directory, Exchange Online, Microsoft Defender per Office 365, Microsoft Teams, componente aggiuntivo Office 365 Advanced Compliance, Centro sicurezza e conformità di Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, Forms, Power BI, SharePoint Online, Skype for Business |
 
 ## <a name="microsoft-accessibility-conformance-reports"></a>Report Microsoft sulla conformità agli standard di accessibilità
 

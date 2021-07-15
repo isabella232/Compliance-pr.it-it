@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: c753092f26df4a0d8ebcb5fc2a7921cee9e79f93
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 18abcba03796d7f6563c65cebcbbafd63759dc7c
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120925"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385226"
 ---
 # <a name="european-banking-authority-eba"></a>Autorità bancaria europea (ABE)
 
@@ -37,16 +37,16 @@ Per aiutare gli istituti finanziari dell'UE a seguire le raccomandazioni dell'Au
 
 Le linee guida di Microsoft illustrano, punto per punto, ciascuna delle raccomandazioni dell'ABE:
 
-- Diritti di controllo. Microsoft offre contrattualmente diritti di controllo per i clienti e diritti di valutazione per gli enti normativi nel contratto per i servizi finanziari leader del settore.
-- Notifica relativa all'esternalizzazione. Microsoft può aiutare i clienti a comunicare agli enti normativi le attività materiali da esternalizzare.
+- Diritti di controllo: Microsoft offre diritti contrattuali di controllo per i clienti e di valutazione per gli enti normativi nell'Emendamento dei servizi finanziari leader del settore.
+- Notifica per l'esternalizzazione: Microsoft assiste i clienti che devono informare le autorità di regolamentazione sulle attività materiali da esternalizzare.
 - Residenza dei dati. Presenti in 36 aree geografiche, di cui sei in Europa, Microsoft offre il maggior numero di data center in tutto il mondo rispetto ad altri provider di servizi cloud. Le organizzazioni possono distribuire carichi di lavoro in un'area geografica senza dover ospitare dati in Europa.
-- Notifica relativa ai subappaltatori. Microsoft è leader del settore con un impegno contrattuale che prevede di offrire ai clienti un preavviso di 180 giorni in merito ai nuovi fornitori e prevede un diritto di recesso se il cliente non accetta la nomina del nuovo fornitore.
-- Continuità aziendale. Microsoft fornisce disposizioni sulla continuità aziendale e sulla risoluzione nel contratto per i servizi finanziari, inclusa la disponibilità a fornire assistenza per la transizione attraverso Microsoft Consulting Services.
-- Valutazione dei rischi e monitoraggio della sicurezza. Microsoft consente ai clienti di condurre le proprie valutazioni dei rischi e fornisce strumenti e dashboard in modo che possano supervisionare e monitorare i servizi cloud.
+- Notifica per i subappaltatori: Microsoft è leader del settore con un impegno contrattuale che prevedere di comunicare ai clienti un preavviso di 180 giorni in merito ai nuovi fornitori e un diritto di recesso se il cliente non accetta la nomina del nuovo subappaltatore.
+- Continuità aziendale: Microsoft fornisce continuità aziendale e disposizioni sulla risoluzione nell'Emendamento dei servizi finanziari, inclusa la disponibilità a fornire assistenza per la transizione attraverso Microsoft Consulting Services.
+- Valutazione dei rischi e monitoraggio della sicurezza: Microsoft consente ai clienti di condurre le proprie valutazioni dei rischi e fornisce strumenti e dashboard in modo che possano supervisionare e monitorare i servizi cloud.
 
 Per gli istituti finanziari nell'UE, Microsoft ha inoltre pubblicato il documento [Risk Assessment and Compliance Guide for Financial Institutions in the Microsoft Cloud](https://aka.ms/RiskGovernanceGuide) (Linee guida per la valutazione dei rischi e per la conformità degli istituti finanziari nel cloud Microsoft), un elenco di controllo modellato in base alle linee guida dell'ABE. Esso spiega come definire un modello di governance ottimizzato per soddisfare i requisiti normativi e valutare in modo efficiente i rischi derivanti dall'utilizzo dei servizi cloud Microsoft, con conseguente presentazione per l'approvazione da parte dell'autorità di regolamentazione. Le linee guida includono un elenco di domande a cui rispondere per la richiesta di conformità che fanno riferimento alle linee guida dell'ABE sull'esternalizzazione ai fornitori di servizi cloud.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Servizi cloud Microsoft inclusi nell'ambito
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme e servizi cloud Microsoft inclusi nell'ambito
 
 - [Azure](https://aka.ms/AzureCompliance)
 - [Microsoft 365](https://aka.ms/o365-compliance-framework)
