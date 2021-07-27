@@ -14,17 +14,18 @@ localization_priority: Normal
 ms.collection:
 - Strat_O365_IP
 - M365-security-compliance
+- MS-Compliance
 search.appverid:
 - MET150
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 65462901c72bcda1af4e1b58bc0df2caa6cbaec9
-ms.sourcegitcommit: 8bf2602d56eedee4447ddb374ef95b0587f254e7
+ms.openlocfilehash: 0201ad28f25af78ec69f99725e12118dc205b338
+ms.sourcegitcommit: 07578a8e03b931f47c49f4e34b78cf8ba0605e8f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53377563"
+ms.lasthandoff: 07/23/2021
+ms.locfileid: "53573804"
 ---
 # <a name="resiliency-and-continuity-overview"></a>Panoramica sulla resilienza e sulla continuità
 

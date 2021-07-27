@@ -14,17 +14,18 @@ localization_priority: Normal
 ms.collection:
 - Strat_O365_IP
 - M365-security-compliance
+- MS-Compliance
 search.appverid:
 - MET150
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 8922124e6fd6da852ee4bfc4c51dae7ee432f35b
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 21408643bcdb3effc0a8630d3f4da54a42281f44
+ms.sourcegitcommit: 07578a8e03b931f47c49f4e34b78cf8ba0605e8f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089647"
+ms.lasthandoff: 07/23/2021
+ms.locfileid: "53573754"
 ---
 # <a name="microsoft-365-risk-management-program"></a>Microsoft 365 Programma di gestione dei rischi
 

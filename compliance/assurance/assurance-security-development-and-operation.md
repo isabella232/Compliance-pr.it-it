@@ -14,17 +14,18 @@ localization_priority: Normal
 ms.collection:
 - Strat_O365_IP
 - M365-security-compliance
+- MS-Compliance
 search.appverid:
 - MET150
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: d1cc1473a0478cd516ddfebf37d881174219e0c2
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 7a706cda887c0c2675841648ef8541ffbb872884
+ms.sourcegitcommit: 07578a8e03b931f47c49f4e34b78cf8ba0605e8f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53087605"
+ms.lasthandoff: 07/23/2021
+ms.locfileid: "53573694"
 ---
 # <a name="security-development-and-operations-overview"></a>Panoramica delle operazioni e dello sviluppo della sicurezza
 

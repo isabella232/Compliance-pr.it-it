@@ -20,12 +20,12 @@ f1.keywords:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 5c94dcab6ac61daa2d1723d84b47a6f360d55b59
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 5708ab20d78d1862af5613c64ea492c40bea9da1
+ms.sourcegitcommit: 07578a8e03b931f47c49f4e34b78cf8ba0605e8f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53087705"
+ms.lasthandoff: 07/23/2021
+ms.locfileid: "53573834"
 ---
 # <a name="attack-simulation-in-microsoft-365"></a>Simulazione di un attacco in Microsoft 365
 
@@ -35,7 +35,7 @@ Microsoft 365 dispone di sistemi di monitoraggio interni che monitorano continua
 
 Anche se Microsoft 365 ha azioni di ripristino automatizzate, ove possibile, i tecnici microsoft sono disponibili 24x7 per analizzare tutte le escalation di sicurezza di gravità 1 e le revisioni post-mortem di ogni incidente di servizio contribuiscono all'apprendimento continuo e al miglioramento. Questo team include tecnici del supporto, sviluppatori di prodotti, program manager, product manager e dirigenti senior. I nostri professionisti di chiamata forniscono un backup rapido e spesso possono automatizzare le azioni di ripristino, in modo che la prossima volta che si verifica un evento, possa essere auto-curato.
 
-Microsoft esegue un'analisi approfondita post-incidente ogni volta che si verifica un Microsoft 365 di sicurezza indipendentemente dalla grandezza dell'impatto. Una revisione post-incidente consiste in un'analisi di ciò che è successo, di come abbiamo risposto e di come preveniamo incidenti simili in futuro. Nell'interesse della trasparenza e della responsabilità, condividiamo le revisioni post-incidente per eventuali incidenti di servizio principali con i clienti interessati. Per informazioni dettagliate, vedere [Office 365 Security Incident Management.](https://aka.ms/Office365SIM)
+Microsoft esegue un'analisi approfondita post-incidente ogni volta che si verifica un Microsoft 365 di sicurezza indipendentemente dalla grandezza dell'impatto. Una revisione post-incidente consiste in un'analisi di ciò che è successo, di come abbiamo risposto e di come preveniamo incidenti simili in futuro. Nell'interesse della trasparenza e della responsabilità, condividiamo le revisioni post-incidente per eventuali incidenti di servizio principali con i clienti interessati. Per informazioni dettagliate, vedere [Gestione degli incidenti di sicurezza Microsoft.](assurance-security-incident-management.md)
 
 ## <a name="assume-breach-methodology"></a>Presupporre la metodologia di violazione
 

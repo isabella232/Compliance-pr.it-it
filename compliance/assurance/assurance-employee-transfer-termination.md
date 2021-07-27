@@ -14,17 +14,18 @@ localization_priority: Normal
 ms.collection:
 - Strat_O365_IP
 - M365-security-compliance
+- MS-Compliance
 search.appverid:
 - MET150
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 862bd05a84e5144602a24ac2aca1780cffaff3fe
-ms.sourcegitcommit: 48b8ec2dd00e957508e5af82458bf697e1a97ebb
+ms.openlocfilehash: 4a71ab3ddf6688df5480a8f260e004778aa6212b
+ms.sourcegitcommit: 07578a8e03b931f47c49f4e34b78cf8ba0605e8f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53395616"
+ms.lasthandoff: 07/23/2021
+ms.locfileid: "53573361"
 ---
 # <a name="microsoft-employee-transfer-and-termination"></a>Trasferimento e cessazione dei dipendenti Microsoft
 

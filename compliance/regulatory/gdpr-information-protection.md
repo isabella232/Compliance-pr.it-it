@@ -14,15 +14,16 @@ audience: itpro
 ms.collection:
 - GDPR
 - M365-security-compliance
+- MS-Compliance
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
 hideEdit: true
-ms.openlocfilehash: 59f32d9ae9afc5e3682c032168d296dc0eec95f4
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: abdda00cf161c880400babef54989dd8d6935d46
+ms.sourcegitcommit: 07578a8e03b931f47c49f4e34b78cf8ba0605e8f
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496037"
+ms.lasthandoff: 07/23/2021
+ms.locfileid: "53573854"
 ---
 # <a name="information-protection-for-gdpr-with-microsoft-365-capabilities"></a>Protezione delle informazioni per RGPD con le funzionalità di Microsoft 365
 
@@ -57,8 +58,8 @@ Microsoft fornisce una configurazione consigliata, che è possibile usare come p
 La protezione dalle minacce è incorporata in tutti i servizi Microsoft 365. Ecco alcune risorse per iniziare:
 
 - [Roadmap sulla sicurezza di Office 365: priorità per i primi 30 giorni, 90 giorni e oltre](/microsoft-365/security/office-365-security/security-roadmap). Questa roadmap include elementi consigliati per l'implementazione delle funzionalità. 
-- [Proteggere l'ambiente dalle minacce in Office 365](/microsoft-365/security/office-365-security/protect-against-threats). Informazioni sulle azioni di protezione che è possibile effettuare nel centro sicurezza Microsoft 365.
-- [Protezione dalla minacce Windows](/windows/security/threat-protection/). Altre informazioni su Microsoft Defender per endpoint e altre funzionalità in Windows 10.
+- [Protezione dalle minacce in Office 365](/microsoft-365/security/office-365-security/protect-against-threats). Informazioni sulle azioni di protezione che è possibile eseguire nel Centro sicurezza Microsoft 365.
+- [Windows Threat Protection](/windows/security/threat-protection/). Altre informazioni su Microsoft Defender per endpoint e altre funzionalità in Windows 10.
 
 ## <a name="learn-more"></a>Ulteriori informazioni
 
