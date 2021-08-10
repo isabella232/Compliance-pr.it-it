@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 4c27c84d2abc2de4866471d652d8b11351bc3168
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: c333fc2d6bdb9889dafefd2571b8381edd15e5158a4783aa7a17cec7ce1bcc7c
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385656"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54293383"
 ---
 # <a name="new-zealand-government-information-security-and-privacy-considerations-ispc"></a>Considerazioni sulla privacy e sulla sicurezza delle informazioni del governo neozelandese (ISPC)
 
@@ -37,25 +37,25 @@ Per assistere le agenzie governative NZ nell'esecuzione di due diligence coerent
 
 Per aiutare le agenzie a intraprendere l'analisi e la valutazione dei servizi cloud aziendali Microsoft, Microsoft New Zealand ha prodotto documenti che mostrano come i servizi cloud aziendali affrontano le domande poste nel "Cloud Computing ISPC" collegandoli agli standard in base ai quali i servizi cloud Microsoft sono certificati. Queste certificazioni sono centrali per il modo in cui Microsoft garantisce ai clienti del settore pubblico e privato che i suoi servizi cloud sono progettati, creati e gestiti per ridurre in modo efficace i rischi per la privacy e la sicurezza e affrontare i problemi di sovranità dei dati. La [risposta di Azure all'ISPC cloud computing](https://azure.microsoft.com/resources/microsoft-azure-response-to-nz-gcio-cloud-computing-information-security-privacy-considerations/) è disponibile per il download per i clienti.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme cloud microsoft nell'ambito & servizi
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme e servizi cloud Microsoft inclusi nell'ambito
 
 - Azure e Azure per enti pubblici
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune
 - Office 365
-- Servizio cloud Power BI, indipendente o incluso in un piano o in una famiglia di prodotti con marchio Office 365
+- Servizio cloud Power BI, autonomo o incluso in un piano o in una famiglia di prodotti con marchio Office 365
 
 ## <a name="office-365-and-ispc"></a>Office 365 e ISPC
 
-### <a name="office-365-cloud-environments"></a>Office 365 cloud
+### <a name="office-365-cloud-environments"></a>Ambienti cloud di Office 365
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 applicabilità e servizi nell'ambito
+### <a name="office-365-applicability-and-in-scope-services"></a>Applicabilità di Office 365 e servizi inclusi nell'ambito
 
-Utilizzare la tabella seguente per determinare l'applicabilità per i servizi Office 365 e la sottoscrizione:
+Usare la tabella seguente per determinare l'applicabilità per i servizi e l'abbonamento a Office 365:
 
-| **Applicabilità** | **Servizi nell'ambito** |
+| **Applicabilità** | **Servizi inclusi nell'ambito** |
 |:------------------|:----------------------|
 | **Office 365** | Exchange Online, SharePoint Online, Skype for Business |
 

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: d92fc7b56d2c240588b90afad6a82264fde911c5
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 2c866391c08b4a69db3cb54bdbfbe367007e32ce59207f0d42df0bb29cf98f9f
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384326"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54293403"
 ---
 # <a name="securities-and-exchange-commission-sec-rule-17a-4f-united-states"></a>Securities and Exchange Commission (SEC) Rule 17a-4(f) United States
 
@@ -44,7 +44,7 @@ Per valutare la conformità di Azure e Office 365 alla regola SEC 17a-4(f), Micr
 - **Azure**: [sec 17a-4(f) Compliance Assessment: Archiviazione di Microsoft Azure](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=19b08fd4-d276-43e8-9461-715981d0ea20&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_GRC_Assessment_Reports), Cohasset ha convalidato che il Archiviazione BLOB non modificabile di Azure con l'opzione Blocco criteri, se usato per conservare i BLOB basati sul tempo in un formato WORM (Non-Erasable and Non-Rewritable), soddisfa i requisiti di archiviazione non modificabili della regola SEC. [](/azure/storage/blobs/storage-blob-immutable-storage) Ogni BLOB (record) è protetto dalla modifica, dalla sovrascrittura o dall'eliminazione fino alla scadenza del periodo di conservazione richiesto e al rilascio di eventuali blocchi legali associati. I provider di software e i partner con carichi di lavoro sensibili possono ora fare affidamento sul Archiviazione BLOB non modificabile di Azure come soluzione cloud di onestop-shop per la conservazione dei record e l'archiviazione non modificabile. Gli istituti finanziari possono ora creare le proprie applicazioni sfruttando queste funzionalità pur rimanendo conformi.
 - **Microsoft 365**: per i requisiti [sec 17a-4(f),](/microsoft-365/compliance/retention-regulatory-requirements#sec-17a-4f-finra-4511c-and-cftc-131c-d) Cohasset ha convalidato che Microsoft 365 include funzionalità di archiviazione che consentono ai clienti regolamentati, inclusi i broker-rivenditori, di archiviare i dati in modo che rispettino i requisiti sec per la conservazione dei record. Le funzionalità di conservazione in Microsoft 365 consentono di conservare un'ampia gamma di dati, tra cui posta elettronica, segreteria telefonica, documenti condivisi, messaggi istantanei e dati di terze parti. In particolare, l'archiviazione in Microsoft 365 consente ai clienti di impostare criteri di conservazione della messaggistica globali o granulari per archiviare i dati per un periodo definito e oltre in un formato non riscrivibile e non cancellabile.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme cloud microsoft nell'ambito & servizi
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme e servizi cloud Microsoft inclusi nell'ambito
 
 - [Azure](https://gallery.technet.microsoft.com/Overview-of-Azure-c1be3942)
 - [Office 365](https://aka.ms/Office365ComplianceOfferings)
@@ -86,4 +86,4 @@ Usare panoramiche dei casi, esercitazioni e altre risorse per creare soluzioni d
 - [Strumento di valutazione del rischio cloud di Azure per i servizi finanziari](https://servicetrust.microsoft.com/ViewPage/FFIECBlueprint?command=Download&downloadType=Document&downloadId=079a1973-711a-428f-9312-9ddd290cff7b&docTab=c726d5c0-2d1e-11e8-a485-57140ec19669_PaaS)
 - [Microsoft Office 365 Criteri di conservazione](/office365/securitycompliance/retention-policies)
 - [Microsoft Financial Services Community](https://techcommunity.microsoft.com/t5/financial-services/ct-p/FinancialServices)
-- [Conformità nel Centro protezione di Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Conformità in Microsoft Trust Center](https://www.microsoft.com/trust-center/compliance/compliance-overview)

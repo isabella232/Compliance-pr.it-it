@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: d8eebfff19667ee96298179843b7b39f071b9f0a
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 6406c63d73e30a62d3cbe54bf8cef632cc5564b2cae3d1a9588652644b8f8c96
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384806"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54293903"
 ---
 # <a name="us-internal-revenue-service-publication-1075"></a>Us Internal Revenue Service Publication 1075
 
@@ -45,14 +45,14 @@ Per aiutare le agenzie governative nei loro sforzi di conformità, Microsoft:
 - Fornisce all'IRS Considerazioni sulla conformità di Azure Per enti pubblici e Office 365 Considerazioni sulla conformità del governo degli Stati Uniti, che illustrano come un'agenzia può usare i servizi Microsoft Cloud per enti pubblici in modo conforme a IRS 1075. I clienti governativi con NDA possono richiedere questi documenti.
 - Offre ai clienti l'opportunità (a loro spese) di comunicare con esperti microsoft o revisori esterni, se necessario.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme cloud microsoft nell'ambito & servizi
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme e servizi cloud Microsoft inclusi nell'ambito
 
 Le autorizzazioni FedRAMP vengono concesse a tre livelli di impatto in base alle linee guida NIST: bassa, media e alta. Questi classificano l'impatto che la perdita di riservatezza, integrità o disponibilità potrebbe avere su un'organizzazione, ovvero basso (effetto limitato), medio (grave effetto negativo) e alto (effetto grave o catastrofico).
 
 - Azure e Azure per enti pubblici
 - Dynamics 365 U.S. Government
 - Office 365, Office 365 U.S. Government
-- Servizio cloud Power BI, indipendente o incluso in un piano o in una famiglia di prodotti con marchio Office 365
+- Servizio cloud Power BI, autonomo o incluso in un piano o in una famiglia di prodotti con marchio Office 365
 
 ## <a name="azure-dynamics-365-and-irs-1075"></a>Azure, Dynamics 365 e IRS 1075
 
@@ -60,20 +60,20 @@ Per altre informazioni sulla conformità di Azure, Dynamics 365 e altri servizi 
 
 ## <a name="office-365-and-irs-1075"></a>Office 365 e IRS 1075
 
-### <a name="office-365-cloud-environments"></a>Office 365 cloud
+### <a name="office-365-cloud-environments"></a>Ambienti cloud di Office 365
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 applicabilità e servizi nell'ambito
+### <a name="office-365-applicability-and-in-scope-services"></a>Applicabilità di Office 365 e servizi inclusi nell'ambito
 
-Utilizzare la tabella seguente per determinare l'applicabilità per i servizi Office 365 e la sottoscrizione:
+Usare la tabella seguente per determinare l'applicabilità per i servizi e l'abbonamento a Office 365:
 
-| **Applicabilità** | **Servizi nell'ambito** |
+| **Applicabilità** | **Servizi inclusi nell'ambito** |
 |:------------------|:----------------------|
 | **Office 365** | Activity Feed Service, Bing Services, Delve, Exchange Online Protection, Exchange Online, Intelligent Services, Microsoft Teams, Office 365 Customer Portal, Office Online, Office Usage Reports, OneDrive for Business, People Card, Service Infrastructure, SharePoint Online, Skype for Business, Windows Ink |
 | **GCC** | Activity Feed Service, Bing Services, Delve, Exchange Online Protection, Exchange Online, Intelligent Services, Microsoft Teams, Office 365 Customer Portal, Office Online, Office Service Infrastructure, Office Usage Reports, OneDrive for Business, People Card, SharePoint Online, Skype for Business, Windows Ink |
 
-### <a name="office-365-audits-reports-and-certificates"></a>Office 365 controlli, report e certificati
+### <a name="office-365-audits-reports-and-certificates"></a>Controlli, report e certificati di Office 365
 
 La conformità ai requisiti sostanziali dell'IRS 1075 è coperta dal controllo FedRAMP ogni anno.
 
@@ -103,6 +103,6 @@ No. Gli unici ambienti in cui È possibile archiviare ed elaborare FTI sono Azur
 
 - [Pubblicazione IRS 1075](https://www.irs.gov/pub/irs-pdf/p1075.pdf)
 - [Programma di sicurezza IRS](https://www.irs.gov/uac/Safeguards-Program)
-- [Quadro di conformità dell'hub dei controlli comuni di Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Hub dei controlli comuni del framework di conformità Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
 - [Microsoft Cloud per enti pubblici](https://azure.microsoft.com/global-infrastructure/government/)
 - [Conformità in Microsoft Trust Center](https://www.microsoft.com/trust-center/compliance/compliance-overview)

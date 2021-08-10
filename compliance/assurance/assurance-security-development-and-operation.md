@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 3e2b1e62e0d614c503c978dff98d6952ff7de20d
-ms.sourcegitcommit: 0ffa79db0bbb35258496c7702285ed9d473b4ad9
+ms.openlocfilehash: 062284cb1cb56602bbcc4ba683670bfeb98460db2569bd837eaf748feceaae7d
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/31/2021
-ms.locfileid: "53678221"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292174"
 ---
 # <a name="security-development-and-operations-overview"></a>Panoramica delle operazioni e dello sviluppo della sicurezza
 
@@ -41,9 +41,9 @@ Una volta identificati i requisiti di sicurezza pertinenti, progettiamo il nostr
 
 ## <a name="how-does-microsoft-test-source-code-for-common-vulnerabilities"></a>In che modo Microsoft testa il codice sorgente per le vulnerabilità comuni?
 
-Per supportare gli sviluppatori nell'implementazione dei requisiti di sicurezza durante lo sviluppo del codice e dopo il rilascio, Microsoft fornisce una famiglia di strumenti di sviluppo sicuri per verificare automaticamente la presenza di difetti e vulnerabilità della sicurezza nel codice sorgente. Microsoft definisce e pubblica un elenco di strumenti approvati che gli sviluppatori possono usare, ad esempio compilatori e ambienti di sviluppo, insieme ai controlli di sicurezza incorporati eseguiti automaticamente nelle pipeline di compilazione Microsoft. I nostri sviluppatori usano le versioni più recenti degli strumenti approvati per sfruttare le nuove funzionalità di sicurezza.
+Per supportare gli sviluppatori nell'implementazione dei requisiti di sicurezza durante lo sviluppo del codice e dopo il rilascio, Microsoft offre una suite di strumenti di sviluppo sicuri per controllare automaticamente il codice sorgente e rilevare eventuali difetti e vulnerabilità della sicurezza. Microsoft definisce e pubblica un elenco di strumenti approvati che gli sviluppatori possono usare, ad esempio compilatori e ambienti di sviluppo, insieme ai controlli di sicurezza incorporati eseguiti automaticamente nelle pipeline di compilazione Microsoft. I nostri sviluppatori usano le versioni più recenti degli strumenti approvati per sfruttare le nuove funzionalità di sicurezza.
 
-Prima che il codice possa essere archiviato in un ramo di rilascio, il file SDL richiede la revisione manuale del codice da parte di un revisore separato. I revisori del codice verificano la presenza di errori di codifica e verificano che le modifiche al codice soddisfino i requisiti di progettazione e SDL, superino test funzionali e di sicurezza ed esercitino operazioni affidabili. Esaminano anche la documentazione, le config e le dipendenze associate per verificare che le modifiche al codice siano documentate in modo appropriato e non causeranno effetti collaterali indesiderati. Se un revisore rileva problemi durante la revisione del codice, può chiedere al mittente di inviare di nuovo il codice con modifiche suggerite e test aggiuntivi. I revisori del codice possono anche decidere di bloccare completamente l'archiviazione per il codice che non soddisfa i requisiti. Dopo che il codice è stato ritenuto soddisfacente dal revisore, il revisore fornisce l'approvazione, necessaria prima che il codice possa passare alla fase di distribuzione successiva.
+Prima che il codice possa essere archiviato in un ramo di rilascio, il file SDL richiede la revisione manuale del codice da parte di un revisore separato. I revisori del codice verificano la presenza di errori di codifica e verificano che le modifiche al codice soddisfino i requisiti di progettazione e SDL, superino i test funzionali e di sicurezza e abbiano prestazioni affidabili. Esaminano anche la documentazione, le configurazioni e le dipendenze associate per garantire che le modifiche al codice siano documentate in modo appropriato e non provochino effetti collaterali imprevisti. Se un revisore rileva problemi durante la revisione del codice, può chiedere al mittente di inviare di nuovo il codice con modifiche suggerite e test aggiuntivi. I revisori del codice possono anche decidere di bloccare completamente l'archiviazione per il codice che non soddisfa i requisiti. Dopo che il codice è stato ritenuto soddisfacente dal revisore, il revisore fornisce l'approvazione, necessaria prima che il codice possa passare alla fase di distribuzione successiva.
 
 Oltre a proteggere gli strumenti di sviluppo e la revisione manuale del codice, Microsoft applica i requisiti SDL utilizzando strumenti di sicurezza automatizzati. Molti di questi strumenti sono incorporati nella pipeline di commit e analizzano automaticamente il codice per i difetti di sicurezza quando viene archiviato e quando vengono compilate nuove build. Alcuni esempi includono l'analisi del codice statico per difetti di sicurezza comuni e scanner di credenziali che analizzano il codice per i segreti incorporati. I problemi scoperti dagli strumenti di sicurezza automatizzati devono essere risolti prima che le nuove build possano superare la revisione della sicurezza e essere approvate per il rilascio.
 

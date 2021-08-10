@@ -17,12 +17,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft GDPR
 hideEdit: true
-ms.openlocfilehash: ac740f31a7d09353752eea93a4ce41f2230e3178
-ms.sourcegitcommit: 8bf2602d56eedee4447ddb374ef95b0587f254e7
+ms.openlocfilehash: 67b03795984f03354ba901a9c0fedaab70886e97a357628ceed5568e542db210
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53378253"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54288305"
 ---
 # <a name="azure-dynamics-365-and-windows-breach-notification-under-the-gdpr"></a>Notifica di violazione di Azure, Dynamics 365 e Windows ai sensi del GDPR
 

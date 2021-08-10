@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 40309a5da5a9124fa91ddca4f371ebf05e363715
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 6504060cf7918981a601d4272c944d4b3343c69b97efa675893b21f8719a4757
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385486"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292743"
 ---
 # <a name="financial-authority-amf-and-prudential-authority-acpr-france"></a>Organismi di vigilanza AMF (Autorité des Marchés Financiers) e ACPR (Autorité de Contrôle Prudentiel et de Résolution) in Francia
 
@@ -77,4 +77,4 @@ Sì. L'articolo 239 [dell'Ordinanza ACPR del 3 novembre 2014](https://www.legifr
 - [Servizi cloud e servizi finanziari di Microsoft per le aziende](https://servicetrust.microsoft.com/viewpage/financialservicesoverview)
 - [Azure Financial Services Compliance Program](https://azure.microsoft.com/resources/videos/azurecon-2015-financial-services-compliance-in-azure/)
 - [Strumento di valutazione del rischio cloud di Azure per i servizi finanziari](https://servicetrust.microsoft.com/ViewPage/FFIECBlueprint?command=Download&downloadType=Document&downloadId=079a1973-711a-428f-9312-9ddd290cff7b&docTab=c726d5c0-2d1e-11e8-a485-57140ec19669_PaaS)
-- [Conformità nel Centro protezione di Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Conformità nel Centro protezione Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)

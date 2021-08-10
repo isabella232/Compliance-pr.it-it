@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 730a694455a3e8bcbd6b6ab3daa7f0f8e0ebf503
-ms.sourcegitcommit: 12cec299197fbc7b05c8d7604e7047b9392e3bc8
+ms.openlocfilehash: 9fb013647bc558856f7005c2d5e1ccdb656db9b9b04ceb5882df35a599e7ebff
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/26/2021
-ms.locfileid: "53589675"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292164"
 ---
 # <a name="resiliency-and-continuity-overview"></a>Panoramica sulla resilienza e sulla continuità
 
@@ -41,15 +41,15 @@ Le strategie di continuità aziendale dei Servizi online Microsoft utilizzano la
 
 Il criterio Enterprise EBCM (Business Continuity Management) di Microsoft prevede che tutti i piani di continuità aziendale e ripristino di emergenza Di Microsoft devono essere testati, aggiornati e esaminati su base annuale. I servizi online Microsoft testano i propri piani di continuità aziendale almeno ogni anno in base ai criteri EBCM. Dopo aver creato e esaminato i report azione per convalidare, testare i risultati e informare gli aggiornamenti del piano in risposta a eventuali problemi rilevati durante il test.
 
-Per convalidare le strategie di resilienza e ripristino in base a un'ampia gamma di potenziali incidenti, il programma EBCM definisce più categorie di scenari di test che interessano persone, posizioni e tecnologia. Il livello di convalida richiesto per ogni servizio si basa sulla criticità del servizio, con servizi più critici che ricevono una convalida più rigorosa. Ogni team del servizio online Microsoft testa il piano di continuità aziendale in base alle linee guida EBCM per misurare l'efficacia del piano e la disponibilità del team del servizio ad eseguire il piano.
+Per convalidare la flessibilità e le strategie di ripristino rispetto a un'ampia gamma di potenziali incidenti, il programma EBCM definisce più categorie di scenari di test che interessano persone, località e tecnologia. Il livello di convalida necessario per ogni servizio è basato sulla relativa criticità, per cui i servizi con la maggiore criticità ricevono una convalida più rigorosa. Ogni team del servizio online Microsoft testa il piano di continuità aziendale in base alle linee guida EBCM per misurare l'efficacia del piano e la disponibilità del team del servizio ad eseguire il piano.
 
 In base alle linee guida EBCM, le revisioni annuali dei piani di continuità aziendale e della convalida delle funzionalità devono avere luogo entro 12 mesi dall'ultima revisione. La convalida delle funzionalità deve includere la revisione della documentazione di supporto, ad esempio il BIA, per garantire che rimanga accurata. Microsoft rende disponibili ai clienti i risultati della convalida delle funzionalità per i servizi online Microsoft selezionati tramite report trimestrali.
 
 ## <a name="how-do-microsoft-online-services-ensure-system-capacity-meets-demand"></a>In che modo i servizi online Microsoft garantiscono che la capacità del sistema soddisfi la domanda?
 
-La pianificazione della capacità consente ai team di servizio di allocare le risorse necessarie per supportare la disponibilità dei servizi online Microsoft. La pianificazione regolare della capacità è necessaria nell'ambito del programma EBCM di Microsoft. I team di servizio esaminano i dati sulla capacità durante le revisioni trimestrali e durante le situazioni di emergenza che giustificano una maggiore revisione della capacità.
+La pianificazione della capacità consente ai team di servizio di allocare le risorse necessarie per supportare la disponibilità dei servizi online Microsoft. È necessaria una pianificazione regolare della capacità come parte del programma EBCM di Microsoft. I team di servizio esaminano i dati sulla capacità durante le revisioni trimestrali e durante le situazioni di emergenza che giustificano una maggiore revisione della capacità.
 
-I dati non elaborati per la pianificazione della capacità vengono gestiti da ogni team del servizio e includono metriche come l'elaborazione del sistema, la memoria e la capacità hardware. Le revisioni pianificate utilizzano un modello della capacità corrente del sistema e lo testano in base alle esigenze previste in situazioni di emergenza. Se il modello indica lacune di capacità, le modifiche proposte alla capacità del sistema vengono inviate alla direzione del team di servizio per la revisione. Le modifiche approvate vengono incorporate in un nuovo modello prima dell'implementazione da parte dei tecnici del team di servizio.
+I dati non elaborati per la pianificazione della capacità vengono gestiti da ogni team del servizio e includono metriche come l'elaborazione del sistema, la memoria e la capacità hardware. Le revisioni pianificate usano un modello della capacità corrente del sistema e lo testano in base alle esigenze previste in situazioni di emergenza. Se il modello indica lacune nella capacità, le modifiche proposte alla capacità del sistema vengono sottoposte alla leadership del team di assistenza per la revisione. Le modifiche approvate vengono incorporate in un nuovo modello prima dell'implementazione da parte dei tecnici del team di assistenza.
 
 ## <a name="how-do-microsoft-online-services-maintain-service-availability-during-routine-system-failures"></a>In che modo i servizi online Microsoft mantengono la disponibilità del servizio durante gli errori di sistema di routine?
 

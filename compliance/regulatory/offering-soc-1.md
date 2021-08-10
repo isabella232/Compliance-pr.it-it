@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: a3431b93e1c8f4b2705a0362114412aa4381143b
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: abe4804585269110d07e00b2e6f7cda75bd88106effd21f4d8060fedc03bbce8
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385744"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54294353"
 ---
 # <a name="system-and-organization-controls-soc-1-type-2"></a>SOC (System and Organization Controls) 1 di tipo 2
 
@@ -105,11 +105,11 @@ Per i collegamenti alla documentazione di controllo, vedere la sezione del repor
 
 **Dove è possibile visualizzare le risposte dell'amministrazione alle eccezioni individuate?**
 
-Le risposte dell'amministrazione si trovano verso la fine del report di attestazione SOC. Cercare "Risposte amministrazione" nel documento.
+Le risposte dell'amministrazione si trovano verso la fine del report di attestazione SOC. Cercare “Risposte amministrazione” nel documento.
 
 **Dove è possibile visualizzare le responsabilità dell'entità utente?**
 
-Le responsabilità dell'entità utente si trovano proprio alla fine del report di attestazione SOC. Cercare "Responsabilità entità utente" nel documento.
+Le responsabilità dell'entità utente si trovano proprio alla fine del report di attestazione SOC. Cercare “Responsabilità entità utente” nel documento.
 
 ### <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usare Microsoft Compliance Manager per valutare i rischi
 

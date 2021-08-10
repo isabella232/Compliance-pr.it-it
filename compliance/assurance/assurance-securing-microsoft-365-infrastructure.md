@@ -1,5 +1,5 @@
 ---
-title: Protezione dell'Microsoft 365 aziendale
+title: Protezione dell'infrastruttura di Microsoft 365
 description: Informazioni su come Microsoft protegge l'Microsoft 365 aziendale.
 ms.author: robmazz
 author: robmazz
@@ -20,14 +20,14 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 224900bd60f2fd5637e7264f1aed98d5ff878b20
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: d0ef6dc92820089259cd315713c0e7e4a9e11aaec50d731b15cd6e826a721107
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089639"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292753"
 ---
-# <a name="securing-the-microsoft-365-infrastructure"></a>Protezione dell'Microsoft 365 aziendale
+# <a name="securing-the-microsoft-365-infrastructure"></a>Protezione dell'infrastruttura di Microsoft 365
 
 Microsoft 365 è uno dei più grandi servizi cloud aziendali e consumer al mondo e continua a crescere rapidamente, sia nella base di clienti, nei prodotti e nelle funzionalità. I clienti si Microsoft 365 non solo per le sue soluzioni di produttività di livello mondiale, ma anche per proteggere le informazioni più sensibili dal panorama delle minacce informatiche in continua evoluzione. È la priorità principale di Microsoft mantenere sicuri i dati dei clienti e mantenere la fiducia dei clienti.
 
@@ -67,7 +67,7 @@ I contenuti dei clienti in pausa nei server Microsoft vengono crittografati a li
 
 Per ulteriori informazioni sulla crittografia in Microsoft 365, vedere Panoramica della crittografia e [della gestione delle chiavi.](assurance-encryption.md)
 
-### <a name="network-isolation"></a>Isolamento rete
+### <a name="network-isolation"></a>Isolamento della rete
 
 In linea con il principio dei privilegi minimi, Microsoft 365 la comunicazione tra diverse parti dell'infrastruttura di servizio solo a ciò che è necessario per operare. Tutto il traffico di rete viene negato per impostazione predefinita, con la sola comunicazione esplicitamente definita consentita. Questa restrizione definisce i limiti di violazione in tutta l'infrastruttura. Teams che desidera aggiungere nuovi percorsi di rete per supportare una nuova funzionalità al servizio deve avere la richiesta valutata e approvata prima di poter essere aperta.
 
@@ -101,4 +101,4 @@ Per ulteriori informazioni sul monitoraggio della sicurezza in Microsoft 365, ve
 
 ## <a name="resources"></a>Risorse
 
-[Behind the Scenes: Securing the Infrastructure Powering the Microsoft 365 Service](https://download.microsoft.com/download/c/4/5/c45b197e-f0d9-4f40-bd5f-ed8fc7d0cd8c/M365DCSecurityIntro_Whitepaper.pdf)
+[Dietro le quinte: proteggere l'infrastruttura potenziando il servizio Microsoft 365](https://download.microsoft.com/download/c/4/5/c45b197e-f0d9-4f40-bd5f-ed8fc7d0cd8c/M365DCSecurityIntro_Whitepaper.pdf)

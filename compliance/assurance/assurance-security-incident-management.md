@@ -19,12 +19,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: d52832d34034966eb9373925be2d3f5b31cfad5a
-ms.sourcegitcommit: 07578a8e03b931f47c49f4e34b78cf8ba0605e8f
+ms.openlocfilehash: 38bb8c8492c3bbff6ed96380ac3a4d284f220a0ec5b2fb7b7c00814033a5c02c
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "53573724"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292189"
 ---
 # <a name="microsoft-security-incident-management"></a>Gestione degli incidenti di sicurezza Microsoft
 
@@ -49,7 +49,7 @@ L'approccio di Microsoft alla gestione di un incidente di sicurezza è conforme 
 | Microsoft Datacenter Security Team | Team che si concentra sui vari servizi su investimenti comuni di progettazione della sicurezza per proteggere, rilevare e rispondere ai rischi e alle minacce dell'architettura dei servizi. |
 | Team di risposta alla sicurezza Microsoft | Team di sicurezza indipendenti di Azure, Dynamics 365 e Microsoft 365 che collaborano con i team di servizio per creare il processo di gestione degli incidenti di sicurezza appropriato e per guidare qualsiasi risposta agli incidenti di sicurezza. |
 | Team di governance, rischio e conformità (GRC) Microsoft | Fornire indicazioni su requisiti normativi, conformità e privacy. |
-| Team di servizio | Team di progettazione per Azure, Dynamics 365, Microsoft 365 responsabili dei criteri e delle decisioni relative alla sicurezza per ogni servizio. |
+| Team di assistenza | Team di progettazione per Azure, Dynamics 365, Microsoft 365 responsabili dei criteri e delle decisioni relative alla sicurezza per ogni servizio. |
 | Responsabili delle operazioni di Azure | Supervisiona l'indagine e la risoluzione degli incidenti di sicurezza e privacy correlati ad Azure. |
 | Microsoft Threat Intelligence Center (MSTIC) | Fornisce lo stato attuale delle minacce alla sicurezza digitale contro le infrastrutture e gli asset Microsoft, aiuta i team dei partner all'interno di Microsoft a definire le priorità dei piani di azione di prevenzione e prevenzione e aumenta la protezione adottando il monitoraggio/rilevamento di incidenti quasi in tempo reale. |
 | Team di comunicazione per l'esperienza del cliente | Team di progettazione responsabili di tutte le comunicazioni dei clienti su incidenti di sicurezza e servizi. I team separati sono dedicati ad Azure, Dynamics 365 e Microsoft 365. |

@@ -16,12 +16,12 @@ ms.custom:
 - seo-marvel-apr2020
 titleSuffix: Microsoft GDPR
 hideEdit: true
-ms.openlocfilehash: bd85f647ab26112b7ad5d628b6b1849314026324
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 8c3354405ae0e3b04abd4ec0181eadf1aba7d01496797e869b7d51e4defba472
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51495998"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292983"
 ---
 # <a name="gdpr-for-exchange-server"></a>GDPR per Exchange Server
 

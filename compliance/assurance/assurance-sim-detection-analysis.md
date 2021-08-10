@@ -19,12 +19,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 445d812b33214a3d2287268b587607004ef96ab7
-ms.sourcegitcommit: 8bf2602d56eedee4447ddb374ef95b0587f254e7
+ms.openlocfilehash: 9ec3e0456934c178b32a6f5fac987d70c267ef8046ff5c361abce914a2cea90a
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53377353"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54291869"
 ---
 # <a name="microsoft-security-incident-management-detection-and-analysis"></a>Gestione degli incidenti di sicurezza Microsoft: rilevamento e analisi
 
@@ -76,7 +76,7 @@ Alcuni esempi di queste azioni includono:
 - Riepilogo, che è una breve descrizione dell'incidente e del suo potenziale impatto
 - Gravità e priorità dell'incidente, che derivano dalla valutazione del potenziale impatto
 - Un elenco di tutti gli indicatori identificati che hanno portato al rilevamento dell'incidente
-- Elenco di eventuali eventi imprevisti correlati
+- L’elenco di eventuali incidenti correlati
 - Elenco di tutte le azioni intraprese dal v-team
 - Eventuali prove raccolte, che verranno conservate anche per l'analisi post-mortem e le future indagini forensi
 - Azioni e passaggi successivi consigliati

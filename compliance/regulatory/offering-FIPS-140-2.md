@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 2c51979122aaedda90bac74740e95c9d1265de74
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: dc0ab3e03128e0c9f7feddd36305805c7d8108e4ea12fa5feb5095bdc183e7f1
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385006"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292513"
 ---
 # <a name="federal-information-processing-standard-fips-publication-140-2"></a>Pubblicazione FIPS (Federal Information Processing Standard) 140-2
 
@@ -37,7 +37,7 @@ Microsoft mantiene un impegno attivo a soddisfare i requisiti 140-2, dopo aver c
 
 Per informazioni tecniche sui moduli di crittografia di Microsoft Windows, sui criteri di sicurezza per ogni modulo e sul catalogo dei dettagli del certificato CMVP, vedere il contenuto [di Windows e Windows Server FIPS 140-2.](https://aka.ms/AA6ehud)
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme cloud microsoft nell'ambito & servizi
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme e servizi cloud Microsoft inclusi nell'ambito
 
 Mentre la guida all'implementazione FIPS 140-2 CMVP corrente preclude una convalida FIPS 140-2 per un servizio cloud stesso; I provider di servizi cloud possono scegliere di ottenere e utilizzare i moduli di crittografia convalidati FIPS 140 per gli elementi di calcolo che costituiscono il servizio cloud. I servizi online Microsoft che includono componenti convalidati da FIPS 140-2 includono, tra gli altri:
 
@@ -51,15 +51,15 @@ Per altre informazioni sulla conformità di Azure, Dynamics 365 e altri servizi 
 
 ## <a name="office-365-and-fips-140-2"></a>Office 365 e FIPS 140-2
 
-### <a name="office-365-cloud-environments"></a>Office 365 cloud
+### <a name="office-365-cloud-environments"></a>Ambienti cloud di Office 365
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 applicabilità e servizi nell'ambito
+### <a name="office-365-applicability-and-in-scope-services"></a>Applicabilità di Office 365 e servizi inclusi nell'ambito
 
-Utilizzare la tabella seguente per determinare l'applicabilità per i servizi Office 365 e la sottoscrizione:
+Usare la tabella seguente per determinare l'applicabilità per i servizi e l'abbonamento a Office 365:
 
-| **Applicabilità** | **Servizi nell'ambito** |
+| **Applicabilità** | **Servizi inclusi nell'ambito** |
 |:------------------|:----------------------|
 | Office 365, GCC, GCC High, DoD | Vedere [Convalida FIPS 140-2](/windows/security/threat-protection/fips-140-validation) |
 
@@ -102,4 +102,4 @@ Si tratta di due standard di sicurezza separati con scopi diversi, ma complement
 - [Requisiti di sicurezza FIPS Pub 140-2 per i moduli crittografici](https://csrc.nist.gov/publications/fips/fips140-2/fips1402.pdf)
 - [Programma di convalida del modulo di crittografia NIST](https://csrc.nist.gov/groups/STM/cmvp/index.html)
 - [Windows, Windows Server e FIPS 140-2](/windows/security/threat-protection/fips-140-validation)
-- [Conformità nel Centro protezione di Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Conformità in Microsoft Trust Center](https://www.microsoft.com/trust-center/compliance/compliance-overview)

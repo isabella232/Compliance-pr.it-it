@@ -20,12 +20,12 @@ f1.keywords:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: b79a5f24b4fedba05c224592045425e4df2b648f
-ms.sourcegitcommit: 07578a8e03b931f47c49f4e34b78cf8ba0605e8f
+ms.openlocfilehash: a06abcca14c6a2d6c2197e92362282863f24db4ba3c401c125e54cdb9f508c82
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "53573794"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292284"
 ---
 # <a name="microsoft-365-reporting-features"></a>Funzionalità di reporting di Microsoft 365
 
@@ -79,7 +79,7 @@ Puoi gestire e proteggere i dispositivi mobili connessi all'abbonamento usando D
 
 I report di conformità di base per dispositivi mobili e sicurezza forniscono una panoramica dei criteri impostati da un'organizzazione per proteggere i dispositivi mobili che accedono ai Microsoft 365 dati. Il report consente di filtrare i dispositivi in base allo stato di conformità, alle violazioni segnalate, ai dispositivi bloccati e al numero di dispositivi cancellati a seguito dei criteri di sicurezza. Per ulteriori informazioni, vedere [Overview of Basic Mobility and Security for Microsoft 365](https://support.microsoft.com/office/overview-of-basic-mobility-and-security-for-microsoft-365-faa7d8e5-645d-4d59-839c-c8d4c1869e4a).
 
-## <a name="data-loss-prevention"></a>Prevenzione della perdita di dati
+## <a name="data-loss-prevention"></a>Prevenzione della perdita dei dati
 
 I criteri DLP consentono di gestire la sicurezza e il flusso di informazioni in un'organizzazione. È possibile configurare criteri per bloccare l'accesso al contenuto, crittografare i dati o notificare agli utenti violazioni dei criteri e dei criteri utilizzando criteri DLP nell'applicazione Suggerimenti. I report DLP forniscono informazioni dettagliate sul numero di corrispondenze, sostituzioni e falsi positivi di criteri e regole.
 

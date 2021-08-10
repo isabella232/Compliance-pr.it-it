@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: ee0645b13594585df5d940732fa420f2ccd4473b
-ms.sourcegitcommit: 0ffa79db0bbb35258496c7702285ed9d473b4ad9
+ms.openlocfilehash: 910c1ddf0ba1f52a7862457387a923753199ae7913b07dfa4e03de8a7b361868
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/31/2021
-ms.locfileid: "53678241"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292295"
 ---
 # <a name="privacy-overview"></a>Panoramica sulla privacy
 
@@ -49,9 +49,9 @@ Per condivisione con terzi si intende la condivisione o la successiva divulgazio
 
 ## <a name="how-does-microsoft-delete-customer-data-when-a-customer-leaves-the-service"></a>In che modo Microsoft elimina i dati dei clienti quando un cliente lascia il servizio?
 
-Microsoft Data Handling Standard specifica per quanto tempo i dati dei clienti vengono conservati dopo l'eliminazione. Quando un cliente termina la sottoscrizione, Microsoft conserva i dati dei clienti in un account con funzione limitata per 90 giorni per consentire al cliente di estrarre i dati. Al termine del periodo di conservazione di 90 giorni, Microsoft eliminerà i dati dei clienti a meno che non siano autorizzati a conservare o a conservare i dati per legge. Non più di 180 giorni dopo la scadenza o la chiusura di una sottoscrizione ai servizi online Microsoft, Microsoft disabilita l'account ed elimina tutti i dati dei clienti dall'account. Una volta trascorso il periodo di conservazione massimo per tutti i dati, i dati vengono resi commercialmente irrecuperabili.
+Microsoft Data Handling Standard specifica per quanto tempo i dati dei clienti vengono conservati dopo l'eliminazione. Quando un cliente termina la sottoscrizione, Microsoft conserva i dati dei clienti in un account di funzione limitato per 90 giorni per consentire al cliente di estrarre i dati. Al termine del periodo di conservazione di 90 giorni, Microsoft eliminerà i dati dei clienti, a meno che non siano autorizzati a conservarli o non siano tenuti a conservarli per legge. Non più di 180 giorni dopo la scadenza o la chiusura di una sottoscrizione ai servizi online Microsoft, Microsoft disabilita l'account ed elimina tutti i dati dei clienti dall'account. Una volta trascorso il periodo di conservazione massimo per tutti i dati, il rendering dei dati viene reso commercialmente irreversibile.
 
-Microsoft elimina anche tutti i dati di diagnostica e generati dal servizio nell'ambito del ciclo di vita standard dei dati Microsoft, a meno che non siano necessari per mantenere la sicurezza e la stabilità del servizio. Per qualsiasi sottoscrizione, un sottoscrittore può contattare il supporto Tecnico Microsoft e richiedere il de-provisioning rapido dell'abbonamento. Quando un cliente usa questo processo, tutti i dati utente vengono eliminati tre giorni dopo che l'amministratore ha immesso il codice di blocco fornito da Microsoft. Questa eliminazione include i dati in SharePoint Online e Exchange Online in attesa o archiviati in cassette postali inattive.
+Microsoft elimina anche tutti i dati di diagnostica e generati dal servizio nell'ambito del ciclo di vita standard dei dati Microsoft, a meno che non siano necessari per mantenere la sicurezza e la stabilità del servizio. Per qualsiasi abbonamento, un sottoscrittore può contattare il Supporto tecnico Microsoft e richiedere il deprovisioning rapido della sottoscrizione. Quando un cliente usa questo processo, tutti i dati utente vengono eliminati tre giorni dopo che l'amministratore ha immesso il codice di blocco fornito da Microsoft. Questa eliminazione include i dati in SharePoint Online e Exchange Online in attesa o archiviati in cassette postali inattive.
 
 ## <a name="related-external-regulations--certifications"></a>Normative esterne correlate & certificazioni
 

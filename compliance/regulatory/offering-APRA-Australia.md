@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: de14ca813334e575709b0c4546de95dcf3ef21be
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 9bbec472f2f7f37e3e2f231343a6b59994e7e00e8f3f14c2e8d8de4e3e20931a
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385496"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292623"
 ---
 # <a name="australian-prudential-regulation-authority-apra"></a>Australian Prudential Regulation Authority (APRA)
 
@@ -72,7 +72,7 @@ Basandoci sul nostro approccio completo alla garanzia dei rischi nel cloud, siam
 
 Ottenere supporto pratico per lo spostamento di dati e carichi di lavoro in Azure in conformità alle normative APRA: Scaricare i servizi cloud Microsoft: un elenco di controllo di conformità per gli istituti finanziari [in Australia.](https://www.microsoft.com/cms/api/am/binary/RE3ez0C)
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme cloud microsoft nell'ambito & servizi
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme e servizi cloud Microsoft inclusi nell'ambito
 
 - Azure
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
@@ -80,17 +80,17 @@ Ottenere supporto pratico per lo spostamento di dati e carichi di lavoro in Azur
 
 ## <a name="office-365-and-apra"></a>Office 365 e APRA
 
-### <a name="office-365-cloud-environments"></a>Office 365 cloud
+### <a name="office-365-cloud-environments"></a>Ambienti cloud di Office 365
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 applicabilità e servizi nell'ambito
+### <a name="office-365-applicability-and-in-scope-services"></a>Applicabilità di Office 365 e servizi inclusi nell'ambito
 
-Utilizzare la tabella seguente per determinare l'applicabilità per i servizi Office 365 e la sottoscrizione:
+Usare la tabella seguente per determinare l'applicabilità per i servizi e l'abbonamento a Office 365:
 
-| **Applicabilità** | **Servizi nell'ambito** |
+| **Applicabilità** | **Servizi inclusi nell'ambito** |
 |:------------------|:----------------------|
-| **Office 365** | Exchange Online Protection, Exchange Online, Office 365 Customer Portal, Office Online, Office Services Infrastructure, OneDrive for Business, SharePoint Online, Skype for Business |
+| **Office 365** | Exchange Online Protection, Exchange Online, Portale per i clienti di Office 365, Office Online, Infrastruttura del servizio di Office, OneDrive for Business, SharePoint Online, Skype for Business |
 
 ## <a name="frequently-asked-questions"></a>Domande frequenti
 
@@ -121,4 +121,4 @@ Sì. La normativa generale sulla privacy (che si applica a tutti i settori, non 
 - [Programma di conformità dei servizi finanziari Microsoft](https://www.microsoft.com/download/details.aspx?id=55332)
 - [Conformità dei servizi finanziari in Azure](https://azure.microsoft.com/resources/videos/azurecon-2015-financial-services-compliance-in-azure/)
 - [Servizi finanziari e servizi cloud aziendali di Microsoft](https://www.microsoft.com/trustcenter/cloudservices/financialservices)
-- [Conformità nel Centro protezione di Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Conformità in Microsoft Trust Center](https://www.microsoft.com/trust-center/compliance/compliance-overview)

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 2896f3dea06181ef11393a40a4822b3b6fd345a5
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 4ba6e4160b14ff89f4e8afd57036c7817f2ad4a4bb262c6a032e4bdb3983723e
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384936"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292473"
 ---
 # <a name="financial-supervisory-authority-fsa-denmark"></a>Financial Supervisory Authority (FSA) Danimarca
 
@@ -57,7 +57,7 @@ L'elenco di controllo di Microsoft consente agli istituti finanziari danesi di s
 ## <a name="how-to-implement"></a>Come implementare
 
 - [Elenco di controllo per la conformità: Danimarca](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=524cc66f-b292-49e9-aa14-04560401baa0&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913_Compliance_Guides): gli istituti finanziari possono ottenere assistenza per la valutazione dei rischi dei servizi cloud Microsoft per le aziende.
-- [Valutazione dei rischi e guida alla conformità](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=edee9b14-3661-4a16-ba83-c35caf672bd7&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_FAQ_and_White_Papers): per creare un modello di governance per la valutazione dei rischi dei servizi cloud Microsoft e la notifica all'autorità competente.
+- [Valutazione dei rischi e guida alla conformità](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=edee9b14-3661-4a16-ba83-c35caf672bd7&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_FAQ_and_White_Papers): creare un modello di governance per la valutazione dei rischi dei servizi cloud Microsoft e la notifica all'organismo di regolamentazione.
 - [Casi di utilizzo del settore finanziario](/previous-versions/azure/industry-marketing/financial/index): i casi di utilizzo, le guide e le altre risorse aiutano a sviluppare le soluzioni Azure per i servizi finanziari.
 
 ## <a name="frequently-asked-questions"></a>Domande frequenti
@@ -76,4 +76,4 @@ Sì. L'Executive Order on Outsourcing of Significant Areas of Activity (e la rel
 - [Servizi cloud e servizi finanziari di Microsoft per le aziende](https://servicetrust.microsoft.com/viewpage/financialservicesoverview)
 - [Azure Financial Services Compliance Program](https://azure.microsoft.com/resources/videos/azurecon-2015-financial-services-compliance-in-azure/)
 - [Strumento di valutazione del rischio cloud di Azure per i servizi finanziari](https://servicetrust.microsoft.com/ViewPage/FFIECBlueprint?command=Download&downloadType=Document&downloadId=079a1973-711a-428f-9312-9ddd290cff7b&docTab=c726d5c0-2d1e-11e8-a485-57140ec19669_PaaS)
-- [Conformità nel Centro protezione di Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Conformità nel Centro protezione Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)

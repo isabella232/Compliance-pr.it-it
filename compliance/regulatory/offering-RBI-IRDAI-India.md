@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: fbeb7cefc0096225b5de012f62da951ae41d7045
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: eb0e6498a516af763c36163733c6480c9531a584c3820e01701fdcf31089b8e3
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384356"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54294223"
 ---
 # <a name="reserve-bank-of-india-rbi-and-insurance-regulatory-and-development-authority-of-india-irdai"></a>Reserve Bank of India (RBI) e Insurance Regulatory and Development Authority of India (IRDAI)
 
@@ -45,10 +45,10 @@ Quando gli istituti finanziari indiani esternalizzare le attività aziendali nel
 
 L'elenco di controllo Microsoft aiuta le società finanziarie in India che stanno effettuando valutazioni di due diligence dei servizi cloud aziendali Microsoft e includono:
 
-- Informazioni generali sul panorama normativo a scopo di contestualizzazione.
+- Informazioni generali sul panorama regolatorio del contesto.
 - Elenco di controllo che definisce i problemi da risolvere e mappa i servizi Microsoft Azure, Microsoft Dynamics 365 e Microsoft Office 365 in base a tali obblighi normativi. L'elenco di controllo può essere usato come strumento per misurare la conformità ad alcune normative e definire uno schema interno per documentare la conformità e aiutare i clienti a svolgere le loro valutazioni dei rischi rispetto ai servizi cloud Microsoft per le aziende.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme cloud microsoft nell'ambito & servizi
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme e servizi cloud Microsoft inclusi nell'ambito
 
 - [Azure](https://gallery.technet.microsoft.com/Overview-of-Azure-c1be3942)
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
@@ -57,12 +57,12 @@ L'elenco di controllo Microsoft aiuta le società finanziarie in India che stann
 ## <a name="how-to-implement"></a>Come eseguire l'implementazione
 
 - [Elenco di controllo di conformità per l'India:](https://servicetrust.microsoft.com/Documents/TrustDocuments?command=Download&downloadType=Document&downloadId=26f4af15-2771-4cd4-a7c7-9328149f9453&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)le società finanziarie possono ottenere assistenza nell'esecuzione di valutazioni dei rischi dei servizi cloud aziendali Microsoft.
-- [Guida alla conformità e alla valutazione dei rischi](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=edee9b14-3661-4a16-ba83-c35caf672bd7&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_FAQ_and_White_Papers): creare un modello di governance per la valutazione dei rischi dei servizi cloud Microsoft e la notifica all'organismo di regolamentazione.
+- [Valutazione dei rischi e guida alla conformità](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=edee9b14-3661-4a16-ba83-c35caf672bd7&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_FAQ_and_White_Papers): creare un modello di governance per la valutazione dei rischi dei servizi cloud Microsoft e la notifica all'organismo di regolamentazione.
 - [Casi d'uso finanziari per Azure](/azure/industry/financial/): panoramica dei casi d'uso, esercitazioni e altre risorse per creare soluzioni di Azure per i servizi finanziari.
 
 ## <a name="frequently-asked-questions"></a>Domande frequenti
 
-**Devono essere incluse clausole obbligatorie nel contratto con il fornitore dei servizi cloud?**
+**Devono essere incluse condizioni obbligatorie nel contratto con il provider dei servizi cloud?**
 
 Sì. Le linee guida di cui sopra prevedono alcuni punti specifici che gli istituti finanziari devono incorporare nei contratti di servizi cloud. La parte 2 [dell'elenco di](https://servicetrust.microsoft.com/Documents/TrustDocuments?command=Download&downloadType=Document&downloadId=26f4af15-2771-4cd4-a7c7-9328149f9453&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides) controllo (pagina 70) li mappa alle sezioni dei documenti contrattuali Microsoft a cui sono indirizzate.
 
@@ -77,4 +77,4 @@ Sì. Le linee guida di cui sopra prevedono alcuni punti specifici che gli istitu
 - [Servizi cloud e servizi finanziari di Microsoft per le aziende](https://www.microsoft.com/trustcenter/cloudservices/financialservices)
 - [Azure Financial Services Compliance Program](https://azure.microsoft.com/resources/videos/azurecon-2015-financial-services-compliance-in-azure/)
 - [Strumento di valutazione del rischio cloud di Azure per i servizi finanziari](https://servicetrust.microsoft.com/ViewPage/FFIECBlueprint?command=Download&downloadType=Document&downloadId=079a1973-711a-428f-9312-9ddd290cff7b&docTab=c726d5c0-2d1e-11e8-a485-57140ec19669_PaaS)
-- [Conformità nel Centro protezione di Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Conformità nel Centro protezione Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 92e67729125916b1ec34f7e305468f7e07489d12
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 37b5fbaa0ba98bcf79be65a3eeebb0926339164c08bc720daff714476d0f1e2b
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384466"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54293923"
 ---
 # <a name="my-number-act-japan"></a>My Number Act (Giappone)
 
@@ -85,7 +85,7 @@ La [sezione Q3-13](https://www.ppc.go.jp/legal/policy/faq/) (in giapponese) dell
 ## <a name="resources"></a>Risorse
 
 - [Conformità di Azure e obblighi di privacy e sicurezza in Giappone](https://gallery.technet.microsoft.com/Azure-Compliance-and-the-53409748)
-- [Privacy di Microsoft](https://privacy.microsoft.com/it-IT/)
+- [Privacy di Microsoft](https://privacy.microsoft.com/en-US/)
 - [Informativa sulla privacy di Microsoft](https://privacy.microsoft.com/privacystatement)
 - [Considerazioni sulla privacy nel cloud](https://download.microsoft.com/download/0/9/D/09DE47F6-F9E5-4C14-B9E8-E8119A130ACC/Privacy_considerations_in_the_cloud.pdf)
 - [Conformità nel Centro protezione Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)

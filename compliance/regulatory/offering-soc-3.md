@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 1d6f6b0a4c9bd3ebbccb90331a8cf17df7ff8928
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 738970a410baa8f76334d026bd778c8a1f05b4546c85b9c1157e653f401476e0
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385738"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54294273"
 ---
 # <a name="system-and-organization-controls-soc-3"></a>SoC (controlli di sistema e dell'organizzazione) 3
 
@@ -46,15 +46,15 @@ I servizi Microsoft nell'ambito vengono visualizzati nel report di [attestazione
 - Microsoft Forms Pro (non nell'ambito per Azure per enti pubblici)
 - Microsoft Graph
 - Microsoft Intune
-- Microsoft Managed Desktop (non nell'ambito per Azure per enti pubblici)
+- Microsoft Managed Desktop (non incluso nell'ambito per Azure per enti pubblici)
 - Microsoft Stream
-- Microsoft Threat Experts (non nell'ambito di Azure per enti pubblici)
+- Microsoft Threat Experts (non incluso nell'ambito per Azure per enti pubblici)
 - Portale di candidatura
 - Office 365, Office 365 U.S. Government, Office 365 U.S. Government - High, Office 365 U.S. Government Defense
 - Power Apps
 - Power Automate
 - Power BI
-- Power Virtual Agents (non nell'ambito per Azure per enti pubblici)
+- Power Virtual Agents (non incluso nell'ambito per Azure per enti pubblici)
 - Conformità aggiornamenti (non nell'ambito per Azure per enti pubblici)
 
 ## <a name="azure-dynamics-365-and-soc-3"></a>Azure, Dynamics 365 e SOC 3
@@ -88,9 +88,9 @@ Per scaricare i report di attestazione SOC 1 e SOC 2 ed eventuali lettere bridge
 
 ### <a name="frequently-asked-questions"></a>Domande frequenti
 
-**Con quale frequenza vengono rilasciati i report SOC di Office 365?**
+**Con quale frequenza vengono emessi i report SOC di Office 365?**
 
-I report SOC per Microsoft Office 365 e altri servizi online, si basano su una finestra di 12 mesi (periodo di controllo) con nuovi report emessi ogni sei mesi (i fine periodo sono il 31 marzo e il 30 settembre). *Le lettere bridge* vengono emesse ogni trimestre per coprire il periodo di tre mesi precedente. Ad esempio, la lettera di gennaio copre dall'1 ottobre al 31 dicembre, la lettera di aprile copre dall'1 gennaio al 31 marzo, la lettera di luglio copre dall'1 aprile al 30 giugno e la lettera di ottobre copre da 1 luglio a 30 settembre.
+I report SOC per Microsoft Office 365 e altri servizi online si basano su una finestra di 12 mesi (periodo di controllo) con nuovi report emessi ogni sei mesi (i fine periodo sono il 31 marzo e il 30 settembre). *Le lettere ponte* vengono emesse ogni trimestre e coprono il periodo di tre mesi precedente. Ad esempio, la lettera di gennaio copre dall'1 ottobre al 31 dicembre, la lettera di aprile copre dall'1 gennaio al 31 marzo, la lettera di luglio copre dall'1 aprile al 30 giugno e la lettera di ottobre copre da 1 luglio a 30 settembre.
 
 **Dove è possibile ottenere la documentazione di controllo del SOC di Office 365, incluse le lettere bridge?** Per collegamenti alla documentazione di controllo, vedere la sezione del report di controllo. Per accedere, è necessario avere un abbonamento o un account di valutazione gratuito esistente in Office 365 o [Office](https://azure.microsoft.com/global-infrastructure/government/request/) 365 U.S. Government. È quindi possibile scaricare certificati di controllo, report di valutazione e altri documenti applicabili per soddisfare i propri requisiti normativi.
 

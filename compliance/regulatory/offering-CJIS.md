@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 896202ea1f51d88d1871a2c7ff81f4ee1e620d17
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: cdcf6bb91e7bd6b01a7a4372f33e2f52089d1f0c4fed3c327b85a3a13eafeac2
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385366"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292533"
 ---
 # <a name="criminal-justice-information-services-cjis-security-policy"></a>Criteri di sicurezza CJIS (Criminal Justice Information Services)
 
@@ -43,12 +43,12 @@ Microsoft ha valutato i criteri operativi e le procedure di Microsoft Azure Gove
 
 Informazioni sui vantaggi dei criteri di sicurezza CJIS in Microsoft Cloud: leggi come Genetec ha autorizzato [le indagini penali](https://customers.microsoft.com/story/genetec)
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme cloud microsoft nell'ambito & servizi
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme e servizi cloud Microsoft inclusi nell'ambito
 
 - Azure Per enti pubblici
 - Dynamics 365 U.S. Government
 - Office 365 Governo degli Stati Uniti
-- Servizio cloud Power BI, indipendente o incluso in un piano o in una famiglia di prodotti con marchio Office 365
+- Servizio cloud Power BI, autonomo o incluso in un piano o in una famiglia di prodotti con marchio Office 365
 
 ## <a name="azure-dynamics-365-and-cjis"></a>Azure, Dynamics 365 e CJIS
 
@@ -56,19 +56,19 @@ Per altre informazioni sulla conformità di Azure, Dynamics 365 e altri servizi 
 
 ## <a name="office-365-and-cjis"></a>Office 365 e CJIS
 
-### <a name="office-365-cloud-environments"></a>Office 365 cloud
+### <a name="office-365-cloud-environments"></a>Ambienti cloud di Office 365
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 applicabilità e servizi nell'ambito
+### <a name="office-365-applicability-and-in-scope-services"></a>Applicabilità di Office 365 e servizi inclusi nell'ambito
 
-Utilizzare la tabella seguente per determinare l'applicabilità per i servizi Office 365 e la sottoscrizione:
+Usare la tabella seguente per determinare l'applicabilità per i servizi e l'abbonamento a Office 365:
 
-| **Applicabilità** | **Servizi nell'ambito** |
+| **Applicabilità** | **Servizi inclusi nell'ambito** |
 |:------------------|:----------------------|
-| **GCC** | Azure Active Directory, Compliance Manager, Delve, Exchange Online, Forms, Microsoft Defender for Office 365, Microsoft Teams, MyAnalytics, Office 365 Advanced Compliance add-on, Office 365 Security & Compliance Center, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business, Stream |
+| **GCC** | Azure Active Directory, Compliance Manager, Delve, Exchange Online, Forms, Microsoft Defender per Office 365, Microsoft Teams, MyAnalytics, componente aggiuntivo Office 365 Advanced Compliance, Centro sicurezza e conformità di Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business, Stream |
 
-### <a name="office-365-audits-reports-and-certificates"></a>Office 365 controlli, report e certificati
+### <a name="office-365-audits-reports-and-certificates"></a>Controlli, report e certificati di Office 365
 
 L'FBI non offre la certificazione della conformità Microsoft ai requisiti CJIS. Al contrario, un'attestazione Microsoft è inclusa nei contratti tra Microsoft e l'autorità CJIS di uno stato e tra Microsoft e i suoi clienti.
 
@@ -104,6 +104,6 @@ Microsoft firma un Contratto di informazioni con una CJIS Systems Agency (CSA) d
 
 - [Criminal Justice Information Services](https://aka.ms/cjis)
 - [Criteri di sicurezza CJIS](https://aka.ms/cjis-security-policy)
-- [Quadro di conformità dell'hub dei controlli comuni di Microsoft](https://www.microsoft.com/trustcenter/common-controls-hub)
+- [Hub dei controlli comuni del framework di conformità Microsoft](https://www.microsoft.com/trustcenter/common-controls-hub)
 - [Cloud Microsoft per enti pubblici](https://go.microsoft.com/fwlink/?linkid=2087246)
-- [Conformità nel Centro protezione di Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Conformità in Microsoft Trust Center](https://www.microsoft.com/trust-center/compliance/compliance-overview)

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: b39c658a768dc106008dcd73a064b05706f734c6
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 9e441e8e1c5419eab741ceec370afe61815332e51115509dd5974e9ea2984c22
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384966"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292493"
 ---
 # <a name="united-kingdom-government-cloud-g-cloud"></a>Regno Unito Government-Cloud (G-Cloud)
 
@@ -41,7 +41,7 @@ La nomina di servizi Microsoft al Digital Marketplace significa che le agenzie g
 
  [14 Cloud Security Controls for UK cloud](https://azure.microsoft.com/resources/14-cloud-security-controls-for-uk-cloud-using-microsoft-azure/) using Microsoft Azure fornisce strategie dei clienti per trasferire i propri servizi in Azure e contribuire a soddisfare gli obblighi del Regno Unito previsti dal CESG/NCSC. Il white paper fornisce informazioni dettagliate su come azure può essere usato per aiutare a risolvere i 14 controlli descritti nelle entità di sicurezza cloud e descrive come i clienti possono spostarsi più velocemente e ottenere di più risparmiando denaro man mano che adottano i servizi Microsoft Azure.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme cloud microsoft nell'ambito & servizi
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme e servizi cloud Microsoft inclusi nell'ambito
 
 - Azure
 - Microsoft Cloud App Security
@@ -50,19 +50,19 @@ La nomina di servizi Microsoft al Digital Marketplace significa che le agenzie g
 - Office 365
 - Power Automate (in precedenza Microsoft Flow) (come servizio autonomo o incluso in un piano o in una famiglia di prodotti Office 365 o Dynamics 365)
 - Servizio cloud PowerApps (come servizio autonomo o incluso in un piano o in una famiglia di prodotti Office 365 o Dynamics 365)
-- Power BI cloud (come servizio autonomo o come incluso in un piano o in una famiglia di prodotti Office 365 personalizzazione)
+- Servizio cloud Power BI, servizio autonomo o incluso in un piano o in una famiglia di prodotti Office 365
 
 ## <a name="office-365-and-uk-g-cloud"></a>Office 365 e Regno Unito G-Cloud
 
-### <a name="office-365-cloud-environments"></a>Office 365 cloud
+### <a name="office-365-cloud-environments"></a>Ambienti cloud di Office 365
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 applicabilità e servizi nell'ambito
+### <a name="office-365-applicability-and-in-scope-services"></a>Applicabilità di Office 365 e servizi inclusi nell'ambito
 
-Utilizzare la tabella seguente per determinare l'applicabilità per i servizi Office 365 e la sottoscrizione:
+Usare la tabella seguente per determinare l'applicabilità per i servizi e l'abbonamento a Office 365:
 
-| **Applicabilità** | **Servizi nell'ambito** |
+| **Applicabilità** | **Servizi inclusi nell'ambito** |
 |:------------------|:----------------------|
 | **Office 365** | Exchange Online, SharePoint Online, Skype for Business |
 
@@ -128,4 +128,4 @@ Il [Service Trust Portal](/microsoft-365/compliance/get-started-with-service-tru
 - [Principi di sicurezza di G-Cloud](https://aka.ms/UK-G-Cloud)
 - [Digital Marketplace](https://www.digitalmarketplace.service.gov.uk/)
 - [Microsoft Online Services](https://aka.ms/Online-Services-Terms)
-- [Conformità nel Centro protezione di Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Conformità in Microsoft Trust Center](https://www.microsoft.com/trust-center/compliance/compliance-overview)

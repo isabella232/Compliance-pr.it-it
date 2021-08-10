@@ -20,12 +20,12 @@ f1.keywords:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: f9189b763824a144a72259643c252563bc6a349b
-ms.sourcegitcommit: 48b8ec2dd00e957508e5af82458bf697e1a97ebb
+ms.openlocfilehash: 764b56a0f950d0b933bb86bb86ad505481bce482cbed4d2a0b06a4969b1c6661
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53395586"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292303"
 ---
 # <a name="microsoft-pre-employment-screening"></a>Screening precedente all'impiego presso Microsoft
 
@@ -54,7 +54,7 @@ Nella misura consentita dalla legge locale, i controlli includono quanto segue:
 
 - Traccia SSN negli Stati Uniti o conferma dell'identità da un documento rilasciato dal governo in Europa, Medio Oriente e Asia.
 - La cronologia penale controlla fino a sette anni per reati di reati e reati a livello di stato, di provincia e locale e, se appropriato, a livello federale negli Stati Uniti. Un controllo della cronologia penale internazionale (a seconda del diritto locale) è applicabile per le aree al di fuori degli Stati Uniti.
-- Conferma del massimo livello di risultati accademici
+- conferma del livello più alto di istruzione conseguito;
 - Cronologia dell'impiego di cinque anni
 - Sanzioni globali e controlli di applicazione, tra cui Office dell'elenco OFAC (Foreign Assets Control), dell'elenco BIS (Bureau of Industry and Security) e dei controlli degli elenchi Office of Defense Trade Controls Debarred Persons (DDTC).
 
@@ -66,8 +66,8 @@ Nella misura consentita dalla legge locale, i controlli di screening dei fornito
 
 - Traccia SSN negli Stati Uniti o conferma dell'identità da un documento rilasciato dal governo in Europa, Medio Oriente e Asia.
 - La cronologia penale controlla fino a sette anni per reati di reati e reati a livello di stato, di provincia e locale e, se appropriato, a livello federale negli Stati Uniti. Un controllo della cronologia penale internazionale (a seconda del diritto locale) è applicabile per le aree al di fuori degli Stati Uniti.
-- Conferma del massimo livello di risultati accademici
-- Sanzioni globali e controllo dell'applicazione
+- conferma del livello più alto di istruzione conseguito;
+- Controllo globale delle violazioni e del rispetto delle direttive
 
 Negli Stati Uniti prima di ogni collocamento di ogni membro del personale del fornitore da eseguire per Microsoft, nella misura consentita dalla legge locale, il fornitore eseguirà un pre-posizionamento e per determinati posizionamenti, controllo periodico in background utilizzando il provider di servizi di controllo in background preferito di Microsoft che confermerà a Microsoft che lo screening soddisfa lo standard Microsoft. 
 

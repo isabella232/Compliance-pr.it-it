@@ -20,34 +20,34 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: d0285110c3fe4225ba2e2c6d1fb58820ff2a1dc8
-ms.sourcegitcommit: 07578a8e03b931f47c49f4e34b78cf8ba0605e8f
+ms.openlocfilehash: c39acaae68ea8c9f6b4503df55a52d344f10c36fc2792b2202961b5ebe51f32a
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "53573614"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292064"
 ---
 # <a name="security-monitoring-overview"></a>Panoramica sul monitoraggio della sicurezza
 
 ## <a name="what-is-microsofts-strategy-for-monitoring-security"></a>Qual è la strategia di Microsoft per il monitoraggio della sicurezza?
 
-Microsoft 365 si impegna a monitorare la sicurezza continua dei propri sistemi per rilevare e rispondere alle minacce Microsoft 365 Services. I principi chiave per il monitoraggio e l'avviso di sicurezza sono:
+Microsoft 365 si impegna nel monitoraggio continuo della sicurezza dei propri sistemi per rilevare e rispondere alle minacce ai servizi Microsoft 365. I principi chiave per il monitoraggio e l'avviso di sicurezza sono:
 
 - Robustezza: segnali e logica per rilevare una varietà di comportamenti di attacco
 - Accuratezza: avvisi significativi per evitare distrazioni dal rumore
 - Velocità: capacità di intercettare gli utenti malintenzionati abbastanza velocemente da arrestarli
 
-L'automazione, la scalabilità e le soluzioni basate sul cloud sono i pilastri chiave della nostra strategia di monitoraggio e risposta. Per intercettare e arrestare in modo efficace gli attacchi sulla scala di alcuni dei servizi di base di Microsoft 365, i sistemi di monitoraggio devono generare automaticamente avvisi estremamente accurati quasi in tempo reale. Allo stesso modo, quando viene rilevato un problema, è necessaria la possibilità di ridurre il rischio su larga scala, non è possibile affidarsi al team per risolvere manualmente i problemi computer per computer. Per ridurre i rischi su larga scala, usiamo strumenti basati sul cloud per applicare automaticamente contromisure e fornire ai tecnici strumenti per applicare rapidamente le mitigazioni approvate in tutto l'ambiente.
+Le soluzioni basate su automazione, scalabilità e cloud sono fondamentali per la nostra strategia di monitoraggio e risposta. Per consentirci di intercettare e arrestare in modo efficace gli attacchi su vasta scala di alcuni dei servizi principali di Microsoft 365, i nostri sistemi di monitoraggio devono generare automaticamente avvisi molto accurati quasi in tempo reale. Allo stesso modo, quando viene rilevato un problema, è necessaria la possibilità di ridurre il rischio su larga scala, non è possibile affidarsi al team per risolvere manualmente i problemi computer per computer. Per ridurre i rischi su vasta scala, usiamo strumenti basati sul cloud per attuare automaticamente le contromisure e fornire ai tecnici strumenti per applicare rapidamente le mitigazioni approvate nell'ambiente.
 
 ## <a name="how-does-microsoft-365-perform-security-monitoring"></a>In che modo Microsoft 365 il monitoraggio della sicurezza?
 
-Microsoft 365 utilizza la registrazione centralizzata per raccogliere e analizzare gli eventi del registro per le attività che potrebbero indicare un incidente di sicurezza. Gli strumenti di registrazione centralizzata aggregano i registri di tutti i componenti di sistema, inclusi i registri eventi, i registri applicazioni, i registri di controllo di accesso e i sistemi di rilevamento delle intrusioni basati sulla rete. Oltre alla registrazione del server e ai dati a livello di applicazione, l'infrastruttura di base del servizio è dotata di agenti di sicurezza personalizzati che generano telemetria dettagliata e forniscono il rilevamento delle intrusioni basato sull'host. Usiamo questa telemetria per il monitoraggio e la ricerca forense.
+Microsoft 365 utilizza la registrazione centralizzata per raccogliere e analizzare gli eventi del registro per le attività che potrebbero indicare un incidente di sicurezza. Gli strumenti di registrazione centralizzata aggregano i log di tutti i componenti di sistema, inclusi i log eventi, i log applicazioni, i log di controllo di accesso e i sistemi di rilevamento delle intrusioni basati sulla rete. Oltre alla registrazione del server e ai dati a livello di applicazione, l'infrastruttura principale del servizio è dotata di agenti di sicurezza personalizzati che generano dati di telemetria dettagliati e forniscono il rilevamento delle intrusioni basato sull'host. Questi dati di telemetria vengono usati per il monitoraggio e l'analisi forense.
 
-I dati di registrazione e telemetria raccolti consentono l'avviso di sicurezza 24 ore su 24, 7 giorni su 7. Il sistema di avvisi analizza i dati del registro durante il caricamento, generando avvisi quasi in tempo reale. Sono inclusi avvisi basati su regole e avvisi più sofisticati basati su modelli di machine learning. La logica di monitoraggio va oltre gli scenari di attacco generici e incorpora una conoscenza approfondita dell'architettura e delle operazioni del servizio. Usiamo i dati di monitoraggio della sicurezza per migliorare continuamente i nostri modelli per rilevare nuovi tipi di attacchi e migliorare l'accuratezza del monitoraggio della sicurezza.
+I dati di registrazione e telemetria raccolti consentono l'avviso di sicurezza 24 ore su 24, 7 giorni su 7. Il sistema di avviso analizza i dati di log durante il caricamento, generando avvisi quasi in tempo reale. Questo include avvisi basati su regole e avvisi più sofisticati basati su modelli di apprendimento automatico. La nostra logica di monitoraggio va oltre gli scenari di attacco generici e integra una conoscenza approfondita dell'architettura e delle operazioni del servizio. Usiamo i dati di monitoraggio della sicurezza per migliorare continuamente i nostri modelli per rilevare nuovi tipi di attacchi e ottimizzare l'accuratezza del monitoraggio della sicurezza.
 
 ## <a name="how-does-microsoft-365-respond-to-security-monitoring-alerts"></a>In che modo Microsoft 365 gli avvisi di monitoraggio della sicurezza?
 
-Quando è necessario intraprendere un'azione in risposta a un avviso o per analizzare ulteriormente le prove forensi in tutto il servizio, i nostri strumenti basati sul cloud ci consentono di rispondere rapidamente in tutto l'ambiente. Questi strumenti includono agenti intelligenti completamente automatizzati che rispondono alle minacce rilevate con contromisure di sicurezza. In molti casi, questi agenti distribuiscono contromisure automatiche per ridurre i rilevamenti di sicurezza su larga scala senza intervento umano. Quando ciò non è possibile, il sistema di monitoraggio della sicurezza avvisa automaticamente i tecnici di chiamata appropriati, dotati di un set di strumenti che consentono loro di agire in tempo reale per ridurre le minacce rilevate su larga scala. I potenziali eventi imprevisti inoltrati al team Microsoft 365 security response vengono risolti utilizzando il processo di risposta agli incidenti di sicurezza.
+Quando è necessario intraprendere un'azione per rispondere a un avviso o per analizzare ulteriormente le prove forensi in tutto il servizio, i nostri strumenti basati sul cloud ci consentono di rispondere rapidamente in tutto l'ambiente. Questi strumenti includono agenti intelligenti completamente automatizzati che rispondono alle minacce rilevate con contromisure di sicurezza. In molti casi, questi agenti distribuiscono contromisure automatiche per attenuare i rilevamenti di sicurezza su larga scala senza intervento umano. Quando ciò non è possibile, il sistema di monitoraggio della sicurezza avvisa automaticamente i tecnici su chiamata appropriati, dotati di un set di strumenti che consentono loro di agire in tempo reale per mitigare le minacce rilevate su larga scala. I potenziali eventi imprevisti inoltrati al team Microsoft 365 security response vengono risolti utilizzando il processo di risposta agli incidenti di sicurezza.
 
 ## <a name="how-does-microsoft-365-monitor-system-availability"></a>In che modo Microsoft 365 la disponibilità del sistema?
 
@@ -68,4 +68,4 @@ I servizi online di Microsoft vengono regolarmente controllati per la conformit�
 
 ## <a name="resources"></a>Risorse
 
-- [Behind the Scenes: Securing the Infrastructure Powering the Microsoft 365 Service](https://download.microsoft.com/download/c/4/5/c45b197e-f0d9-4f40-bd5f-ed8fc7d0cd8c/M365DCSecurityIntro_Whitepaper.pdf)
+- [Dietro le quinte: proteggere l'infrastruttura potenziando il servizio Microsoft 365](https://download.microsoft.com/download/c/4/5/c45b197e-f0d9-4f40-bd5f-ed8fc7d0cd8c/M365DCSecurityIntro_Whitepaper.pdf)

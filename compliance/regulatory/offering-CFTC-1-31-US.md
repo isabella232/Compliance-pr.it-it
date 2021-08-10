@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: ac17525d8368b61dfd00bfa765e5ee2d1533b3f6
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 903f4d3db8965fdcd8c96a8d474e5180430b4966e4adc6945315f283ddbc0d3f
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385426"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292583"
 ---
 # <a name="commodity-futures-trading-commission-cftc-rule-131c-d-united-states"></a>Commodity Futures Trading Commission (CFTC) Rule 1.31(c-d) Stati Uniti
 
@@ -45,7 +45,7 @@ Per valutare la conformità di Azure alla regola CFTC 1.31(c-d), Microsoft ha ma
 
 Per i requisiti [CFTC 1.31(c)-(d),](/microsoft-365/compliance/retention-regulatory-requirements#sec-17a-4f-finra-4511c-and-cftc-131c-d) Cohasset ha convalidato che Microsoft 365 include funzionalità di archiviazione che consentono ai clienti regolamentati, inclusi i broker-rivenditori, di archiviare i dati in modo che siano conformi ai requisiti SEC per la conservazione dei record. Le funzionalità di conservazione in Microsoft 365 consentono di conservare un'ampia gamma di dati, tra cui posta elettronica, segreteria telefonica, documenti condivisi, messaggi istantanei e dati di terze parti. In particolare, l'archiviazione in Microsoft 365 consente ai clienti di impostare criteri di conservazione della messaggistica globali o granulari per archiviare i dati per un periodo definito e oltre in un formato non riscrivibile e non cancellabile.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme cloud microsoft nell'ambito & servizi
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme e servizi cloud Microsoft inclusi nell'ambito
 
 - [Azure](https://aka.ms/AzureCompliance)
 - [Office 365](https://aka.ms/o365-compliance-framework)
@@ -59,8 +59,8 @@ Per i requisiti [CFTC 1.31(c)-(d),](/microsoft-365/compliance/retention-regulato
 ## <a name="how-to-implement"></a>Come eseguire l'implementazione
 
 - [Regolamentazione dei servizi finanziari](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=5b483567-00b0-4d86-96ae-ee887dadb61c&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides): Mappa di conformità dei principali principi normativi statunitensi per il cloud computing e i servizi online Microsoft.
-- [Valutazione dei rischi e guida alla conformità](https://aka.ms/RiskGovernanceGuide): per creare un modello di governance per la valutazione dei rischi dei servizi cloud Microsoft e la notifica all'autorità competente.
-- [Casi di utilizzo del settore finanziario](/azure/industry/financial/): i casi di utilizzo, le guide e le altre risorse aiutano a sviluppare le soluzioni Azure per i servizi finanziari.
+- [Valutazione dei rischi e guida alla conformità](https://aka.ms/RiskGovernanceGuide): creare un modello di governance per la valutazione dei rischi dei servizi cloud Microsoft e la notifica all'organismo di regolamentazione.
+- [Casi di utilizzo finanziari](/azure/industry/financial/): usare panoramiche di casi, esercitazioni e altre risorse per creare soluzioni di Azure per i servizi finanziari.
 
 ## <a name="resources"></a>Risorse
 

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 19b312d1b9f31683d775049010d390710554df01
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 4b5f8bfd19193b3a05b5ffa6476271bc6da05c7ec1c669a2f1614535a54942e1
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385666"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54294303"
 ---
 # <a name="nist-sp-800-171"></a>NIST SP 800-171
 
@@ -44,7 +44,7 @@ I requisiti NIST SP 800-171 sono un sottoinsieme di NIST SP 800-53, lo standard 
 
 Qualsiasi entità che elabora o archivia i cui enti pubblici statunitensi: istituti di ricerca, società di consulenza, appaltatori di produzione, deve rispettare i requisiti stringenti del NIST SP 800-171. Questo attestazione significa che i servizi cloud microsoft nell'ambito possono supportare i clienti che desiderano distribuire carichi di lavoro CUI con la garanzia che Microsoft sia in piena conformità. Ad esempio, tutti gli appaltatori DoD che elaborano, archiviano o trasmettono "informazioni di difesa coperte" utilizzando i servizi cloud Microsoft nell'ambito dei propri sistemi in informazioni soddisfano le clausole DFARS del Dipartimento della Difesa degli Stati Uniti che richiedono la conformità ai requisiti di sicurezza di NIST SP 800-171.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme cloud microsoft nell'ambito & servizi
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme e servizi cloud Microsoft inclusi nell'ambito
 
 - Azure Commercial, Azure Government
 - Dynamics 365 U.S. Government
@@ -57,15 +57,15 @@ Per ulteriori informazioni sulla conformità di Azure, Dynamics 365 e altri serv
 
 ## <a name="office-365-and-nist-sp-800-171"></a>Office 365 e NIST SP 800-171
 
-### <a name="office-365-cloud-environments"></a>Office 365 cloud
+### <a name="office-365-cloud-environments"></a>Ambienti cloud di Office 365
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 applicabilità e servizi nell'ambito
+### <a name="office-365-applicability-and-in-scope-services"></a>Applicabilità di Office 365 e servizi inclusi nell'ambito
 
-Utilizzare la tabella seguente per determinare l'applicabilità per i servizi Office 365 e la sottoscrizione:
+Usare la tabella seguente per determinare l'applicabilità per i servizi e l'abbonamento a Office 365:
 
-| **Applicabilità** | **Servizi nell'ambito** |
+| **Applicabilità** | **Servizi inclusi nell'ambito** |
 |:------------------|:----------------------|
 | **GCC** | Activity Feed Service, Bing Services, Delve, Exchange Online, Intelligent Services, Microsoft Teams, Office 365 Customer Portal, Office Online, Office Service Infrastructure, Office Usage Reports, OneDrive for Business, People Card, SharePoint Online, Skype for Business, Windows Ink |
 | **GCC High** | Activity Feed Service, Bing Services, Exchange Online, Intelligent Services, Microsoft Teams, Office 365 Customer Portal, Office Online, Office Service Infrastructure, Office Usage Reports, OneDrive for Business, People Card, 
@@ -90,4 +90,4 @@ Sì. I clienti Microsoft possono utilizzare i controlli controllati descritti ne
 - [NIST 800-171 3.3 Audit and Accountability with Office 365 GCC High](https://info.summit7systems.com/blog/nist-3.3-audit-and-accountability-with-office-365)
 - [Microsoft e il NIST Cybersecurity Framework](offering-nist-csf.md)
 - [Cloud Microsoft per enti pubblici](https://www.microsoft.com/enterprise/government)
-- [Conformità nel Centro protezione di Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Conformità in Microsoft Trust Center](https://www.microsoft.com/trust-center/compliance/compliance-overview)

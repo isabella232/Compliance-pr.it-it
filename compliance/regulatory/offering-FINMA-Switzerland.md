@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 1fe73fa10549c0126dc0b38b93cf1edd5b132855
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 405a752b9a6d8e1bdb5d7d5c0ad937aba634806033ea87a36c92629bf458bf3a
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385046"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292503"
 ---
 # <a name="financial-market-supervisory-authority-finma-switzerland"></a>Autorità federale di vigilanza sui mercati finanziari (FINMA) - Svizzera
 

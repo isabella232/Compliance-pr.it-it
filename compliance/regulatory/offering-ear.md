@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: b3867c9d8c165c451813929d49dc5936e643e95c
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 2438db5a94871e60bb7181c3acfe250e8552e94aa9b127d5e800ab8d6edfcf93
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384226"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54293593"
 ---
 # <a name="us-export-administration-regulations-ear"></a>Normative per l'amministrazione delle esportazioni statunitensi (EAR)
 
@@ -51,7 +51,7 @@ Il Dipartimento del commercio statunitense, che applica l'EAR, ha assunto la pos
 - **Crittografia end-to-end**. Sfruttando il safe harbor di crittografia end-to-end per le posizioni di archiviazione fisiche specificate nell'EAR, i servizi cloud microsoft nell'ambito offrono funzionalità di crittografia che consentono di proteggersi dai rischi di controllo delle esportazioni. Offrono inoltre ai clienti [un'ampia gamma](https://aka.ms/Azure-Encryption-Overview) di opzioni per crittografare i dati in transito e in pausa e la flessibilità di scegliere tra le opzioni di crittografia.
 - **Strumenti e protocolli per impedire l'esportazione non autorizzata.** L'uso della crittografia aiuta anche a proteggere da una potenziale esportazione considerata (o riesportare) nell'EAR, perché anche se una persona non statunitense ha accesso ai dati crittografati, non viene rivelato nulla se non riesce a leggere o comprendere i dati mentre sono crittografati; pertanto non esiste un "rilascio" di dati controllati.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme cloud microsoft nell'ambito & servizi
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme e servizi cloud Microsoft inclusi nell'ambito
 
 - [Azure e Azure per enti pubblici](https://aka.ms/AzureCompliance)
 - [Office 365 Government (GCC-High e DoD)](https://aka.ms/Office-365-Export-Controls)
@@ -93,4 +93,4 @@ Gli Stati Uniti hanno anche normative di controllo delle esportazioni separate e
 - [Restrizioni di esportazione per la crittografia](/windows/uwp/security/export-restrictions-on-cryptography)
 - [Microsoft e FIPS 140-2](offering-fips-140-2.md)
 - [Microsoft e ITAR](offering-itar.md)
-- [Conformità nel Centro protezione di Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Conformità in Microsoft Trust Center](https://www.microsoft.com/trust-center/compliance/compliance-overview)

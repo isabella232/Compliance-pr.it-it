@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f9b5924ce8f8424479bd4320f6e33e6fec7e636d
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: ca3ecd5dc99f71c76c2b8e724a1b6ace3350d947a3bbb278a5ec6ab00c13fe7d
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384506"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292453"
 ---
 # <a name="ministry-of-electronics-and-information-technology-meity"></a>Ministero dell'elettronica e delle tecnologie dell'informazione (MeitY)
 
@@ -43,7 +43,7 @@ A novembre 2017, Microsoft è diventata uno dei primi provider di servizi cloud 
 
 L'accreditamento MeitY di Microsoft è il risultato di un rigoroso controllo condotto dalla Direzione test di standardizzazione e certificazione di qualità (STQC), un'organizzazione governativa che fornisce servizi di controllo della qualità, utilizzando un framework di valutazione basato sul lavoro della MeghRaj Cloud Initiative. Attraverso Microsoft Azure, le organizzazioni del settore pubblico possono ora attingere a un'ampia gamma di modelli di distribuzione e offerte di servizi, tra cui infrastruttura come servizio (IaaS), piattaforma come servizio (PaaS), ripristino di emergenza, DevOps e backup gestito.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme cloud microsoft nell'ambito & servizi
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme e servizi cloud Microsoft inclusi nell'ambito
 
 - [Azure](https://aka.ms/AzureCompliance)
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
@@ -64,4 +64,4 @@ Rendere i servizi pubblici disponibili per i cittadini online è una parte fonda
 - [Ministero dell'elettronica e delle tecnologie dell'informazione](https://meity.gov.in/)
 - [Iniziativa cloud MeghRaj](https://meity.gov.in/content/gi-cloud-meghraj)
 - [Provider di servizi cloud accreditati](https://meity.gov.in/content/gi-cloud-meghraj)
-- [Conformità nel Centro protezione di Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Conformità in Microsoft Trust Center](https://www.microsoft.com/trust-center/compliance/compliance-overview)

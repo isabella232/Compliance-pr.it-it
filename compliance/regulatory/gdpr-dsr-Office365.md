@@ -18,12 +18,12 @@ ms.collection:
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
 hideEdit: true
-ms.openlocfilehash: f09afe6738d2b7ec63682b8b2afa401947e957fd
-ms.sourcegitcommit: 5d8e670e9d9968458047b51b6b2930f7bd14a011
+ms.openlocfilehash: 0d48c7bc2c4b3b2dbfa8e4c102e22853c3ba5cc242cfebdf31ee4c6149f95756
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "53141527"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54293570"
 ---
 # <a name="office-365-data-subject-requests-for-the-gdpr-and-ccpa"></a>Richieste degli interessati per Office 365 nell'ambito del GDPR e del CCPA
 
@@ -40,7 +40,7 @@ La guida descrive come usare i prodotti, i servizi e gli strumenti di amministra
 - **Rettificare:** apportare modifiche o implementare le azioni richieste sui dati personali, ove applicabile.
 - **Limitare**: limitare il trattamento dei dati personali, tramite la rimozione delle licenze per i vari servizi del cloud Microsoft o disattivando i servizi desiderati ove possibile. È anche possibile rimuovere i dati dal cloud Microsoft e mantenerli in locale o in un'altra posizione.
 - **Eliminare:** rimuovere in modo definitivo i dati personali che risiedono nel cloud Microsoft.
-- **Esportare/ricevere (portabilità):** fornire all'interessato una copia elettronica dei dati o delle informazioni personali in un formato leggibile in modo automatizzato. Secondo il CCPA, le informazioni personali sono qualsiasi informazione riguardante una persona fisica identificata o identificabile. Non esiste distinzione tra i ruoli privati, pubblici o professionali di una persona. Il termine definito "informazioni personali" combacia con il termine "dati personali" del GDPR. Tuttavia, il CCPA include anche i dati relativi alla famiglia e al nucleo familiare. Per altre informazioni sul CCPA, vedere il [California Consumer Privacy Act](offering-ccpa.md) e le [Domande frequenti sul California Consumer Privacy Act](ccpa-faq.yml).
+- **Esportazione/ricezione (portabilità):** fornire all'interessato una copia elettronica dei dati o delle informazioni personali in un formato leggibile da una macchina. Secondo il CCPA, le informazioni personali sono qualsiasi informazione riguardante una persona fisica identificata o identificabile. Non esiste distinzione tra i ruoli privati, pubblici o professionali di una persona. Il termine definito "informazioni personali" combacia con il termine "dati personali" del GDPR. Tuttavia, il CCPA include anche i dati relativi alla famiglia e al nucleo familiare. Per altre informazioni sul CCPA, vedere il [California Consumer Privacy Act](offering-ccpa.md) e le [Domande frequenti sul California Consumer Privacy Act](ccpa-faq.yml).
 
 ### <a name="terminology"></a>Terminologia
 
