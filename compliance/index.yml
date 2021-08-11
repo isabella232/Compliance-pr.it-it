@@ -42,8 +42,8 @@ highlightedContent:
       itemType: learn
       url: /learn/paths/compliance-discover/
 productDirectory:
-  title: Conformità alle normative
-  summary: Linee guida Microsoft sulla conformità agli standard e alle normative internazionali e nazionali.
+  title: Conformità & settore normativo
+  summary: Linee guida Microsoft sulla conformità con le aree del settore e le normative & internazionali.
   items:
     - title: Regolamento generale sulla protezione dei dati (GDPR)
       imageSrc: /office/media/icons/compliance-blue.svg
@@ -53,10 +53,10 @@ productDirectory:
       imageSrc: /office/media/icons/globe-internet.svg
       summary: 'Microsoft offre un set completo di offerte di conformità per aiutare l''organizzazione a rispettare i requisiti nazionali, regionali e specifici del settore che regolano la raccolta e l''uso dei dati.'
       url: /compliance/regulatory/offering-home
-    - title: Conformità normativa e Microsoft Azure
-      imageSrc: /media/logos/logo_azure.svg
-      summary: Informazioni sulla conformità normativa e sulle Microsoft Azure.
-      url: /azure/compliance/
+    - title: Microsoft Cloud per i settori
+      imageSrc: /office/media/icons/on-premises-blue.png
+      summary: 'Scopri come Microsoft Azure, Dynamics 365, Microsoft 365 e Microsoft Power Platform possono supportare le esigenze di conformità per il tuo settore.'
+      url: /industry/
 conceptualContent:
   title: Garanzia del servizio
   summary: Iniziare le valutazioni della sicurezza e dei rischi con una conoscenza del modo in cui Microsoft protegge i dati dei clienti.
@@ -188,24 +188,15 @@ conceptualContent:
           text: Panoramica sulla gestione delle vulnerabilità
 additionalContent:
   sections:
-    - title: Introduzione alla conformità in Microsoft 365
-      summary: 'Se non si ha familiarità con Microsoft 365 e si chiede da dove iniziare, in questa sezione vengono forniti collegamenti a soluzioni chiave e vengono date priorità alle aree di conformità importanti.'
+    - title: Introduzione alla conformità nei servizi online Microsoft
+      summary: 'Se non si ha la conformità e si chiede dove iniziare con i servizi online Microsoft, in questa sezione sono disponibili collegamenti alle aree di conformità chiave per ogni servizio.'
       items:
-        - title: Informazioni su Compliance Manager
-          summary: 'Scopri cos''è Compliance Manager, come semplifica la conformità e riduce i rischi e i relativi componenti chiave.'
-          url: /microsoft-365/compliance/compliance-manager
-        - title: Gestire i rischi Insider
-          summary: 'Ridurre al minimo i rischi interni rilevando, analizzando e agendo su attività dannose e involontarie nell''organizzazione.'
-          url: /microsoft-365/compliance/insider-risk-solution-overview
-        - title: Gestire la protezione delle informazioni
-          summary: 'Usa Microsoft Information Protection (MIP) per individuare, classificare e proteggere le informazioni riservate ovunque si recintino o viaggino.'
-          url: /microsoft-365/compliance/protect-information
-        - title: Gestire la governance delle informazioni
-          summary: Utilizzare le funzionalità di Microsoft Information Governance (MIG) per regolamentare i dati in base ai requisiti normativi o di conformità.
-          url: /microsoft-365/compliance/manage-information-governance
-        - title: Gestione di eDiscovery
-          summary: Utilizzare eDiscovery per identificare e analizzare il contenuto come prova in casi legali.
-          url: /microsoft-365/compliance/ediscovery
-        - title: 'Distribuire la protezione delle informazioni per le normative sulla privacy dei dati '
-          summary: 'Identificare, individuare, proteggere, regolamentare e rispondere agli incidenti sulla privacy dei dati per i dati personali archiviati nei servizi Microsoft 365 soggetti alle normative sulla privacy dei dati.'
-          url: /microsoft-365/solutions/information-protection-deploy
+        - title: Microsoft Azure
+          summary: 'La conformità di Azure fornisce offerte di conformità, progetti, guide alla conformità e risorse per soddisfare gli obblighi di conformità.'
+          url: /azure/compliance/
+        - title: Dynamics 365
+          summary: Business Central contiene funzionalità ed è basato su una piattaforma che consente ai clienti di conformarsi facilmente alle normative e alla conformità.
+          url: /dynamics365/business-central/compliance/compliance-overview
+        - title: Microsoft 365
+          summary: 'Se l''organizzazione deve rispettare standard legali o normativi, qui sono disponibili informazioni sulla conformità in Microsoft 365.'
+          url: /microsoft-365/compliance/
