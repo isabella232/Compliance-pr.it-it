@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 3621d34a87402722e18d50a298dff4d5a10ac3a9
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: ef436314bc6b9d49bea046b66cbfa44905943001e5c91dff2441dcd9fab55768
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384346"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54290054"
 ---
 # <a name="sarbanes-oxley-act-of-2002-sox"></a>Sarbanes-Oxley Act del 2002 (SOX)
 
@@ -35,19 +35,19 @@ La SEC non definisce o impone un processo di certificazione SOX. Fornisce invece
 
 I clienti dei servizi cloud Microsoft soggetti alla conformità con il Sarbanes-Oxley Act (SOX) possono utilizzare l'attestazione SOC 1 Di tipo 2 che Microsoft ha ricevuto da una società di controllo indipendente per affrontare i propri obblighi di conformità SOX. Questa attestazione è appropriata per la creazione di report sui controlli interni sui report finanziari.
 
-Anche se non esiste alcuna certificazione SOX o convalida per i provider di servizi cloud, Microsoft può aiutare i clienti a rispettare i propri obblighi SOX. Ad esempio, SOX richiede controlli interni per la preparazione e la revisione dei rendiconti finanziari, in particolare i controlli che influiscono sull'accuratezza, la completezza, l'efficacia e la divulgazione pubblica di modifiche materiali correlate alla creazione di report finanziari. Per aiutare le aziende, Microsoft gestisce un'attestazione SOC 1 Tipo 2 appropriata per la creazione di report su tali controlli in un ampio portfolio di servizi che possono essere utilizzati per creare un'ampia gamma di applicazioni. Si basa sull'American Institute of Certified Public Accountants (AICPA) Statement on Standards for Attestation Engagements 18 (SSAE 18) e sullo Standard internazionale sugli impegni di garanzia n. 3402 (ISAE 3402). Questa attestazione ha sostituito SAS 70.
+Anche se non esiste alcuna certificazione SOX o convalida per i provider di servizi cloud, Microsoft può aiutare i clienti a rispettare i propri obblighi SOX. Ad esempio, SOX richiede controlli interni per la preparazione e la revisione dei rendiconti finanziari, in particolare i controlli che influiscono sull'accuratezza, la completezza, l'efficacia e la divulgazione pubblica di modifiche materiali correlate alla creazione di report finanziari. Per aiutare le aziende, Microsoft gestisce un'attestazione SOC 1 Tipo 2 appropriata per la creazione di report su tali controlli in un ampio portfolio di servizi che possono essere utilizzati per creare un'ampia gamma di applicazioni. Si basa sull'American Institute of Certified Public Accountants (AICPA) Statement on Standards for Attestation Engagements 18 (SSAE 18) e sullo Standard internazionale sugli impegni di garanzia n. n. 3402. Questa attestazione ha sostituito SAS 70.
 
 Il report di controllo, prodotto da una società di controllo di terze parti, attesta che i controlli Microsoft sono stati progettati in modo appropriato, in funzione in una data specificata e che operano in modo efficace in un determinato periodo di tempo. I clienti possono esaminare i report per informazioni sugli obiettivi del controllo Microsoft e sull'efficacia dei controlli e ottenere l'accesso ai controlli complementari.
 
 Microsoft condivide la responsabilità della conformità con i clienti. Forniamo le specifiche dei nostri programmi di conformità, che puoi verificare richiedendo risultati di controllo dettagliati da terze parti che certificano. In ultima analisi, tuttavia, sta a te determinare se i nostri servizi sono conformi alle leggi e alle normative specifiche applicabili alla tua azienda. Ad esempio, esistono controlli di sicurezza correlati a SOX, ad esempio l'accesso degli utenti alle risorse cloud, che sono responsabilità dell'organizzazione: l'organizzazione deve sviluppare un controllo appropriato di questi controlli come parte della conformità SOX.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme cloud microsoft nell'ambito & servizi
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme e servizi cloud Microsoft inclusi nell'ambito
 
 - Azure
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune
 - Office 365
-- Power BI cloud (come servizio autonomo o come incluso in un piano o in una famiglia di prodotti Office 365 personalizzazione)
+- Servizio cloud Power BI, servizio autonomo o incluso in un piano o in una famiglia di prodotti Office 365
 
 ## <a name="azure-dynamics-365-and-sox"></a>Azure, Dynamics 365 e SOX
 
@@ -55,15 +55,15 @@ Per altre informazioni sulla conformità di Azure, Dynamics 365 e altri servizi 
 
 ## <a name="office-365-and-sox"></a>Office 365 e SOX
 
-### <a name="office-365-cloud-environments"></a>Office 365 cloud
+### <a name="office-365-cloud-environments"></a>Ambienti cloud di Office 365
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 applicabilità e servizi nell'ambito
+### <a name="office-365-applicability-and-in-scope-services"></a>Applicabilità di Office 365 e servizi inclusi nell'ambito
 
-Utilizzare la tabella seguente per determinare l'applicabilità per i servizi Office 365 e la sottoscrizione:
+Usare la tabella seguente per determinare l'applicabilità per i servizi e l'abbonamento a Office 365:
 
-| **Applicabilità** | **Servizi nell'ambito** |
+| **Applicabilità** | **Servizi inclusi nell'ambito** |
 |:------------------|:----------------------|
 | **Office 365** | Augmentation Loop, Auto Alt Text, Azure Information Protection, Binary Conversion Services, Bookings, Delve, Document Item, Editor, Exchange Online, Forms, Insert Online Media, Insights, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Graph, Microsoft Teams, MyAnalytics, Office 365 Cloud App Security, Office 365 Groups, Office 365 Video, OneDrive for Business, Planner, Power Apps, PowerApps, Power Automate, Power BI, PowerPoint Designer, PowerPoint Online Document Service, SharePoint Online, Skype for Business, StaffHub, Stream,Sway, To-Do, Web Rendering Service, Yammer Enterprise  |
 

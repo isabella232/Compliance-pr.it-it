@@ -20,12 +20,12 @@ f1.keywords:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 0a178b23182427c0d202be38a9986c9e9069e1af2b71290a248c33aae19e0eaa
-ms.sourcegitcommit: 07b748b28a7815fb5824be0dea3edba29353361d
+ms.openlocfilehash: dc2a1a27994c1f3fc69f35b4b764ae80d3df7defd3b4d0dec97520de7760f815
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/10/2021
-ms.locfileid: "57833883"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54288714"
 ---
 # <a name="data-classification--sensitivity-label-taxonomy"></a>Classificazione dei dati & tassonomia dell'etichetta di riservatezza
 
@@ -40,9 +40,7 @@ Oltre al volume, il contenuto può essere di importanza variabile, da estremamen
 ## <a name="what-is-a-data-classification-framework"></a>Che cos'è un framework di classificazione dei dati?
 
 Spesso codificato in un criterio formale a livello aziendale, un framework di classificazione dei dati (talvolta denominato "criterio di classificazione dei dati") è in genere costituito da 3-5 livelli di classificazione. Questi includono in genere tre elementi: un nome, una descrizione ed esempi reali. Microsoft consiglia di non più di cinque etichette padre di primo livello, ognuna con cinque etichette secondarie (25 totali) per mantenere gestibile l'interfaccia utente. I livelli sono in genere disposti dal meno sensibile a quello più riservato, ad esempio *Public,* *Internal,* *Confidential* e *Highly* 
- *Confidential.* Altre varianti dei nomi di livello che possono verificarsi includono *Restricted,* *Unrestricted* e *Consumer Protected.* Microsoft consiglia nomi di etichette auto descrittivi che ne evidenziano chiaramente la riservatezza relativa. Ad esempio, *Confidential* e *Restricted* potrebbero lasciare agli utenti la ipotesi dell'etichetta appropriata, mentre *Confidential* e *Highly Confidential* sono più chiari su cui è più sensibile. 
-
-Nella tabella seguente viene illustrato un esempio di livello di framework di classificazione dei dati *estremamente* riservato:
+ *Confidential.* Altre varianti dei nomi di livello che possono verificarsi includono *Restricted,* *Unrestricted* e *Consumer Protected.* Microsoft consiglia nomi di etichette auto descrittivi che ne evidenziano chiaramente la riservatezza relativa. Ad esempio, *Confidential* e *Restricted* potrebbero lasciare agli utenti la ipotesi dell'etichetta appropriata, mentre *Confidential* e *Highly Confidential* sono più chiari su cui è più sensibile. La tabella seguente mostra esempi di livelli del framework di classificazione dei dati.
 
 |**Livello di classificazione**|**Descrizione**|**Esempi**|
 |:-----------------------|:--------------|:-----------|

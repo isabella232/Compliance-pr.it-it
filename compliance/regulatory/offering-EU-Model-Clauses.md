@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 20dccebdb31eff3e502efe8fe6eba6fbdd4881c4ac864927566fc786dff09a15
-ms.sourcegitcommit: 07b748b28a7815fb5824be0dea3edba29353361d
+ms.openlocfilehash: db61f90991f8881d6343aca25382f2cfe5e023b9bebf90a38e5e96c09d1090ad
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/10/2021
-ms.locfileid: "57833893"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54287595"
 ---
 # <a name="european-union-model-clauses"></a>Clausole del modello dell'Unione europea
 
@@ -33,9 +33,13 @@ A livello pratico, la conformità alle leggi sulla protezione dei dati europea s
 
 ## <a name="microsoft-and-european-union-model-clauses"></a>Microsoft e le clausole del modello dell'Unione europea
 
-Il [Regolamento generale sulla protezione dei dati](/compliance/regulatory/gdpr) (GDPR) dell'Unione europea (UE) regola il trasferimento dei dati personali dei clienti in paesi al di fuori dell'Area Economica Europea (AEE), che include tutti i paesi dell'Unione europea, Islanda, Liechtenstein e Norvegia. Microsoft offre ai clienti le [clausole contrattuali standard dell'Unione Europea](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en) che forniscono garanzie specifiche sui trasferimenti di dati personali per i servizi nell'ambito. Le clausole contrattuali standard dell'Unione Europea vengono utilizzate negli accordi tra provider di servizi (come Microsoft) e i loro clienti per garantire che tutti i dati personali che lasciano l'Area Economica Europea vengano trasferiti in conformità con il GDPR.
+Microsoft ha investito nei processi operativi necessari per soddisfare i requisiti specifici delle clausole del modello per il trasferimento di dati personali ai responsabili del trattamento. Microsoft offre ai clienti clausole del modello, denominate clausole contrattuali standard, per offrire garanzie specifiche relativamente ai trasferimenti di dati personali per i servizi Microsoft interni all'ambito. In questo modo, i clienti Microsoft possono spostare liberamente dati nel cloud Microsoft dall'AEE al resto del mondo.
 
-Nel luglio 2020, la Corte di giustizia dell'Unione europea (CGUE) ha reso non valido il Privacy Shield UE-USA per i trasferimenti di dati personali dall'UE agli Stati Uniti. Tuttavia, le clausole contrattuali standard dell'Unione Europea continuano a fornire un meccanismo valido per il trasferimento dei dati personali dall'UE e dall'Area Economica Europea, nonché dalla Svizzera e dal Regno Unito. Microsoft rende disponibili le clausole contrattuali standard dell'Unione Europea ai clienti come descritto nelle Condizioni di Microsoft Online Services (OST) [Data Protection Addendum](https://aka.ms/DPA) (DPA).
+Tuttavia, i clienti aziendali di Microsoft, che detengono il controllo dei dati personali, hanno l'obbligo primario di proteggere tali dati. Ciò significa che i clienti aziendali dell'AEE hanno un forte interesse nell'assicurarsi che il loro provider di servizi rispetti le leggi sulla protezione dei dati dell'Unione europea, in caso contrario potrebbero essere ritenuti responsabili e subire il blocco del servizio.
+
+Microsoft ha sottoposto le sue clausole contrattuali standard al Gruppo di lavoro articolo 29 dell'Unione europea affinché vengano riviste e approvate. Il Gruppo di lavoro articolo 29 include rappresentanti del Garante europeo della protezione dei dati, della Commissione europea e di ognuna delle 28 autorità per la protezione dei dati dell'Unione europea (DPA).
+
+Il gruppo ha stabilito che l'implementazione delle disposizioni negli accordi Microsoft era conforme ai loro rigidi requisiti (Microsoft è stato il primo provider di servizi cloud a ricevere una lettera di approvazione da parte del gruppo). L'approvazione riguardava gli impegni riportati nelle clausole del modello 2010/87/EU ma non nelle appendici, che descrivono i trasferimenti di dati e le misure di sicurezza implementati dalla persona incaricata a importare i dati. Le appendici possono essere analizzate separatamente dalla DPA.
 
 ## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme e servizi cloud Microsoft inclusi nell'ambito
 
@@ -63,7 +67,7 @@ Usare la tabella seguente per determinare l'applicabilità per i servizi e l'abb
 
 | **Applicabilità** | **Servizi inclusi nell'ambito** |
 |:------------------|:----------------------|
-| **Commerciale** | Protezione dalla minacce di Azure, Azure Active Directory, Azure Information Protection, Bookings, Compliance Manager, Delve, Exchange Online, Exchange Online Protection, Forms, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Graph, Microsoft Teams, Microsoft To-Do per il Web, MyAnalytics, componente aggiuntivo Conformità avanzata di Office 365, Office 365 Cloud App Security, Gruppi di Office 365, Centro sicurezza e conformità di Office 365, Video di Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, Microsoft SharePoint Online, Skype for Business, StaffHub, Microsoft Stream, Sway, Yammer Enterprise |
+| **Office 365** | Protezione dalla minacce di Azure, Azure Active Directory, Azure Information Protection, Bookings, Compliance Manager, Delve, Exchange Online, Exchange Online Protection, Forms, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Graph, Microsoft Teams, Microsoft To-Do per il Web, MyAnalytics, componente aggiuntivo Conformità avanzata di Office 365, Office 365 Cloud App Security, Gruppi di Office 365, Centro sicurezza e conformità di Office 365, Video di Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, Microsoft SharePoint Online, Skype for Business, StaffHub, Microsoft Stream, Sway, Yammer Enterprise |
 
 ## <a name="audits-reports-and-certificates"></a>Controlli, report e certificati
 

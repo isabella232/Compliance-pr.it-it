@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: ecb66b923f1d9ce239000910ad282ae3e69514de
-ms.sourcegitcommit: 76553d505d88ea868622bebebda17c27df5f7a39
+ms.openlocfilehash: ca26f1cb12fd7440b143ec27f7abfb1977acc0a2addc71baa3e265d262aeb57a
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/28/2021
-ms.locfileid: "53617687"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54289244"
 ---
 # <a name="architecture-overview"></a>Panoramica dell'architettura
 
@@ -47,7 +47,7 @@ Dynamics 365 è una famiglia di applicazioni aziendali online che integra le fun
 
 Microsoft 365 è la versione basata su sottoscrizione basata su cloud di Office, Windows 10, Enterprise Mobility + Security e conformità. Microsoft 365 clienti ottengono client come Outlook e Windows e beneficiano anche di servizi ospitati da Microsoft per loro conto, ad esempio Exchange Online, Microsoft Teams e SharePoint Online. Tutti i componenti del servizio vengono aggiornati regolarmente come parte del modello di sottoscrizione, in modo che i nostri clienti hanno un prodotto "sempreverde". Microsoft gestisce l'infrastruttura di servizio per conto dei clienti, il che significa che Microsoft è responsabile della protezione dell'infrastruttura che archivia i dati dei clienti.
 
-In termini di scalabilità, Microsoft attualmente usa quasi un milione di computer per alimentare Microsoft 365 servizi. L'infrastruttura di alimentazione di questi servizi varia notevolmente nell'hardware specifico del servizio e negli ambienti virtualizzati in Azure, Windows e Linux e nelle piattaforme multi-tenant e dedicate. Microsoft 365 è un'azienda globale e l'infrastruttura è distribuita in data center in tutto il mondo, consentendo ai clienti di soddisfare i requisiti di residenza e sovranità dei dati.
+In termini di scalabilità, Microsoft attualmente usa quasi un milione di computer per alimentare Microsoft 365 servizi. L'infrastruttura di alimentazione di questi servizi varia notevolmente nell'hardware specifico del servizio e negli ambienti virtualizzati in Azure, Windows e Linux e nelle piattaforme multi-tenant e dedicate. Microsoft 365 è un'azienda globale e la nostra infrastruttura è distribuita in data center in tutto il mondo, il che consente ai clienti di soddisfare i requisiti di residenza e sovranità dei dati.
 
 ## <a name="how-do-microsoft-online-services-ensure-isolation-between-customer-tenants"></a>In che modo i servizi online Microsoft garantiscono l'isolamento tra i tenant dei clienti?
 
@@ -61,7 +61,7 @@ Microsoft progetta e crea servizi cloud per ottimizzare l'affidabilità e ridurr
 
 Se possibile, i servizi online Microsoft vengono distribuiti in configurazioni attive/attive con monitoraggio automatico dell'integrità dei servizi, consentendo al servizio di rilevare e ripristinare da molti errori e errori comuni senza l'intervento umano. Oltre alle configurazioni attive/attive, i servizi online Microsoft aumentano la tolleranza di errore assicurando che il servizio sia distribuito in aree di errore separate, impedendo a un errore in un'area di influire sulla disponibilità di altre aree.
 
-La resilienza dei dati integra la resilienza del servizio proteggendo l'integrità e la disponibilità dei dati nei servizi online Microsoft. I nostri servizi usano la ridondanza di archiviazione locale e la ridondanza geografica per replicare le copie dei dati dei clienti in diverse aree di errore. Se i dati sono danneggiati o persi in una zona di errore, è possibile accedervi in un'altra zona di errore senza perdita di disponibilità. Il controllo automatico dell'integrità ripristina automaticamente i dati influenzati da molti tipi di danneggiamento fisico o logico. Microsoft fornisce inoltre ai clienti strumenti per ripristinare i dati eliminati o modificati accidentalmente dal cliente in servizi come Exchange Online e SharePoint Online.
+La resilienza dei dati integra la resilienza del servizio proteggendo l'integrità e la disponibilità dei dati nei servizi online Microsoft. I nostri servizi usano la ridondanza di archiviazione locale e la ridondanza geografica per replicare le copie dei dati dei clienti in diverse aree di errore. Se i dati sono danneggiati o vanno persi in una zona di errore, è possibile accedervi in un'altra zona di errore senza perdita di disponibilità. Il controllo automatico dell'integrità ripristina automaticamente i dati influenzati da molti tipi di danneggiamento fisico o logico. Microsoft fornisce inoltre ai clienti strumenti per ripristinare i dati eliminati o modificati accidentalmente dal cliente in servizi come Exchange Online e SharePoint Online.
 
 ## <a name="how-do-microsoft-online-services-track-dependencies-and-prevent-unauthorized-external-system-connections"></a>In che modo i servizi online Microsoft rilevano le dipendenze e impediscono connessioni al sistema esterno non autorizzate?
 

@@ -19,12 +19,12 @@ hideEdit: true
 ms.custom:
 - seo-marvel-mar2020
 titleSuffix: Microsoft GDPR
-ms.openlocfilehash: 2fff7a2ffb6dc48e43c8a514609f0f584cb60db1
-ms.sourcegitcommit: 5d8e670e9d9968458047b51b6b2930f7bd14a011
+ms.openlocfilehash: 5eab26177887632291a24bf7b6195b68b339bb103b785aae68f3b7fc659eb373
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "53141477"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54289394"
 ---
 # <a name="dynamics-365-data-subject-requests-for-the-gdpr-and-ccpa"></a>Richieste degli interessati per Dynamics 365 nell'ambito del GDPR e del CCPA
 
@@ -34,10 +34,10 @@ Analogamente, il California Consumer Privacy Act (CCPA) prevede obblighi e dirit
 
 La guida descrive come utilizzare i prodotti, i servizi e gli strumenti di amministrazione Microsoft per aiutare i nostri clienti titolari del trattamento dei dati a individuare e gestire i dati personali per rispondere alle richieste DSR. In particolare, ciò include come identificare, accedere e usare i dati e le informazioni personali che risiedono nel cloud Microsoft. Di seguito viene riportata una rapida panoramica dei processi descritti in questa guida:
 
-- **Individuazione:** usare gli strumenti di ricerca per trovare più facilmente i dati del cliente che possono essere oggetto di una richiesta DSR. Dopo aver raccolto i documenti potenzialmente rilevanti, è possibile eseguire una o più delle azioni DSR descritte nei passaggi seguenti per rispondere alla richiesta del soggetto interessato. In alternativa, si può determinare che la richiesta non soddisfa le linee guida della propria organizzazione relative alla risposta alle richieste DSR.
+- **Individuazione**: usare gli strumenti di ricerca e individuazione per trovare più facilmente i dati dei clienti che potrebbero essere oggetto di una richiesta dell'interessato. Dopo aver raccolto dei documenti potenzialmente reattivi, è possibile eseguire una o più delle azioni DSR descritte nella seguente procedura per rispondere alla richiesta. In alternativa, si può determinare che la richiesta non soddisfa le linee guida dell'organizzazione relative alla risposta alle richieste degli interessati.
 - **Accesso:** recuperare i dati personali che risiedono nel cloud Microsoft e, se richiesto, crearne una copia che è disponibile per l'interessato.
 - **Rettifica:** apportare modifiche o implementare le azioni richieste sui dati personali, ove applicabile.
-- **Limitazione**: limitare il trattamento dei dati personali, rimuovendo le licenze per vari servizi online o disattivando i servizi desiderati, dove possibile. È possibile
+- **Limitazione**: limitare il trattamento dei dati personali, rimuovendo le licenze per vari servizi online o disattivando i servizi desiderati, dove possibile.
 - **Eliminazione:** rimuovere in modo definitivo i dati personali che risiedono nel cloud Microsoft.
 - **Esportazione/ricezione (portabilità):** fornire all'interessato una copia elettronica dei dati o delle informazioni personali in un formato leggibile da una macchina. Secondo il CCPA, le informazioni personali sono qualsiasi informazione riguardante una persona fisica identificata o identificabile. Non esiste distinzione tra i ruoli privati, pubblici o professionali di una persona. Il termine definito "informazioni personali" combacia con il termine "dati personali" del GDPR. Tuttavia, il CCPA include anche i dati relativi alla famiglia e al nucleo familiare. Per altre informazioni sul CCPA, vedere il [California Consumer Privacy Act](offering-ccpa.md) e le [Domande frequenti sul California Consumer Privacy Act](ccpa-faq.yml).
 
@@ -50,8 +50,8 @@ Di seguito vengono fornite le definizioni dei termini importanti nella presente 
 - **Titolare:** la persona fisica o giuridica, l'autorità pubblica, l'agenzia o altro ente che, autonomamente o unitamente ad altri soggetti, determina gli obiettivi e i mezzi del trattamento dei dati personali; laddove gli obiettivi e i mezzi di tale trattamento sono determinati da una normativa europea o di uno specifico Stato membro dell'UE, il titolare del trattamento dei dati o i criteri specifici per la sua designazione potrebbero essere forniti da tale normativa europea o di uno specifico Stato membro dell'UE.
 - **Dati personali e interessato:** tutte le informazioni concernenti una persona fisica identificata o identificabile ("interessato"). Una persona fisica è identificabile se può essere identificata, direttamente o indirettamente, in particolare facendo riferimento a un identificatore (ad esempio un nome, un numero di identificazione, dati di posizione o un identificatore online) o a uno o più fattori relativi all'identità fisica, fisiologica, genetica, mentale, economica, culturale o sociale di tale persona fisica.
 - **Responsabile:** una persona fisica o giuridica, un'autorità pubblica o altro ente che si occupa del trattamento dei dati personali per conto del titolare.
-- **Dati del cliente:** tutti i dati, compresi file di testo, audio, video o immagini e software, forniti a Microsoft dal cliente o per suo conto attraverso i servizi aziendali. I dati dei clienti includono (1) informazioni che consentono l'identificazione personale degli utenti finali, ad esempio nomi utente e informazioni di contatto in Azure Active Directory, e contenuto dei clienti che un cliente stesso carica o crea in servizi specifici, ad esempio contenuto dei clienti in un account di archiviazione di Azure, contenuto dei clienti in un database SQL di Azure o un'immagine della macchina virtuale di un cliente in Macchine virtuali di Azure.
-- **Log generati dal sistema:** i log e i dati correlati generati da Microsoft che consentono a Microsoft di offrire servizi aziendali agli utenti. I log generati dal sistema contengono principalmente dati presentati con l'uso di pseudonimi come un identificatore univoco, in genere un numero generato dal sistema che non può identificare individualmente una singola persona ma viene usato per fornire servizi aziendali agli utenti. I log generati dal sistema possono anche contenere informazioni identificabili riguardanti gli utenti finali, ad esempio un nome utente.
+- **Dati dei clienti**: tutti i dati, compresi tutti i file di testo, audio o immagini e il software, che vengono forniti a Microsoft da, o per conto di, un cliente tramite l'uso del servizio aziendale. I dati dei clienti includono (1) informazioni che consentono l'identificazione personale degli utenti finali (ad esempio, nomi utente e informazioni di contatto in Azure Active Directory) e contenuti per i clienti che un cliente stesso carica o crea in servizi specifici (ad esempio, contenuti per i clienti in un account di archiviazione di Azure, contenuti per i clienti in un database SQL di Azure o un'immagine della macchina virtuale di un cliente in Macchine virtuali di Azure).
+- **Log generati dal sistema:** log e dati relativi generati da Microsoft che consentono a Microsoft di fornire servizi aziendali agli utenti. I log generati dal sistema contengono dati principalmente presentati con l'uso di pseudonimi come identificatori univoci (in genere, un numero generato dal sistema con cui non è possibile identificare direttamente un soggetto, ma che viene utilizzato per fornire i servizi aziendali agli utenti). I log generati dal sistema possono anche contenere informazioni personali sugli utenti finali, come un nome utente.
 
 ## <a name="how-this-guide-can-help-you-meet-your-controller-responsibilities"></a>Come questa guida consente di adempiere alle proprie responsabilità di titolare del trattamento dei dati
 
@@ -85,7 +85,7 @@ Per usare i dati personali presenti nelle applicazioni di lavoro in Dynamics 365
 
 Microsoft offre funzionalità che possono essere utili per rispondere alle richieste degli interessati e per accedere ai dati del cliente. Tuttavia, spetta dell'utente assicurare che i dati personali siano collocati e classificati in modo appropriato.
 
-***Dynamics 365 for Customer Engagement*** offre diversi metodi per cercare dati personali nei record, ad esempio: ricerca avanzata e ricerca per record. Tutte queste funzioni consentono di identificare (trovare) i dati personali.
+***Dynamics 365 - Customer Engagement*** offre diversi metodi per cercare dati personali nei record, ad esempio: ricerca avanzata e ricerca per record. Tutte queste funzioni consentono di identificare (trovare) i dati personali.
 
 - [Ricerca avanzata](/dynamics365/customer-engagement/basics/save-advanced-find-search)
 - [Ricerca per record](/dynamics365/customer-engagement/basics/search-records) tra più tipi di record
@@ -97,7 +97,7 @@ In Dynamics 365 for Marketing, sono disponibili le seguenti funzionalità aggiun
 
 ***Dynamics 365 Customer Service Insights*** offre un elenco di risorse utili per [trovare i dati del cliente](/dynamics365/ai/customer-service-insights/gdpr-discovery) e rispondere alle richieste dei clienti relative al GDPR.
 
-***Dynamics 365 for Finance and Operations*** offre diversi modi per cercare i dati del cliente. In qualità di amministratore tenant è possibile effettuare le seguenti operazioni per cercare i dati del cliente:
+***Dynamics 365 for Finance and Operations*** offre diversi modi per cercare dati del cliente. In qualità di amministratore tenant è possibile effettuare le seguenti operazioni per cercare dati del cliente:
 
 - Organizzare i dati del cliente al fine di poter individuare rapidamente i dati personali. A tale scopo, vedere [come classificare l'inventario dati](/dynamics365/unified-operations/dev-itpro/gdpr/gdpr-guide#detailed-inventory).
 - Usare il [rapporto di ricerca persone](/dynamics365/unified-operations/dev-itpro/gdpr/gdpr-guide#the-person-search-report) per trovare e raccogliere dati personali dell'utente.
@@ -106,7 +106,7 @@ In Dynamics 365 for Marketing, sono disponibili le seguenti funzionalità aggiun
 - Creare un modulo personalizzato che consente di individuare ed esportare i dati personali.
 - Creare un portale esterno o sito Web che consente a un cliente autenticato di visualizzare i propri dati personali.
 
-***Dynamics 365 Business Central*** offre diversi modi per cercare i dati del cliente. Per informazioni dettagliate, vedere [Ricerca, filtro e ordinamento di dati](/dynamics365/business-central/ui-enter-criteria-filters).
+***Dynamics 365 Business Central*** fornisce vari modi per cercare i dati dei clienti. Per informazioni dettagliate, vedere [Ricerca, filtro e ordinamento di dati](/dynamics365/business-central/ui-enter-criteria-filters).
 
 ***Dynamics 365 for Talent*** fornisce funzionalità di ricerca avanzata e filtro per trovare dati personali, mentre la funzionalità di esportazione di Microsoft Office consente di esportare o stampare le informazioni in un PDF con le estensioni del browser.
 
@@ -115,13 +115,13 @@ In Dynamics 365 for Marketing, sono disponibili le seguenti funzionalità aggiun
 
 ### <a name="providing-a-copy-of-customer-data"></a>Fornire una copia dei dati dei clienti
 
-I dati del cliente in ***Dynamics 365 for Customer Engagement*** possono essere esportati usando le funzionalità complete di esportazione entità. I dati del cliente possono essere esportati in un file di Excel statico per facilitare una richiesta di portabilità dei dati. Con Excel è possibile modificare i dati personali da includere nella richiesta di portabilità e quindi salvarli in un formato leggibile di uso comune, ad esempio .csv o .xml. I record di Dynamics 365 for Customer Engagement possono essere esportati anche tramite l'[API Web Common Data Service](/powerapps/developer/common-data-service/webapi/overview).
+I dati del cliente in ***Dynamics 365 for Customer Engagement*** possono essere esportati utilizzando le funzionalità di esportazione entità complete o in un file di Excel statico. Tramite Excel, è possibile modificare i dati personali da includere nella richiesta di portabilità e salvarli in un formato leggibile di uso comune, ad esempio con estensione CSV o XML. I record di Dynamics 365 for Customer Engagement possono essere esportati anche tramite l'[API Web Common Data Service](/powerapps/developer/common-data-service/webapi/overview).
 
 Inoltre, per Dynamics 365 for Marketing è fornita un'[API dedicata](/dynamics365/customer-engagement/marketing/developer/retrieve-interactions-contact) che consente ai clienti di creare estensioni che permettono di recuperare record aggiuntivi di interazioni cliente acquisite che possono contenere dati personali. L'API carica tutte le informazioni pertinenti dal sistema di back-end e le assembla in un unico documento portatile.
 
 ***Dynamics 365 Customer Service Insights*** consente di [fornire una copia dei dati del cliente](/dynamics365/ai/customer-service-insights/gdpr-export) usando l'esportazione dei dati.
 
-I dati del cliente in ***Dynamics 365 for Finance and Operations** _ possono essere esportati usando le funzionalità complete di esportazione entità. Con le [_entità di gestione e integrazione dei dati*](/dynamics365/unified-operations/dev-itpro/data-entities/data-management-integration-data-entity), gli amministratori tenant possono usare entità disponibili, crearne di nuove o estendere le entità esistenti per un'esportazione dei dati personali in Excel ripetibile o per numerosi altri formati comuni usando [*processi di importazione ed esportazione dati*](/dynamics365/unified-operations/dev-itpro/data-entities/data-import-export-job).  In alternativa, molti elenchi possono essere esportati in un file di Excel statico per facilitare una richiesta di portabilità dei dati. Quando i dati del cliente vengono esportati in Excel, è possibile modificare i dati personali da includere nella richiesta di portabilità e quindi salvare il file in un formato leggibile di uso comune, ad esempio .csv o .xml. È inoltre possibile usare il *Report di ricerca persone* per fornire agli interessati i dati che sono stati classificati come dati personali.
+I dati del cliente in ***Dynamics 365 for Finance and Operations** _ possono essere esportati utilizzando le funzionalità di esportazione entità complete. Tramite le [_entità di gestione e integrazione dei dati*](/dynamics365/unified-operations/dev-itpro/data-entities/data-management-integration-data-entity), gli amministratori tenant possono utilizzare le entità disponibili, crearne di nuove o estendere quelle esistenti, per un'esportazione di dati personali ripetibile in Excel o in altri formati comuni tramite [*processi di esportazione e importazione dei dati*](/dynamics365/unified-operations/dev-itpro/data-entities/data-import-export-job). In alternativa, molti elenchi possono essere esportati in un file Excel statico per facilitare una richiesta di portabilità dei dati. Quando i dati del cliente vengono esportati in Excel, è possibile modificare i dati personali da includere nella richiesta di portabilità e quindi salvare il file in un formato leggibile di uso comune, ad esempio con estensione CSV o XML. Si può usare anche il *rapporto di ricerca persone* per fornire all'interessato i dati classificati come dati personali.
 
 In ***Dynamics 365 - Business Central*** è possibile usare due caratteristiche per inviare una copia dei dati del cliente all'interessato:
 
@@ -170,7 +170,7 @@ Quando un interessato chiede di eliminare i dati del cliente, esistono diversi m
 - Modificare più record Dynamics 365 in blocco tramite il componente aggiuntivo di Microsoft Office per esportare i dati in Microsoft Excel, apportare le modifiche desiderate e quindi importare di nuovo i dati modificati da Excel nel servizio online.
 - È possibile eliminare i dati del cliente archiviati in un campo qualsiasi, individuando i dati da eliminare ed eliminando manualmente l'elemento dati che contiene i dati del cliente di destinazione, ad esempio eliminando definitivamente il record del contatto che rappresenta l'interessato e altri record che contengono dati personali
 
-Inoltre, in Dynamics 365 for Marketing, l'eliminazione di un contatto garantisce che vengano rimossi anche i dati di interazione con le informazioni personali. Per i campi o entità personalizzati, è necessario personalizzare il sistema per assicurarsi che elimini tutti i dati del cliente dai record correlati e/o li scolleghi dal record del contatto in modo che tutte le informazioni personali vengano rimosse. Per ulteriori informazioni, vedere [Developer Guide (Marketing)](/dynamics365/customer-engagement/marketing/developer/marketing-developer-guide).
+Inoltre, in Dynamics 365 Marketing, l'eliminazione di un contatto garantisce che vengano rimossi anche i dati di interazione marketing in uscita con le informazioni personali. Per i campi o le entità personalizzate, è necessario personalizzare il sistema per assicurarsi che elimini tutti i dati del cliente dai record correlati e/o li scolleghi dal record del contatto in modo che tutte le informazioni personali vengano rimosse. I clienti che usano il modulo di marketing in tempo reale devono anche inviare un ticket di supporto con la richiesta di eliminazione in modo che tutti i dati di interazione in tempo reale vengano rimossi. Per altre informazioni, vedere la [guida per sviluppatori (marketing)](/dynamics365/customer-engagement/marketing/developer/marketing-developer-guide).
 
 ***Dynamics 365 Customer Service Insights*** offre inoltre alle organizzazioni funzionalità per [eliminare i dati del cliente](/dynamics365/ai/customer-service-insights/gdpr-delete).
 
@@ -193,7 +193,7 @@ Inoltre, per Dynamics 365 for Marketing è fornita un'[API dedicata](/dynamics36
 
 Per ***Dynamics 365 Customer Service Insights*** è possibile [esportare i dati del cliente](/dynamics365/ai/customer-service-insights/gdpr-export) usando il portale di gestione di Azure.
 
-***Dynamics 365 for Finance and Operations*** offre entità di gestione e integrazione dei dati che consentono di usare entità disponibili, entità appena create o entità estese per un'esportazione dei dati personali in Excel ripetibile o per numerosi altri formati comuni usando [processi di importazione ed esportazione dati](/dynamics365/unified-operations/dev-itpro/data-entities/data-import-export-job).  In alternativa, molti elenchi possono essere esportati in un file di Excel statico per facilitare una richiesta di portabilità dei dati. Quando i dati del cliente vengono esportati in Excel in questo modo, è possibile modificare i dati personali da includere nella richiesta di portabilità e quindi salvare il file in un formato leggibile di uso comune, ad esempio .csv o .xml.
+***Dynamics 365 for Finance and Operations*** offre entità di gestione e integrazione dei dati, che consentono alle entità disponibili, appena create o estese, un'esportazione di dati personali ripetibile in Excel o in altri formati comuni tramite [processi di esportazione e importazione dei dati](/dynamics365/unified-operations/dev-itpro/data-entities/data-import-export-job). In alternativa, molti elenchi possono essere esportati in un file Excel statico per facilitare una richiesta di portabilità dei dati. Quando i dati del cliente vengono esportati in Excel, è possibile modificare i dati personali da includere nella richiesta di portabilità e quindi salvare il file in un formato leggibile di uso comune, ad esempio con estensione CSV o XML.
 
 Dynamics 365 for Finance and Operations e ***Dynamics 365 for Talent*** offrono il rapporto di ricerca persone per fornire dati ai soggetti dei dati classificati come dati personali.
 

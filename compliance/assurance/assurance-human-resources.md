@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 42f5677b923edc225833882bc3916e698fde369e
-ms.sourcegitcommit: 48b8ec2dd00e957508e5af82458bf697e1a97ebb
+ms.openlocfilehash: f732ccf412272ec7138ac24fcc1f89dcf9bacacf1e64865ebfb9ba4e9dc6daf8
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53395646"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54291004"
 ---
 # <a name="human-resources-overview"></a>Panoramica sulle risorse umane 
 
@@ -48,9 +48,9 @@ Oltre allo screening pre-impiego, i dipendenti Microsoft che gestiscono i serviz
 
 ## <a name="how-does-microsoft-ensure-employees-maintain-sufficient-skills-and-knowledge-to-perform-their-responsibilities-and-follow-microsoft-policies"></a>In che modo Microsoft garantisce ai dipendenti competenze e conoscenze sufficienti per svolgere le proprie responsabilità e seguire i criteri Microsoft?
 
-Tutti i dipendenti Microsoft sono tenuti a completare la formazione di base sulla sensibilizzazione sulla sicurezza. La formazione iniziale si verifica quando un nuovo dipendente inizia a lavorare in Microsoft e la formazione annuale per gli aggiornamenti avviene ogni anno dopo. La formazione è progettata per fornire al dipendente una conoscenza dell'approccio fondamentale di Microsoft alla sicurezza. È inoltre necessaria una formazione sulla sicurezza basata sui ruoli applicabile prima di concedere qualsiasi accesso specifico necessario per le responsabilità professionali di un individuo. La formazione sulla sicurezza dei dipendenti Microsoft viene aggiornata su base annuale e quando le modifiche al sistema o ai criteri giustificano una nuova formazione.
+Tutti i dipendenti Microsoft sono tenuti a completare la formazione di base sulla sensibilizzazione sulla sicurezza. La formazione iniziale è prevista all'assunzione di un nuovo dipendente presso Microsoft mentre il corso di aggiornamento ha luogo ogni anno. Questa formazione è concepita per far comprendere ai dipendenti l'approccio fondamentale di Microsoft nei confronti della sicurezza. È inoltre necessaria una formazione sulla sicurezza basata sui ruoli applicabile prima di concedere qualsiasi accesso specifico necessario per le responsabilità professionali di un individuo. La formazione sulla sicurezza dei dipendenti Microsoft viene aggiornata su base annuale e quando le modifiche al sistema o ai criteri giustificano una nuova formazione.
 
-Oltre alla formazione sulla sicurezza, i dipendenti Microsoft devono completare la formazione standard di condotta aziendale. Questa formazione include etica aziendale, sicurezza dei dipendenti, privacy, anti-molestie e tolleranza zero per il comportamento non etico. Al termine del corso, i dipendenti devono attestare che saranno rispettati dal codice di condotta aziendale Microsoft, che viene monitorato a livello di organizzazione. La formazione sugli standard di condotta aziendale viene aggiornata su base annuale.
+Oltre alla formazione sulla sicurezza, i dipendenti Microsoft devono completare la formazione standard di condotta aziendale. Questa formazione include etica aziendale, sicurezza dei dipendenti, privacy, anti-molestie e tolleranza zero per il comportamento non etico. Al termine del corso, i dipendenti devono attestare la loro conformità al codice di condotta aziendale Microsoft, che viene monitorata a livello dell'organizzazione. La formazione sugli standard di condotta aziendale viene aggiornata su base annuale.
 
 ## <a name="how-does-microsoft-revoke-access-for-employees-who-leave-microsoft"></a>In che modo Microsoft revoca l'accesso ai dipendenti che lasciano Microsoft?
 

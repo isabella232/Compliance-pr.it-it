@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f5710d392e1d2293bfee976873e5d7c603918e67
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 39c7e69ab980a7d75fced1d59474478df6f05c9ec9549db6e7fa72ba7f9278a8
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385126"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54287565"
 ---
 # <a name="food-and-drug-administration-cfr-title-21-part-11"></a>Food and Drug Administration CFR Title 21 Parte 11
 
@@ -47,7 +47,7 @@ I clienti possono richiedere l'accesso ai report di conformità, soggetti a cond
 
 Informazioni su come accelerare la distribuzione di FDA CFR Title 21: Scaricare la guida alla qualificazione [di Azure FDA 21](https://go.microsoft.com/fwlink/p/?linkid=2086604)
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme cloud microsoft nell'ambito & servizi
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme e servizi cloud Microsoft inclusi nell'ambito
 
 Anche se non esiste alcuna certificazione per la conformità con il titolo CFR 21 Parte 11, i seguenti servizi cloud aziendali Microsoft sono stati sottoposti a controlli indipendenti di terze parti, che possono aiutare i clienti nelle loro attività di conformità. Questi servizi includono:
 

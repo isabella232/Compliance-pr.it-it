@@ -18,12 +18,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft GDPR
 hideEdit: true
-ms.openlocfilehash: 346f0593552d6cc050908c17273cb2cef595f7f6
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: e8d7eeb34f60afa138dda64d34c06d32771419975b075bf6f19d034850721fe0
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496288"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54289964"
 ---
 # <a name="microsofts-data-protection-officer"></a>Responsabile della protezione dei dati di Microsoft
 

@@ -18,12 +18,12 @@ titleSuffix: Microsoft GDPR
 description: Informazioni su come completare le richieste degli interessati in base al Regolamento generale sulla protezione dei dati (GDPR) e al California Consumer Privacy Act (CCPA) usando i prodotti e i servizi Microsoft.
 ms.custom: seo-marvel-mar2020
 hideEdit: true
-ms.openlocfilehash: 8e6b862de3e52b171d886613af8529c082bad56d
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 58bea55beae9d5d8d4b018812f68b07b2d356d3db9cdf49d04ef8523e4db0b5b
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496258"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54289954"
 ---
 # <a name="data-subject-requests-and-the-gdpr-and-ccpa"></a>Richieste degli interessati nell'ambito del GDPR e del CCPA
 
@@ -50,7 +50,7 @@ Definizioni utili per i termini relativi al GDPR usati nel documento:
 
 ## <a name="what-is-a-dsr"></a>Che cos’è una richiesta dell’interessato?
 
-Il regolamento generale sulla protezione dei dati (GDPR) attribuisce alle persone (definite nel regolamento "soggetti interessati") il diritto di gestire i dati personali raccolti da un datore di lavoro o da un altro tipo di organizzazione o organismo (definito titolare del trattamento dei dati o semplicemente titolare del trattamento). In base al regolamento GDPR, ai soggetti dei dati vengono assegnati diritti specifici per i dati personali, tra i quali il diritto di ottenere copie dei dati personali stessi, richiedere modifiche di tali dati, limitarne l'elaborazione, eliminarli o riceverli in formato elettronico in modo che possano essere trasferiti a un altro titolare.
+Il Regolamento generale sulla protezione dei dati (GDPR) concede i diritti alle persone (ossia i soggetti dei dati) di gestire i dati personali raccolti da un datore di lavoro o da un altro tipo di agenzia o organizzazione (ossia il titolare del trattamento dei dati o solo titolare del trattamento). Il GDPR concede agli interessati diritti specifici in relazione ai propri dati personali; tali diritti includono il recupero di copie, la richiesta di modifiche, la limitazione dell'elaborazione, l'eliminazione o la ricezione in formato elettronico in modo che possa essere spostato in un altro titolare del trattamento.
 
 Il California Consumer Privacy Act (CCPA) prevede obblighi e diritti in materia di privacy per i consumatori della California, inclusi diritti simili a quelli che il GDPR riconosce all'interessato, ad esempio il diritto di eliminare, ricevere e accedere alle informazioni personali (portabilità).  
 
@@ -81,7 +81,7 @@ I log e i dati correlati generati da Microsoft potrebbero contenere dati conside
 
 ### <a name="yammer-and-kaizala"></a>Yammer e Kaizala
 
-L'eliminazione dell'account di un utente non comporta la rimozione dei log generati dal sistema per Yammer e Kaizala. Per rimuovere i dati da queste applicazioni, fare riferimento a una delle seguenti risorse:
+L'eliminazione di un account utente non rimuove i log generati dal sistema per Yammer e Kaizala. Per rimuovere i dati da queste applicazioni, vedere una delle seguenti risorse:
 
 - [Gestire le richieste dell'interessato per il GDPR in Yammer Enterprise](/yammer/manage-security-and-compliance/gdpr-requests-in-yammer-enterprise)
 - [Esportare o eliminare i dati dell'organizzazione di un utente in Kaizala](/office365/kaizala/export-or-delete-a-user-s-data)

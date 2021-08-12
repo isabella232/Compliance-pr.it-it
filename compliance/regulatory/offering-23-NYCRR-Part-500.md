@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 93a45f3da668ef9f6115fe352b5bbbce49e15d7f
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 04fcc05bcde30bb3ecd6e33336789839cb5a6e404e650d16875692cea38bb7b5
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385526"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54287925"
 ---
 # <a name="title-23-nycrr-part-500"></a>Normativa Title 23 NYCRR Part 500
 

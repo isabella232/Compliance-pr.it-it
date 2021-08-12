@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 4a71ab3ddf6688df5480a8f260e004778aa6212b
-ms.sourcegitcommit: 07578a8e03b931f47c49f4e34b78cf8ba0605e8f
+ms.openlocfilehash: 8ff06dab5367ee8cf734384efd1e2f57b2d6499c4151b75bd335693852dead47
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "53573361"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54287215"
 ---
 # <a name="microsoft-employee-transfer-and-termination"></a>Trasferimento e cessazione dei dipendenti Microsoft
 
@@ -37,8 +37,8 @@ I servizi online Microsoft sono progettati per funzionare senza un accesso ammin
 
 I trasferimenti dei dipendenti vengono avviati tramite una richiesta di transazione di trasferimento da parte del manager del dipendente. Il manager crea una richiesta e interagisce con Global Talent Acquisition per il processo della lettera di offerta. Una volta che il dipendente accetta l'offerta per il nuovo ruolo, i servizi hr completano il trasferimento negli strumenti di base delle risorse umane, attivando IDM per impostare una data di scadenza per tutte le autorizzazioni del dipendente. Il dipendente deve inviare una richiesta e ricevere l'approvazione del nuovo manager per conservare le autorizzazioni. Se non si invia una richiesta o si riceve l'approvazione del manager, viene revocata l'idoneità del dipendente trasferito. Per i trasferimenti che includono implicazioni di sicurezza specifiche, gli accessi al sistema e le appartenenze ai gruppi di sicurezza vengono rivalutati immediatamente per riflettere il nuovo ruolo.
 
-## <a name="termination"></a>Terminazione
+## <a name="termination"></a>Licenziamento
 
-Microsoft usa criteri e procedure chiaramente definiti per revocare prontamente l'accesso fisico e logico ai sistemi e alle risorse Microsoft quando un dipendente viene terminato. Quando un dipendente dà il suo preavviso, il manager del dipendente immette la data di risoluzione nell'HRIS. Dopo l'ultimo giorno lavorativo del dipendente, l'HRIS contrassegna il dipendente come terminato e condivide le informazioni a IDM, che rimuove automaticamente tutti gli account e le idoneità del team di servizio.
+Microsoft applica criteri e procedure chiaramente definiti per revocare tempestivamente l'accesso fisico e logico ai sistemi e alle risorse Microsoft in caso di licenziamento di un dipendente. Quando un dipendente dà il suo preavviso, il manager del dipendente immette la data di risoluzione nell'HRIS. Dopo l'ultimo giorno lavorativo del dipendente, l'HRIS contrassegna il dipendente come terminato e condivide le informazioni a IDM, che rimuove automaticamente tutti gli account e le idoneità del team di servizio.
 
-Per le terminazioni involontarie, hr collabora con il manager del dipendente per seguire i passaggi appropriati per terminare e disconnettere il dipendente. Analogamente a una terminazione volontaria, le informazioni sulla risoluzione vengono immesse nell'HRIS insieme a tutti i passaggi necessari, ad esempio il coordinamento della data di validità, la rimozione dell'accesso. ed eventuali altri passaggi relativi alla transizione dal ruolo.
+Per le terminazioni involontarie, hr collabora con il manager del dipendente per seguire i passaggi appropriati per terminare e disconnettere il dipendente. Analogamente a una terminazione volontaria, le informazioni sulla risoluzione vengono immesse nell'HRIS insieme a tutti i passaggi necessari, ad esempio il coordinamento della data di validità, la rimozione dell'accesso e qualsiasi altro passaggio relativo alla transizione fuori dal ruolo.

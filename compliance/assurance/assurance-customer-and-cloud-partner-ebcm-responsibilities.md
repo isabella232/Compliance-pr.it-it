@@ -17,12 +17,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 1133c5467553eb5d158230c2d6e599187e507822
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: adb6b246b0d16e15c607c17838a5c6504a6c2851b82acecd1ccf82853cd582d4
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088665"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54288751"
 ---
 # <a name="enterprise-business-continuity-management-customer-and-cloud-partner-responsibilities"></a>Responsabilità del partner di cloud e dei clienti nella gestione della continuità aziendale
 

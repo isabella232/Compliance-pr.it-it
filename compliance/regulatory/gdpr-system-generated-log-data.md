@@ -17,12 +17,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft GDPR
 hideEdit: true
-ms.openlocfilehash: 45603a822385d996baeeef33e39964e8726951bb
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: d2157080d99a770fecbbb08aa7e3d10f2fc101a7ed100bf4bfb39c0ce72174ae
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089005"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54287943"
 ---
 # <a name="additional-steps-to-export-system-generated-log-data"></a>Ulteriore procedura di esportazione dei dati del log generato dal sistema
 

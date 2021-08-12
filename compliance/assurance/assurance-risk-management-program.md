@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 21408643bcdb3effc0a8630d3f4da54a42281f44
-ms.sourcegitcommit: 07578a8e03b931f47c49f4e34b78cf8ba0605e8f
+ms.openlocfilehash: 8909d2c3029050a18f3f37862f7dd342696b1fc0f92c5e8bb03aa190f03f2c25
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "53573754"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54290559"
 ---
 # <a name="microsoft-365-risk-management-program"></a>Microsoft 365 Programma di gestione dei rischi
 
@@ -59,17 +59,17 @@ Queste metriche vengono utilizzate per calcolare un punteggio di rischio che rap
 
 ## <a name="response"></a>Risposta
 
-Utilizzando l'elenco verificato dei rischi da Microsoft 365, il team trust assegna i rischi al servizio interessato per la risposta ai rischi. Linee guida definite consentono di determinare la strategia di risposta ai rischi appropriata in base al punteggio di rischio e all'efficacia del controllo. Le strategie di risposta ai rischi rientrano in quattro categorie:
+Utilizzando l'elenco verificato dei rischi da Microsoft 365, il team trust assegna i rischi al servizio interessato per la risposta ai rischi. Linee guida definite consentono di determinare la strategia di risposta ai rischi appropriata in base al punteggio di rischio e all'efficacia del controllo. Le strategie di risposta ai rischi si suddividono in quattro categorie:
 
-- Tollerare: aree di esposizione a basso rischio con un basso livello di controllo.
-- Funzionamento: aree di esposizione a basso rischio in cui i controlli sono ritenuti adeguati.
-- Monitoraggio: aree di esposizione ad alto rischio in cui i controlli sono ritenuti adeguati e devono essere monitorati per l'efficacia.
+- Tolleranza: aree di esposizione a basso rischio con un basso livello di controllo.
+- Intervento: aree di esposizione a basso rischio in cui i controlli sono ritenuti adeguati.
+- Monitoraggio: aree di esposizione ad alto rischio in cui i controlli sono ritenuti adeguati e devono essere monitorati per verificarne l'efficacia.
 - Migliorare: aree di esposizione ad alto rischio con un basso livello di controllo che sono le principali priorità nell'indirizzamento.
 
 Il team trust si coordina con i team di servizio per sviluppare piani per affrontare ogni rischio. Il livello di gravità determina il livello appropriato di revisione e approvazione per ogni piano. Per i rischi che richiedono un'azione, i processi di bug di progettazione esistenti vengono utilizzati per tenere traccia, gestire e prendere decisioni relative alle eccezioni. L'utilizzo di un processo familiare ai team di progettazione e funzionamento rende più efficiente ed efficace la risposta ai rischi.
 
 ## <a name="monitoring-and-reporting"></a>Monitoraggio e creazione di report
 
-I rischi identificati nell'ambito della valutazione dei rischi vengono monitorati e segnalati agli stakeholder interessati. Le strategie di monitoraggio includono il monitoraggio della sicurezza, le revisioni periodiche dei rischi, i test di penetrazione e l'analisi delle vulnerabilità. Queste attività di monitoraggio fungono da origini dati per la creazione di report sugli indicatori di prestazioni chiave, la creazione di dashboard e lo sviluppo di report formali, che informano le decisioni future sui rischi.
+I rischi identificati come parte della valutazione dei rischi vengono monitorati e segnalati alle parti interessate pertinenti. Le strategie di monitoraggio includono il monitoraggio della sicurezza, le revisioni periodiche dei rischi, i test di penetrazione e l'analisi delle vulnerabilità. Queste attività di monitoraggio fungono da origini dati per la creazione di report sugli indicatori di prestazioni chiave, la creazione di dashboard e lo sviluppo di report formali, che informano le decisioni future sui rischi.
 
 Più volte all'anno, il team trust incontra i proprietari dei rischi di ogni servizio per esaminare i punteggi dei rischi, valutare l'efficacia dei propri piani d'azione e apportare aggiornamenti se necessario. Inoltre, le attività di valutazione dei rischi di Microsoft 365 contribuiscono alle valutazioni dei rischi di Enterprise del programma ERM, che forniscono una panoramica generale della postura dei rischi di Microsoft ai dirigenti Microsoft e al programma ERM.

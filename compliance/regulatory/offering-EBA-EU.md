@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 18abcba03796d7f6563c65cebcbbafd63759dc7c
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: cd3839419839fa12e7f570540a69c3de42c98f8a87e944629d01a2a084ce13e1
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385226"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54287645"
 ---
 # <a name="european-banking-authority-eba"></a>Autorità bancaria europea (ABE)
 

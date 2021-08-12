@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: a559597f3fc959ffdc20ecfb14c7b143ae9b1849
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 9cf2029f96def2600eb31b6265c0d5f16559d29e72bbeb53073ec50dd3cbcb76
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385346"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54287705"
 ---
 # <a name="cloud-security-mark-gold-cs-gold-mark"></a>Marchio CS (Cloud Security) Gold (CS Gold Mark)
 

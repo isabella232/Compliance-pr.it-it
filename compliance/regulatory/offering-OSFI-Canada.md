@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 2b98a7ab816f526a5371788df14755b998e14099
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: eb047b0579c787433615f79a86ea8e61bb9e31c70282ef16ed240bea9d673207
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384366"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54290044"
 ---
 # <a name="office-of-the-superintendent-of-financial-institutions-osfi-canada"></a>Ufficio del sovrintendente delle istituzioni finanziarie (OSFI) del Canada
 

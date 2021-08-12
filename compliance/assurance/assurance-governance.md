@@ -20,26 +20,26 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: bf17ec68648efbc5f149bad0671a4e035d27a307
-ms.sourcegitcommit: 8bf2602d56eedee4447ddb374ef95b0587f254e7
+ms.openlocfilehash: 953255f96acbc22349d9f00a83edff7d65106ec6360b42930fe5985fcb4df3f5
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53377473"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54291064"
 ---
 # <a name="governance-overview"></a>Panoramica sulla governance
 
 ## <a name="how-does-microsoft-provide-effective-security-governance-across-the-enterprise"></a>In che modo Microsoft fornisce una governance della sicurezza efficace nell'organizzazione?
 
-Microsoft è a conoscenza del fatto che i criteri di sicurezza efficaci devono essere implementati in modo coerente in tutta l'azienda per proteggere i clienti e i sistemi informatici Microsoft. I criteri di sicurezza devono inoltre essere applicabili a livello universale per le varianti delle funzioni aziendali e dei sistemi in informazioni. Per soddisfare questi requisiti, Microsoft implementa un programma di governance della sicurezza completo come parte di Microsoft Policy Framework. La governance della sicurezza rientra nei criteri di sicurezza Microsoft (MSP).
+Microsoft è a conoscenza del fatto che i criteri di sicurezza efficaci devono essere implementati in modo coerente in tutta l'azienda per proteggere i clienti e i sistemi informatici Microsoft. I criteri di sicurezza devono anche tenere conto delle variazioni delle funzioni aziendali e dei sistemi informativi per essere universalmente applicabili. Per soddisfare questi requisiti, Microsoft implementa un programma di governance della sicurezza completo come parte di Microsoft Policy Framework. La governance della sicurezza rientra nei Criteri di sicurezza di Microsoft (MSP).
 
-Il msp organizza i criteri, gli standard e i requisiti di sicurezza di Microsoft in modo che possano essere implementati in tutti i gruppi di progettazione Microsoft e le unità aziendali. Le singole unità aziendali sono responsabili di implementazioni specifiche dei criteri di sicurezza Microsoft. Ad esempio, Microsoft 365 documenta le relative implementazioni di sicurezza nel Microsoft 365 Information Security Policy e nel framework Microsoft 365 Control Framework correlato. Azure e Dynamics 365 documentano le implementazioni di sicurezza nelle procedure operative standard (SOP) e in Azure Control Framework. Queste implementazioni di sicurezza sono allineate agli obiettivi del msp.
+L’ente MSP organizza i criteri di sicurezza, gli standard e i requisiti di Microsoft in modo che possano essere implementati in tutti i gruppi di tecnici e le unità operative Microsoft. Le singole unità operative sono responsabili delle implementazioni specifiche dei criteri di sicurezza Microsoft. Ad esempio, Microsoft 365 documenta le relative implementazioni di sicurezza nel Microsoft 365 Information Security Policy e nel framework Microsoft 365 Control Framework correlato. Azure e Dynamics 365 documentano le implementazioni di sicurezza nelle procedure operative standard (SOP) e in Azure Control Framework. Queste implementazioni di sicurezza sono allineate agli obiettivi del msp.
 
 Il programma di governance della sicurezza di Microsoft è informato e allineato a diversi framework normativi e di conformità. I requisiti di sicurezza sono in continua evoluzione per soddisfare le nuove tecnologie, i requisiti normativi e di conformità e le minacce alla sicurezza. A causa di queste modifiche, Microsoft aggiorna regolarmente i criteri di sicurezza e i documenti di supporto per proteggere i sistemi Microsoft e i clienti, rispettare i nostri impegni e mantenere la fiducia dei clienti.
 
 ## <a name="how-do-microsoft-online-services-implement-the-microsoft-security-policy-msp"></a>In che modo i servizi online Microsoft implementano i criteri di sicurezza Microsoft (MSP)?
 
-Microsoft 365 documenta le implementazioni di sicurezza nel criterio Microsoft 365 sicurezza delle informazioni. Questo criterio è allineato ai criteri di sicurezza Microsoft e regola il sistema di informazioni di Microsoft 365, inclusi tutti gli ambienti Microsoft 365 e tutte le risorse coinvolte nella raccolta, nell'elaborazione, nella manutenzione, nell'utilizzo, nella condivisione, nella diffusione e nell'eliminazione dei dati. Analogamente, Azure e Dynamics 365 usano i criteri di sicurezza Microsoft per governare il sistema di informazioni.
+Microsoft 365 documenta le implementazioni di sicurezza nel criterio Microsoft 365 sicurezza delle informazioni. Questi criteri sono in linea con i Criteri di sicurezza di Microsoft e regolano il sistema informativo di Microsoft 365, compresi tutti gli ambienti Microsoft 365 e tutte le risorse coinvolte nelle operazioni di raccolta, elaborazione, manutenzione, uso, condivisione, diffusione ed eliminazione dei dati. Analogamente, Azure e Dynamics 365 usano i criteri di sicurezza Microsoft per governare il sistema di informazioni.
 
 I sistemi in informazioni includono i seguenti componenti disciplinati dai criteri di sicurezza delle informazioni di Microsoft 365 (per Microsoft 365) e dai criteri di sicurezza Microsoft (per Azure e Dynamics 365):
 
@@ -49,11 +49,11 @@ I sistemi in informazioni includono i seguenti componenti disciplinati dai crite
 - Procedure: le procedure programmate e manuali coinvolte nel funzionamento dei sistemi Azure, Dynamics 365 e Microsoft 365
 - Dati: informazioni generate, raccolte ed elaborate dai sistemi Azure, Dynamics 365 e Microsoft 365 (flussi di transazioni, file, database e tabelle)
 
-Il Microsoft 365 di sicurezza delle informazioni è integrato da Microsoft 365 Control Framework. In Microsoft 365 Framework di controllo vengono dettagliati i requisiti minimi di sicurezza per tutti i Microsoft 365 e i componenti del sistema informazioni. Fa inoltre riferimento ai requisiti legali e aziendali dietro ogni controllo. Il framework include nomi, descrizioni e indicazioni per le attività di controllo per garantire implementazioni di controllo efficaci da parte dei team di servizio. Microsoft 365 usa il framework di controllo per tenere traccia delle implementazioni dei controlli per i report interni ed esterni. Analogamente, le implementazioni del controllo record di Azure e Dynamics 365 in Azure Control Framework.
+I Criteri di sicurezza delle informazioni Microsoft 365 sono integrati dal Framework di controllo Microsoft 365. In Microsoft 365 Framework di controllo vengono dettagliati i requisiti minimi di sicurezza per tutti i Microsoft 365 e i componenti del sistema informazioni. Fa inoltre riferimento ai requisiti legali e aziendali dietro ogni controllo. Il framework include nomi e descrizioni delle attività di controllo e indicazioni per assicurare implementazioni efficaci dei controlli da parte dei team di servizio. Microsoft 365 usa il framework di controllo per tenere traccia delle implementazioni dei controlli per i report interni ed esterni. Analogamente, le implementazioni del controllo record di Azure e Dynamics 365 in Azure Control Framework.
 
 ## <a name="how-do-online-services-limit-and-track-exceptions-to-established-policies-and-procedures"></a>In che modo i servizi online limitano e monitorano le eccezioni a criteri e procedure stabiliti?
 
-Tutte le eccezioni ai Framework di controllo devono avere giustificazioni aziendali legittime ed essere approvate da un'entità di governance appropriata all'interno di ogni team di servizi online. A seconda dell'ambito dell'eccezione e del potenziale rischio che rappresenta, potrebbe essere necessario ottenere l'approvazione per le eccezioni da un vicepresidente aziendale o superiore. Le eccezioni vengono gestite in uno strumento di monitoraggio in cui vengono esaminate e approvate per pertinenza continua.
+Tutte le eccezioni ai Framework di controllo devono avere giustificazioni aziendali legittime ed essere approvate da un'entità di governance appropriata all'interno di ogni team di servizi online. In base all'ambito dell'eccezione e al potenziale rischio che rappresenta, l'approvazione dell'eccezione potrebbe dover essere ottenuta da un vicepresidente aziendale o da un ruolo superiore. Le eccezioni vengono gestite in uno strumento di monitoraggio in cui vengono esaminate e approvate per pertinenza continua.
 
 ## <a name="how-do-online-services-keep-security-and-compliance-requirements-updated"></a>In che modo i servizi online mantengono aggiornati i requisiti di sicurezza e conformità?
 

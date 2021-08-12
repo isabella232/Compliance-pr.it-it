@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 1876ee933b0f94057abb2a6edd8fae9ca66111a4
-ms.sourcegitcommit: 07578a8e03b931f47c49f4e34b78cf8ba0605e8f
+ms.openlocfilehash: 2278a2475887e93733ce32b82a1d7d0b15cce91a1f1e70dbe72a6469bdd3e0b7
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "53573447"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54290603"
 ---
 # <a name="microsoft-365-isolation-controls"></a>Controlli di isolamento Microsoft 365
 
@@ -38,9 +38,9 @@ Microsoft 365 è costituito da più servizi che forniscono importanti funzionali
 
 Microsoft 365 i servizi operano tra loro, ma sono progettati e implementati in modo che possano essere distribuiti e gestiti come servizi autonomi, indipendenti l'uno dall'altro. Microsoft separa i compiti e le aree di responsabilità Microsoft 365 ridurre le opportunità di modifica non autorizzata o involontaria o uso improprio delle risorse dell'organizzazione. Microsoft 365 team hanno definito ruoli come parte di un meccanismo completo di controllo degli accessi basato sui ruoli.
 
-## <a name="tenant-isolation"></a>Isolamento tenant
+## <a name="tenant-isolation"></a>Isolamento dei tenant
 
-Uno dei principali vantaggi del cloud computing è il concetto di un'infrastruttura condivisa e comune tra numerosi clienti contemporaneamente, che porta a un'economia di scala. Microsoft lavora costantemente per garantire che le architetture multi-tenant dei nostri servizi cloud supportino gli standard di sicurezza, riservatezza, privacy, integrità e disponibilità a livello aziendale.
+Uno dei principali vantaggi del cloud computing è il concetto di un'infrastruttura condivisa e comune tra numerosi clienti contemporaneamente, che porta a un'economia di scala. Microsoft lavora continuamente per garantire che le architetture multi-tenant dei nostri servizi cloud supportino gli standard di sicurezza, riservatezza, privacy, integrità e disponibilità a livello aziendale.
 
 I servizi cloud Microsoft sono stati progettati presupponendo che tutti i tenant siano potenzialmente dannosi per tutti gli altri tenant e sono state implementate misure di sicurezza per evitare che le azioni di un tenant influiscano sulla sicurezza o sul servizio di un altro tenant o sull'accesso al contenuto di un altro tenant.
 

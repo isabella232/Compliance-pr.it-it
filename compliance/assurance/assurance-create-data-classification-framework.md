@@ -20,12 +20,12 @@ f1.keywords:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: df2bc373fea046ac120c40c57af2ba061d2b0781
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 88a07e5c6d5e3e84260c5099d957ebf38745819e239f951df62a5d04886f3fa4
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51497807"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54288724"
 ---
 # <a name="create-a-well-designed-data-classification-framework"></a>Creare un framework di classificazione dei dati ben progettato
 
@@ -41,7 +41,7 @@ Durante lo sviluppo, il revamp o il perfezionamento del framework di classificaz
     - Gli utenti e la loro capacità di conformarsi alla maggiore complessità e sfumatura associata a più livelli di classificazione
     - Esperienza utente e accessibilità quando si cerca di applicare la classificazione manuale tra più tipi di dispositivi
 
-- **Coinvolgere le persone giuste:** avere una parte interessata senior è fondamentale per il successo, poiché molti progetti faticano a iniziare o a richiedere più tempo senza il supporto dei dirigenti. I framework di classificazione dei dati sono in genere di proprietà dei team di information technology, ma possono avere implicazioni legali, di conformità, di privacy e di gestione delle modifiche. Per garantire la creazione di un framework che aiuti a proteggere l'azienda, assicurati di includere gli stakeholder legali e della privacy, ad esempio il Chief Privacy Officer e l'Office of General Counsel nello sviluppo dei tuoi criteri. Se l'organizzazione dispone di una divisione conformità, professionisti della governance delle informazioni o di un team di gestione dei record, potrebbe anche avere un valido input. Durante l'implementazione del framework per l'azienda, il reparto Comunicazioni ha anche un ruolo chiave da svolgere per la messaggistica interna e l'adozione.
+- **Coinvolgere le persone giuste:** avere una parte interessata senior è fondamentale per il successo, poiché molti progetti faticano a iniziare o a richiedere più tempo senza il supporto dei dirigenti. I framework di classificazione dei dati sono in genere di proprietà dei team di information technology, ma possono avere implicazioni legali, di conformità, di privacy e di gestione delle modifiche. Per garantire la creazione di un framework che aiuti a proteggere l'azienda, assicurati di includere gli stakeholder legali e della privacy, ad esempio il Chief Privacy Officer e il Office of General Counsel nello sviluppo della tua politica. Se l'organizzazione dispone di una divisione conformità, professionisti della governance delle informazioni o di un team di gestione dei record, potrebbe anche avere un valido input. Durante l'implementazione del framework per l'azienda, il reparto Comunicazioni ha anche un ruolo chiave da svolgere per la messaggistica interna e l'adozione.
 - **Bilanciare la sicurezza con la** comodità : un errore comune è quello di bozza di un framework di classificazione dei dati sicuro ma eccessivamente restrittivo. Questo framework potrebbe essere stato progettato in base alla sicurezza, ma spesso è difficile da implementare nella pratica. Se gli utenti devono seguire procedure complesse, rigide e dispendiose in termini di tempo per applicare il framework nella loro vita quotidiana, esiste sempre il rischio che non creda più al suo valore e che alla fine smettano di seguire le procedure. Questo rischio esiste a tutti i livelli dell'organizzazione, inclusi i manager a livello esecutivo (C-suite) all'interno dell'organizzazione. Un buon equilibrio tra sicurezza e comodità insieme a strumenti facili da usare in genere porta a un'adozione e un uso più ampi degli utenti. In caso di lacune nel framework, non attendere che tutto sia perfetto per avviare l'implementazione. Valuta invece il rischio o il gap, crea un piano per mitigare e continua ad andare avanti. Tenere presente che la protezione delle informazioni è un viaggio, non è qualcosa che viene attivato durante la notte e quindi fatto. Pianificare, implementare alcune funzionalità, confermare l'esito positivo e eseguire un'iterazione alla fase cardine successiva man appena gli strumenti si evolvono e gli utenti ottengono maturità ed esperienza.
 
 Tenere inoltre presente che un framework  di classificazione dei dati si rivolge solo alle esigenze dell'organizzazione per proteggere i dati sensibili. I framework di classificazione dei dati sono spesso accompagnati da regole o linee guida per la gestione dei dati che definiscono come mettere in atto questi criteri dal punto di vista tecnico e tecnologico.  Nelle sezioni seguenti vengono fornite alcune indicazioni pratiche su come trasformare il framework di classificazione dei dati da un documento di criteri a un'iniziativa completamente implementata e praticabile.
@@ -87,7 +87,7 @@ Ad esempio, le società di servizi finanziari potrebbero dover prendere in consi
 
 Le agenzie governative devono affrontare diverse normative che regolano i propri dati, che variano in base al territorio e alla natura del loro lavoro. Negli Stati Uniti, ad esempio, le agenzie governative e i loro agenti che accedono alle informazioni fiscali federali (FTI) sono soggetti [all'IRS 1075,](/microsoft-365/compliance/offering-irs-1075)che mira a ridurre al minimo il rischio di perdita, violazione o uso improprio delle informazioni fiscali federali.
 
-Mentre le società di servizi finanziari e le agenzie governative sono tra le organizzazioni più regolamentate al mondo, la maggior parte delle aziende ha considerazioni specifiche del settore che devono essere considerate. Alcuni esempi includono:
+Mentre le società di servizi finanziari e le agenzie governative sono tra le organizzazioni più regolamentate al mondo, la maggior parte delle aziende ha considerazioni specifiche del settore che devono essere considerate. Ecco alcuni esempi:
 
 - Organizzazioni del settore sanitario [che garantiscono la conformità con HIPAA](/microsoft-365/compliance/offering-hipaa-hitech).
 - Istituti di istruzione, dalle scuole K-12 alle università, che gestiscono [la conformità FERPA.](/microsoft-365/compliance/offering-ferpa)
@@ -98,7 +98,7 @@ Mentre le società di servizi finanziari e le agenzie governative sono tra le or
 
 ## <a name="implementing-your-data-classification-framework-in-microsoft-365"></a>Implementazione del framework di classificazione dei dati in Microsoft 365
 
-Dopo aver sviluppato il framework di classificazione dei dati, il passaggio successivo è l'implementazione. Il Centro conformità [Microsoft 365](https://compliance.microsoft.com/) consente agli amministratori di individuare, classificare, esaminare e monitorare i dati in base al framework di classificazione dei dati. Le etichette di riservatezza possono essere utilizzate per proteggere i dati mediante l'applicazione di diverse protezioni, ad esempio la crittografia e il contrassegno del contenuto. Possono essere applicati ai dati manualmente. per impostazione predefinita, in base alle impostazioni dei criteri; o automaticamente, come risultato di una condizione, ad esempio informazioni personali identificate.
+Dopo aver sviluppato il framework di classificazione dei dati, il passaggio successivo è l'implementazione. Il [Centro conformità Microsoft 365](https://compliance.microsoft.com/) consente agli amministratori di individuare, classificare, esaminare e monitorare i dati in base al framework di classificazione dei dati. Le etichette di riservatezza possono essere utilizzate per proteggere i dati mediante l'applicazione di diverse protezioni, ad esempio la crittografia e il contrassegno del contenuto. Possono essere applicati ai dati manualmente. per impostazione predefinita, in base alle impostazioni dei criteri; o automaticamente, come risultato di una condizione, ad esempio informazioni personali identificate.
 
 Per organizzazioni di piccole dimensioni o organizzazioni con un framework di classificazione dei dati relativamente semplificato, potrebbe essere sufficiente creare una singola etichetta di riservatezza per ogni livello di classificazione dei dati. L'esempio seguente mostra un livello di classificazione dei dati uno-a-uno per il mapping delle etichette di riservatezza:
 

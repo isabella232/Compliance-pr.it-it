@@ -17,12 +17,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 28ffe8113d76d74b9cb5e81034535930f158d4ef
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: d4bee24b66b565e1068d5aacd6c6c7833e230fd703186884bc53d5e378ecf44d
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51497576"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54287175"
 ---
 # <a name="enterprise-business-continuity-management-legal-disclaimer"></a>Dichiarazione di non responsabilità della gestione della continuità aziendale della società
 
@@ -30,7 +30,7 @@ ms.locfileid: "51497576"
 
 LEGGI QUESTO! IL PRESENTE CONTRATTO È UN CONTRATTO LEGALE TRA MICROSOFT CORPORATION ("MICROSOFT") E IL DESTINATARIO DEI MATERIALI, SIA ESSO UN SINGOLO INDIVIDUO, UNA CORPORAZIONE O UN'ALTRA ENTITÀ GIURIDICA ("UTENTE"). FACENDO CLIC SU "ACCETTO", SCARICANDO O UTILIZZANDO I MATERIALI IN ALTRO MODO, SI ACCETTANO LE PRESENTI CONDIZIONI. SE IL PRESENTE CONTRATTO È ALLEGATO A MATERIALI, ACCEDENDO A TALI MATERIALI O UTILIZZANDOLI SI ACCETTANO LE PRESENTI CONDIZIONI.
 
-1. Per una considerazione valida e preziosa, la cui ricevuta e la cui sufficienza sono riconosciute, l'utente e Microsoft accettano quanto segue: (a) Se l'utente è un rappresentante autorizzato di una società o di un'altra entità ("Società"), e tale società ha eseguito un Contratto di non divulgazione di Microsoft Corporation che non si limita a un argomento o a un evento specifico ("Microsoft NDA"), l'utente rappresenta di avere l'autorità di agire per conto della società e di accettare che le informazioni riservate , come definito nella NDA Di Microsoft, è soggetta ai termini e alle condizioni del NDA Microsoft e tale Società tratterà le informazioni riservate di conseguenza; (b) Se l'utente è un individuo e ha eseguito una NDA Microsoft, l'utente accetta che le informazioni riservate, come definito nella NDA Microsoft, siano soggette ai termini e alle condizioni di Microsoft NDA e che le informazioni riservate verranno trattate di conseguenza; o (c) Se non è stato eseguito un NDA Microsoft, l'utente (se l'utente è un individuo) o la società (se si è un rappresentante autorizzato della società), come applicabile, accetta: 
+1. Per una considerazione valida e preziosa, la cui ricevuta e la cui sufficienza sono riconosciute, l'utente e Microsoft accettano quanto segue: (a) Se l'utente è un rappresentante autorizzato di una società o di un'altra entità ("Società"), e tale società ha eseguito un Contratto di non divulgazione di Microsoft Corporation che non si limita a un oggetto o a un evento specifico ("Microsoft NDA"),  l'utente rappresenta di avere l'autorità di agire per conto della Società e di accettare che le informazioni riservate, come definito nella NDA Microsoft, sono soggette ai termini e alle condizioni della NDA Microsoft e che la Società tratterà le informazioni riservate di conseguenza; (b) Se l'utente è un individuo e ha eseguito una NDA Microsoft, l'utente accetta che le informazioni riservate, come definito nella NDA Microsoft, siano soggette ai termini e alle condizioni di Microsoft NDA e che le informazioni riservate verranno trattate di conseguenza; o (c) Se non è stato eseguito un NDA Microsoft, l'utente (se l'utente è un individuo) o la società (se si è un rappresentante autorizzato della società), come applicabile, accetta: 
     - (a) astenersi dalla divulgazione o dalla distribuzione delle informazioni riservate a terze parti per cinque (5) anni dalla data di divulgazione delle informazioni riservate da parte di Microsoft alla società/utente; 
     - (b) evitare di riprodurre o riepilogare le informazioni riservate; e 
     - (c) adottare misure di sicurezza ragionevoli, almeno quanto le precauzioni necessarie per proteggere le proprie informazioni riservate, ma non meno ragionevoli, per mantenere riservate le informazioni riservate. L'utente/la società, tuttavia, può divulgare informazioni riservate in conformità a un ordine giudiziario o di altro tipo governativo, a condizione che l'utente/la società 

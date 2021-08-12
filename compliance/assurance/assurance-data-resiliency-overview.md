@@ -1,6 +1,6 @@
 ---
 title: Resilienza dei dati in Microsoft 365
-description: In questo articolo, informazioni sulla progettazione e sui principi di resilienza e ripristino dei dati in Microsoft 365.
+description: In questo articolo vengono trattate le informazioni sulla progettazione e sui principi di resilienza e ripristino dei dati in Microsoft 365.
 ms.author: robmazz
 author: robmazz
 manager: laurawi
@@ -20,12 +20,12 @@ f1.keywords:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 6e990facde47b07d50f594afb55353a5ef81dd78
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: a0745cda440b2262f4b09764e71514aeab946a6e8e0adcd4cdbccaffd14c5fe3
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51497619"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54291334"
 ---
 # <a name="data-resiliency-in-microsoft-365"></a>Resilienza dei dati in Microsoft 365
 
@@ -42,9 +42,9 @@ La creazione di resilienza e ripristino inizia con il presupposto che l'infrastr
 
 Oggi, i clienti si aspettano un'innovazione continua da Microsoft senza compromettere la qualità e questo è uno dei motivi per cui i servizi e il software di Microsoft sono creati con resilienza e recuperabilità in mente.
 
-## <a name="microsoft-365-data-resiliency-principles"></a>Principi di resilienza dei dati di Microsoft 365
+## <a name="microsoft-365-data-resiliency-principles"></a>Microsoft 365 di resilienza dei dati
 
-La resilienza si riferisce alla capacità di un servizio basato su cloud di sopportare determinati tipi di errori e di rimanere completamente funzionante dal punto di vista dei clienti. La resilienza dei dati significa che, indipendentemente da quali errori si verificano in Microsoft 365, i dati critici dei clienti rimangono intatti e inalterati. A tale scopo, i servizi di Microsoft 365 sono stati progettati in base a cinque principi di resilienza specifici:
+La resilienza si riferisce alla capacità di un servizio basato su cloud di sopportare determinati tipi di errori e di rimanere completamente funzionante dal punto di vista dei clienti. La resilienza dei dati significa che, indipendentemente da quali errori si verificano Microsoft 365, i dati critici dei clienti rimangono intatti e inalterati. A tale scopo, i Microsoft 365 sono stati progettati in base a cinque principi di resilienza specifici:
 
 - Sono presenti dati critici e non critici. I dati non critici (ad esempio, se un messaggio è stato letto) possono essere eliminati in rari scenari di errore. I dati critici (ad esempio, i dati dei clienti come i messaggi di posta elettronica) devono essere protetti a costi estremi. Come obiettivo di progettazione, i messaggi di posta recapitati sono sempre critici e operazioni come la lettura di un messaggio non sono critiche.
 - Le copie dei dati dei clienti devono essere separate in diverse aree di errore o nel maggior numero possibile di domini di errore (ad esempio datacenter, accessibili con credenziali singole (processo, server o operatore)) per garantire l'isolamento degli errori. 
@@ -59,4 +59,4 @@ Grazie alla creazione dei servizi cloud a questi principi, insieme a test e conv
 - [Gestione della corruzione dei dati](assurance-dealing-with-data-corruption.md)
 - [Protezione malware e ransomware](assurance-malware-and-ransomware-protection.md)
 - [Il monitoraggio e la riparazione automatica](assurance-monitoring-and-self-healing.md)
-- [Resilienza dei dati di Exchange](assurance-exchange-data-resiliency.md)
+- [Exchange Resilienza dei dati](assurance-exchange-data-resiliency.md)

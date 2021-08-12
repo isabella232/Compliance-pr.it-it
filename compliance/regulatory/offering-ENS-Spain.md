@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 55f576c4fdfd22b487a948c16eca4327f45494c6
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 929b83821fcb68059f9a091bf1bf4b043613dad24f0de2830b58b6ca72b5e091
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385166"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54287635"
 ---
 # <a name="spain-esquema-nacional-de-seguridad-ens-high-level-security-measures"></a>Misure di sicurezza di alto livello dell'Esquema Nacional de Seguridad (ENS) spagnolo
 
