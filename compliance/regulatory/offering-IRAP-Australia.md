@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: a9f621e31b2ea7c0becd528915e1377fcaa33c68940235a6b195139a61c824c0
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: df88a1837b948f5f1dc31ad04244b5d9a84442bc
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54293863"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260311"
 ---
 # <a name="australian-government-information-security-registered-assessor-program-irap"></a>Australian Government Information Security Registered Assessor Program (IRAP)
 
@@ -29,9 +29,9 @@ L'Information Security Registered Assessor Program (IRAP) fornisce un processo c
 
 ## <a name="irap-overview"></a>Panoramica IRAP
 
-L'Information Security Registered Assessors Program (IRAP) è gestito e gestito dall'Australian Cyber Security Centre (ACSC). IRAP fornisce il framework per approvare gli individui del settore pubblico e privato per fornire servizi di valutazione della sicurezza informatica al governo australiano. I valutatori IRAP approvati possono fornire una valutazione indipendente della sicurezza delle TIC, suggerire mitigazioni ed evidenziare i rischi residui. IRAP fornisce un processo completo per la valutazione indipendente della sicurezza di un sistema rispetto alle linee guida e ai criteri governativi australiani. L'obiettivo dell'IRAP è ottimizzare la sicurezza dei dati federali, statali e locali australiani concentrandosi sull'infrastruttura delle tecnologie delle informazioni e delle comunicazioni che archivia, elabora e comunica.
+L'Information Security Registered Assessors Program (IRAP) è gestito e gestito dall'Australian Cyber Security Centre (ACSC). IRAP fornisce il framework per approvare gli utenti del settore pubblico e privato per fornire servizi di valutazione della sicurezza informatica al governo australiano. I valutatori IRAP approvati possono fornire una valutazione indipendente della sicurezza delle TIC, suggerire mitigazioni ed evidenziare i rischi residui. IRAP fornisce un processo completo per la valutazione indipendente della sicurezza di un sistema rispetto alle linee guida e ai criteri governativi australiani. L'obiettivo dell'IRAP è ottimizzare la sicurezza dei dati federali, statali e locali australiani concentrandosi sull'infrastruttura delle tecnologie delle informazioni e delle comunicazioni che archivia, elabora e comunica.
 
-- Nel 2014, Azure è stato avviato come primo servizio cloud valutato dall'IRAP in Australia, ospitato dai data center di Melbourne e Sydney. Questi due data center offrono ai clienti australiani il controllo sulla posizione in cui vengono archiviati i dati dei clienti, fornendo allo stesso tempo una maggiore durata dei dati in caso di emergenza tramite backup in entrambe le posizioni.
+- Nel 2014 Azure è stato avviato come primo servizio cloud valutato dall'IRAP in Australia, ospitato dai data center di Melbourne e Sydney. Questi due data center offrono ai clienti australiani il controllo sulla posizione in cui vengono archiviati i dati dei clienti, fornendo allo stesso tempo una maggiore durata dei dati in caso di emergenza tramite backup in entrambe le posizioni.
 - All'inizio del 2015, Office 365 è diventato il primo servizio di produttività cloud a completare questa valutazione.
 - Nell'aprile 2015, l'ASD ha annunciato la certificazione CCSL di Azure e Office 365, e nel novembre 2015, di Dynamics 365.
 - A giugno 2017, ASD ha annunciato la ricertificazione di Microsoft Azure e Office 365 per un set di servizi notevolmente ampliato.
@@ -43,7 +43,7 @@ L'Information Security Registered Assessors Program (IRAP) è gestito e gestito 
 
 Nel mese di dicembre 2020, Microsoft ha completato due valutazioni incrementali di Azure & Dynamics e Office 365 valutazione. Queste valutazioni hanno aggiunto altri servizi valutati al livello di classificazione protected. Inoltre, queste valutazioni sono state condotte nell'ambito delle nuove linee guida sulla sicurezza cloud post CCSL, come descritto in [Anatomia](https://www.cyber.gov.au/acsc/government/cloud-security-guidance) di una valutazione e autorizzazione del cloud dell'ACSC.
 
-Per ogni valutazione, Microsoft ha assunto un valutatore IRAP accreditato acSC che ha esaminato i controlli e i processi di sicurezza utilizzati dal team operativo IT di Microsoft, i datacenter fisici, il rilevamento delle intrusioni, la crittografia, la sicurezza tra domini e di rete, il controllo degli accessi e la gestione dei rischi di sicurezza delle informazioni dei servizi nell'ambito. Le valutazioni dell'IRAP hanno rilevato che l'architettura di sistema Microsoft si basa su principi di sicurezza solidi e che i controlli ISM (Government Information Security Manual) australiani applicabili sono in vigore e pienamente efficaci all'interno dei servizi valutati.
+Per ogni valutazione, Microsoft ha assunto un valutatore IRAP accreditato acSC che ha esaminato i controlli e i processi di sicurezza utilizzati dal team operativo IT di Microsoft, i datacenter fisici, il rilevamento delle intrusioni, la crittografia, la sicurezza tra domini e di rete, il controllo degli accessi e la gestione dei rischi di sicurezza delle informazioni dei servizi nell'ambito. Le valutazioni IRAP hanno rilevato che l'architettura di sistema Microsoft si basa su principi di sicurezza solidi e che i controlli ISM (Australian Government Information Security Manual) applicabili sono in vigore e pienamente efficaci all'interno dei servizi valutati.
 
 Il framework di gestione dei rischi utilizzato dall'ISM deriva da [National Institute of Standards and Technology (NIST) Special Publication (SP) 800-37 Rev. 2](https://csrc.nist.gov/publications/detail/sp/800-37/rev-2/final). All'interno di questo framework di gestione dei rischi, l'identificazione dei rischi e la selezione dei controlli di sicurezza possono essere intrapresi utilizzando vari standard di gestione dei rischi, ad esempio [International Organization for Standardization (ISO) 31000:2018, Risk management - Guidelines](https://www.iso.org/standard/65694.html). In generale, il framework di gestione dei rischi utilizzato dall'ISM presenta sei passaggi:
 
@@ -54,7 +54,7 @@ Il framework di gestione dei rischi utilizzato dall'ISM deriva da [National Inst
 - Autorizzare il sistema
 - Monitorare il sistema
 
-Come sempre, i controlli di compensazione aggiuntivi possono essere implementati in base al rischio gestito dalle singole agenzie prima dell'autorizzazione dell'agenzia e dell'uso successivo di questi servizi cloud.
+Come sempre, i controlli di compensazione aggiuntivi possono essere implementati in base al rischio gestito da singole agenzie prima dell'autorizzazione dell'agenzia e dell'uso successivo di questi servizi cloud.
 
 La valutazione IRAP dei servizi e delle operazioni cloud di Microsoft consente di garantire ai clienti del settore pubblico e ai loro partner che Microsoft dispone di controlli di sicurezza appropriati ed efficaci per l'elaborazione, l'archiviazione e la trasmissione di dati classificati fino al livello DI PROTEZIONE incluso. Questa valutazione include la maggior parte dei dati governativi, sanitari ed educativi in Australia.
 
@@ -81,7 +81,7 @@ Usare la tabella seguente per determinare l'applicabilità per i servizi e l'abb
 
 | **Applicabilità** | **Servizi inclusi nell'ambito** |
 |:------------------|:----------------------|
-| **Office 365** | Exchange Online, Exchange Online Protection, Forms, Microsoft Teams, Office 365 Customer Portal, Office Online, Office Service Infrastructure, OneDrive for Business, Planner, SharePoint Online, Skype for Business, Whiteboard, Yammer |
+| **Commerciale** | Exchange Online, Exchange Online Protection, Forms, Microsoft Teams, Office 365 Customer Portal, Office Online, Office Service Infrastructure, OneDrive for Business, Planner, SharePoint Online, Skype for Business, Whiteboard, Yammer |
 
 ### <a name="frequently-asked-questions"></a>Domande frequenti
 

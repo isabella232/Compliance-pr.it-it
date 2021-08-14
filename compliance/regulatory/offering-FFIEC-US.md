@@ -16,28 +16,28 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 4da808976b7c9afd040417a0fe4025888f07a34bc43c03cb151410244bb437df
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 1830d0d61fe0787d7f8e8034af2e4ca64bdb0bc8
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54287575"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58261024"
 ---
 # <a name="federal-financial-institutions-examination-council-ffiec"></a>Federal Financial Institutions Examination Council (FFIEC)
 
 ## <a name="ffiec-overview"></a>Panoramica di FFIEC
 
-Il Federal Financial Institutions Examination Council (FFIEC) è un organismo di intermediazione formale costituito da cinque autorità di regolamentazione bancarie responsabili degli esami del governo federale statunitense degli istituti finanziari negli Stati Uniti. Il FFIEC Examiner Education Office pubblica manuali di esame IT destinati agli esaminatori sul campo delle agenzie membro FFIEC.
+Il Federal Financial Institutions Examination Council (FFIEC) è un organismo di intermediazione formale costituito da cinque autorità di regolamentazione bancarie responsabili degli esami del governo federale statunitense degli istituti finanziari negli Stati Uniti. Il manuale FFIEC Examiner Education Office pubblica manuali di esame IT destinati agli esaminatori sul campo delle agenzie membro FFIEC.
 
 Il [manuale FFIEC Audit IT Examination Contiene](https://ithandbook.ffiec.gov/it-booklets/audit.aspx) indicazioni per questi esaminatori per valutare la qualità e l'efficacia dei programmi di controllo IT di istituti finanziari e TSP. In particolare, include la menzione dei rapporti di attestazione SOC 1, SOC 2 e SOC 3 dell'American Institute of Certified Public Accountants (AICPA) come esempi di report di controllo indipendenti. Tuttavia, la FFIEC consiglia agli istituti finanziari di non basarsi esclusivamente sulle informazioni contenute in questi report, ma anche di utilizzare le procedure di verifica e monitoraggio descritte in dettaglio nel manuale [FFIEC Outsourcing Technology Services IT Examination Handbook](https://ithandbook.ffiec.gov/it-booklets/outsourcing-technology-services.aspx).
 
 ## <a name="microsoft-and-ffiec"></a>Microsoft e FFIEC
 
-Microsoft Azure, Microsoft Power BI e Microsoft Office 365 sono stati creati per soddisfare i requisiti stringenti della fornitura di servizi cloud per gli istituti di servizi finanziari. Come parte del nostro supporto, offriamo indicazioni per aiutarti a rispettare i requisiti di controllo FFIEC per le tecnologie dell'informazione e la possibilità di usare le attestazioni SOC di Azure quando rispetti gli obblighi di conformità FFIEC.
+Microsoft Azure, Microsoft Power BI e Microsoft Office 365 sono stati creati per soddisfare i requisiti stringenti della fornitura di servizi cloud per gli istituti di servizi finanziari. Come parte del supporto, offriamo indicazioni per la conformità ai requisiti di controllo FFIEC per le tecnologie dell'informazione e la possibilità di usare le attestazioni SOC di Azure quando si rispettano gli obblighi di conformità FFIEC.
 
 Per aiutare i clienti delle istituzioni finanziarie a soddisfare i requisiti di conformità FFIEC con Azure, Microsoft ha sviluppato il blueprint di sicurezza e conformità di Azure per i carichi di lavoro dei servizi regolamentati [FFIEC.](https://servicetrust.microsoft.com/ViewPage/FFIECBlueprint) Offre indicazioni sull'uso dei servizi cloud di Azure e considerazioni per la conformità dei clienti ai requisiti FFIEC e alle linee guida per la valutazione dei rischi.
 
-Per soddisfare ulteriormente i requisiti FFIEC, i servizi cloud Microsoft forniscono report di [attestazione SOC](offering-SOC.md) prodotti da una società CPA indipendente. Ad esempio, l'attestazione SOC 1 Tipo 2 si basa sullo standard AICPA SSAE 18 (vedere la sezione AT-C 105) che ha sostituito SAS 70 ed è appropriato per la segnalazione di determinati controlli per la creazione di report finanziari. I rapporti SOC includono il parere del revisore sull'efficacia dei controlli Microsoft nel raggiungimento degli obiettivi di controllo correlati durante il periodo di monitoraggio specificato. Gli istituti finanziari possono utilizzare questo controllo formale per adempimento degli obblighi di conformità specifici di FFIEC per le risorse distribuite in Azure, Power BI e Office 365.
+Per soddisfare ulteriormente i requisiti FFIEC, i servizi cloud Microsoft forniscono report di [attestazione SOC](offering-SOC.md) prodotti da una società CPA indipendente. Ad esempio, l'attestazione SOC 1 Tipo 2 si basa sullo standard AICPA SSAE 18 (vedere at-C Sezione 105) che ha sostituito SAS 70 ed è appropriato per la segnalazione di determinati controlli per la creazione di report finanziari. I rapporti SOC includono il parere del revisore sull'efficacia dei controlli Microsoft nel raggiungimento degli obiettivi di controllo correlati durante il periodo di monitoraggio specificato. Gli istituti finanziari possono usare questo controllo formale per adempimento degli obblighi di conformità specifici FFIEC per le risorse distribuite in Azure, Power BI e Office 365.
 
 ## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme e servizi cloud Microsoft inclusi nell'ambito
 
@@ -62,7 +62,7 @@ Usare la tabella seguente per determinare l'applicabilità per i servizi e l'abb
 
 | **Applicabilità** | **Servizi inclusi nell'ambito** |
 |:------------------|:----------------------|
-| **Office 365** | Azure Active Directory, Azure Information Protection, Bookings, Compliance Manager, Delve, Exchange Online, Exchange Online Protection, Forms, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Defender per Office 365, Microsoft Graph, Microsoft Teams, Microsoft To-Do per il Web, MyAnalytics, componente aggiuntivo Conformità avanzata di Office 365, Office 365 Cloud App Security, Gruppi di Office 365, Centro sicurezza e conformità di Office 365, Video di Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, Microsoft SharePoint Online, Skype for Business, StaffHub, Microsoft Stream, Sway, Yammer Enterprise |
+| **Commerciale** | Azure Active Directory, Azure Information Protection, Bookings, Compliance Manager, Delve, Exchange Online, Exchange Online Protection, Forms, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Defender per Office 365, Microsoft Graph, Microsoft Teams, Microsoft To-Do per il Web, MyAnalytics, componente aggiuntivo Conformità avanzata di Office 365, Office 365 Cloud App Security, Gruppi di Office 365, Centro sicurezza e conformità di Office 365, Video di Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, Microsoft SharePoint Online, Skype for Business, StaffHub, Microsoft Stream, Sway, Yammer Enterprise |
 | **GCC** | Azure Active Directory, Compliance Manager, Delve, Exchange Online, Forms, Microsoft Defender per Office 365, Microsoft Teams, MyAnalytics, componente aggiuntivo Office 365 Advanced Compliance, Centro sicurezza e conformità di Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business, Stream |
 
 ### <a name="office-365-audits-reports-and-certificates"></a>Controlli, report e certificati di Office 365
@@ -73,7 +73,7 @@ Vedi i Office 365 di attestazione SOC.
 
 **Posso usare la conformità Microsoft agli standard SOC per soddisfare gli obblighi di conformità FFIEC per il mio istituto?**
 
-Per soddisfare questi obblighi, Microsoft fornisce le specifiche sulla conformità agli standard SOC come descritto in precedenza. Tuttavia, in ultima analisi, sta a te determinare se i nostri servizi sono conformi alle leggi e alle normative specifiche applicabili al tuo istituto. Il FFIEC consiglia inoltre che "gli utenti dei report di controllo o delle revisioni non devono basarsi esclusivamente sulle informazioni contenute nel report per verificare l'ambiente di controllo interno del provider di servizi condivisi. Dovrebbero utilizzare altre procedure di verifica e [](https://ithandbook.ffiec.gov/it-booklets/outsourcing-technology-services.aspx) monitoraggio, come descritto più in modo più approfondito nel Manuale sulla tecnologia di esternalizzazione del manuale di esame IT FFIEC."
+Per soddisfare questi obblighi, Microsoft fornisce le specifiche sulla conformità agli standard SOC come descritto in precedenza. Tuttavia, in ultima analisi, sta a te determinare se i nostri servizi sono conformi alle leggi e alle normative specifiche applicabili al tuo istituto. L'FFIEC consiglia inoltre che "gli utenti dei rapporti di controllo o delle revisioni non devono basarsi esclusivamente sulle informazioni contenute nel report per verificare l'ambiente di controllo interno del provider di servizi condivisi. Devono utilizzare altre procedure di verifica e [](https://ithandbook.ffiec.gov/it-booklets/outsourcing-technology-services.aspx) monitoraggio, come descritto più in modo più approfondito nel Manuale sulla tecnologia di esternalizzazione del manuale di esame IT FFIEC."
 
 ### <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usare Microsoft Compliance Manager per valutare i rischi
 

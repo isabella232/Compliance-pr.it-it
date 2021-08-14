@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 9e441e8e1c5419eab741ceec370afe61815332e51115509dd5974e9ea2984c22
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 2ed9ba3e08dd75bd0d3209826497de80fc3781c4
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54292493"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260940"
 ---
 # <a name="united-kingdom-government-cloud-g-cloud"></a>Regno Unito Government-Cloud (G-Cloud)
 
@@ -37,7 +37,7 @@ Invece della valutazione centrale dei servizi cloud precedentemente forniti, il 
 
 Ogni anno, Microsoft prepara la documentazione e invia prove per attestare che i servizi cloud aziendali nell'ambito sono conformi ai principi, offrendo ai potenziali clienti di G-Cloud una panoramica dell'ambiente a rischio. Come per il precedente accreditamento G-Cloud, si basa sulla certificazione ISO 27001. Un accredito GDS esegue quindi diversi controlli casuali sull'istruzione di asserzione Microsoft, esegue un campionamento delle prove e determina la conformità.
 
-La nomina di servizi Microsoft al Digital Marketplace significa che le agenzie governative e i partner del Regno Unito possono utilizzare i servizi nell'ambito per archiviare ed elaborare i dati ufficiali del Regno Unito, la maggior parte dei dati governativi. Inoltre, in G-Cloud sono ora inclusi più di 450 partner Microsoft che sono rivenditori di servizi cloud Microsoft. Possono dichiarare direttamente la conformità dei servizi nell'ambito con i 14 principi delle proprie applicazioni. I clienti e i partner, tuttavia, dovranno ottenere la propria conformità per tutti i componenti non inclusi nell'attestazione e nella determinazione della conformità per i servizi cloud Microsoft.
+La nomina di servizi Microsoft al Digital Marketplace significa che le agenzie governative e i partner del Regno Unito possono utilizzare i servizi nell'ambito per archiviare ed elaborare i dati ufficiali del Regno Unito, la maggior parte dei dati governativi. Inoltre, in G-Cloud sono ora inclusi più di 450 partner Microsoft che sono rivenditori di servizi cloud Microsoft. Possono dichiarare direttamente la conformità dei servizi nell'ambito con i 14 principi nelle proprie applicazioni. I clienti e i partner, tuttavia, dovranno ottenere la propria conformità per tutti i componenti non inclusi nell'attestazione e nella determinazione della conformità per i servizi cloud Microsoft.
 
  [14 Cloud Security Controls for UK cloud](https://azure.microsoft.com/resources/14-cloud-security-controls-for-uk-cloud-using-microsoft-azure/) using Microsoft Azure fornisce strategie dei clienti per trasferire i propri servizi in Azure e contribuire a soddisfare gli obblighi del Regno Unito previsti dal CESG/NCSC. Il white paper fornisce informazioni dettagliate su come azure può essere usato per aiutare a risolvere i 14 controlli descritti nelle entità di sicurezza cloud e descrive come i clienti possono spostarsi più velocemente e ottenere di più risparmiando denaro man mano che adottano i servizi Microsoft Azure.
 
@@ -48,7 +48,7 @@ La nomina di servizi Microsoft al Digital Marketplace significa che le agenzie g
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune
 - Office 365
-- Power Automate (in precedenza Microsoft Flow) (come servizio autonomo o incluso in un piano o in una famiglia di prodotti Office 365 o Dynamics 365)
+- Power Automate (in precedenza Microsoft Flow) (come servizio autonomo o come incluso in un piano o in una famiglia di prodotti Office 365 o Dynamics 365)
 - Servizio cloud PowerApps (come servizio autonomo o incluso in un piano o in una famiglia di prodotti Office 365 o Dynamics 365)
 - Servizio cloud Power BI, servizio autonomo o incluso in un piano o in una famiglia di prodotti Office 365
 
@@ -64,7 +64,7 @@ Usare la tabella seguente per determinare l'applicabilità per i servizi e l'abb
 
 | **Applicabilità** | **Servizi inclusi nell'ambito** |
 |:------------------|:----------------------|
-| **Office 365** | Exchange Online, SharePoint Online, Skype for Business |
+| **Commerciale** | Exchange Online, SharePoint Online, Skype for Business |
 
 ## <a name="audits-reports-and-certificates"></a>Controlli, report e certificati
 
@@ -98,7 +98,7 @@ Spostare i servizi pubblici nel cloud è ora più facile che mai usando il bluep
 
 ## <a name="frequently-asked-questions"></a>Domande frequenti
 
-**Who può usare Digital Marketplace?**
+**Who è idoneo per l'uso di Digital Marketplace?**
 
 Tutti i reparti governativi del Regno Unito, le amministrazione devolved, le autorità locali, gli enti pubblici più ampi e gli organismi di arme sono idonei ad acquistare servizi sul mercato. Se non si è incerti sull'idoneità, consultare le linee guida correnti per i fornitori del Servizio commerciale [Corona.](https://www.gov.uk/guidance/current-crown-commercial-service-suppliers-what-you-need-to-know)
 
@@ -108,12 +108,12 @@ Si tratta di un'organizzazione o di un'agenzia che viene sovvenzionata dal gover
 
 **Cosa significano le posizioni dei datacenter locali per i clienti del Regno Unito e dove si trovano?**
 
-Microsoft Cloud nel Regno Unito offre affidabilità e prestazioni combinate con la residenza dei dati nel Regno Unito. Questo supporto fornisce ai clienti servizi cloud attendibili che li aiutano a soddisfare i requisiti di conformità e criteri locali. Inoltre, la replica dei dati in più datacenter in tutto il Regno Unito offre ai clienti una protezione dei dati con ridondanza geografica per la continuità aziendale, sia per scenari cloud puri che ibridi. Abbiamo data center in più posizioni in tutto il Regno Unito.
+Microsoft Cloud nel Regno Unito offre affidabilità e prestazioni combinate con la residenza dei dati nel Regno Unito. Questo supporto fornisce ai clienti servizi cloud attendibili che li aiutano a soddisfare i requisiti di conformità e criteri locali. Inoltre, la replica dei dati in più datacenter in tutto il Regno Unito offre ai clienti una protezione dei dati con ridondanza geografica per la continuità aziendale, sia per scenari cloud puri che ibridi. I data center sono disponibili in più posizioni in tutto il Regno Unito.
 
 - Puoi vedere le nuove aree di Azure, UK West e UK South, nella [mappa globale di Azure.](https://azuredatacentermap.azurewebsites.net/)
 - Ad Office 365, i data center del Regno Unito costituiscono collettivamente la nuova area geografica Office 365 Regno Unito. Puoi vedere altre informazioni sulla [mappa Office 365 globale.](https://o365datacentermap.azurewebsites.net/)
 
-**Dove si trovano gli altri data center Microsoft EU?**
+**Dove si trovano gli altri datacenter Microsoft EU?**
 
 Oltre ai data center del Regno Unito, i servizi cloud Microsoft hanno data center in più posizioni. Per l'elenco più aggiornato di tutti i centri, visitare la [pagina della posizione dei dati.](https://www.microsoft.com/TrustCenter/Privacy/where-your-data-is-located)
 
@@ -123,9 +123,9 @@ Il [Service Trust Portal](/microsoft-365/compliance/get-started-with-service-tru
 
 ## <a name="resources"></a>Risorse
 
-- [Controlli di conformità efficaci per affrontare i 14 principi di sicurezza cloud comuni dei governi del Regno Unito che Microsoft Azure](https://aka.ms/complianceuk)
+- [Controlli di conformità efficaci per affrontare i 14 principi di sicurezza cloud comuni dei governi del Regno Unito che usano Microsoft Azure](https://aka.ms/complianceuk)
 - [Strategia cloud per enti pubblici del Regno Unito](https://aka.ms/UK_govt_cloud_strategy)
 - [Principi di sicurezza di G-Cloud](https://aka.ms/UK-G-Cloud)
 - [Digital Marketplace](https://www.digitalmarketplace.service.gov.uk/)
 - [Microsoft Online Services](https://aka.ms/Online-Services-Terms)
-- [Conformità in Microsoft Trust Center](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Conformità nel Centro protezione Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)

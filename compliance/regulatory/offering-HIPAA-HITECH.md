@@ -1,6 +1,6 @@
 ---
 title: Health Insurance Portability and Accountability Act (HIPAA) & Health Information Technology for Economic and Clinical Health (HITECH) Act
-description: Microsoft offre contratti di associazione aziendale & Health Insurance & Accountability Act Business Associate Agreement (BAA).
+description: Microsoft offre contratti di associazione & Health Insurance & Accountability Act Business Associate Agreement (BAA).
 keywords: Microsoft 365, conformità, offerte
 localization_priority: None
 ms.prod: microsoft-365-enterprise
@@ -16,18 +16,18 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: df9b502dcad818199de63de3585c902b0c60d2c0a13c0b582e64aa4fa93ced7b
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: c809ebd43b66d51939a31b283e212b55d20f833a
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54293833"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260321"
 ---
 # <a name="health-insurance-portability-and-accountability-act-hipaa--health-information-technology-for-economic-and-clinical-health-hitech-act"></a>Health Insurance Portability and Accountability Act (HIPAA) & Health Information Technology for Economic and Clinical Health (HITECH) Act
 
 ## <a name="hipaa-and-the-hitech-act-overview"></a>Panoramica di HIPAA e HITECH Act
 
-L'Health Insurance Portability and Accountability Act del 1996 (HIPAA) e le normative emesse ai sensi di HIPAA sono un insieme di leggi sanitarie statunitensi che stabiliscono i requisiti per l'uso, la divulgazione e la protezione delle informazioni sanitarie identificabili singolarmente. L'ambito di HIPAA è stato esteso con l'applicazione del Health Information Technology for Economic and Clinical Health (HITECH) Act nel 2009.
+L'Health Insurance Portability and Accountability Act del 1996 (HIPAA) e le normative emesse ai sensi dell'HIPAA sono un insieme di leggi sanitarie statunitensi che stabiliscono i requisiti per l'uso, la divulgazione e la protezione delle informazioni sanitarie identificabili singolarmente. L'ambito di HIPAA è stato esteso con l'applicazione del Health Information Technology for Economic and Clinical Health (HITECH) Act nel 2009.
 
 HIPAA si applica alle entità coperte (in particolare, fornitori di servizi sanitari, piani sanitari e case di sgomento per l'assistenza sanitaria) che creano, ricevono, gestiscono, trasmettono o accedono alle informazioni sanitarie protette dei pazienti (PHI). HIPAA si applica inoltre agli associati aziendali di entità coperte che eseguono determinate funzioni o attività che coinvolgono PHI nell'ambito della fornitura di servizi all'entità coperta o per conto dell'entità coperta.  
 
@@ -35,13 +35,13 @@ Quando un'entità coperta utilizza i servizi di un provider di servizi cloud, ad
 
 ## <a name="microsoft-hipaa-and-the-hitech-act"></a>Microsoft, HIPAA e HITECH Act
 
-Le normative HIPAA richiedono che le entità coperte (definite in base alle Regole) stipulano accordi con i partner commerciali per garantire che phI sia adeguatamente protetto. Questo contratto è denominato Business Associate Agreement. Tra l'altro, un contratto di business associate stabilisce gli usi consentiti e obbligatori e le divulgazioni di phI da parte del business associate, in base alla relazione tra le parti e le attività o i servizi eseguiti dal business associate. Per supportare la conformità dei clienti con HIPAA durante l'utilizzo di prodotti e servizi aziendali Microsoft, Microsoft stipula contratti di business associate con l'entità coperta e i clienti associati.
+Le normative HIPAA richiedono che le entità coperte (definite in base alle Regole) stipulano accordi con i partner commerciali per garantire che phI sia adeguatamente protetto. Questo contratto è denominato Business Associate Agreement. Tra l'altro, un contratto di business associate stabilisce gli usi e le divulgazioni consentiti e obbligatori di phI da parte dell'associato, in base alla relazione tra le parti e le attività o i servizi eseguiti dal business associate. Per supportare la conformità dei clienti con HIPAA durante l'utilizzo di prodotti e servizi aziendali Microsoft, Microsoft stipula contratti di business associate con l'entità coperta e i clienti associati.
 
-Attualmente non esiste uno standard di certificazione approvato dal Department of Health and Human Services per dimostrare la conformità con HIPAA o l'HITECH Act da parte di un partner commerciale. Tuttavia, Microsoft consente ai clienti di rispettare HIPAA e HITECH Act e di rispettare i requisiti delle regole di sicurezza di HIPAA nella sua capacità di business associate. Inoltre, Microsoft stipula contratti di business associate con l'entità coperta e i clienti associati alle aziende per supportare la conformità agli obblighi HIPAA.  
+Attualmente non esiste uno standard di certificazione approvato dal Department of Health and Human Services per dimostrare la conformità con HIPAA o l'HITECH Act da parte di un partner commerciale. Tuttavia, Microsoft consente ai clienti di rispettare HIPAA e HITECH Act e rispetta i requisiti delle regole di sicurezza di HIPAA nella sua capacità di partner commerciali. Inoltre, Microsoft stipula contratti di business associate con l'entità coperta e i clienti associati alle aziende per supportare la conformità agli obblighi HIPAA.  
 
 ## <a name="third-party-certifications"></a>Certificazioni di terze parti
 
-servizi Microsoft nell'ambito del BAA sono stati sottoposti a controlli condotti da revisori indipendenti accreditati per la certificazione Microsoft ISO/IEC 27001 e la certificazione HITRUST CSF.
+servizi Microsoft coperti dal BAA sono stati sottoposti a controlli condotti da revisori indipendenti accreditati per la certificazione Microsoft ISO/IEC 27001 e la certificazione CSF HITRUST.
 
 I servizi cloud aziendali Microsoft sono inoltre coperti dalle valutazioni FedRAMP. Microsoft Azure e Microsoft Azure hanno ricevuto un'autorità provvisoria per operare dal Comitato di autorizzazione congiunto FedRAMP; Il governo statunitense di Microsoft Dynamics 365 ha ricevuto un'autorità dell'agenzia per operare dal Dipartimento degli alloggi e dello sviluppo urbano degli Stati Uniti, come Microsoft Office 365 U.S. Government dal Dipartimento della salute e dei servizi umani degli Stati Uniti.
 
@@ -54,14 +54,14 @@ Per informazioni su come Microsoft Cloud aiuta i clienti a supportare HIPAA e i 
 - Dynamics 365 e Dynamics 365 U.S. Government
 - Intune
 - Microsoft Cloud App Security
-- [Microsoft Cloud per il settore sanitario](https://aka.ms/MicrosoftCloudforHealthcareCompliance)
+- [Microsoft Cloud per il Settore sanitario](https://aka.ms/MicrosoftCloudforHealthcareCompliance)
 - Microsoft Healthcare Bot Service
 - [Microsoft Managed Desktop](/microsoft-365/managed-desktop/intro/compliance)
 - Microsoft Professional Services: premier e locale per Azure, Dynamics 365, Intune e per le medie e grandi imprese clienti di Microsoft 365 per le aziende
 - Office 365, Office 365 U.S. Government
 - Servizio cloud Power Automate (in precedenza Microsoft Flow), autonomo o incluso in un piano o in una famiglia di prodotti Office 365 o Dynamics 365
 - Servizio cloud PowerApps, autonomo o incluso in un piano o in una famiglia di prodotti con marchio Office 365 o Dynamics 365
-- Power BI servizio cloud come servizio autonomo o come incluso in un piano o in una famiglia di prodotti Office 365 o Dynamics 365
+- Power BI servizio cloud come servizio autonomo o incluso in un piano o in una famiglia di prodotti Office 365 o Dynamics 365
 
 ## <a name="azure-dynamics-365-and-hipaa"></a>Azure, Dynamics 365 e HIPAA
 
@@ -79,7 +79,7 @@ Usare la tabella seguente per determinare l'applicabilità per i servizi e l'abb
 
 | **Applicabilità** | **Servizi inclusi nell'ambito** |
 |:------------------|:----------------------|
-| **Office 365** | Access Online, Azure Active Directory, Azure Communications Service, Compliance Manager, Customer Lockbox, Delve, Exchange Online, Forms, Griffin, Identity Manager, Lockbox (Torus), Microsoft Defender for Office 365, Microsoft Teams, MyAnalytics, Office 365 Advanced Compliance add-on, Office 365 Customer Portal, Office 365 Microservices (inclusi Kaizala, ObjectStore, Sway, Power Automate, PowerPoint Online Document Service, Query Annotation Service, Servizio annotazioni, School Data Sync, Siphon, Speech, StaffHub, eXtensible Application Program), Office 365 Security & Compliance Center, Office Online, Office Pro Plus, Office Services Infrastructure, OneDrive for Business, Planner, PowerApps, Power BI, Project Online, Service Encryption with Customer Key, SharePoint Online, Skype for Business, Stream |
+| **Commerciale** | Access Online, Azure Active Directory, Azure Communications Service, Compliance Manager, Customer Lockbox, Delve, Exchange Online, Forms, Griffin, Identity Manager, Lockbox (Torus), Microsoft Defender for Office 365, Microsoft Teams, MyAnalytics, Office 365 Advanced Compliance add-on, Office 365 Customer Portal, Office 365 Microservices (inclusi, ma non solo, Kaizala, ObjectStore, Sway, Power Automate, PowerPoint Online Document Service, Query Annotation Service, Query Annotation Service, School Data Sync, Siphon, Speech, StaffHub, eXtensible Application Program), Office 365 Security & Compliance Center, Office Online, Office Pro Plus, Office Services Infrastructure, OneDrive for Business, Planner, PowerApps, Power BI, Project Online, Service Encryption with Customer Key, SharePoint Online, Skype for Business, Stream |
 | **GCC** | Azure Active Directory, Servizi di comunicazioni Azure, Compliance Manager, Delve, Exchange Online, Forms, Microsoft Defender per Office 365, Microsoft Teams, MyAnalytics, componente aggiuntivo Office 365 Advanced Compliance, Centro sicurezza e conformità di Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business, Stream |
 
 ### <a name="frequently-asked-questions"></a>Domande frequenti
@@ -88,17 +88,17 @@ Usare la tabella seguente per determinare l'applicabilità per i servizi e l'abb
 
 Sì. Microsoft offre ai propri clienti associati a un'entità coperta e a un partner commerciale un contratto di business associate che copre l'ambito servizi Microsoft.
 
-Il [contratto Microsoft HIPAA Business Associate Agreement](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3) è disponibile tramite il Microsoft Online Services Data Protection Addendum per impostazione predefinita per tutti i clienti che sono soggetti coperti o associati aziendali ai sensi di HIPAA. Vedere "Servizi cloud microsoft nell'ambito" in questa pagina Web per l'elenco dei servizi cloud coperti da questo baa.
+Il [contratto Microsoft HIPAA Business Associate Agreement](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3) è disponibile tramite il Microsoft Online Services Data Protection Addendum per impostazione predefinita per tutti i clienti che sono soggetti coperti o associati aziendali in HIPAA. Vedere "Servizi cloud microsoft nell'ambito" in questa pagina Web per l'elenco dei servizi cloud coperti da questo baa.
 
 Il contratto HIPAA Business Associate Agreement è disponibile anche per Microsoft Professional Services nell'ambito. Contattare il servizi Microsoft per ulteriori informazioni.
 
 **Il contratto di business associate con Microsoft garantisce la conformità dell'organizzazione con HIPAA e HITECH Act?**
 
-No. Offrendo un contratto di business associate, Microsoft aiuta a supportare la conformità HIPAA. Tuttavia, l'servizi Microsoft non consente di raggiungere la conformità HIPAA. L'organizzazione è responsabile della verifica di disporre di un programma di conformità e di processi interni adeguati e che l'uso specifico di servizi Microsoft sia in linea con gli obblighi dell'HIPAA e dell'HITECH Act.
+No. Offrendo un contratto di business associate, Microsoft aiuta a supportare la conformità HIPAA. Tuttavia, l'servizi Microsoft non consente di ottenere la conformità HIPAA. L'organizzazione è responsabile della verifica di disporre di un programma di conformità e di processi interni adeguati e che l'uso specifico di servizi Microsoft sia in linea con gli obblighi dell'HIPAA e dell'HITECH Act.
 
 **Microsoft può utilizzare il contratto di business associate dell'organizzazione?**
 
-No, Microsoft non può utilizzare il contratto business associate di un cliente. Poiché offriamo servizi multi-tenant iperscalari standardizzati per tutti i clienti, dobbiamo operare in modo coerente. Il contratto Microsoft HIPAA Business Associate Agreement riflette attentamente il modo in cui operiamo. Di conseguenza, per soddisfare le esigenze del settore sanitario, Microsoft ha collaborato con un consorzio di centri medici accademici e altre entità del settore pubblico e privato nel settore sanitario per creare un Contratto di associazione aziendale che si allinea alle offerte di servizi su larga scala e soddisfa le esigenze dei clienti.
+No, Microsoft non può utilizzare il contratto di business associate di un cliente. Poiché offriamo servizi multi-tenant iperscalari standardizzati per tutti i clienti, dobbiamo operare in modo coerente. Il contratto Microsoft HIPAA Business Associate Agreement riflette attentamente il modo in cui operiamo. Di conseguenza, per soddisfare le esigenze del settore sanitario, Microsoft ha collaborato con un consorzio di centri medici accademici e altre entità del settore pubblico e privato nel settore sanitario per creare un contratto di business associate che si allinea alle offerte di servizi su larga scala e soddisfa le esigenze dei clienti.
 
 **Come si ottengono copie dei report di controllo di terze parti?**
 

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 10300b66564465e8362ca72c8cbb1604d590a45f91608b7b5dbcb0a55054d4b5
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: d41c5fea8e0f6f45703bfe25cae9dbaa491dcd2c
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54287585"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58261048"
 ---
 # <a name="family-educational-rights-and-privacy-act-ferpa"></a>Family Educational Rights and Privacy Act (FERPA)
 
@@ -29,7 +29,7 @@ ms.locfileid: "54287585"
 
 Il Family Educational Rights and Privacy Act (FERPA) è una legge federale statunitense che protegge la privacy dei registri scolastici degli studenti, incluse informazioni personali e directory. FERPA è stata emanata per garantire che genitori e studenti di età superiore ai 18 anni possano accedere a tali record, richiedere modifiche e controllare la divulgazione di informazioni, tranne in casi specifici e limitati in cui FERPA consente la divulgazione senza il consenso.
 
-La legge si applica alle scuole, ai distretti scolastici e a qualsiasi altro istituto che riceve fondi dal Dipartimento dell'Istruzione degli Stati Uniti, ovvero praticamente tutte le scuole E-12 pubbliche e i distretti scolastici, nonché la maggior parte degli istituti post-secondari, pubblici e privati.
+La legge si applica alle scuole, ai distretti scolastici e a qualsiasi altro istituto che riceve fondi dal Dipartimento dell'istruzione degli Stati Uniti, ovvero praticamente tutte le scuole E-12 pubbliche e i distretti scolastici, nonché la maggior parte degli istituti post-secondari, pubblici e privati.
 
 La sicurezza è fondamentale per la conformità con FERPA, che richiede la protezione delle informazioni degli studenti da divulgazioni non autorizzate. Gli istituti didattici che usano il cloud computing necessitano di rassicurazioni contrattuali che un fornitore di tecnologia gestisca in modo appropriato i dati sensibili degli studenti.
 
@@ -37,9 +37,9 @@ La sicurezza è fondamentale per la conformità con FERPA, che richiede la prote
 
 FERPA non richiede o riconosce controlli o altre certificazioni, pertanto qualsiasi istituto accademico soggetto a FERPA deve valutare se e in che modo l'uso di un servizio cloud influisce sulla capacità di soddisfare i requisiti FERPA. Tuttavia, Microsoft ha preso i seguenti impegni contrattuali che attestano la conformità:
 
-- Nelle sue [Condizioni per i servizi](https://aka.ms/Online-Services-Terms)online, Microsoft accetta di essere designata come "funzionario scolastico" con "interessi educativi legittimi" nei dati dei clienti, come definito in FERPA. I dati dei clienti includono tutti i record degli studenti forniti tramite l'uso dei servizi cloud Microsoft da parte di un istituto di istruzione. Durante la gestione dei record di istruzione degli studenti, Microsoft accetta di rispettare le limitazioni e i requisiti imposti da 34 CFR 99.33(a) come fanno i funzionari scolastici.
+- Nelle sue [Condizioni per i servizi](https://aka.ms/Online-Services-Terms)online, Microsoft accetta di essere designata come "funzionario scolastico" con "interessi educativi legittimi" nei dati dei clienti, come definito in FERPA. I dati dei clienti includono tutti i record degli studenti forniti tramite l'uso dei servizi cloud Microsoft da parte di un istituto di istruzione. Durante la gestione dei record dell'istruzione degli studenti, Microsoft accetta di rispettare le limitazioni e i requisiti imposti da 34 CFR 99.33(a) come fanno i funzionari scolastici.
 - Inoltre, Microsoft si impegna a utilizzare i dati dei clienti solo per fornire alle organizzazioni i propri servizi cloud e scopi compatibili (ad esempio, migliorare il rilevamento di malware) e non estrae i dati dei clienti per la pubblicità.
-- Microsoft si impegna inoltre contrattualmente a non divulgare i dati dei clienti se non come indicato dall'istituto di istruzione, come descritto nel contratto o come richiesto dalla legge. Le scuole che forniscono i record di istruzione a Microsoft tramite l'uso di un servizio cloud Microsoft possono pertanto essere certi che tali record sono soggetti a stringenti restrizioni contrattuali relative all'uso e alla divulgazione.
+- Microsoft si impegna inoltre contrattualmente a non divulgare i dati dei clienti se non come indicato dall'istituto di istruzione, come descritto nel contratto o come richiesto dalla legge. Le scuole che forniscono i record di istruzione a Microsoft attraverso l'uso di un servizio cloud Microsoft possono pertanto essere certi che tali record sono soggetti a stringenti restrizioni contrattuali relative all'uso e alla divulgazione.
 
 Come risultato di questi impegni contrattuali, i clienti soggetti a FERPA , sia gli istituti di istruzione che le terze parti a cui forniscono l'accesso ai dati sensibili degli studenti, possono usare in modo sicuro i servizi cloud aziendali Microsoft nell'ambito per elaborare, archiviare e trasmettere tali dati.
 
@@ -69,7 +69,7 @@ Usare la tabella seguente per determinare l'applicabilità per i servizi e l'abb
 
 | **Applicabilità** | **Servizi inclusi nell'ambito** |
 |:------------------|:----------------------|
-| **Office 365** | Azure Active Directory, Azure Information Protection, Bookings, Compliance Manager, Delve, Exchange Online, Exchange Online Protection, Forms, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Defender per Office 365, Microsoft Graph, Microsoft Teams, Microsoft To-Do per il Web, MyAnalytics, componente aggiuntivo Conformità avanzata di Office 365, Office 365 Cloud App Security, Gruppi di Office 365, Centro sicurezza e conformità di Office 365, Video di Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, Microsoft SharePoint Online, Skype for Business, StaffHub, Microsoft Stream, Sway, Yammer Enterprise |
+| **Commerciale** | Azure Active Directory, Azure Information Protection, Bookings, Compliance Manager, Delve, Exchange Online, Exchange Online Protection, Forms, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Defender per Office 365, Microsoft Graph, Microsoft Teams, Microsoft To-Do per il Web, MyAnalytics, componente aggiuntivo Conformità avanzata di Office 365, Office 365 Cloud App Security, Gruppi di Office 365, Centro sicurezza e conformità di Office 365, Video di Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, Microsoft SharePoint Online, Skype for Business, StaffHub, Microsoft Stream, Sway, Yammer Enterprise |
 | **GCC** | Azure Active Directory, Compliance Manager, Delve, Exchange Online, Forms, Microsoft Defender for Office 365, Microsoft Teams, MyAnalytics, Office 365 Advanced Compliance add-on, Office 365 Security & Compliance Center, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, harePoint Online, Skype for Business, Stream |
 | **GCC High** | Azure Active Directory, Exchange Online, Forms, Microsoft Defender per Office 365, Microsoft Teams, componente aggiuntivo Office 365 Advanced Compliance, Centro sicurezza e conformità di Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business |
 | **DoD** | Azure Active Directory, Exchange Online, Forms, Microsoft Defender per Office 365, Microsoft Teams, componente aggiuntivo Office 365 Advanced Compliance, Centro sicurezza e conformità di Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, Power BI, SharePoint Online, Skype for Business |

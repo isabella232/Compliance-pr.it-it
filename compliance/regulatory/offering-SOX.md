@@ -1,6 +1,6 @@
 ---
 title: Sarbanes-Oxley Act del 2002 (SOX)
-description: Le società di servizi finanziari possono utilizzare i report di conformità Microsoft per risolvere la loro conformità con il Sarbanes-Oxley Act.
+description: Le società di servizi finanziari possono utilizzare i report di conformità Microsoft per affrontare la loro conformità con il Sarbanes-Oxley Act.
 keywords: Microsoft 365, conformità, offerte
 localization_priority: None
 ms.prod: microsoft-365-enterprise
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: ef436314bc6b9d49bea046b66cbfa44905943001e5c91dff2441dcd9fab55768
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 6fb3ec963487169e01c9a69eca3b76f9f21a46cf
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54290054"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260434"
 ---
 # <a name="sarbanes-oxley-act-of-2002-sox"></a>Sarbanes-Oxley Act del 2002 (SOX)
 
@@ -33,7 +33,7 @@ La SEC non definisce o impone un processo di certificazione SOX. Fornisce invece
 
 ## <a name="microsoft-and-sox"></a>Microsoft e SOX
 
-I clienti dei servizi cloud Microsoft soggetti alla conformità con il Sarbanes-Oxley Act (SOX) possono utilizzare l'attestazione SOC 1 Di tipo 2 che Microsoft ha ricevuto da una società di controllo indipendente per affrontare i propri obblighi di conformità SOX. Questa attestazione è appropriata per la creazione di report sui controlli interni sui report finanziari.
+I clienti dei servizi cloud Microsoft soggetti alla conformità con il Sarbanes-Oxley Act (SOX) possono utilizzare l'attestazione SOC 1 Tipo 2 ricevuta da Microsoft da una società di controllo indipendente per affrontare i propri obblighi di conformità SOX. Questa attestazione è appropriata per la segnalazione dei controlli interni sui report finanziari.
 
 Anche se non esiste alcuna certificazione SOX o convalida per i provider di servizi cloud, Microsoft può aiutare i clienti a rispettare i propri obblighi SOX. Ad esempio, SOX richiede controlli interni per la preparazione e la revisione dei rendiconti finanziari, in particolare i controlli che influiscono sull'accuratezza, la completezza, l'efficacia e la divulgazione pubblica di modifiche materiali correlate alla creazione di report finanziari. Per aiutare le aziende, Microsoft gestisce un'attestazione SOC 1 Tipo 2 appropriata per la creazione di report su tali controlli in un ampio portfolio di servizi che possono essere utilizzati per creare un'ampia gamma di applicazioni. Si basa sull'American Institute of Certified Public Accountants (AICPA) Statement on Standards for Attestation Engagements 18 (SSAE 18) e sullo Standard internazionale sugli impegni di garanzia n. n. 3402. Questa attestazione ha sostituito SAS 70.
 
@@ -65,7 +65,7 @@ Usare la tabella seguente per determinare l'applicabilità per i servizi e l'abb
 
 | **Applicabilità** | **Servizi inclusi nell'ambito** |
 |:------------------|:----------------------|
-| **Office 365** | Augmentation Loop, Auto Alt Text, Azure Information Protection, Binary Conversion Services, Bookings, Delve, Document Item, Editor, Exchange Online, Forms, Insert Online Media, Insights, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Graph, Microsoft Teams, MyAnalytics, Office 365 Cloud App Security, Office 365 Groups, Office 365 Video, OneDrive for Business, Planner, Power Apps, PowerApps, Power Automate, Power BI, PowerPoint Designer, PowerPoint Online Document Service, SharePoint Online, Skype for Business, StaffHub, Stream,Sway, To-Do, Web Rendering Service, Yammer Enterprise  |
+| **Commerciale** | Augmentation Loop, Auto Alt Text, Azure Information Protection, Binary Conversion Services, Bookings, Delve, Document Item, Editor, Exchange Online, Forms, Insert Online Media, Insights, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Graph, Microsoft Teams, MyAnalytics, Office 365 Cloud App Security, Office 365 Groups, Office 365 Video, OneDrive for Business, Planner, Power Apps, PowerApps, Power Automate, Power BI, PowerPoint Designer, PowerPoint Online Document Service, SharePoint Online, Skype for Business, StaffHub, Stream,Sway, To-Do, Web Rendering Service, Yammer Enterprise  |
 
 ### <a name="audits-reports-and-certificates"></a>Controlli, report e certificati
 

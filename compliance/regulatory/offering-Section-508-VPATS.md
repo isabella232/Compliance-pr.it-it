@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 9df3b3f2d39ba28eb3d6b8ca9cdc293594dcc10f13aa17e7c08c85d41ab6ba0c
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 237fe4ed402679f156042902f7c25526eee354de
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54288584"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58259739"
 ---
 # <a name="us-section-508"></a>Sezione 508 degli Stati Uniti
 
@@ -56,7 +56,7 @@ Usare la tabella seguente per determinare l'applicabilità per i servizi e l'abb
 
 | **Applicabilità** | **Servizi inclusi nell'ambito** |
 |:------------------|:----------------------|
-| **Office 365** | Access, Azure Active Directory, Bookings, Compliance Manager, Delve, Excel, Exchange Online, Forms, Kaizala, Microsoft Defender for Office 365, Microsoft Teams, MyAnalytics, Office 365 admin portal for Android,Office 365 admin portal for iOS, Office 365 admin portal, Office 365 Advanced Compliance add-on, Office 365 and Azure AD sign-in, Office 365 Business Center, Office 365 Security & Compliance Center, Office 365 Video, Office 365 Web Suite, Office Configuration Tool, Office Lens, Office Online, Office Pro Plus, OneDrive for Business, OneDrive, OneNote, Outlook Groups, Outlook, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, SharePoint, Skype for Business, StaffHub , Stream, To-Do, Visio, Word, Yammer  |
+| **Commerciale** | Access, Azure Active Directory, Bookings, Compliance Manager, Delve, Excel, Exchange Online, Forms, Kaizala, Microsoft Defender for Office 365, Microsoft Teams, MyAnalytics, Office 365 admin portal for Android,Office 365 admin portal for iOS, Office 365 admin portal, Office 365 Advanced Compliance add-on, Office 365 and Azure AD sign-in, Office 365 Business Center, Office 365 Security & Compliance Center, Office 365 Video, Video, Office 365 Video, Office 365 Web Suite, Office Configuration Tool, Office Lens, Office Online, Office Pro Plus, OneDrive for Business, OneDrive, OneNote, Outlook Groups, Outlook, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, SharePoint, Skype for Business, StaffHub , Stream, To-Do, Visio, Word, Yammer  |
 | **GCC** | Azure Active Directory, Compliance Manager, Delve, Exchange Online, Forms, Microsoft Defender per Office 365, Microsoft Teams, MyAnalytics, componente aggiuntivo Office 365 Advanced Compliance, Centro sicurezza e conformità di Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business, Stream |
 | **GCC High** | Azure Active Directory, Exchange Online, Forms, Microsoft Defender per Office 365, Microsoft Teams, componente aggiuntivo Office 365 Advanced Compliance, Centro sicurezza e conformità di Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business |
 | **DoD** | Azure Active Directory, Exchange Online, Forms, Microsoft Defender per Office 365, Microsoft Teams, componente aggiuntivo Office 365 Advanced Compliance, Centro sicurezza e conformità di Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, Power BI, SharePoint Online, Skype for Business |
@@ -71,4 +71,4 @@ Sono disponibili [report di conformità](https://cloudblogs.microsoft.com/indust
 - [Office 365 Accessibility Center](https://go.microsoft.com/fwlink/p/?linkid=2051801): le risorse di Office 365 per persone con disabilità.
 - [Enterprise Disability Answer Desk](https://go.microsoft.com/fwlink/p/?linkid=2050890): supporto dedicato per clienti aziendali con domande sull'accessibilità sui prodotti e servizi Microsoft o sulla conformità.
 - [DHS Trusted Tester Program](https://go.microsoft.com/fwlink/?linkid=2052171): Ottenere informazioni sul Programma Trusted Tester del Department of Homeland Security (DHS) degli Stati Uniti, a cui Partecipa Microsoft.
-- [Conformità in Microsoft Trust Center](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Conformità nel Centro protezione Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)

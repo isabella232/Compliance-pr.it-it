@@ -1,10 +1,10 @@
 ### YamlMime:Hub
 title: Offerte di conformità Microsoft
-summary: Scopri in che modo i prodotti e i servizi Microsoft aiutano l'organizzazione a soddisfare gli standard di conformità alle normative.
+summary: Informazioni su come i prodotti e i servizi Microsoft aiutano l'organizzazione a soddisfare gli standard di conformità alle normative.
 brand: m365
 metadata:
   title: 'Offerte di conformità per Microsoft 365, Azure e altri servizi Microsoft.'
-  description: Scopri in che modo i prodotti e i servizi Microsoft aiutano l'organizzazione a soddisfare gli standard di conformità alle normative.
+  description: Informazioni su come i prodotti e i servizi Microsoft aiutano l'organizzazione a soddisfare gli standard di conformità alle normative.
   services: service
   ms.service: O365-seccomp
   ms.subservice: subservice
@@ -17,8 +17,8 @@ metadata:
   ms.date: 11/30/2020
   localization_priority: Normal
 conceptualContent:
-  title: Offerte di conformità Microsoft
-  summary: 'Informazioni per Microsoft 365, Azure, Dynamics 365, Power Platform e altri servizi per facilitare le normative nazionali, regionali e specifiche del settore per la raccolta e l''uso dei dati.'
+  title: 'Azure, Dynamics 365 e Microsoft 365 conformità'
+  summary: 'Informazioni per Azure, Dynamics 365, Microsoft 365 e Power Platform e altri servizi utili per le normative nazionali, regionali e specifiche del settore per la raccolta e l''uso dei dati.'
   items:
     - title: Globale
       links:
@@ -163,7 +163,7 @@ conceptualContent:
           text: FINMA (Svizzera)
         - url: offering-finra-4511.md
           itemType: reference
-          text: FINRA 4511
+          text: FINRA 4511 (Stati Uniti)
         - url: offering-fisc-japan.md
           itemType: reference
           text: FISC (Giappone)
@@ -172,7 +172,7 @@ conceptualContent:
           text: FSA (Danimarca)
         - url: offering-glba.md
           itemType: reference
-          text: GLBA
+          text: GLBA (Stati Uniti)
         - url: /azure/compliance/offerings/offering-gsma
           itemType: reference
           text: GSMA
@@ -185,11 +185,11 @@ conceptualContent:
         - url: offering-hipaa-hitech.md
           itemType: reference
           text: HIPAA / HITECH
+    - title: Settore
+      links:
         - url: offering-hitrust.md
           itemType: reference
           text: HITRUST
-    - title: Settore
-      links:
         - url: offering-knf-poland.md
           itemType: reference
           text: KNF (Polonia)
@@ -220,11 +220,11 @@ conceptualContent:
         - url: offering-PCI-DSS.md
           itemType: reference
           text: PCI-DSS
+    - title: Settore
+      links:
         - url: offering-rbi-irdai-india.md
           itemType: reference
           text: RBI + IRDAI (India)
-    - title: Settore
-      links:
         - url: offering-sec-17a-4.md
           itemType: reference
           text: SEC 17a-4
@@ -239,7 +239,7 @@ conceptualContent:
           text: SOX
         - url: /azure/compliance/offerings/offering-tisax
           itemType: reference
-          text: TISAX (Germania)
+          text: TISAX
         - url: offering-trusight.md
           itemType: reference
           text: TruSight

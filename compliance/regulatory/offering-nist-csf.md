@@ -16,22 +16,22 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 49b18d0e758f0c83b2f56be2cd9bb1447c63349165e9cef868adbcf17adeb7f0
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 84a7515c8d23a3e224118bbf56175e6ec79f1ecb
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54294293"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58259795"
 ---
 # <a name="national-institute-of-standards-and-technology-nist-cybersecurity-framework-csf"></a>National Institute of Standards and Technology (NIST) Cybersecurity Framework (CSF)
 
 ## <a name="nist-csf-overview"></a>Panoramica di NIST CSF
 
-Il National Institute of Standards and Technology (NIST) promuove e mantiene gli standard di misurazione e le linee guida per aiutare le organizzazioni a valutare i rischi. In risposta all'ordine esecutivo 13636 per rafforzare la sicurezza informatica delle reti federali e delle infrastrutture critiche, il NIST ha rilasciato il Framework for Improving Critical Infrastructure Cybersecurity (FICIC) nel febbraio 2014.
+Il National Institute of Standards and Technology (NIST) promuove e mantiene gli standard di misurazione e le linee guida per aiutare le organizzazioni a valutare i rischi. In risposta all'ordine esecutivo 13636 sul potenziamento della sicurezza informatica delle reti federali e delle infrastrutture critiche, il NIST ha rilasciato il Framework for Improving Critical Infrastructure Cybersecurity (FICIC) nel febbraio 2014.
 
 Le principali priorità del FICIC erano stabilire un insieme di standard e procedure per aiutare le organizzazioni a gestire i rischi di cybersecurity, consentendo al contempo l'efficienza aziendale. NIST Framework affronta i rischi di cybersecurity senza imporre ulteriori requisiti normativi sia per le organizzazioni governative che per le organizzazioni del settore privato.
 
-Il FICIC fa riferimento a standard riconosciuti a livello globale, tra cui NIST SP 800-53 nell'Appendice A del Framework del NIST per il miglioramento della cybersecurity delle infrastrutture [critiche.](https://www.nist.gov/publications/framework-improving-critical-infrastructure-cybersecurity-version-11) Ogni controllo all'interno del framework FICIC è mappato ai controlli NIST 800-53 corrispondenti all'interno della baseline moderata FedRAMP.
+Il FICIC fa riferimento a standard riconosciuti a livello globale, tra cui NIST SP 800-53, disponibile nell'Appendice A del Framework del NIST per il miglioramento della cybersecurity delle infrastrutture [critiche.](https://www.nist.gov/publications/framework-improving-critical-infrastructure-cybersecurity-version-11) Ogni controllo all'interno del framework FICIC è mappato ai controlli NIST 800-53 corrispondenti all'interno della baseline moderata FedRAMP.
 
 ## <a name="microsoft-and-the-nist-csf"></a>Microsoft e NIST CSF
 
@@ -64,11 +64,11 @@ Usare la tabella seguente per determinare l'applicabilità per i servizi e l'abb
 
 | **Applicabilità** | **Servizi inclusi nell'ambito** |
 |:------------------|:----------------------|
-| **Office 365** | Activity Feed Service, Bing Services, Delve, Exchange Online, Intelligent Services, Microsoft Teams, Office 365 Customer Portal, Office Online, Office Service Infrastructure, Office Usage Reports, OneDrive for Business, People Card, SharePoint Online, Skype for Business, Windows Ink |
+| **Commerciale** | Activity Feed Service, Bing Services, Delve, Exchange Online, Intelligent Services, Microsoft Teams, Office 365 Customer Portal, Office Online, Office Service Infrastructure, Office Usage Reports, OneDrive for Business, People Card, SharePoint Online, Skype for Business, Windows Ink |
 
 ### <a name="office-365-audit-cycle-and-certification"></a>Office 365 di controllo e certificazione
 
-La certificazione CSF NIST di Office 365 è valida per due anni.
+La certificazione CSF NIST Office 365 valida per due anni.
 
 - [Office 365 Lettera di certificazione NIST CSF](https://aka.ms/O365NISTCSFcertification)
 
@@ -80,7 +80,7 @@ Sì, Office 365 la lettera di certificazione [NIST CSF](https://servicetrust.mic
 
 **In che modo Microsoft Cloud Services dimostra la conformità al framework?**
 
-Usando i report di controllo formali preparati da terze parti per l'accreditamento FedRAMP, Microsoft può mostrare come i controlli pertinenti osservati in questi rapporti dimostrano la conformità al framework NIST per migliorare la cybersecurity delle infrastrutture critiche. I controlli implementati da Microsoft servono a garantire la riservatezza, l'integrità e la disponibilità dei dati archiviati, elaborati e trasmessi da Azure, Office 365 e Dynamics 365 che sono stati identificati come responsabilità di Microsoft.
+Usando i report di controllo formali preparati da terze parti per l'accreditamento FedRAMP, Microsoft può mostrare come i controlli pertinenti osservati in questi rapporti dimostrano la conformità al framework NIST per migliorare la cybersecurity delle infrastrutture critiche. I controlli controllati implementati da Microsoft servono a garantire la riservatezza, l'integrità e la disponibilità dei dati archiviati, elaborati e trasmessi da Azure, Office 365 e Dynamics 365 che sono stati identificati come responsabilità di Microsoft.
 
 **Quali sono le responsabilità di Microsoft per il mantenimento della conformità a questa iniziativa?**
 
@@ -110,4 +110,4 @@ Microsoft offre le offerte più complete rispetto ad altri provider di servizi c
 - [Ordine esecutivo per il rafforzamento della cybersecurity delle reti federali e dell'infrastruttura critica](https://www.whitehouse.gov/the-press-office/2017/05/11/presidential-executive-order-strengthening-cybersecurity-federal)
 - [Cloud Microsoft per enti pubblici](https://go.microsoft.com/fwlink/p/?linkid=2087246)
 - [Condizioni dei Servizi online](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=31)
-- [Conformità in Microsoft Trust Center](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Conformità nel Centro protezione Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)

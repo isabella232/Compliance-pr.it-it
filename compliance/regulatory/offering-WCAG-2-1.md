@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: de5d4d46e49b5ceaba453e4bcfdef1891d15e080e881f9c450585bca1a1af88b
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: a8441c6ea20f5429a5e760cef307a132fab9559b
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54289354"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260899"
 ---
 # <a name="web-content-accessibility-guidelines"></a>Linee guida per l'accessibilità dei contenuti Web
 
@@ -62,7 +62,7 @@ Usare la tabella seguente per determinare l'applicabilità per i servizi e l'abb
 
 | **Applicabilità** | **Servizi inclusi nell'ambito** |
 |:------------------|:----------------------|
-| **Office 365** | Excel, interfaccia di amministrazione di Exchange, interfaccia di amministrazione di Office 365 (portale), esperienza di accesso di Office 365 e Azure AD, portale per i clienti di Office 365, Centro sicurezza e conformità di Office 365, Office 365 Video, Office Lens, Office.com, interfaccia di amministrazione di OneDrive, OneDrive for Business, client di sincronizzazione di OneDrive, OneNote, Orcas, Outlook Groups, Outlook, PowerPoint, Project, Word  |
+| **Commerciale** | Excel, interfaccia di amministrazione di Exchange, interfaccia di amministrazione di Office 365 (portale), esperienza di accesso di Office 365 e Azure AD, portale per i clienti di Office 365, Centro sicurezza e conformità di Office 365, Office 365 Video, Office Lens, Office.com, interfaccia di amministrazione di OneDrive, OneDrive for Business, client di sincronizzazione di OneDrive, OneNote, Orcas, Outlook Groups, Outlook, PowerPoint, Project, Word  |
 | **GCC** | Azure Active Directory, Compliance Manager, Delve, Exchange Online, Forms, Microsoft Defender per Office 365, Microsoft Teams, MyAnalytics, componente aggiuntivo Office 365 Advanced Compliance, Centro sicurezza e conformità di Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business, Stream |
 | **GCC High** | Azure Active Directory, Exchange Online, Forms, Microsoft Defender per Office 365, Microsoft Teams, componente aggiuntivo Office 365 Advanced Compliance, Centro sicurezza e conformità di Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business |
 | **DoD** | Azure Active Directory, Exchange Online, Microsoft Defender per Office 365, Microsoft Teams, componente aggiuntivo Office 365 Advanced Compliance, Centro sicurezza e conformità di Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, Forms, Power BI, SharePoint Online, Skype for Business |

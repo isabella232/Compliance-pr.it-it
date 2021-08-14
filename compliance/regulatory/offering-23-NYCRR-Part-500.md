@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 04fcc05bcde30bb3ecd6e33336789839cb5a6e404e650d16875692cea38bb7b5
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 36d8bd6a0fa27056188b48fef4e1cc8d6e123372
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54287925"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58261113"
 ---
 # <a name="title-23-nycrr-part-500"></a>Normativa Title 23 NYCRR Part 500
 
@@ -67,7 +67,7 @@ Usare la tabella seguente per determinare l'applicabilità per i servizi e l'abb
 
 | **Applicabilità** | **Servizi inclusi nell'ambito** |
 |:------------------|:----------------------|
-| **Office 365** | Exchange Online Protection, Exchange Online, Portale per i clienti di Office 365, Office Online, Infrastruttura del servizio di Office, OneDrive for Business, SharePoint Online, Skype for Business |
+| **Commerciale** | Exchange Online Protection, Exchange Online, Portale per i clienti di Office 365, Office Online, Infrastruttura del servizio di Office, OneDrive for Business, SharePoint Online, Skype for Business |
 
 ## <a name="frequently-asked-questions"></a>Domande frequenti
 

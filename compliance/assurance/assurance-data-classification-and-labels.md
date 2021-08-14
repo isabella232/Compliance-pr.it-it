@@ -20,18 +20,18 @@ f1.keywords:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: dc2a1a27994c1f3fc69f35b4b764ae80d3df7defd3b4d0dec97520de7760f815
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 396063b9ab094c7e5834572fe778046464ade81d
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54288714"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260331"
 ---
 # <a name="data-classification--sensitivity-label-taxonomy"></a>Classificazione dei dati & tassonomia dell'etichetta di riservatezza
 
-I dati sensibili presentano rischi significativi per un'azienda se vengono rubati, condivisi inavvertitamente o esposti tramite una violazione. I fattori di rischio includono danni alla reputazione, impatto finanziario e perdita di vantaggio competitivo. La protezione dei dati e delle informazioni gestite dall'azienda è una priorità assoluta per l'organizzazione, ma potrebbe risultare difficile sapere se gli sforzi sono veramente efficaci, data la quantità di contenuto mantenuto dall'azienda.
+I dati sensibili presentano rischi significativi per un'azienda se vengono rubati, condivisi inavvertitamente o esposti tramite una violazione. I fattori di rischio includono danni alla reputazione, impatto finanziario e perdita di vantaggio competitivo. La protezione dei dati e delle informazioni gestite dall'azienda è una priorità assoluta per l'organizzazione, ma potrebbe risultare difficile sapere se i propri sforzi sono veramente efficaci, data la quantità di contenuto mantenuto dall'azienda.
 
-Oltre al volume, il contenuto può essere di importanza variabile, da estremamente sensibile e di impatto a banale e transitorio. Può anche essere sotto il controllo di vari requisiti di conformità normativa. Sapere quali priorità e dove applicare i controlli può essere una sfida. Continua a leggere per informazioni sulla classificazione dei *dati,* uno strumento importante per proteggere il contenuto da furti, furti o distruzione accidentale e su come Microsoft 365 può aiutare a raggiungere gli obiettivi di sicurezza delle informazioni.
+Oltre al volume, il contenuto può variare di importanza da estremamente sensibile e di impatto a banale e transitorio. Può anche essere sotto il controllo di vari requisiti di conformità normativa. Sapere quali priorità e dove applicare i controlli può essere una sfida. Continua a leggere per informazioni sulla classificazione dei *dati,* uno strumento importante per proteggere il contenuto da furti, furti o distruzione involontaria e su come Microsoft 365 può aiutare a raggiungere gli obiettivi di sicurezza delle informazioni.
 
 ## <a name="what-is-data-classification"></a>Che cos'è la classificazione dei dati?
 
@@ -39,8 +39,10 @@ Oltre al volume, il contenuto può essere di importanza variabile, da estremamen
 
 ## <a name="what-is-a-data-classification-framework"></a>Che cos'è un framework di classificazione dei dati?
 
-Spesso codificato in un criterio formale a livello aziendale, un framework di classificazione dei dati (talvolta denominato "criterio di classificazione dei dati") è in genere costituito da 3-5 livelli di classificazione. Questi includono in genere tre elementi: un nome, una descrizione ed esempi reali. Microsoft consiglia di non più di cinque etichette padre di primo livello, ognuna con cinque etichette secondarie (25 totali) per mantenere gestibile l'interfaccia utente. I livelli sono in genere disposti dal meno sensibile a quello più riservato, ad esempio *Public,* *Internal,* *Confidential* e *Highly* 
- *Confidential.* Altre varianti dei nomi di livello che possono verificarsi includono *Restricted,* *Unrestricted* e *Consumer Protected.* Microsoft consiglia nomi di etichette auto descrittivi che ne evidenziano chiaramente la riservatezza relativa. Ad esempio, *Confidential* e *Restricted* potrebbero lasciare agli utenti la ipotesi dell'etichetta appropriata, mentre *Confidential* e *Highly Confidential* sono più chiari su cui è più sensibile. La tabella seguente mostra esempi di livelli del framework di classificazione dei dati.
+Spesso codificato in un criterio formale a livello aziendale, un framework di classificazione dei dati (talvolta denominato "criterio di classificazione dei dati") è in genere costituito da 3-5 livelli di classificazione. Questi includono in genere tre elementi: un nome, una descrizione ed esempi reali. Microsoft consiglia di non più di cinque etichette padre di primo livello, ognuna con cinque etichette secondarie (25 totali) per mantenere gestibile l'interfaccia utente. I livelli sono in genere disposti dal meno sensibile a quello più *riservato,* ad esempio *Pubblico,* Interno, *Riservato* e *Estremamente* 
+ *riservato.* Altre varianti dei nomi di livello che possono verificarsi includono *Restricted,* *Unrestricted* e *Consumer Protected.* Microsoft consiglia nomi di etichette auto descrittivi che ne evidenziano chiaramente la riservatezza relativa. Ad esempio, *Confidential* e *Restricted* potrebbero lasciare agli utenti la ipotesi dell'etichetta appropriata, mentre *Confidential* e *Highly Confidential* sono più chiari su cui è più sensibile. 
+
+Nella tabella seguente viene illustrato un esempio di livello di framework di classificazione dei dati *estremamente* riservato:
 
 |**Livello di classificazione**|**Descrizione**|**Esempi**|
 |:-----------------------|:--------------|:-----------|
@@ -51,7 +53,7 @@ Spesso codificato in un criterio formale a livello aziendale, un framework di cl
 
 Un altro componente importante di un framework di classificazione dei dati è i controlli associati a ogni livello. I livelli di classificazione dei dati sono semplicemente etichette (o tag) che indicano il valore o la riservatezza del contenuto. Per *proteggere* tale contenuto, i framework di classificazione dei dati definiscono i controlli che devono essere posizionati per ogni livello di classificazione dei dati. Questi controlli possono includere requisiti correlati a:
 
-- Archiviazione tipo e posizione
+- Archiviazione tipo e percorso
 - Crittografia
 - Controllo di accesso
 - Distruzione dei dati
@@ -70,4 +72,4 @@ L'applicazione corretta del giusto livello di classificazione dei dati può esse
 
 Le linee guida per la gestione della classificazione dei dati aiuteranno gli utenti finali con indicazioni specifiche su come gestire ogni livello di dati in modo appropriato, per supporti di archiviazione diversi durante tutto il ciclo di vita. Queste linee guida consentono agli utenti finali di applicare correttamente le regole in pratica, ad esempio quando si condividono documenti, si inviano messaggi di posta elettronica o si collabora tra diverse piattaforme e organizzazioni.
 
-I clienti Microsoft indicano che circa il 50% di un progetto di Protezione delle informazioni è orientato all'azienda e non tecnico, quindi la formazione e la comunicazione degli utenti finali sono fondamentali per il successo.
+I clienti Microsoft indicano che circa il 50% di un progetto di Information Protection è orientato all'azienda e non tecnico, quindi la formazione e la comunicazione degli utenti finali sono fondamentali per il successo.
