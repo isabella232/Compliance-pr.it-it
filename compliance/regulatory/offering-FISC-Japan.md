@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 88a5e554fc2307dfa427ccb0023e7a00e006d536fc8cca276d550aa9510dbc29
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: c6f9a01ff954465240b74f9526c93b926fb08006
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54287300"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260488"
 ---
 # <a name="center-for-financial-industry-information-systems-fisc"></a>Center for Financial Industry Information Systems (FISC)
 
@@ -67,7 +67,7 @@ Usare la tabella seguente per determinare l'applicabilità per i servizi e l'abb
 
 | **Applicabilità** | **Servizi inclusi nell'ambito** |
 |:------------------|:----------------------|
-| **Office 365** | Access Online, Azure Active Directory, Delve, Exchange Online, Exchange Online Protection, Microsoft Teams, Office 365 ProPlus, Office Online, OneDrive for Business, Power BI per Office 365, Project Online, SharePoint Online, Skype for Business |
+| **Commerciale** | Access Online, Azure Active Directory, Delve, Exchange Online, Exchange Online Protection, Microsoft Teams, Office 365 ProPlus, Office Online, OneDrive for Business, Power BI per Office 365, Project Online, SharePoint Online, Skype for Business |
 
 ## <a name="frequently-asked-questions"></a>Domande frequenti
 
@@ -84,7 +84,7 @@ Il Consiglio di Esperti di FISC ha pubblicato due report:
 
 **Dove sono reperibili maggiori dettagli sulle risposte di Microsoft al framework FISC?**
 
-È possibile visualizzare tutti i riferimenti di sicurezza ([in giapponese](https://aka.ms/microsoftresponsetofiscguidancejapanese)) di terze parti che hanno valutato l'adeguamento a FISC dei servizi cloud Microsoft.
+Per informazioni di riferimento sulla sicurezza di terze parti che hanno valutato la conformità FISC dei servizi cloud Microsoft, contattare il proprio rappresentante Microsoft.
 
 **È possibile usare le risposte di Microsoft a questo framework per agevolare il processo di qualificazione della mia organizzazione?**
 
