@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 ms.custom: seo-marvel-apr2020
 hideEdit: true
-ms.openlocfilehash: b4b6f8619c1d059d1a0684bc774c81d5ab1e9eb4
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 525870883b67ef37b45af2aa690ce849acd9217d
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088725"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58261123"
 ---
 # <a name="microsoft-365-iso-27001-action-plan--top-priorities-for-your-first-30-days-90-days-and-beyond"></a>Piano d'azione ISO 27001 di Microsoft 365: massime priorità per i primi 30 giorni, 90 giorni e oltre
 
@@ -29,7 +29,7 @@ L'International Organization for Standardization (ISO) è uno sviluppatore non g
 
 ISO/IEC 27001 è lo standard internazionale per l'implementazione di un sistema di gestione della sicurezza delle informazioni (ISMS). Un ISMS illustra i metodi necessari e le prove associate ai requisiti essenziali per una gestione affidabile della sicurezza delle risorse di informazione in qualsiasi tipo di organizzazione.  
 
-Questo articolo include un piano d'azione prioritario che può essere seguito durante il lavoro per soddisfare i requisiti dello standard ISO/IEC 27001. Questo piano d'azione è stato sviluppato in collaborazione con Protiviti, un partner Microsoft specializzato nella conformità alle normative. È possibile ottenere ulteriori informazioni su come utilizzare questo piano d'azione su Microsoft Ignite partecipando a questa sessione: [Classificare il proprio percorso di conformità di Microsoft 365 e la strategia di protezione delle informazioni](https://myignite.techcommunity.microsoft.com/videos/65720), presentata da Maithili Dandige (Microsoft) e Antonio Maio (Protiviti).
+Questo articolo include un piano di azione che definisce le priorità da seguire per soddisfare i requisiti dello standard ISO/IEC 27001. Il piano di azione è stato sviluppato in collaborazione con Protiviti, un partner Microsoft specializzato nella conformità alle normative.
 
 ## <a name="action-plan-outcomes"></a>Obiettivi del piano di azione
 
