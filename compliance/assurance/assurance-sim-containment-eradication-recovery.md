@@ -19,12 +19,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 6614f3997310a227320865aa0f0da99b64420084534e47afd25bb15441ddb451
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 37de1f6a1b2735b444dc06228a411c0ef0c15f8b
+ms.sourcegitcommit: 35ca898d621a3e158b361c7dea3a33c4b1f9fe3a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54292054"
+ms.lasthandoff: 08/16/2021
+ms.locfileid: "58361257"
 ---
 # <a name="microsoft-security-incident-management-containment-eradication-and-recovery"></a>Gestione degli incidenti di sicurezza Microsoft: contenimento, eliminazione e ripristino
 
@@ -47,13 +47,15 @@ A seconda della natura dell'incidente, dell'ambito dell'incidente di sicurezza, 
 
 Quando il team di risposta ottiene un ragionevole livello di sicurezza che l'avversario è stato rimosso dall'ambiente e tutti i percorsi vulnerabili noti sono stati eliminati, i singoli team di servizio avvieranno i passaggi di ripristino per portare il servizio a una configurazione nota e corretta. Questi passaggi di ripristino saranno in consultazione con il team di risposta alla sicurezza. Questa attività include l'identificazione dell'ultimo stato valido noto del servizio, il ripristino dai backup a questo stato, l'ispezione dei percorsi di attacco vulnerabili nello stato ripristinato e così via. Il team di risposta alla sicurezza, in consultazione con i team di servizio, determinerà il miglior piano di ripristino possibile per l'ambiente.
 
-Un aspetto chiave per il ripristino è avere una maggiore vigilanza e controlli per verificare che il piano di ripristino sia stato eseguito correttamente e che non vi siano segni di violazione nell'ambiente.
+Un aspetto fondamentale per il ripristino è disporre di controlli e controlli migliorati per verificare che il piano di ripristino sia stato eseguito correttamente e che non vi siano segni di violazione nell'ambiente.
 
 ## <a name="customer-notification-of-security-incident"></a>Notifica al cliente di un evento imprevisto di sicurezza
 
 Se Microsoft determina che si è verificato un incidente di sicurezza, microsoft informerà l'utente con un ritardo indebito e entro i requisiti contrattuali e di conformità concordati. Dopo aver identificato tutti i tenant interessati, il team di comunicazione corrispondente lavora per identificare eventuali normative rilevanti che potrebbero essere applicate ai tenant interessati. Il team delle comunicazioni utilizza il canale di comunicazione appropriato definito nelle normative applicabili per inviare una notifica al contatto tenant appropriato.
 
-La notifica includerà informazioni dettagliate sull'evento imprevisto, ad esempio una descrizione dell'evento imprevisto, l'effetto sui dati dei clienti, se presenti, le azioni intraprese da Microsoft e/o le azioni suggerite ai clienti per risolvere il problema e impedire la ricorrenza. La notifica verrà recapitata agli amministratori designati del tenant dei servizi online Microsoft. Per assicurarsi che le notifiche siano ricevute, è necessario assicurarsi che gli amministratori forniranno e mantengano informazioni di contatto accurate nei profili tenant. Inoltre, a seconda della natura dell'incidente, i clienti Microsoft 365 possono ricevere una notifica anche tramite il dashboard Microsoft 365 [Service Health Dashboard](http://status.yammer.com/).
+![Procedura di risposta a un incidente](../media/assurance-incident-response-process.png)
+
+La notifica includerà informazioni dettagliate sull'evento imprevisto, ad esempio una descrizione dell'evento imprevisto, l'effetto sui dati dei clienti, se presenti, le azioni intraprese da Microsoft e/o le azioni suggerite ai clienti per risolvere il problema e impedire la ricorrenza. La notifica verrà recapitata agli amministratori designati del tenant dei servizi online Microsoft. Per assicurarsi che le notifiche siano ricevute, è necessario assicurarsi che gli amministratori forniranno e mantengano informazioni di contatto accurate nei profili tenant. Inoltre, a seconda della natura dell'incidente, i clienti Microsoft 365 possono ricevere una notifica anche tramite il dashboard Microsoft 365 [service health](http://status.yammer.com/).
 
 ## <a name="related-articles"></a>Articoli correlati
 
