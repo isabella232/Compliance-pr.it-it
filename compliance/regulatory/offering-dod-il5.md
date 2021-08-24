@@ -2,7 +2,7 @@
 title: Department of Defense (DoD) Impact Level 5 (IL5)
 description: Scopri come Microsoft soddisfa gli standard DoD (Department of Defense Impact Level 5) (IL5).
 keywords: Microsoft 365, conformità, offerte
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 539a53888ec859bb3b6942b48288659f73fa4b69807ce19e063cbfe104b7072d
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: c0c987dc5fbe2bee60508f0fab7dbdb8dce97857
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54294233"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482841"
 ---
 # <a name="department-of-defense-dod-impact-level-5-il5"></a>Department of Defense (DoD) Impact Level 5 (IL5)
 
@@ -29,7 +29,7 @@ ms.locfileid: "54294233"
 
 La Defense Information Systems Agency (DISA) è un'agenzia del Dipartimento della Difesa (DoD) statunitense responsabile dello sviluppo e della manutenzione della Guida ai requisiti di sicurezza del cloud computing DoD [(SRG).](https://dl.dod.cyber.mil/wp-content/uploads/cloud/SRG/index.html) L'SRG definisce i requisiti di sicurezza di base utilizzati da DoD per valutare la posizione di sicurezza di un provider di servizi cloud (CSP), supportando la decisione di concedere un'autorizzazione provvisoria DoD che consente a un CSP di ospitare missioni DoD. Incorpora, sostituisce e rescinde il modello di sicurezza cloud DoD (CSM) pubblicato in precedenza e mappa al DoD Risk Management Framework (RMF).
 
-DISA guida le agenzie e i reparti DoD nella pianificazione e nell'autorizzazione dell'uso di un CSP. Valuta inoltre le offerte CSP per la conformità con il servizio SRG, un processo di autorizzazione in base al quale i provider di servizi condivisi possono fornire documentazione che ne delinea la conformità agli standard DoD. Se appropriato, elava le autorizzazioni provvisorie DoD, in modo che le agenzie DoD e le organizzazioni di supporto possano utilizzare i servizi cloud senza dover eseguire un processo di approvazione completo, risparmiando tempo e fatica.
+DISA guida le agenzie e i reparti DoD nella pianificazione e autorizzazione dell'uso di un CSP. Valuta inoltre le offerte CSP per la conformità con sRG, un processo di autorizzazione in base al quale i provider di servizi di configurazione possono fornire documentazione che ne delinea la conformità agli standard DoD. Se appropriato, elaga autorizzazioni provvisorie DoD, in modo che le agenzie DoD e le organizzazioni di supporto possano utilizzare i servizi cloud senza dover eseguire un processo di approvazione completo, risparmiando tempo e fatica.
 
 In base ai livelli di impatto delle informazioni della sezione [3.2 di SRG,](https://dl.dod.cyber.mil/wp-content/uploads/cloud/SRG/index.html#3.2InformationImpactLevels) le informazioni su IL5 riguardano:
 
@@ -41,17 +41,17 @@ In base ai livelli di impatto delle informazioni della sezione [3.2 di SRG,](htt
     - [NIST SP 800-59](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-59.pdf) *Guideline for Identifying an Information System as a National Security System* fornisce le definizioni di NSS.
     - [CNSSI 1253](https://www.dcsa.mil/portals/91/documents/ctp/nao/CNSSI_No1253.pdf) *Security Categorization and Control Selection for National Security Systems* fornisce indicazioni sugli standard di sicurezza che le agenzie federali devono applicare per classificare le informazioni sulla sicurezza nazionale.
 
-La nota del CIO DoD del 15 dicembre [2014](https://www.esi.mil/contentview.aspx?id=585) relativa alle linee guida aggiornate sull'acquisizione e l'utilizzo di servizi cloud *commerciali* afferma che "FedRAMP servirà come base di sicurezza minima per tutti i servizi cloud DoD". L'SRG usa la linea di base FedRAMP Moderate a tutti i livelli di impatto delle informazioni (IL) e considera l'High Baseline in alcuni casi.
+La nota del CIO DoD del 15 dicembre [2014](https://www.esi.mil/contentview.aspx?id=585) relativa alle linee guida aggiornate sull'acquisizione e l'utilizzo di servizi cloud *commerciali* afferma che "FedRAMP servirà come base di sicurezza minima per tutti i servizi cloud DoD". L'SRG usa la linea di base FedRAMP Moderate a tutti i livelli di impatto sulle informazioni (IL) e considera l'High Baseline in alcuni casi.
 
-La sezione [SRG 5.1.1](https://dl.dod.cyber.mil/wp-content/uploads/cloud/SRG/index.html#5SECURITYREQUIREMENTS) DoD use *of FedRAMP Security Controls* afferma che un FedRAMP High PA, integrato con i controlli e i miglioramenti del controllo DoD FedRAMP+ (C/CEs) e i requisiti in SRG, viene utilizzato per valutare i CSP per l'assegnazione di una pa DoD a IL5. Indipendentemente dalla linea di base C/CE utilizzata come base per una pa FedRAMP High, ulteriori considerazioni e/o requisiti dovranno essere valutati e approvati prima che una pa DoD possa essere assegnata a IL5. In particolare, la sezione [SRG 5.1.2](https://dl.dod.cyber.mil/wp-content/uploads/cloud/SRG/index.html#5SECURITYREQUIREMENTS) *DoD FedRAMP+ Security Controls/Enhancements* indica nella tabella 2 che sono necessari 10 C/C Aggiuntivi oltre la linea di base FedRAMP High per un DoD IL5 PA.
+La sezione [SRG 5.1.1](https://dl.dod.cyber.mil/wp-content/uploads/cloud/SRG/index.html#5SECURITYREQUIREMENTS) DoD use *of FedRAMP Security Controls* afferma che un FedRAMP High PA, integrato con i controlli e i miglioramenti del controllo DoD FedRAMP+ (C/CE) e i requisiti in SRG, viene utilizzato per valutare i CSP per l'assegnazione di una pa DoD a IL5. Indipendentemente dalla linea di base C/CE utilizzata come base per una pa FedRAMP High, ulteriori considerazioni e/o requisiti dovranno essere valutati e approvati prima che una pa DoD possa essere assegnata a IL5. In particolare, la sezione [SRG 5.1.2](https://dl.dod.cyber.mil/wp-content/uploads/cloud/SRG/index.html#5SECURITYREQUIREMENTS) *DoD FedRAMP+ Security Controls/Enhancements* indica nella tabella 2 che sono necessari 10 C/C Aggiuntivi oltre la linea di base FedRAMP High per un DoD IL5 PA.
 
-Inoltre, secondo la sezione [SRG 5.2.2.3](https://dl.dod.cyber.mil/wp-content/uploads/cloud/SRG/index.html#5.2LegalConsiderations) *Il5 Requisiti* di posizione e separazione, devono essere soddisfatti i requisiti seguenti (tra gli altri) per un piano di sicurezza di livello 5:
+Inoltre, secondo la sezione [SRG 5.2.2.3](https://dl.dod.cyber.mil/wp-content/uploads/cloud/SRG/index.html#5.2LegalConsiderations) I requisiti di posizione e separazione *del livello 5* devono essere soddisfatti i requisiti seguenti (tra gli altri) per un piano di sicurezza di livello 5:
 
-- È sufficiente la separazione virtuale/logica tra i tenant e le missioni del governo federale. È necessaria la separazione virtuale/logica tra i sistemi tenant/mission.
-- È necessaria la separazione fisica da tenant non governativi o non federali (ovvero tenant pubblici, locali o statali).
+- È sufficiente la separazione virtuale/logica tra i tenant /missioni dod e federal government. È necessaria la separazione virtuale/logica tra i sistemi tenant/mission.
+- È necessaria la separazione fisica da tenant non governativi o non federali (ovvero tenant pubblici, locali/statali).
 - Il CSP limita il potenziale accesso alle informazioni di DoD e della community ai dipendenti CSP che sono cittadini statunitensi.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme e servizi cloud Microsoft inclusi nell'ambito
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servizi e piattaforme cloud Microsoft inclusi nell'ambito
 
 - Azure
 - Servizio clienti Dynamics 365
@@ -82,7 +82,7 @@ Usare la tabella seguente per determinare l'applicabilità per i servizi e l'abb
 
 ### <a name="attestation-documents"></a>Documenti di attestazione
 
-I clienti del governo statunitense Office 365 la documentazione FedRAMP per la difesa del governo degli Stati Uniti direttamente dal [Marketplace FedRAMP](https://marketplace.fedramp.gov/#!/products?sort=productName&productNameSearch=azure) inviando un modulo di richiesta di accesso al pacchetto. Devi avere un indirizzo di posta elettronica .gov o .mil per accedere a un pacchetto di sicurezza FedRAMP direttamente da FedRAMP.
+I clienti del governo statunitense possono richiedere Office 365 fedRAMP per la difesa del governo degli Stati Uniti direttamente dal [Marketplace FedRAMP](https://marketplace.fedramp.gov/#!/products?sort=productName&productNameSearch=azure) inviando un modulo di richiesta di accesso al pacchetto. Devi avere un indirizzo di posta elettronica .gov o .mil per accedere a un pacchetto di sicurezza FedRAMP direttamente da FedRAMP.
 
 Selezionare la documentazione FedRAMP e DoD, tra cui System Security Plan (SSP), report di monitoraggio continuo, Plan of Action and Milestones (POA M) e così via, è disponibile per i clienti in NDA e l'autorizzazione di accesso in sospeso dalla sezione Report di controllo del Portale dei servizi attendibili \& [- Report FedRAMP.](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3) Per assistenza, contattare il rappresentante dell'account Microsoft.
 

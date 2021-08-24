@@ -2,7 +2,7 @@
 title: Sarbanes-Oxley Act del 2002 (SOX)
 description: Le società di servizi finanziari possono utilizzare i report di conformità Microsoft per affrontare la loro conformità con il Sarbanes-Oxley Act.
 keywords: Microsoft 365, conformità, offerte
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 6fb3ec963487169e01c9a69eca3b76f9f21a46cf
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: 9b5b9b3a1e398c804aad7f7a42a0b2770de20525
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58260434"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482851"
 ---
 # <a name="sarbanes-oxley-act-of-2002-sox"></a>Sarbanes-Oxley Act del 2002 (SOX)
 
@@ -41,7 +41,7 @@ Il report di controllo, prodotto da una società di controllo di terze parti, at
 
 Microsoft condivide la responsabilità della conformità con i clienti. Forniamo le specifiche dei nostri programmi di conformità, che puoi verificare richiedendo risultati di controllo dettagliati da terze parti che certificano. In ultima analisi, tuttavia, sta a te determinare se i nostri servizi sono conformi alle leggi e alle normative specifiche applicabili alla tua azienda. Ad esempio, esistono controlli di sicurezza correlati a SOX, ad esempio l'accesso degli utenti alle risorse cloud, che sono responsabilità dell'organizzazione: l'organizzazione deve sviluppare un controllo appropriato di questi controlli come parte della conformità SOX.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme e servizi cloud Microsoft inclusi nell'ambito
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servizi e piattaforme cloud Microsoft inclusi nell'ambito
 
 - Azure
 - [Dynamics 365](https://aka.ms/d365-compliance-list)

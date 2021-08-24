@@ -10,7 +10,7 @@ ms.topic: article
 f1.keywords:
 - NOCSH
 ms.service: O365-seccomp
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection:
 - Strat_O365_IP
 - M365-security-compliance
@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: e21a8c8fe0583e0481b11b75e5c65df79bf5c430
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: ae5177f524fd8f2025198aa5155821f4aa759050
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58260761"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58481768"
 ---
 # <a name="risk-management-overview"></a>Panoramica sulla gestione dei rischi
 
@@ -41,7 +41,7 @@ Microsoft ERM consente principi comuni di gestione dei rischi nell'organizzazion
 
 ## <a name="how-do-microsoft-online-services-work-with-erm"></a>Come funzionano i servizi online Microsoft con ERM?
 
-Ogni servizio online segue le indicazioni ERM per gestire i rischi in servizi Microsoft. Il programma si concentra sull'allineamento del framework ERM con i processi di progettazione, gestione dei servizi e conformità Microsoft esistenti, rendendo il programma di gestione dei rischi più efficace ed efficiente. Le attività di gestione dei rischi di ogni servizio online vengono infine rimboccate e informate del processo ERM.
+Ogni servizio online segue le indicazioni ERM per gestire i rischi tra servizi Microsoft. Il programma si concentra sull'allineamento del framework ERM con i processi di progettazione, gestione dei servizi e conformità Microsoft esistenti, rendendo il programma di gestione dei rischi più efficace ed efficiente. Le attività di gestione dei rischi di ogni servizio online vengono infine rimboccate e informate del processo ERM.
 
 Nell'ambito delle attività di valutazione dei rischi, ogni servizio online analizza la progettazione e l'efficacia operativa dei controlli implementati nell'ambito di Microsoft Controls Framework (Framework). Framework è un insieme razionalizzato di controlli che, se implementati correttamente insieme al supporto delle attività di conformità, consentono ai team di progettazione di conformarsi a normative e certificazioni chiave.
 

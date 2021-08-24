@@ -2,7 +2,7 @@
 title: Regolamento generale sulla protezione dei dati
 description: Informazioni sulla documentazione tecnica di Microsoft e altre informazioni utili per il Regolamento generale sulla protezione dei dati (GDPR)
 keywords: Microsoft 365, Microsoft 365 Education, Documentazione Microsoft 365, GDPR
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -18,12 +18,12 @@ ms.collection:
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
 hideEdit: true
-ms.openlocfilehash: 5543a8077ae0f5ff344a3f8f7cafbb2c778e7a5d
-ms.sourcegitcommit: 8bf2602d56eedee4447ddb374ef95b0587f254e7
+ms.openlocfilehash: d0016ed24cec4797ff515efa5614d8016fe7f1c1
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53377933"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482771"
 ---
 # <a name="general-data-protection-regulation-summary"></a>Riepilogo del Regolamento generale sulla protezione dei dati
 

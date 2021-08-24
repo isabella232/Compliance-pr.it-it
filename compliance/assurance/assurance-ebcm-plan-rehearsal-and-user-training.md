@@ -10,19 +10,19 @@ f1.keywords:
 audience: ITPro
 ms.topic: article
 ms.service: o365-solutions
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection:
 - M365-subscription-management
 - Strat_O365_Enterprise
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 186de3ed38db1714b84fc59d72b6be0826d66b04b6e6775fd7672666e4534ad6
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 48b438ba764c0210acf028dc3d7acc7c66c783f2
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54287205"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482048"
 ---
 # <a name="train-for-business-continuity-in-your-organization"></a>Formazione per la continuità aziendale nell'organizzazione
 
@@ -40,7 +40,7 @@ Assicurarsi di includere questi argomenti chiave nell'addestramento alla resilie
 
 È opportuno testare regolarmente i piani di continuità e aggiornarli in base ai risultati ottenuti. Se non vengono testati, i piani di continuità diventano rapidamente obsoleti e la maggior parte degli esercizi da tavolo non è sufficiente per risolvere i problemi riscontrati nei test reali. Una procedura standard consiste nel testare ogni piano di continuità aziendale almeno entro 12 mesi dall'ultima convalida. Microsoft consiglia di integrare più spesso i test di continuità nelle operazioni di routine, anche se questo potrebbe implicare l'uso di sistemi offline o la disabilitazione temporanea di metodi di comunicazione principali.  
 
-Quando si valutano gli scenari di test, è necessario bilanciare il potenziale impatto per l'azienda dell'inserimento di errori nell'ambiente di produzione a vantaggio di processi e competenze aziendali altamente avanzati.
+Quando si valutano gli scenari di test, è necessario bilanciare il potenziale impatto dell'inserimento di errori nell'ambiente di produzione con il vantaggio di processi e competenze aziendali altamente avanzati.
 Durante ogni esercizio, prestare particolare attenzione a eventuali presupposti che si sono risultati non corretti e identificare eventuali lacune nei processi stabiliti. Un esercizio di test di ripristino di emergenza non è necessariamente negativo, in quanto consente di identificare i problemi nel piano e correggerli prima di un vero e proprio attacco di emergenza. Assicurarsi di includere questi punti nella pianificazione dei test.
 
 1. Assicurarsi che tutta la documentazione del piano di continuità aziendale sia aggiornata e disponibile in repository sicuri e ridondanti.

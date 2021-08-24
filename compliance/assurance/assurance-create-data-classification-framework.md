@@ -8,7 +8,7 @@ ms.reviewer: sosstah
 audience: ITPro
 ms.topic: article
 ms.service: O365-seccomp
-localization_priority: Normal
+ms.localizationpriority: medium
 search.appverid:
 - MET150
 ms.collection:
@@ -20,19 +20,19 @@ f1.keywords:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 88a07e5c6d5e3e84260c5099d957ebf38745819e239f951df62a5d04886f3fa4
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 17aa73258f1ecc4db9cc13a5df08b1aa76a583a7
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54288724"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482159"
 ---
 # <a name="create-a-well-designed-data-classification-framework"></a>Creare un framework di classificazione dei dati ben progettato
 
 Durante lo sviluppo, il revamp o il perfezionamento del framework di classificazione dei dati, prendere in considerazione le procedure principali seguenti:
 
-- Non aspettarti di passare da 0 a **100** il giorno 1 : Microsoft consiglia un approccio crawl-walk-run, assegnando priorità alle funzionalità critiche per l'organizzazione e mappandole in base a una sequenza temporale. Completare il primo passaggio, verificare che abbia avuto esito positivo e quindi passare alla fase successiva applicando le lezioni apprese. Tenere presente che l'organizzazione potrebbe essere ancora esposta a rischi durante la progettazione del framework di classificazione dei dati, quindi è possibile iniziare con pochi livelli di classificazione ed espandersi in un secondo momento in base alle esigenze.
-- **Non si sta scrivendo solo** per i professionisti della sicurezza informatica: i framework di classificazione dei dati sono destinati a un pubblico ampio, tra cui il membro medio del personale, i team legali e di conformità e il team IT. È importante scrivere definizioni chiare e di facile comprensione per i livelli di classificazione dei dati, fornendo esempi reali dove possibile. Cerca di evitare il gergo e considera un glossario per acronimi e termini altamente tecnici. Ad esempio, usa "Informazioni personali" e fornisci una definizione invece di dire semplicemente "PII".
+- Non aspettarti di passare da 0 a **100** il giorno 1 : Microsoft consiglia un approccio crawl-walk-run, assegnando priorità alle funzionalità critiche per l'organizzazione e mappandole in base a una sequenza temporale. Completare il primo passaggio, verificare che abbia avuto esito positivo e quindi passare alla fase successiva applicando le lezioni apprese. Tenere presente che l'organizzazione potrebbe essere ancora esposta a rischi durante la progettazione del framework di classificazione dei dati, quindi è bene iniziare con pochi livelli di classificazione ed espandersi in un secondo momento in base alle esigenze.
+- **Non stai scrivendo solo** per i professionisti della sicurezza informatica: i framework di classificazione dei dati sono destinati a un pubblico ampio, tra cui il membro medio del personale, i team legali e di conformità e il team IT. È importante scrivere definizioni chiare e di facile comprensione per i livelli di classificazione dei dati, fornendo esempi reali dove possibile. Cerca di evitare il gergo e considera un glossario per acronimi e termini altamente tecnici. Ad esempio, usa "Informazioni personali" e fornisci una definizione invece di dire semplicemente "INFORMAZIONI PERSONALI".
 - **I framework di classificazione dei dati devono essere implementati:** per la corretta esecuzione dei framework di classificazione dei dati, è necessario che siano implementati. È particolarmente rilevante per la creazione dei requisiti di controllo per ogni livello di classificazione dei dati. Assicurati che i requisiti siano definiti in modo chiaro e che prevedono e soddegnino qualsiasi ambiguità che potrebbe verificarsi durante l'implementazione. Ad esempio, se si dispone di un controllo sulle informazioni personali, assicurarsi di precisare esattamente il significato del controllo, ad esempio previdenza sociale o numero di passaporto.
 - **Passare alla granularità solo se è necessario:** i framework di classificazione dei dati in genere contengono da 3 a 5 livelli di classificazione dei dati. Tuttavia, solo perché *puoi* includere cinque livelli non significa *che* dovresti . Quando si decide il numero di livelli di classificazione necessari, considerare i criteri seguenti:
 
@@ -41,7 +41,7 @@ Durante lo sviluppo, il revamp o il perfezionamento del framework di classificaz
     - Gli utenti e la loro capacità di conformarsi alla maggiore complessità e sfumatura associata a più livelli di classificazione
     - Esperienza utente e accessibilità quando si cerca di applicare la classificazione manuale tra più tipi di dispositivi
 
-- **Coinvolgere le persone giuste:** avere una parte interessata senior è fondamentale per il successo, poiché molti progetti faticano a iniziare o a richiedere più tempo senza il supporto dei dirigenti. I framework di classificazione dei dati sono in genere di proprietà dei team di information technology, ma possono avere implicazioni legali, di conformità, di privacy e di gestione delle modifiche. Per garantire la creazione di un framework che aiuti a proteggere l'azienda, assicurati di includere gli stakeholder legali e della privacy, ad esempio il Chief Privacy Officer e il Office of General Counsel nello sviluppo della tua politica. Se l'organizzazione dispone di una divisione conformità, professionisti della governance delle informazioni o di un team di gestione dei record, potrebbe anche avere un valido input. Durante l'implementazione del framework per l'azienda, il reparto Comunicazioni ha anche un ruolo chiave da svolgere per la messaggistica interna e l'adozione.
+- **Coinvolgere le persone giuste:** avere una parte interessata senior è fondamentale per il successo, poiché molti progetti faticano a iniziare o a richiedere più tempo senza il supporto dei dirigenti. I framework di classificazione dei dati sono in genere di proprietà dei team di information technology, ma possono avere implicazioni legali, di conformità, di privacy e di gestione delle modifiche. Per garantire la creazione di un framework che aiuti a proteggere l'azienda, assicurati di includere gli stakeholder legali e della privacy, ad esempio il Chief Privacy Officer e il Office of General Counsel nello sviluppo della tua politica. Se l'organizzazione dispone di una divisione conformità, professionisti della governance delle informazioni o di un team di gestione dei record, potrebbe anche avere un valido input. Durante l'implementazione del framework nell'azienda, il reparto Comunicazioni ha anche un ruolo chiave da svolgere per la messaggistica interna e l'adozione.
 - **Bilanciare la sicurezza con la** comodità : un errore comune è quello di bozza di un framework di classificazione dei dati sicuro ma eccessivamente restrittivo. Questo framework potrebbe essere stato progettato in base alla sicurezza, ma spesso è difficile da implementare nella pratica. Se gli utenti devono seguire procedure complesse, rigide e dispendiose in termini di tempo per applicare il framework nella loro vita quotidiana, esiste sempre il rischio che non creda più al suo valore e che alla fine smettano di seguire le procedure. Questo rischio esiste a tutti i livelli dell'organizzazione, inclusi i manager a livello esecutivo (C-suite) all'interno dell'organizzazione. Un buon equilibrio tra sicurezza e comodità insieme a strumenti facili da usare in genere porta a un'adozione e un uso più ampi degli utenti. In caso di lacune nel framework, non attendere che tutto sia perfetto per avviare l'implementazione. Valuta invece il rischio o il gap, crea un piano per mitigare e continua ad andare avanti. Tenere presente che la protezione delle informazioni è un viaggio, non è qualcosa che viene attivato durante la notte e quindi fatto. Pianificare, implementare alcune funzionalità, confermare l'esito positivo e eseguire un'iterazione alla fase cardine successiva man appena gli strumenti si evolvono e gli utenti ottengono maturità ed esperienza.
 
 Tenere inoltre presente che un framework  di classificazione dei dati si rivolge solo alle esigenze dell'organizzazione per proteggere i dati sensibili. I framework di classificazione dei dati sono spesso accompagnati da regole o linee guida per la gestione dei dati che definiscono come mettere in atto questi criteri dal punto di vista tecnico e tecnologico.  Nelle sezioni seguenti vengono fornite alcune indicazioni pratiche su come trasformare il framework di classificazione dei dati da un documento di criteri a un'iniziativa completamente implementata e praticabile.
@@ -81,7 +81,7 @@ Dopo aver sviluppato e implementato il framework di classificazione dei dati, la
 
 ## <a name="industry-considerations"></a>Considerazioni sul settore
 
-Sebbene i principi di base per lo sviluppo di un framework di classificazione dei dati solido siano universali, i dettagli del framework dipendono dalla natura del settore e dai fattori di conformità e sicurezza specifici che i dati richiede.
+Anche se i principi di base per lo sviluppo di un framework di classificazione dei dati solido sono universali, i dettagli del framework dipendono dalla natura del settore e dai fattori di conformità e sicurezza specifici che i dati richiederanno.
 
 Ad esempio, le società di servizi finanziari potrebbero dover prendere in considerazione la conformità a diversi quadri normativi a seconda dell'ambito dell'attività e delle aree geografiche in cui operano. Le società di titoli negli Stati Uniti devono conformarsi a normative contabili come la regola [SEC 17a-4(f)](/compliance/regulatory/offering-sec-17a-4) o la regola [FINRA 4511](/microsoft-365/compliance/offering-finra-4511) che affrontano i requisiti relativi alla sicurezza e alla conservazione di libri e record. Analogamente, le aziende che operano nel Regno Unito devono considerare la [conformità FCA.](/microsoft-365/compliance/offering-fca-uk)
 
@@ -110,7 +110,7 @@ Per organizzazioni di piccole dimensioni o organizzazioni con un framework di cl
 >[!TIP]
 >Durante un progetto pilota per la protezione delle informazioni interne di Microsoft, si sono verificate difficoltà con la comprensione e l'uso dell'etichetta "Personale". Gli utenti erano confusi sul fatto che si trattasse di informazioni personali o semplicemente correlate a una questione personale. L'etichetta è stata modificata in "non aziendale" per essere più chiara. Questo esempio mostra che la tassonomia non deve essere perfetta fin dall'inizio. Iniziare con ciò che ritieni giusto, pilotarlo e regolare l'etichetta in base al feedback, se necessario
 
-Per organizzazioni di grandi dimensioni con una portata globale o esigenze di sicurezza delle informazioni più complesse, questa relazione uno-a-uno tra il numero di livelli di classificazione nei criteri e il numero di etichette di riservatezza nell'ambiente Microsoft 365 può essere una sfida. Questa sfida è particolarmente valida nelle organizzazioni globali in cui un determinato livello di classificazione dei dati, ad esempio "Con restrizioni", può avere una definizione diversa o un set di controlli diverso a seconda dell'area geografica.
+Per organizzazioni di grandi dimensioni con una portata globale o esigenze di sicurezza delle informazioni più complesse, questa relazione uno-a-uno tra il numero di livelli di classificazione nel criterio e il numero di etichette di riservatezza nell'ambiente Microsoft 365 può essere una sfida. Questa sfida è particolarmente valida nelle organizzazioni globali in cui un determinato livello di classificazione dei dati, ad esempio "Con restrizioni", può avere una definizione diversa o un set di controlli diverso a seconda dell'area geografica.
 
 Per ulteriori informazioni sull'implementazione, vedere [Informazioni sulla classificazione dei dati](/microsoft-365/compliance/data-classification-overview) e Informazioni sulle etichette di [riservatezza.](/microsoft-365/compliance/sensitivity-labels)
 

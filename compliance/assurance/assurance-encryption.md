@@ -10,7 +10,7 @@ ms.topic: article
 f1.keywords:
 - NOCSH
 ms.service: O365-seccomp
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection:
 - Strat_O365_IP
 - M365-security-compliance
@@ -20,16 +20,16 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: d0eb38519ff0eb8d186d2f539e4a99d62410bfd5b5e25125100cd04e5cef82f0
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: dc53f42c6aa7ce16e1291538bfad6d63c5a1689d
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54291133"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482008"
 ---
 # <a name="encryption-and-key-management-overview"></a>Panoramica sulla crittografia e sulla gestione delle chiavi
 
-## <a name="what-role-does-encryption-play-in-protecting-customer-content"></a>Qual è il ruolo della crittografia nella protezione dei contenuti dei clienti?
+## <a name="what-role-does-encryption-play-in-protecting-customer-content"></a>Quale ruolo ha la crittografia nella protezione dei contenuti dei clienti?
 
 La maggior parte dei servizi cloud aziendali Microsoft sono multi-tenant, il che significa che i contenuti dei clienti possono essere archiviati sullo stesso hardware fisico di altri clienti. Per proteggere la riservatezza dei contenuti dei clienti, i servizi online Microsoft crittografano tutti i dati in fase di riposo e in transito con alcuni dei protocolli di crittografia più sicuri e più sicuri disponibili.
 
@@ -75,5 +75,5 @@ I servizi online di Microsoft vengono regolarmente controllati per la conformit�
 | [FedRAMP](https://compliance.microsoft.com/compliancemanager) | SC-8: riservatezza e integrità della trasmissione <br> SC-13: utilizzo della crittografia <br> SC-28: Protezione delle informazioni in pausa <br>  | 24 settembre 2020 |
 | [ISO 27001/27002/27017](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [Dichiarazione di applicabilità](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A.10.1: Controlli crittografici <br> A.18.1.5: Controlli crittografici | 20 aprile 2021 |
 | [ISO 27018](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [Dichiarazione di applicabilità](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A.11.6: Crittografia delle informazioni personali trasmesse su reti di trasmissione dati pubbliche | 20 aprile 2021 |
-| [SOC 2](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=a73c1738-7892-42b7-acd3-87b6371c53f6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-44: Crittografia dei dati in transito <br> CA-54: Crittografia dati in locale <br> CA-62: crittografia della cassetta postale chiave del cliente <br> CA-63: eliminazione dei dati chiave del cliente <br> CA-64: Codice cliente | 24 dicembre 2020 |
+| [SOC 2](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=a73c1738-7892-42b7-acd3-87b6371c53f6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-44: Crittografia dei dati in transito <br> CA-54: Crittografia dati in locale <br> CA-62: crittografia della cassetta postale chiave del cliente <br> CA-63: Eliminazione dei dati chiave del cliente <br> CA-64: Codice cliente | 24 dicembre 2020 |
 | [SOC 3](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=274054e5-4968-48d2-bf94-9a8eda5d7a93&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CUEC-16: chiavi di crittografia dei clienti <br> CUEC-17: insieme di credenziali delle chiavi del cliente <br>  CUEC-18: rotazione dei tasti del cliente| 24 dicembre 2020 |

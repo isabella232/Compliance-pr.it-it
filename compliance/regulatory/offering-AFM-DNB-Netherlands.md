@@ -2,7 +2,7 @@
 title: Autorità Olandese per i Mercati Finanziari e la Banca centrale dei Paesi Bassi
 description: Microsoft ha pubblicato una guida sull'adozione del cloud indirizzata agli istituti finanziari dei Paesi Bassi.
 keywords: Microsoft 365, conformità, offerte
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: a1409518fd83f6c43a562cabe7dde09005390a0bb378fc4dd37f70b7e4aaf6cf
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: bfee0aeacfae897ec7618c0fcef369992a7f22f2
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54287905"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482761"
 ---
 # <a name="dutch-authority-for-the-financial-markets-and-the-central-bank-of-the-netherlands"></a>Autorità Olandese per i Mercati Finanziari e la Banca centrale dei Paesi Bassi
 

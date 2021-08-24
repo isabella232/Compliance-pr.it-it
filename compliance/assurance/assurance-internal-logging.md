@@ -1,6 +1,6 @@
 ---
 title: Microsoft 365 registrazione interna per Microsoft 365 progettazione
-description: In questo articolo viene fornita una spiegazione del funzionamento della registrazione interna per Microsoft 365 team di progettazione.
+description: In questo articolo viene fornita una spiegazione del funzionamento della registrazione interna Microsoft 365 team di progettazione.
 ms.author: robmazz
 author: robmazz
 manager: laurawi
@@ -8,7 +8,7 @@ ms.reviewer: sosstah
 audience: ITPro
 ms.topic: article
 ms.service: O365-seccomp
-localization_priority: Normal
+ms.localizationpriority: medium
 search.appverid:
 - MET150
 ms.collection:
@@ -20,18 +20,18 @@ f1.keywords:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 1811b118ffdbfce72ba7b387c499d7ce68be2911417611c3ae4fa39624511daf
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 20a21fe0d67f8986ec6e89b8ecbfd2915f9b8245
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54290974"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58481938"
 ---
 # <a name="internal-logging-for-microsoft-365-engineering"></a>Log interni per Microsoft 365 Engineering
 
-Oltre agli eventi e ai dati di registro disponibili per i clienti, Microsoft gestisce un sistema di raccolta dei dati di registro interno disponibile per Microsoft 365 tecnici. Molti tipi diversi di dati di registro vengono caricati dai server Microsoft 365 in una soluzione di monitoraggio della sicurezza proprietaria per l'analisi NRT (Near Real-Time) e un servizio di elaborazione dei big data (Cosmos) interno per l'archiviazione a lungo termine. Questo trasferimento dei dati avviene tramite una connessione TLS convalidata da FIPS 140-2 su porte e protocolli approvati utilizzando uno strumento di automazione proprietario denominato Office Data Loader (ODL). Gli strumenti utilizzati in Microsoft 365 per raccogliere ed elaborare i record di controllo non consentono modifiche permanenti o irreversibili al contenuto del record di controllo originale o all'ordinamento temporale.
+Oltre agli eventi e ai dati di registro disponibili per i clienti, Microsoft gestisce un sistema di raccolta dei dati di registro interno disponibile per Microsoft 365 tecnici. Molti tipi diversi di dati di registro vengono caricati dai server Microsoft 365 in una soluzione di monitoraggio della sicurezza proprietaria per l'analisi NRT (Near Real-Time) e un servizio di elaborazione dei big data (Cosmos) interno per l'archiviazione a lungo termine. Questo trasferimento di dati avviene tramite una connessione TLS convalidata da FIPS 140-2 su porte e protocolli approvati utilizzando uno strumento di automazione proprietario denominato ODL (Office Data Loader). Gli strumenti utilizzati in Microsoft 365 per raccogliere ed elaborare i record di controllo non consentono modifiche permanenti o irreversibili al contenuto del record di controllo originale o all'ordinamento temporale.
 
-I team di servizio utilizzano Cosmos come archivio centralizzato per eseguire un'analisi dell'utilizzo delle applicazioni, per misurare le prestazioni del sistema e delle operazioni e per cercare anomalie e modelli che potrebbero indicare problemi o problemi di sicurezza. Ogni team del servizio carica una linea di base che include:
+I team di servizio utilizzano Cosmos come archivio centralizzato per eseguire un'analisi dell'utilizzo delle applicazioni, per misurare le prestazioni del sistema e operative e per cercare anomalie e modelli che potrebbero indicare problemi o problemi di sicurezza. Ogni team del servizio carica una linea di base che include:
 
 - Registri eventi
 - Log di AppLocker
@@ -44,7 +44,7 @@ I team di servizio utilizzano Cosmos come archivio centralizzato per eseguire un
 - Dati Syslog
 - Log di controllo della sicurezza
 
-Prima del caricamento, l'applicazione ODL utilizza un servizio di scrubbing per rimuovere tutti i campi che contengono i dati dei clienti, ad esempio le informazioni sul tenant e le informazioni identificabili dall'utente finale, e sostituire tali campi con un valore hash. I log scrubbed vengono caricati in Cosmos e nella soluzione di monitoraggio della sicurezza NRT che analizza i registri alla ricerca di potenziali eventi di sicurezza e indicatori di prestazioni. Il periodo di conservazione dei dati del log di controllo Cosmos è determinato dai team del servizio; la maggior parte dei dati del log di controllo viene conservata per 90 giorni o più per supportare le indagini degli incidenti di sicurezza e per soddisfare i requisiti di conservazione normativi.
+Prima del caricamento, l'applicazione ODL utilizza un servizio di scrubbing per rimuovere tutti i campi che contengono i dati dei clienti, ad esempio le informazioni sul tenant e le informazioni identificabili dall'utente finale, e sostituire tali campi con un valore hash. I log scrubbed vengono caricati in Cosmos e nella soluzione di monitoraggio della sicurezza NRT che analizza i registri alla ricerca di potenziali eventi di sicurezza e indicatori di prestazioni. Il periodo di conservazione dei dati del log di controllo Cosmos è determinato dai team del servizio; la maggior parte dei dati del log di controllo viene conservata per 90 giorni o più per supportare le indagini relative agli incidenti di sicurezza e per soddisfare i requisiti di conservazione normativi.
 
 L'accesso Microsoft 365 dati archiviati in Cosmos è limitato al personale autorizzato. Microsoft limita la gestione dei log di controllo a un sottoinsieme limitato di membri del team di sicurezza responsabili della funzionalità di controllo. Il team di sicurezza non dispone dell'accesso amministrativo permanente Cosmos e tutte le modifiche vengono registrate e verificate.
 

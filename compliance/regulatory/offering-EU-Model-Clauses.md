@@ -2,7 +2,7 @@
 title: Clausole del modello dell'Unione europea
 description: Microsoft offre clausole contrattuali standard dell'Unione europea e garanzie per il trasferimento dei dati personali.
 keywords: Microsoft 365, conformità, offerte
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 806f5ed0636ea9eceb9e57d5c445d0902896fce8
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: ad57ba94dbb79e1e8d5536598ef4e2fd3f0fbf55
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58261072"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482249"
 ---
 # <a name="european-union-model-clauses"></a>Clausole del modello dell'Unione europea
 

@@ -1,6 +1,6 @@
 ---
 title: Panoramica sulla sicurezza del datacenter
-description: Informazioni sulla sicurezza dei datacenter in Microsoft 365
+description: Informazioni sulla sicurezza del datacenter in Microsoft 365
 ms.author: robmazz
 author: robmazz
 manager: laurawi
@@ -12,7 +12,7 @@ ms.topic: article
 f1_keywords:
 - ms.o365.cc.SupervisoryReview
 ms.service: O365-seccomp
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection:
 - Strat_O365_IP
 - M365-security-compliance
@@ -22,18 +22,18 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: f9cd84fed225764b61049aefc3ec95b2eb75fce845b2b9ef752fc194d949c409
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: b2f88172d2a8158a2232acd1c4312217d7c3fef4
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54292443"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482089"
 ---
 # <a name="datacenter-security-overview"></a>Panoramica sulla sicurezza del datacenter
 
-## <a name="how-does-microsoft-host-its-online-services"></a>In che modo Microsoft ospita i servizi online?
+## <a name="how-does-microsoft-host-its-online-services"></a>In che modo Microsoft ospita i propri servizi online?
 
-Microsoft offre più di 200 servizi cloud, inclusi i servizi aziendali come Microsoft Azure, Microsoft 365 e Microsoft Dynamics 365, ai clienti 24x7x365. Questi servizi sono ospitati nell'infrastruttura cloud di Microsoft composta da datacenter distribuiti a livello globale, nodi di elaborazione perimetrale e centri operazioni di servizio. Sono supportati e connessi da una delle reti globali più grandi al mondo, con un'ampia fibra ingombro.
+Microsoft fornisce più di 200 servizi cloud, inclusi i servizi aziendali come Microsoft Azure, Microsoft 365 e Microsoft Dynamics 365, ai clienti 24x7x365. Questi servizi sono ospitati nell'infrastruttura cloud di Microsoft composta da datacenter distribuiti a livello globale, nodi di elaborazione perimetrale e centri operazioni di servizio. Sono supportati e connessi da una delle reti globali più grandi al mondo, con un'ampia fibra ingombro.
 
 I data center che alimentano le nostre offerte cloud concentrano l'attenzione su alta affidabilità, eccellenza operativa, economicità, sostenibilità ambientale e un'esperienza online affidabile per clienti e partner in tutto il mondo. Microsoft testa regolarmente la sicurezza del nostro data center tramite controlli interni e di terze parti. Di conseguenza, le organizzazioni più regolamentate al mondo si affidano al cloud Microsoft, che è conforme a più certificazioni di qualsiasi altro provider di servizi cloud.
 

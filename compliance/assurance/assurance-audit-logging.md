@@ -10,7 +10,7 @@ ms.topic: article
 f1.keywords:
 - NOCSH
 ms.service: O365-seccomp
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection:
 - Strat_O365_IP
 - M365-security-compliance
@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 1804fd2ccac4314dd4f2363e460c9470fa0f2299
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: 3212ca2a42677dc27afda8a7598b39d7f24bf27c
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58260341"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482189"
 ---
 # <a name="audit-logging-overview"></a>Panoramica sulla registrazione di controllo
 
@@ -48,7 +48,7 @@ La registrazione di controllo interna dei servizi online Microsoft acquisisce i 
 
 ## <a name="how-do-microsoft-online-services-centralize-and-report-on-audit-logs"></a>In che modo i servizi online Microsoft centralizzano e segnalano i log di controllo?
 
-Molti tipi diversi di dati di registro vengono caricati dai server Microsoft in una soluzione di monitoraggio della sicurezza proprietaria per l'analisi in tempo quasi reale (NRT) e un servizio di big data computing interno (Cosmos) o Azure Data Explorer (Kusto) per l'archiviazione a lungo termine. Questo trasferimento dei dati avviene tramite una connessione TLS convalidata da FIPS 140-2 su porte e protocolli approvati tramite strumenti di gestione dei log automatizzati.
+Molti tipi diversi di dati di log vengono caricati dai server Microsoft in una soluzione di monitoraggio della sicurezza proprietaria per l'analisi in tempo quasi reale (NRT) e un servizio di big data computing interno (Cosmos) o Azure Data Explorer (Kusto) per l'archiviazione a lungo termine. Questo trasferimento dei dati avviene tramite una connessione TLS convalidata da FIPS 140-2 su porte e protocolli approvati tramite strumenti di gestione dei log automatizzati.
 
 I log vengono elaborati in NRT utilizzando metodi di apprendimento automatico, statistici e basati su regole per rilevare gli indicatori delle prestazioni del sistema e i potenziali eventi di sicurezza. I modelli di machine learning utilizzano i dati dei registri in ingresso e i dati cronologici archiviati in Cosmos o Kusto per migliorare continuamente le funzionalità di rilevamento. I rilevamenti correlati alla sicurezza generano avvisi, notificando ai tecnici di chiamata di un potenziale incidente e attivando azioni di correzione automatizzate, se applicabile. Oltre al monitoraggio automatico della sicurezza, i team di servizio utilizzano strumenti di analisi e dashboard per la correlazione dei dati, le query interattive e l'analisi dei dati. Questi report vengono utilizzati per monitorare e migliorare le prestazioni complessive del servizio.
 
@@ -56,7 +56,7 @@ Per ulteriori informazioni sul monitoraggio della sicurezza e sugli avvisi, vede
 
 ## <a name="how-do-microsoft-online-services-protect-audit-logs"></a>In che modo i servizi online Microsoft proteggono i log di controllo?
 
-Gli strumenti utilizzati nei servizi online Microsoft per raccogliere ed elaborare i record di controllo non consentono modifiche permanenti o irreversibili al contenuto del record di controllo originale o all'ordinamento temporale. L'accesso ai dati dei servizi online Microsoft archiviati in Cosmos o Kusto è limitato al personale autorizzato. Inoltre, Microsoft limita la gestione dei log di controllo a un sottoinsieme limitato di membri del team di sicurezza responsabili della funzionalità di controllo. Il personale del team di sicurezza non dispone dell'accesso amministrativo permanente Cosmos o Kusto. L'accesso amministrativo richiede l'approvazione dell'accesso JIT (Just-In-Time) e tutte le modifiche ai meccanismi di registrazione per Cosmos vengono registrate e verificate. I log di controllo vengono conservati abbastanza a lungo da supportare le indagini degli incidenti e soddisfare i requisiti normativi. Il periodo esatto di conservazione dei dati del log di controllo determinato dai team del servizio; la maggior parte dei dati del registro di controllo viene conservata per 90 giorni in Cosmos e 180 giorni a Kusto.
+Gli strumenti utilizzati nei servizi online Microsoft per raccogliere ed elaborare i record di controllo non consentono modifiche permanenti o irreversibili al contenuto del record di controllo originale o all'ordinamento temporale. L'accesso ai dati dei servizi online Microsoft archiviati in Cosmos o Kusto è limitato al personale autorizzato. Inoltre, Microsoft limita la gestione dei log di controllo a un sottoinsieme limitato di membri del team di sicurezza responsabili della funzionalità di controllo. Il personale del team di sicurezza non dispone dell'accesso amministrativo permanente Cosmos o Kusto. L'accesso amministrativo richiede l'approvazione dell'accesso JIT (Just-In-Time) e tutte le modifiche ai meccanismi di registrazione per Cosmos vengono registrate e verificate. I log di controllo vengono conservati abbastanza a lungo da supportare le indagini degli incidenti e soddisfare i requisiti normativi. Il periodo esatto di conservazione dei dati del log di controllo determinato dai team del servizio; la maggior parte dei dati del log di controllo viene conservata per 90 giorni in Cosmos e 180 giorni a Kusto.
 
 ## <a name="how-do-microsoft-online-services-protect-user-personal-data-that-may-be-captured-in-audit-logs"></a>In che modo i servizi online Microsoft proteggono i dati personali degli utenti che possono essere acquisiti nei log di controllo?
 

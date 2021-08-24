@@ -2,7 +2,7 @@
 title: Richieste degli interessati della configurazione del responsabile del trattamento dei dati di diagnostica Windows relative al GDPR e al CCPA
 description: Informazioni su come usare i prodotti, i servizi e gli strumenti di amministrazione Microsoft per trovare i dati personali e agire su di essi in risposta alle richieste degli interessati.
 keywords: Microsoft 365, Microsoft 365 Education, Documentazione Microsoft 365, GDPR
-localization_priority: Priority
+ms.localizationpriority: high
 ROBOTS: NOINDEX, NOFOLLOW
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -18,12 +18,12 @@ ms.collection:
 - M365-security-compliance
 - MS-Compliance
 hideEdit: true
-ms.openlocfilehash: 365aa84ce2c88468b7f6689aa73507e458a435fd2d3bc58583114f37f50537ac
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 202b8aa75d3dd6fc94025a1a30f922563fc73e7b
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54293053"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482379"
 ---
 # <a name="windows-diagnostic-data-processor-configuration-data-subject-requests-for-the-gdpr-and-ccpa"></a>Richieste degli interessati della configurazione del responsabile del trattamento dei dati di diagnostica Windows relative al GDPR e al CCPA
 

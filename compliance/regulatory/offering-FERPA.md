@@ -2,7 +2,7 @@
 title: Family Educational Rights and Privacy Act (FERPA)
 description: Microsoft si allinea ai requisiti del Family Educational Rights and Privacy Act statunitense.
 keywords: Microsoft 365, conformità, offerte
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: d41c5fea8e0f6f45703bfe25cae9dbaa491dcd2c
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: 6957f3e1c93dd73821456bc45ef1d8e2e12681a0
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58261048"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482239"
 ---
 # <a name="family-educational-rights-and-privacy-act-ferpa"></a>Family Educational Rights and Privacy Act (FERPA)
 
@@ -43,7 +43,7 @@ FERPA non richiede o riconosce controlli o altre certificazioni, pertanto qualsi
 
 Come risultato di questi impegni contrattuali, i clienti soggetti a FERPA , sia gli istituti di istruzione che le terze parti a cui forniscono l'accesso ai dati sensibili degli studenti, possono usare in modo sicuro i servizi cloud aziendali Microsoft nell'ambito per elaborare, archiviare e trasmettere tali dati.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme e servizi cloud Microsoft inclusi nell'ambito
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servizi e piattaforme cloud Microsoft inclusi nell'ambito
 
 I servizi per i quali Microsoft accetta di essere designato come "funzionario scolastico" con "interessi educativi legittimi" nei dati dei clienti includono:
 

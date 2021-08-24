@@ -2,7 +2,7 @@
 title: Department of Defense (DoD) Impact Level 2 (IL2)
 description: Scopri come Microsoft soddisfa gli standard DoD (Department of Defense Impact Level 2) (IL2).
 keywords: Microsoft 365, conformità, offerte
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 0c44d77772eef6321d716aa87f34d0472401fb30092dde324120e2d9d82a1a3d
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: c57183a53c563fffa2bb3eb1cedb2fca23db26f4
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54288225"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482449"
 ---
 # <a name="department-of-defense-dod-impact-level-2-il2"></a>Department of Defense (DoD) Impact Level 2 (IL2)
 
@@ -29,13 +29,13 @@ ms.locfileid: "54288225"
 
 La Defense Information Systems Agency (DISA) è un'agenzia del Dipartimento della Difesa (DoD) statunitense responsabile dello sviluppo e della manutenzione della Guida ai requisiti di sicurezza del cloud computing DoD [(SRG).](https://dl.dod.cyber.mil/wp-content/uploads/cloud/SRG/index.html) L'SRG definisce i requisiti di sicurezza di base utilizzati da DoD per valutare la posizione di sicurezza di un provider di servizi cloud (CSP), supportando la decisione di concedere un'autorizzazione provvisoria DoD che consente a un CSP di ospitare missioni DoD. Incorpora, sostituisce e rescinde il modello di sicurezza cloud DoD (CSM) pubblicato in precedenza e mappa al DoD Risk Management Framework (RMF).
 
-DISA guida le agenzie e i reparti DoD nella pianificazione e nell'autorizzazione dell'uso di un CSP. Valuta inoltre le offerte CSP per la conformità con il servizio SRG, un processo di autorizzazione in base al quale i provider di servizi condivisi possono fornire documentazione che ne delinea la conformità agli standard DoD. Se appropriato, elava le autorizzazioni provvisorie DoD, in modo che le agenzie DoD e le organizzazioni di supporto possano utilizzare i servizi cloud senza dover eseguire un processo di approvazione completo, risparmiando tempo e fatica.
+DISA guida le agenzie e i reparti DoD nella pianificazione e autorizzazione dell'uso di un CSP. Valuta inoltre le offerte CSP per la conformità con sRG, un processo di autorizzazione in base al quale i provider di servizi di configurazione possono fornire documentazione che ne delinea la conformità agli standard DoD. Se appropriato, elaga autorizzazioni provvisorie DoD, in modo che le agenzie DoD e le organizzazioni di supporto possano utilizzare i servizi cloud senza dover eseguire un processo di approvazione completo, risparmiando tempo e fatica.
 
-La nota del CIO DoD del 15 dicembre [2014](https://www.esi.mil/contentview.aspx?id=585) relativa alle linee guida aggiornate sull'acquisizione e l'utilizzo di servizi cloud *commerciali* afferma che "FedRAMP servirà come base di sicurezza minima per tutti i servizi cloud DoD". L'SRG usa la linea di base FedRAMP Moderate a tutti i livelli di impatto delle informazioni (IL) e considera l'High Baseline in alcuni casi.
+La nota del CIO DoD del 15 dicembre [2014](https://www.esi.mil/contentview.aspx?id=585) relativa alle linee guida aggiornate sull'acquisizione e l'utilizzo di servizi cloud *commerciali* afferma che "FedRAMP servirà come base di sicurezza minima per tutti i servizi cloud DoD". L'SRG usa la linea di base FedRAMP Moderate a tutti i livelli di impatto sulle informazioni (IL) e considera l'High Baseline in alcuni casi.
 
-La sezione [SRG 5.1.1](https://dl.dod.cyber.mil/wp-content/uploads/cloud/SRG/index.html#5SECURITYREQUIREMENTS) DoD use *of FedRAMP Security Controls* afferma che le informazioni IL2 possono essere ospitate in un CSP che contiene al minimo una PA moderata FedRAMP e una PA doD di livello 2, soggette alla conformità ai requisiti di sicurezza del personale descritti nella sezione 5.6.2. Tuttavia, questo approccio non consente al CSP di soddisfare altri requisiti di sicurezza e integrazione come richiesto dal proprietario della missione. Secondo la sezione [SRG 5.2.2.1](https://dl.dod.cyber.mil/wp-content/uploads/cloud/SRG/index.html#5.2LegalConsiderations) *Il2* Requisiti di posizione e separazione, DoD IL2 PA è adeguatamente coperto da una PA moderata FedRAMP in modo che i requisiti non siano valutati in modo aggiuntivo per una PA IL2.
+La sezione [SRG 5.1.1](https://dl.dod.cyber.mil/wp-content/uploads/cloud/SRG/index.html#5SECURITYREQUIREMENTS) DoD use *of FedRAMP Security Controls* afferma che le informazioni IL2 possono essere ospitate in un CSP che contiene al minimo una PA moderata FedRAMP e una PA doD di livello 2, soggette alla conformità ai requisiti di sicurezza del personale descritti nella sezione 5.6.2. Tuttavia, questo approccio non consente al CSP di soddisfare altri requisiti di sicurezza e integrazione come richiesto dal proprietario della missione. Secondo la sezione [SRG 5.2.2.1](https://dl.dod.cyber.mil/wp-content/uploads/cloud/SRG/index.html#5.2LegalConsiderations) *Il2 Requisiti* di posizione e separazione, DoD IL2 PA è adeguatamente coperto da una PA moderata FedRAMP in modo che i requisiti non siano valutati in modo aggiuntivo per una PA IL2.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme e servizi cloud Microsoft inclusi nell'ambito
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servizi e piattaforme cloud Microsoft inclusi nell'ambito
 
 - Azure
 - Dynamics 365

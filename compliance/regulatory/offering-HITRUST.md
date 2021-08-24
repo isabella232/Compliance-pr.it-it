@@ -2,7 +2,7 @@
 title: Health Information Trust Alliance (HITRUST) Common Security Framework (CSF)
 description: Azure e Office 365 sono certificati per Health Information Trust Alliance (HITRUST) Common Security Framework (CSF).
 keywords: Microsoft 365, conformità, offerte
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: e910593e80c49acf7f1e94c9ade74fb51f225912
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: 97875374c58bf174090a9dd34f26d3e22b2b50b3
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58260700"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482971"
 ---
 # <a name="health-information-trust-alliance-hitrust-common-security-framework-csf"></a>Health Information Trust Alliance (HITRUST) Common Security Framework (CSF)
 
@@ -80,7 +80,7 @@ Microsoft offre le offerte più complete rispetto ad altri provider di servizi c
 
 **La certificazione Microsoft significa che se l'organizzazione usa Office 365, è conforme a HITRUST CSF?**
 
-Quando si archiviano i dati in un sistema SaaS come Office 365, è responsabilità condivisa tra Microsoft e l'organizzazione raggiungere la conformità. Microsoft gestisce la maggior parte dei controlli dell'infrastruttura, tra cui la sicurezza fisica, i controlli di rete, i controlli a livello di applicazione e così via, e l'organizzazione ha la responsabilità di gestire i controlli di accesso e proteggere i dati sensibili. La Office 365 certificazione HITRUST dimostra la conformità del framework di controllo di Microsoft. Sulla base di questo, l'organizzazione deve implementare e mantenere i propri controlli di protezione dei dati per soddisfare i requisiti CSF HITRUST.
+Quando si archiviano i dati in un saaS come Office 365, è responsabilità condivisa tra Microsoft e l'organizzazione raggiungere la conformità. Microsoft gestisce la maggior parte dei controlli dell'infrastruttura, tra cui la sicurezza fisica, i controlli di rete, i controlli a livello di applicazione e così via, e l'organizzazione ha la responsabilità di gestire i controlli di accesso e proteggere i dati sensibili. La Office 365 certificazione HITRUST dimostra la conformità del framework di controllo di Microsoft. Sulla base di questo, l'organizzazione deve implementare e mantenere i propri controlli di protezione dei dati per soddisfare i requisiti CSF HITRUST.
 
 **Microsoft fornisce indicazioni per l'organizzazione per implementare controlli appropriati quando si Office 365?**
 

@@ -2,7 +2,7 @@
 title: California Consumer Privacy Act (CCPA)
 description: servizi Microsoft e il California Consumer Privacy Act (CCPA).
 keywords: Microsoft 365, conformità, offerte
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 75f814c49395e5b945d0b9092b1158fad3376ce684ea3a8fb43115d51fe6bba5
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 61b15a095dec310aac74bac10b2d062eb1011750
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54288255"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482661"
 ---
 # <a name="california-consumer-privacy-act-ccpa"></a>California Consumer Privacy Act (CCPA)
 
@@ -37,7 +37,7 @@ Il gruppo di disponibilità della California applica il CCPA e avrà il potere d
 
 ## <a name="microsoft-and-the-ccpa"></a>Microsoft e il CCPA
 
-Per i clienti commerciali che fanno affari in California, Microsoft fungerà da "provider di servizi" per quanto riguarda la nostra offerta di servizi online e Professional.  I termini delle Condizioni per i Servizi online (OST) e dell'Addendum per la protezione dei dati di Microsoft Professional Services (MSDPA) soddisfano già i requisiti per i provider di servizi nell'ambito del CCPA e sono in genere sufficienti per consentire ai clienti di continuare a trasferire i dati nei servizi online. Di conseguenza, non sono necessarie ulteriori modifiche contrattuali per i clienti per poter fare affidamento su Microsoft come provider di servizi nell'ambito del CCPA.
+Per i clienti commerciali che fanno affari in California, Microsoft fungerà da "provider di servizi" per quanto riguarda l'offerta di servizi online e Professional.  I termini delle Condizioni per i servizi online (OST) e microsoft Professional Services Data Protection Addendum (MSDPA) soddisfano già i requisiti per i provider di servizi nell'ambito del CCPA e sono in genere sufficienti per consentire ai clienti di continuare a trasferire i dati ai servizi online. Di conseguenza, non sono necessarie ulteriori modifiche contrattuali per i clienti per poter fare affidamento su Microsoft come provider di servizi nell'ambito del CCPA.
 
 Come descritto nell'OST, Microsoft è conforme a tutte le leggi e le normative applicabili alla fornitura dei Servizi online, che includerebbe il CCPA.  
 
@@ -84,10 +84,10 @@ La differenza principale nel CCPA è il requisito principale per consentire un r
 Il CCPA richiede aziende regolamentate che raccolgono, trasferiscono e vendono informazioni personali, tra le altre cose:
 
 - Fornire informazioni dettagliate ai clienti, prima della raccolta, relative alle categorie e agli scopi della raccolta.
-- Fornire informazioni più dettagliate in un'informativa sulla privacy relativa alle fonti, agli scopi aziendali e alle categorie di informazioni personali raccolte, inclusa la modalità di vendita o trasferimento di tali categorie ad altre entità.
+- Fornire informazioni più dettagliate in un'informativa sulla privacy relativa alle fonti, agli scopi aziendali e alle categorie di informazioni personali raccolte, incluso il modo in cui tali categorie vengono vendute o trasferite ad altre entità.
 - Abilitare i diritti DSR di accesso, eliminazione e portabilità per le informazioni personali specifiche raccolte dall'utente.
 - Abilitare un controllo che consenta agli utenti di rifiutare esplicitamente la vendita dei dati dell'utente. Tuttavia, i trasferimenti a entità esenti, ad esempio i provider di servizi, saranno consentiti.
-- Per i minori di 16 anni, abilitare un processo di consenso esplicito in modo che nessuna vendita delle informazioni personali del minore possa verificarsi senza acconsentire attivamente alla vendita.
+- Per i minori di 16 anni, abilita un processo di consenso esplicito in modo che nessuna vendita delle informazioni personali del minore possa verificarsi senza acconsentire attivamente alla vendita.
 - Assicurarsi che gli utenti non siano discriminati per aver esercitato uno dei diritti ai sensi del CCPA.
 
 **In che modo si applicano i principi del CCPA ai minori?**
@@ -105,4 +105,4 @@ Il CCPA richiede aziende regolamentate che raccolgono, trasferiscono e vendono i
 - [Guida introduttiva a CCPA](https://info.microsoft.com/ww-landing-Five-tips-to-help-you-prepare-for-the-California-Consumer-Privacy-Act.html)
 - [Richieste dell'oggetto dei dati e GDPR](gdpr-data-subject-requests.md)
 - [Domande frequenti sul California Consumer Privacy Act (CCPA)](ccpa-faq.yml)
-- [Conformità in Microsoft Trust Center](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Conformità nel Centro protezione Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)

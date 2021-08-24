@@ -8,7 +8,7 @@ ms.reviewer: sosstah
 audience: ITPro
 ms.topic: article
 ms.service: O365-seccomp
-localization_priority: Normal
+ms.localizationpriority: medium
 search.appverid:
 - MET150
 f1.keywords:
@@ -19,12 +19,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 37de1f6a1b2735b444dc06228a411c0ef0c15f8b
-ms.sourcegitcommit: 35ca898d621a3e158b361c7dea3a33c4b1f9fe3a
+ms.openlocfilehash: 5cb8d92a970c73f76de3d9a824c7bab86d13ce2e
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/16/2021
-ms.locfileid: "58361257"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58481698"
 ---
 # <a name="microsoft-security-incident-management-containment-eradication-and-recovery"></a>Gestione degli incidenti di sicurezza Microsoft: contenimento, eliminazione e ripristino
 
@@ -47,7 +47,7 @@ A seconda della natura dell'incidente, dell'ambito dell'incidente di sicurezza, 
 
 Quando il team di risposta ottiene un ragionevole livello di sicurezza che l'avversario è stato rimosso dall'ambiente e tutti i percorsi vulnerabili noti sono stati eliminati, i singoli team di servizio avvieranno i passaggi di ripristino per portare il servizio a una configurazione nota e corretta. Questi passaggi di ripristino saranno in consultazione con il team di risposta alla sicurezza. Questa attività include l'identificazione dell'ultimo stato valido noto del servizio, il ripristino dai backup a questo stato, l'ispezione dei percorsi di attacco vulnerabili nello stato ripristinato e così via. Il team di risposta alla sicurezza, in consultazione con i team di servizio, determinerà il miglior piano di ripristino possibile per l'ambiente.
 
-Un aspetto fondamentale per il ripristino è disporre di controlli e controlli migliorati per verificare che il piano di ripristino sia stato eseguito correttamente e che non vi siano segni di violazione nell'ambiente.
+Un aspetto chiave per il ripristino è avere una maggiore vigilanza e controlli per verificare che il piano di ripristino sia stato eseguito correttamente e che non vi siano segni di violazione nell'ambiente.
 
 ## <a name="customer-notification-of-security-incident"></a>Notifica al cliente di un evento imprevisto di sicurezza
 
@@ -55,7 +55,7 @@ Se Microsoft determina che si è verificato un incidente di sicurezza, microsoft
 
 ![Procedura di risposta a un incidente](../media/assurance-incident-response-process.png)
 
-La notifica includerà informazioni dettagliate sull'evento imprevisto, ad esempio una descrizione dell'evento imprevisto, l'effetto sui dati dei clienti, se presenti, le azioni intraprese da Microsoft e/o le azioni suggerite ai clienti per risolvere il problema e impedire la ricorrenza. La notifica verrà recapitata agli amministratori designati del tenant dei servizi online Microsoft. Per assicurarsi che le notifiche siano ricevute, è necessario assicurarsi che gli amministratori forniranno e mantengano informazioni di contatto accurate nei profili tenant. Inoltre, a seconda della natura dell'incidente, i clienti Microsoft 365 possono ricevere una notifica anche tramite il dashboard Microsoft 365 [service health](http://status.yammer.com/).
+La notifica includerà informazioni dettagliate sull'evento imprevisto, ad esempio una descrizione dell'evento imprevisto, l'effetto sui dati dei clienti, se presenti, le azioni intraprese da Microsoft e/o le azioni suggerite ai clienti per risolvere il problema e impedire la ricorrenza. La notifica verrà recapitata agli amministratori designati del tenant dei servizi online Microsoft. Per assicurarsi che le notifiche siano ricevute, è necessario assicurarsi che gli amministratori forniranno e mantengano informazioni di contatto accurate nei profili tenant. Inoltre, a seconda della natura dell'incidente, i clienti Microsoft 365 possono ricevere una notifica anche tramite il dashboard Microsoft 365 [Service Health.](http://status.yammer.com/)
 
 ## <a name="related-articles"></a>Articoli correlati
 

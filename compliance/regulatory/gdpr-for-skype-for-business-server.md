@@ -9,16 +9,16 @@ manager: pamgreen
 audience: ITPro
 ms.topic: article
 ms.service: O365-seccomp
-localization_priority: Priority
+ms.localizationpriority: high
 titleSuffix: Microsoft GDPR
 ms.collection: MS-Compliance
 hideEdit: true
-ms.openlocfilehash: 945c9a90b117aca97b5b1af56e802e62bed91c9f700cddb595fc32bbe325559e
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: e6c7eb83a8838e7942aa79c63482eaa30b095d00
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54287965"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482601"
 ---
 # <a name="gdpr-for-skype-for-business-server-and-lync-server"></a>GDPR per Skype for Business Server e Lync Server
 

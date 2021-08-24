@@ -10,7 +10,7 @@ ms.topic: article
 f1.keywords:
 - NOCSH
 ms.service: O365-seccomp
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection:
 - Strat_O365_IP
 - M365-security-compliance
@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 9fb013647bc558856f7005c2d5e1ccdb656db9b9b04ceb5882df35a599e7ebff
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: ff1719ce931a50904fb6b7e6069cd29a1883aa90
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54292164"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58481798"
 ---
 # <a name="resiliency-and-continuity-overview"></a>Panoramica sulla resilienza e sulla continuità
 
@@ -39,7 +39,7 @@ Le strategie di continuità aziendale dei Servizi online Microsoft utilizzano la
 
 ## <a name="how-does-microsoft-test-business-continuity-and-disaster-recovery-plans"></a>In che modo Microsoft testa la continuità aziendale e i piani di ripristino di emergenza?
 
-Il criterio Enterprise EBCM (Business Continuity Management) di Microsoft prevede che tutti i piani di continuità aziendale e ripristino di emergenza Di Microsoft devono essere testati, aggiornati e esaminati su base annuale. I servizi online Microsoft testano i propri piani di continuità aziendale almeno ogni anno in base ai criteri EBCM. Dopo aver creato e esaminato i report azione per convalidare, testare i risultati e informare gli aggiornamenti del piano in risposta a eventuali problemi rilevati durante il test.
+Il criterio Enterprise EBCM (Business Continuity Management) di Microsoft stabilisce che tutti i piani di continuità aziendale e ripristino di emergenza di Microsoft devono essere testati, aggiornati e esaminati su base annuale. I servizi online Microsoft testano i propri piani di continuità aziendale almeno ogni anno in base ai criteri EBCM. Dopo aver creato e esaminato i report azione per convalidare, testare i risultati e informare gli aggiornamenti del piano in risposta a eventuali problemi rilevati durante il test.
 
 Per convalidare la flessibilità e le strategie di ripristino rispetto a un'ampia gamma di potenziali incidenti, il programma EBCM definisce più categorie di scenari di test che interessano persone, località e tecnologia. Il livello di convalida necessario per ogni servizio è basato sulla relativa criticità, per cui i servizi con la maggiore criticità ricevono una convalida più rigorosa. Ogni team del servizio online Microsoft testa il piano di continuità aziendale in base alle linee guida EBCM per misurare l'efficacia del piano e la disponibilità del team del servizio ad eseguire il piano.
 

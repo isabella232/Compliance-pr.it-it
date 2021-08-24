@@ -8,7 +8,7 @@ ms.reviewer: sosstah
 audience: ITPro
 ms.topic: article
 ms.service: O365-seccomp
-localization_priority: Normal
+ms.localizationpriority: medium
 search.appverid:
 - MET150
 ms.collection:
@@ -20,16 +20,16 @@ f1.keywords:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: a35af35fcd17e12cbee7643e99ccda7c0b0608463602dc1e44c38ac5d1d4f28d
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: e17685c7d927ab8188abe1ef4dae4d2cdf0f3764
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54291374"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482119"
 ---
 # <a name="data-immutability-in-microsoft-365"></a>Immutabilità dei dati in Microsoft 365
 
-La conformità normativa, i requisiti di governance interna o i rischi per controversia legale richiedono alle organizzazioni di conservare la posta elettronica e i dati associati in un formato individuabile. Tutti i dati nel sistema devono essere individuabili e nessuno di questi può essere eliminato o modificato. Il termine standard del settore è "immutabilità".
+La conformità normativa, i requisiti di governance interni o i rischi per controversia legale richiedono alle organizzazioni di conservare la posta elettronica e i dati associati in un formato individuabile. Tutti i dati nel sistema devono essere individuabili e nessuno di questi può essere eliminato o modificato. Il termine standard del settore è "immutabilità".
 
 I metodi tradizionali per l'immutabilità in genere funzionavano spostando i messaggi di posta elettronica in un percorso di archiviazione separato di sola lettura. Anche se tali sistemi hanno lo scopo di conservare gli elementi delle cassette postali per l'individuazione, spesso influiscono sull'esperienza utente rimuovendo gli elementi conservati dal flusso di lavoro giornaliero personalizzato. Per i professionisti IT, questo approccio di immutabilità richiede la distribuzione e la manutenzione continua di un server e di un'infrastruttura di archiviazione separati. L'individuazione viene eseguita con strumenti esterni al sistema di posta e include i costi di distribuzione e manutenzione associati.
 
@@ -60,7 +60,7 @@ In particolare:
 
 - Tutti i record archiviati utilizzando i criteri di conservazione indicati in precedenza vengono conservati in un'area di archiviazione dedicata al di fuori della visualizzazione dell'utente ordinario. Solo gli utenti autorizzati possono accedere a questi record ed eseguire ricerche, ma non modificarli o cancellarli.
 - I metadati per ogni elemento includono un timestamp utilizzato nel calcolo della durata della conservazione. I timestamp vengono applicati quando viene ricevuto o creato un nuovo elemento e non possono essere modificati o rimossi dai metadati.
-- L'archiviazione in Microsoft 365 consente agli utenti di combinare criteri di conservazione diversi e di archiviare azioni per creare criteri di conservazione granulari. Questi criteri definiscono il tipo o la posizione degli elementi conservati e la durata della conservazione.
+- L'archiviazione in Microsoft 365 consente agli utenti di combinare criteri di conservazione diversi e di mantenere azioni per creare criteri di conservazione granulari. Questi criteri definiscono il tipo o la posizione degli elementi conservati e la durata della conservazione.
 - La funzionalità di blocco dell'archiviazione consente agli utenti di scegliere se impostare il criterio come criterio restrittivo. Un criterio restrittivo impedisce a chiunque di avere la possibilità di rimuovere, disabilitare o apportare modifiche al criterio di conservazione. Ciò significa che, una volta abilitato il blocco di conservazione, non può essere disabilitato e non esiste alcun meccanismo in base al quale i dati dei depositati esistenti raccolti dai criteri di conservazione in atto possono essere sovrascritti, modificati, cancellati o eliminati durante il periodo di conservazione. Inoltre, il periodo di conservazione impostato dal blocco di conservazione potrebbe non essere ridotto o ridotto. Tuttavia, può essere allungato, nel caso di un requisito legale per continuare la conservazione dei dati archiviati, come indicato in precedenza. Il blocco dell'archiviazione garantisce che nessuno, nemmeno gli amministratori o quelli con determinati accessi di controllo, possa modificare le impostazioni o sovrascrivere o cancellare i dati archiviati, portando l'archiviazione in Microsoft 365 in linea con le indicazioni riportate nella versione 2003 della regola SEC 17a-4.
 
 Per comprendere in che modo Microsoft 365 consente di soddisfare gli obblighi normativi, in particolare in relazione ai requisiti della regola 17a-4, vedere il [white paper](https://www.microsoft.com/microsoft-365/blog/wp-content/uploads/2015/11/Microsoft-EOA-White-Paper.pdf) relativo a Archiviazione Exchange Online, SharePoint Online, OneDrive for Business e Skype for Business. Il white paper fornisce inoltre un'analisi approfondita delle funzionalità e delle funzionalità di archiviazione di Microsoft 365 in base a ognuno dei requisiti della regola SEC 17a-4 e dimostra ai clienti regolamentati come l'archiviazione Microsoft 365 possa consentire loro di soddisfare questi requisiti.

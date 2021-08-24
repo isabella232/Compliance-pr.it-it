@@ -2,7 +2,7 @@
 title: Organismi di vigilanza AMF (Autorité des Marchés Financiers) e ACPR (Autorité de Contrôle Prudentiel et de Résolution) in Francia
 description: Indicazioni di Microsoft per gli istituti finanziari che adottano il cloud in Francia.
 keywords: Microsoft 365, conformità, offerte
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 6504060cf7918981a601d4272c944d4b3343c69b97efa675893b21f8719a4757
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 3e7d08c15d126273cbacd75a2cab37e476ebf42d
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54292743"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482509"
 ---
 # <a name="financial-authority-amf-and-prudential-authority-acpr-france"></a>Organismi di vigilanza AMF (Autorité des Marchés Financiers) e ACPR (Autorité de Contrôle Prudentiel et de Résolution) in Francia
 

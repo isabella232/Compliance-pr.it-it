@@ -10,7 +10,7 @@ ms.topic: article
 f1.keywords:
 - NOCSH
 ms.service: O365-seccomp
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection:
 - Strat_O365_IP
 - M365-security-compliance
@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: f732ccf412272ec7138ac24fcc1f89dcf9bacacf1e64865ebfb9ba4e9dc6daf8
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 1cecf95d167e75f1c31360bca831184dee3e322e
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54291004"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58481968"
 ---
 # <a name="human-resources-overview"></a>Panoramica sulle risorse umane 
 
@@ -44,7 +44,7 @@ I controlli in background sui candidati all'impiego includono in genere la revis
 
 ## <a name="what-additional-checks-are-performed-for-employees-that-manage-cloud-services"></a>Quali controlli aggiuntivi vengono eseguiti per i dipendenti che gestiscono i servizi cloud?
 
-Oltre allo screening pre-impiego, i dipendenti Microsoft che gestiscono i servizi online Microsoft negli Stati Uniti devono sottoporsi a un controllo in background microsoft cloud come prerequisito per l'accesso ai sistemi di servizi online. I requisiti del controllo in background variano in base alle leggi applicabili e ai modelli di recapito dei servizi. I risultati del controllo in background di Microsoft Cloud sono archiviati nel database dei dipendenti e devono essere rinnovati almeno ogni due anni. Se il controllo in background di Microsoft Cloud scade e il dipendente non lo rinnova, l'accesso ai servizi online viene revocato e non è più disponibile fino al completamento del controllo in background di Microsoft Cloud. Allo stesso modo, quando termina il rapporto di lavoro con Microsoft, tutti gli accessi vengono immediatamente revocati.
+Oltre allo screening pre-impiego, i dipendenti Microsoft che gestiscono i servizi online Microsoft negli Stati Uniti devono sottoporsi a un controllo in background di Microsoft Cloud come prerequisito per l'accesso ai sistemi di servizi online. I requisiti del controllo in background variano in base alle leggi applicabili e ai modelli di recapito dei servizi. I risultati del controllo in background di Microsoft Cloud sono archiviati nel database dei dipendenti e devono essere rinnovati almeno ogni due anni. Se il controllo in background di Microsoft Cloud scade e il dipendente non lo rinnova, l'accesso ai servizi online viene revocato e non è più disponibile fino al completamento del controllo in background di Microsoft Cloud. Allo stesso modo, quando termina il rapporto di lavoro con Microsoft, tutti gli accessi vengono immediatamente revocati.
 
 ## <a name="how-does-microsoft-ensure-employees-maintain-sufficient-skills-and-knowledge-to-perform-their-responsibilities-and-follow-microsoft-policies"></a>In che modo Microsoft garantisce ai dipendenti competenze e conoscenze sufficienti per svolgere le proprie responsabilità e seguire i criteri Microsoft?
 

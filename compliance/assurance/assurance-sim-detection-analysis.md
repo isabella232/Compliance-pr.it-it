@@ -1,6 +1,6 @@
 ---
 title: 'Gestione degli incidenti di sicurezza Microsoft: rilevamento e analisi'
-description: In questo articolo viene fornita una panoramica del processo di rilevamento e analisi della gestione degli incidenti di sicurezza nei servizi online Microsoft.
+description: In questo articolo viene fornita una panoramica del processo di rilevamento e analisi degli incidenti di sicurezza nei servizi online Microsoft.
 ms.author: robmazz
 author: robmazz
 manager: laurawi
@@ -8,7 +8,7 @@ ms.reviewer: sosstah
 audience: ITPro
 ms.topic: article
 ms.service: O365-seccomp
-localization_priority: Normal
+ms.localizationpriority: medium
 search.appverid:
 - MET150
 f1.keywords:
@@ -19,12 +19,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 9ec3e0456934c178b32a6f5fac987d70c267ef8046ff5c361abce914a2cea90a
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: ba9d4c5f3e2781613ef3946e1089deff6e6266f7
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54291869"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58481688"
 ---
 # <a name="microsoft-security-incident-management-detection-and-analysis"></a>Gestione degli incidenti di sicurezza Microsoft: rilevamento e analisi
 
@@ -40,10 +40,10 @@ I meccanismi di rilevamento della sicurezza nei servizi online Microsoft includo
 
 Uno dei pilastri principali del rilevamento è la notifica:
 
-- Ogni team del servizio è responsabile di registrare qualsiasi azione o evento all'interno del servizio in base ai requisiti del team di sicurezza del servizio online. Tutti i log creati dai diversi team di servizio vengono elaborati da una soluzione SiEM (Security Information and Event Management) con regole di sicurezza e rilevamento predefinite. Queste regole si evolvono in base alle raccomandazioni del team di sicurezza, sulle informazioni apprese dagli incidenti di sicurezza precedenti, per determinare se sono presenti attività sospette o dannose.
+- Ogni team del servizio è responsabile di registrare qualsiasi azione o evento all'interno del servizio in base ai requisiti del team di sicurezza del servizio online. Tutti i log creati dai diversi team di servizio vengono elaborati da una soluzione SiEM (Security Information and Event Management) con regole di sicurezza e rilevamento predefinite. Queste regole si evolvono in base alle raccomandazioni del team di sicurezza, sulle informazioni apprese dagli incidenti di sicurezza precedenti, per determinare se vi sono attività sospette o dannose.
 - Se un cliente determina che è in corso un incidente di sicurezza, può aprire un caso di supporto con Microsoft, che viene assegnato al team di comunicazione Microsoft e trasformato in un'escalation a tutti i team appropriati.
 
-I team del servizio Azure, Dynamics 365 e Microsoft 365 usano anche l'intelligence acquisita nell'analisi delle tendenze tramite il monitoraggio e la registrazione della sicurezza per rilevare anomalie nei sistemi in informazioni dei servizi online Microsoft che potrebbero indicare un attacco o un incidente di sicurezza. I sistemi microsoft online services aggregano l'output di questi registri nell'ambiente di produzione in server di registrazione centralizzati. Da questi server di registrazione centralizzati, i registri vengono esaminati per individuare le tendenze in tutto l'ambiente di produzione. I dati aggregati nei server centralizzati vengono trasmessi in modo sicuro in un servizio di registrazione per l'esecuzione di query avanzate, la creazione di dashboard e il rilevamento di attività anomale e dannose. Il servizio usa anche l'apprendimento automatico per rilevare anomalie con l'output del log.
+Azure, Dynamics 365 e i team del servizio Microsoft 365 usano anche l'intelligence acquisita nell'analisi delle tendenze tramite il monitoraggio e la registrazione della sicurezza per rilevare anomalie nei sistemi in informazioni dei servizi online Microsoft che potrebbero indicare un attacco o un incidente di sicurezza. I sistemi microsoft online services aggregano l'output di questi registri nell'ambiente di produzione in server di registrazione centralizzati. Da questi server di registrazione centralizzati, i registri vengono esaminati per individuare le tendenze in tutto l'ambiente di produzione. I dati aggregati nei server centralizzati vengono trasmessi in modo sicuro in un servizio di registrazione per l'esecuzione di query avanzate, la creazione di dashboard e il rilevamento di attività anomale e dannose. Il servizio usa anche l'apprendimento automatico per rilevare anomalie con l'output del log.
 
 Durante la fase di escalation e a seconda della natura dell'incidente di sicurezza, i team di risposta alla sicurezza possono coinvolgere uno o più esperti in materia di vari team di Microsoft:
 

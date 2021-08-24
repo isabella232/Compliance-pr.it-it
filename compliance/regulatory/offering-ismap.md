@@ -2,7 +2,7 @@
 title: Information System Security Management and Assessment Program (ISMAP)
 description: Microsoft dispone di controlli che soddisfano i requisiti dell'Information System Security Management and Assessment Program (ISMAP).
 keywords: Microsoft 365, conformità, offerte
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 0fa2391237b695e352c1e2a7f47ea784218adb4c1b891803beee438440f7d279
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 5f51e0eb46550734a3906e6011a67323fe67fc78
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54294263"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482891"
 ---
 # <a name="information-system-security-management-and-assessment-program-ismap"></a>Information System Security Management and Assessment Program (ISMAP)
 

@@ -2,7 +2,7 @@
 title: Ministero dell'elettronica e delle tecnologie dell'informazione (MeitY)
 description: Microsoft è stata accreditata completamente dal Ministero dell'elettronica e delle tecnologie dell'informazione in India.
 keywords: Microsoft 365, conformità, offerte
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: ca3ecd5dc99f71c76c2b8e724a1b6ace3350d947a3bbb278a5ec6ab00c13fe7d
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 7f597f5267482868c472ed04fada2a2f73490ab7
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54292453"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482951"
 ---
 # <a name="ministry-of-electronics-and-information-technology-meity"></a>Ministero dell'elettronica e delle tecnologie dell'informazione (MeitY)
 
@@ -33,7 +33,7 @@ MeitY fornisce l'accreditamento (indicato da MeitY come "empanelment") dei provi
 
 Una volta accreditati, i provider di servizi cloud sono elencati in una directory dei servizi cloud governativi in cui le organizzazioni del settore pubblico possono confrontare e procurarsi servizi cloud accreditati. La directory è un servizio della [MeghRaj Cloud Initiative](https://meity.gov.in/content/gi-cloud-meghraj) (o GI Government of India Cloud), che promuove l'uso del cloud computing nel governo e regola l'implementazione dei servizi IT del settore \[ \] pubblico.
 
-## <a name="microsoft-and-ministry-of-electronics-and-information-technology-meity"></a>Microsoft e il ministero dell'elettronica e delle tecnologie dell'informazione (MeitY)
+## <a name="microsoft-and-ministry-of-electronics-and-information-technology-meity"></a>Microsoft e il Ministero dell'elettronica e delle tecnologie dell'informazione (MeitY)
 
 A novembre 2017, Microsoft è diventata uno dei primi provider di servizi cloud globali a ottenere l'accreditamento completo da parte di MeitY per i suoi tre modelli cloud:
 
@@ -64,4 +64,4 @@ Rendere i servizi pubblici disponibili per i cittadini online è una parte fonda
 - [Ministero dell'elettronica e delle tecnologie dell'informazione](https://meity.gov.in/)
 - [Iniziativa cloud MeghRaj](https://meity.gov.in/content/gi-cloud-meghraj)
 - [Provider di servizi cloud accreditati](https://meity.gov.in/content/gi-cloud-meghraj)
-- [Conformità in Microsoft Trust Center](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Conformità nel Centro protezione Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)

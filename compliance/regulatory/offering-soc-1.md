@@ -2,7 +2,7 @@
 title: SOC (System and Organization Controls) 1 di tipo 2
 description: Informazioni sulla conformità dei servizi cloud Microsoft agli standard SOC (System and Organization Controls) 1 di tipo 2 per la sicurezza operativa.
 keywords: Microsoft 365, conformità, offerte
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: bfa130999fb2c527f4b3f233958d10b24cba76d4
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: 8c374ce340538e4030e0cd07a2bdbe0aa4f4615d
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58260960"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482641"
 ---
 # <a name="system-and-organization-controls-soc-1-type-2"></a>SOC (System and Organization Controls) 1 di tipo 2
 

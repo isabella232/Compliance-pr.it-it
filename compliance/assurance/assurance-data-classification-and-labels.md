@@ -8,7 +8,7 @@ ms.reviewer: sosstah
 audience: ITPro
 ms.topic: article
 ms.service: O365-seccomp
-localization_priority: Normal
+ms.localizationpriority: medium
 search.appverid:
 - MET150
 ms.collection:
@@ -20,18 +20,18 @@ f1.keywords:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 396063b9ab094c7e5834572fe778046464ade81d
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: a68332971da909d8739039be6f0c8d84310ff9f9
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58260331"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482139"
 ---
 # <a name="data-classification--sensitivity-label-taxonomy"></a>Classificazione dei dati & tassonomia dell'etichetta di riservatezza
 
 I dati sensibili presentano rischi significativi per un'azienda se vengono rubati, condivisi inavvertitamente o esposti tramite una violazione. I fattori di rischio includono danni alla reputazione, impatto finanziario e perdita di vantaggio competitivo. La protezione dei dati e delle informazioni gestite dall'azienda è una priorità assoluta per l'organizzazione, ma potrebbe risultare difficile sapere se i propri sforzi sono veramente efficaci, data la quantità di contenuto mantenuto dall'azienda.
 
-Oltre al volume, il contenuto può variare di importanza da estremamente sensibile e di impatto a banale e transitorio. Può anche essere sotto il controllo di vari requisiti di conformità normativa. Sapere quali priorità e dove applicare i controlli può essere una sfida. Continua a leggere per informazioni sulla classificazione dei *dati,* uno strumento importante per proteggere il contenuto da furti, furti o distruzione involontaria e su come Microsoft 365 può aiutare a raggiungere gli obiettivi di sicurezza delle informazioni.
+Oltre al volume, il contenuto può variare di importanza da estremamente sensibile e di impatto a banale e transitorio. Può anche essere sotto il controllo di vari requisiti di conformità normativa. Sapere quali priorità e dove applicare i controlli può essere una sfida. Continua a leggere per informazioni sulla classificazione dei *dati,* uno strumento importante per proteggere il contenuto da furti, furti o distruzione accidentale e su come Microsoft 365 può aiutare a raggiungere gli obiettivi di sicurezza delle informazioni.
 
 ## <a name="what-is-data-classification"></a>Che cos'è la classificazione dei dati?
 
@@ -57,7 +57,7 @@ Un altro componente importante di un framework di classificazione dei dati è i 
 - Crittografia
 - Controllo di accesso
 - Distruzione dei dati
-- Prevenzione della perdita dei dati
+- Prevenzione della perdita di dati
 - Divulgazione pubblica
 - Registrazione e verifica dell'accesso
 - Altri obiettivi di controllo, in base alle esigenze

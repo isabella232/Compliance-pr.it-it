@@ -10,7 +10,7 @@ ms.topic: article
 f1.keywords:
 - NOCSH
 ms.service: O365-seccomp
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection:
 - Strat_O365_IP
 - M365-security-compliance
@@ -20,20 +20,20 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 8909d2c3029050a18f3f37862f7dd342696b1fc0f92c5e8bb03aa190f03f2c25
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: ed400fabf50cfcd7f02d9246bb4d552f62f26eef
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54290559"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58481778"
 ---
-# <a name="microsoft-365-risk-management-program"></a>Microsoft 365 Programma di gestione dei rischi
+# <a name="microsoft-365-risk-management-program"></a>Programma di gestione dei rischi Microsoft 365
 
 Lo scopo del programma Microsoft 365 gestione dei rischi è identificare, valutare e gestire i rischi da Microsoft 365. Microsoft 365 priorità è soddisfare gli obblighi contrattuali e gli accreditamenti, aumentare la fiducia dei clienti e mantenere il vantaggio competitivo. Sebbene il programma Microsoft 365 Risk Management funzioni in modo indipendente, si allinea ai criteri, alle priorità e alle metodologie del programma ERM (Enterprise Risk Management). L'utilizzo del programma ERM consente un confronto coerente tra le unità aziendali e i gruppi di progettazione, contribuendo a un approccio più coesivo alla gestione dei rischi in tutta l'azienda.
 
-Il team Microsoft 365 Trust è responsabile della gestione del programma di gestione dei rischi di Microsoft 365 e dell'esecuzione delle attività previste dal programma ERM. Il team trust si concentra sull'integrazione del framework di gestione dei rischi con il processo di Microsoft 365 progettazione, gestione dei servizi e conformità esistente per rendere il programma di gestione dei rischi più efficace ed efficiente.
+Il team Microsoft 365 Trust è responsabile della gestione del programma di gestione dei rischi di Microsoft 365 e dell'esecuzione delle attività previste dal programma ERM. Il team trust si concentra sull'integrazione del framework di gestione dei rischi con i processi di Microsoft 365 progettazione, gestione dei servizi e conformità esistenti per rendere il programma di gestione dei rischi più efficace ed efficiente.
 
-Il team trust gestisce anche Microsoft 365 Controls Framework, un set di controlli razionalizzati che, se implementati correttamente con il supporto delle attività di conformità, consentono ai team di progettazione di conformarsi a normative e certificazioni chiave. Questo framework viene costantemente aggiornato in base al feedback e ai risultati nell'ambito del processo di gestione dei rischi.
+Il team trust gestisce anche Microsoft 365 Controls Framework, un set di controlli razionalizzati che, se implementati correttamente con attività di conformità di supporto, consentono ai team di progettazione di conformarsi a normative e certificazioni chiave. Questo framework viene costantemente aggiornato in base al feedback e ai risultati nell'ambito del processo di gestione dei rischi.
 
 Le attività di gestione dei rischi sono suddivise in quattro fasi: identificazione, valutazione, risposta e monitoraggio e creazione di report.
 
@@ -51,8 +51,8 @@ La fase di identificazione si verifica anche quando vengono esaminati i registri
 
 Ogni rischio identificato viene valutato utilizzando tre metriche: impatto, probabilità e deficit di controllo.
 
-- L'impatto si riferisce al danno che si verificherebbe al servizio, all'azienda o a Microsoft se tale rischio fosse realizzato. L'impatto di Microsoft può includere danni alla reputazione, perdita di clienti o implicazioni legali/di conformità.
-- La probabilità definisce la probabilità del rischio potenziale realizzato e viene calcolata analizzando la probabilità e la frequenza con cui si verificherà.
+- L'impatto si riferisce al danno che si verificherebbe al servizio, all'azienda o a Microsoft se tale rischio fosse realizzato. L'impatto per Microsoft può includere danni alla reputazione, perdita di clienti o implicazioni legali/di conformità.
+- Probabilità definisce la probabilità del rischio potenziale realizzato e viene calcolata analizzando la probabilità e la frequenza con cui si verificherà.
 - La mancanza di controllo misura l'efficacia dei controlli di mitigazione implementati.
 
 Queste metriche vengono utilizzate per calcolare un punteggio di rischio che rappresenta la gravità di ogni rischio, in base alle strategie di mitigazione esistenti. I rischi vengono aggregati e presentati ai principali stakeholder di ogni servizio per verificare l'accuratezza e la completezza Microsoft 365 postura dei rischi.
@@ -72,4 +72,4 @@ Il team trust si coordina con i team di servizio per sviluppare piani per affron
 
 I rischi identificati come parte della valutazione dei rischi vengono monitorati e segnalati alle parti interessate pertinenti. Le strategie di monitoraggio includono il monitoraggio della sicurezza, le revisioni periodiche dei rischi, i test di penetrazione e l'analisi delle vulnerabilità. Queste attività di monitoraggio fungono da origini dati per la creazione di report sugli indicatori di prestazioni chiave, la creazione di dashboard e lo sviluppo di report formali, che informano le decisioni future sui rischi.
 
-Più volte all'anno, il team trust incontra i proprietari dei rischi di ogni servizio per esaminare i punteggi dei rischi, valutare l'efficacia dei propri piani d'azione e apportare aggiornamenti se necessario. Inoltre, le attività di valutazione dei rischi di Microsoft 365 contribuiscono alle valutazioni dei rischi di Enterprise del programma ERM, che forniscono una panoramica generale della postura dei rischi di Microsoft ai dirigenti Microsoft e al programma ERM.
+Più volte all'anno, il team trust si incontra con i proprietari dei rischi di ogni servizio per esaminare i punteggi dei rischi, valutare l'efficacia dei propri piani d'azione e apportare aggiornamenti dove necessario. Inoltre, le attività di valutazione dei rischi di Microsoft 365 contribuiscono alle valutazioni dei rischi di Enterprise del programma ERM, che forniscono una panoramica generale della posizione di Microsoft sui rischi per i dirigenti Microsoft e il programma ERM.

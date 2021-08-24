@@ -8,7 +8,7 @@ ms.reviewer: sosstah
 audience: ITPro
 ms.topic: article
 ms.service: O365-seccomp
-localization_priority: Normal
+ms.localizationpriority: medium
 search.appverid:
 - MET150
 ms.collection:
@@ -20,12 +20,12 @@ f1.keywords:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 764b56a0f950d0b933bb86bb86ad505481bce482cbed4d2a0b06a4969b1c6661
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 633873434620266d0fc9f24bbe7a3470554c35f3
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54292303"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58481828"
 ---
 # <a name="microsoft-pre-employment-screening"></a>Screening precedente all'impiego presso Microsoft
 
@@ -33,7 +33,7 @@ Microsoft lavora per mantenere un ambiente sicuro e sicuro che protegga corretta
 
 ## <a name="the-microsoft-personnel-screening-standard"></a>The Microsoft Personnel Screening Standard
 
-Lo Standard di screening del personale Microsoft si applica a tutti i dipendenti Microsoft, gli stagisti e il personale contingente coinvolto nello sviluppo, nel funzionamento o nella distribuzione di servizi online ai clienti del cloud governativo o commerciale.
+Microsoft Personnel Screening Standard si applica a tutti i dipendenti Microsoft, stagisti e personale contingente coinvolto nello sviluppo, nel funzionamento o nella distribuzione di servizi online ai clienti del cloud governativo o commerciale.
 
 Le procedure di screening del personale per i servizi online Microsoft sono allineate agli standard aziendali di Microsoft e ai controlli NIST (National Institute of Standards and Technology) per lo screening del personale. Il personale Microsoft che richiede l'accesso a quanto segue è soggetto allo Standard di screening del personale Microsoft:
 
@@ -56,11 +56,11 @@ Nella misura consentita dalla legge locale, i controlli includono quanto segue:
 - La cronologia penale controlla fino a sette anni per reati di reati e reati a livello di stato, di provincia e locale e, se appropriato, a livello federale negli Stati Uniti. Un controllo della cronologia penale internazionale (a seconda del diritto locale) è applicabile per le aree al di fuori degli Stati Uniti.
 - conferma del livello più alto di istruzione conseguito;
 - Cronologia dell'impiego di cinque anni
-- Sanzioni globali e controlli di applicazione, tra cui Office dell'elenco OFAC (Foreign Assets Control), dell'elenco BIS (Bureau of Industry and Security) e dei controlli degli elenchi Office of Defense Trade Controls Debarred Persons (DDTC).
+- Sanzioni globali e controlli di applicazione, tra cui Office dell'elenco OFAC (Foreign Assets Control), l'elenco BIS (Bureau of Industry and Security) e i controlli degli elenchi Office of Defense Trade Controls Debarred Persons (DDTC).
 
 ## <a name="supplier-screening"></a>Screening dei fornitori
 
-Microsoft richiede che i fornitori (personale contingente) eserino controlli in background pre-posizionamento su tutto il personale che eseguirà servizi o progetti che richiedono l'accesso a strutture di proprietà o in leasing Microsoft o l'accesso a risorse Microsoft quali posta elettronica, accesso alla rete, chiave della carta o altri badge di accesso.
+Microsoft richiede che i fornitori (personale contingente) eservitino controlli in background pre-posizionamento su tutto il personale che eseguirà servizi o progetti che richiedono l'accesso a strutture di proprietà o in leasing Microsoft o l'accesso a risorse Microsoft quali posta elettronica, accesso alla rete, chiave della carta o altri badge di accesso.
 
 Nella misura consentita dalla legge locale, i controlli di screening dei fornitori includono i seguenti elementi:
 
@@ -69,7 +69,7 @@ Nella misura consentita dalla legge locale, i controlli di screening dei fornito
 - conferma del livello più alto di istruzione conseguito;
 - Controllo globale delle violazioni e del rispetto delle direttive
 
-Negli Stati Uniti prima di ogni collocamento di ogni membro del personale del fornitore da eseguire per Microsoft, nella misura consentita dalla legge locale, il fornitore eseguirà un pre-posizionamento e per determinati posizionamenti, controllo periodico in background utilizzando il provider di servizi di controllo in background preferito di Microsoft che confermerà a Microsoft che lo screening soddisfa lo standard Microsoft. 
+Negli Stati Uniti prima di ogni collocamento di ogni membro del personale fornitore da eseguire per Microsoft, nella misura consentita dalla legge locale, il fornitore eseguirà un pre-posizionamento e per determinati posizionamenti, controllo periodico in background utilizzando il provider di servizi di controllo in background preferito di Microsoft che confermerà a Microsoft che lo screening soddisfa lo standard Microsoft. 
 
 A livello internazionale, il requisito di cui si dispone verrà implementato in tutti i paesi entro settembre 2020 e, se non è attualmente implementato, il contratto con la terza parte specifica i requisiti di Microsoft per lo screening che devono essere condotti e il fornitore è responsabile di attestare a Microsoft per iscritto che il controllo in background è stato completato correttamente.
 

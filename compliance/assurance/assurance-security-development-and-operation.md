@@ -10,7 +10,7 @@ ms.topic: article
 f1.keywords:
 - NOCSH
 ms.service: O365-seccomp
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection:
 - Strat_O365_IP
 - M365-security-compliance
@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 062284cb1cb56602bbcc4ba683670bfeb98460db2569bd837eaf748feceaae7d
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: fc6113dbf5c095cc4b22eb8ed0a4527d84f7e143
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54292174"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58481748"
 ---
 # <a name="security-development-and-operations-overview"></a>Panoramica delle operazioni e dello sviluppo della sicurezza
 
@@ -35,7 +35,7 @@ Microsoft Security Development Lifecycle (SDL) è un processo di garanzia di sic
 
 ## <a name="how-does-microsofts-sdl-improve-application-security"></a>In che modo il processo SDL di Microsoft migliora la sicurezza delle applicazioni?
 
-Il processo SDL di Microsoft può essere pensato in termini di cinque fasi di sviluppo: requisiti, progettazione, implementazione, verifica e rilascio. Inizia dalla definizione dei requisiti software tenendo conto della sicurezza. Per raggiungere questo obiettivo, vengono poste domande rilevanti per la sicurezza sulle attività che devono essere completate dall'applicazione. L'applicazione deve raccogliere dati sensibili? L'applicazione eseguirà attività importanti o sensibili? L'applicazione deve accettare l'input di origini non attendibili?
+Il processo SDL di Microsoft può essere pensato in termini di cinque fasi di sviluppo: requisiti, progettazione, implementazione, verifica e rilascio. Inizia dalla definizione dei requisiti software tenendo conto della sicurezza. Per raggiungere questo obiettivo, vengono poste domande rilevanti per la sicurezza sulle attività che l'applicazione deve eseguire. L'applicazione deve raccogliere dati sensibili? L'applicazione eseguirà attività importanti o sensibili? L'applicazione deve accettare l'input di origini non attendibili?
 
 Una volta identificati i requisiti di sicurezza pertinenti, progettiamo il nostro software affinché incorpori le funzionalità di sicurezza adatte a soddisfare questi requisiti. I nostri sviluppatori implementano l'SDL e i requisiti di progettazione nel codice, che poi noi verifichiamo tramite analisi manuale del codice, strumenti di sicurezza automatici e test di penetrazione. Infine, prima che il codice possa essere rilasciato, le nuove funzionalità e le modifiche materiali vengono sottoposte alla revisione finale della sicurezza e della privacy per garantire che tutti i requisiti siano soddisfatti.
 

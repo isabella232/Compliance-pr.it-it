@@ -10,7 +10,7 @@ ms.topic: article
 f1.keywords:
 - NOCSH
 ms.service: O365-seccomp
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection:
 - Strat_O365_IP
 - M365-security-compliance
@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 977f6fcb60dd57033cf2f3555d9d4bf2bf74066c
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: 203adce9b4c7167315abbbfbebce0efdd604fefe
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58260771"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58481948"
 ---
 # <a name="incident-management-overview"></a>Panoramica sulla gestione degli incidenti
 
@@ -35,7 +35,7 @@ Microsoft definisce un incidente della sicurezza all'interno dei suoi servizi on
 
 ## <a name="how-does-microsoft-respond-to-security-incidents"></a>In che modo Microsoft risponde agli incidenti di sicurezza?
 
-Ogni volta che si verifica un incidente di sicurezza, Microsoft si impegna a rispondere in modo rapido ed efficace per proteggere i servizi Microsoft e i dati dei clienti. Microsoft utilizza una strategia di risposta agli incidenti progettata per analizzare, contenere e rimuovere le minacce alla sicurezza in modo rapido ed efficiente.
+Ogni volta che si verifica un incidente di sicurezza, Microsoft si impegna a rispondere in modo rapido ed efficace per proteggere servizi Microsoft e i dati dei clienti. Microsoft utilizza una strategia di risposta agli incidenti progettata per analizzare, contenere e rimuovere le minacce alla sicurezza in modo rapido ed efficiente.
 
 I servizi cloud Microsoft vengono costantemente monitorati per i segni di compromissione. Oltre al monitoraggio e all'avviso di sicurezza automatizzati, tutti i dipendenti ricevono una formazione annuale per riconoscere e segnalare i segni di potenziali incidenti di sicurezza. Tutte le attività sospette rilevate da dipendenti, clienti o strumenti di monitoraggio della sicurezza vengono inoltrate ai team di Security Response specifici del servizio per l'indagine. Tutti i team delle operazioni di servizio, inclusi i team di Security Response specifici del servizio, mantengono una rotazione approfondita delle chiamate per garantire la disponibilità di risorse per la risposta agli incidenti 24x7x365. Le rotazioni di chiamata consentono a Microsoft di montare una risposta efficace agli incidenti in qualsiasi momento o scala, inclusi eventi diffusi o simultanei.
 

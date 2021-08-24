@@ -10,7 +10,7 @@ ms.topic: article
 f1.keywords:
 - NOCSH
 ms.service: O365-seccomp
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection:
 - Strat_O365_IP
 - M365-security-compliance
@@ -20,18 +20,18 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: ca26f1cb12fd7440b143ec27f7abfb1977acc0a2addc71baa3e265d262aeb57a
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 97fe615296f03c8f72dbf23d886501988686b53a
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54289244"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482199"
 ---
 # <a name="architecture-overview"></a>Panoramica dell'architettura
 
 ## <a name="what-are-microsoft-online-services"></a>Che cosa sono i servizi online Microsoft?
 
-I servizi online Microsoft fanno riferimento ai servizi basati sul cloud offerti da Microsoft, che includono Azure, Dynamics 365 e Microsoft 365.  Ogni servizio offre soluzioni uniche per le esigenze di produttività e di funzionamento aziendali comuni, al servizio dei clienti di tutto il mondo, dalle piccole imprese alle grandi imprese e ai governi. I data center distribuiti a livello globale connessi dall'infrastruttura di rete gestita in modo indipendente da Microsoft fungono da backbone per supportare i servizi online, offrendo la possibilità di mantenere la disponibilità in quasi tutte le situazioni e di scalare in base a una domanda globale di grandi dimensioni.
+I servizi online Microsoft fanno riferimento ai servizi basati sul cloud offerti da Microsoft, che includono Azure, Dynamics 365 e Microsoft 365.  Ogni servizio offre soluzioni uniche per le esigenze comuni di produttività e operazioni aziendali, al servizio dei clienti di tutto il mondo, dalle piccole imprese alle grandi imprese e ai governi. I datacenter distribuiti a livello globale connessi dall'infrastruttura di rete gestita in modo indipendente da Microsoft fungono da backbone per supportare i servizi online, offrendo la possibilità di supportare la disponibilità in quasi tutte le situazioni e di scalare in base a una domanda globale di grandi dimensioni.
 
 Tutti i servizi online Microsoft hanno lo stesso obiettivo di salvaguardare l'infrastruttura di servizio che gestiscono e i dati dei clienti, ma ogni servizio online è gestito da una business unit separata. In molti casi, i controlli di sicurezza vengono implementati nello stesso modo in tutti i servizi, ma in alcuni casi hanno un approccio diverso per adempiere alle promesse dei clienti e agli obblighi di conformità.
 
@@ -41,25 +41,25 @@ Microsoft Azure è una piattaforma di cloud computing per la creazione, la distr
 
 ## <a name="what-is-dynamics-365"></a>Che cos'è Dynamics 365?
 
-Dynamics 365 è una famiglia di applicazioni aziendali online che integra le funzionalità crm (Customer Relationship Management) e le relative estensioni con le funzionalità ERP (Enterprise Resource Planning). Queste applicazioni aziendali end-to-end consentono ai clienti di trasformare le relazioni in ricavi, guadagnare clienti e accelerare la crescita aziendale. Dynamics 365 è una famiglia di prodotti Software as a Service (SaaS) che si basa sull'infrastruttura di Azure ed è resa disponibile per i clienti di tutto il mondo tramite i datacenter distribuiti a livello globale.
+Dynamics 365 è una famiglia di applicazioni aziendali online che integra le funzionalità di Customer Relationship Management (CRM) e le relative estensioni con le funzionalità ERP (Enterprise Resource Planning). Queste applicazioni aziendali end-to-end consentono ai clienti di trasformare le relazioni in ricavi, guadagnare clienti e accelerare la crescita aziendale. Dynamics 365 è una famiglia di prodotti Software as a Service (SaaS) che si basa sull'infrastruttura di Azure ed è resa disponibile per i clienti di tutto il mondo tramite i datacenter distribuiti a livello globale.
 
 ## <a name="what-is-microsoft-365"></a>Che cos'è Microsoft 365?
 
 Microsoft 365 è la versione basata su sottoscrizione basata su cloud di Office, Windows 10, Enterprise Mobility + Security e conformità. Microsoft 365 clienti ottengono client come Outlook e Windows e beneficiano anche di servizi ospitati da Microsoft per loro conto, ad esempio Exchange Online, Microsoft Teams e SharePoint Online. Tutti i componenti del servizio vengono aggiornati regolarmente come parte del modello di sottoscrizione, in modo che i nostri clienti hanno un prodotto "sempreverde". Microsoft gestisce l'infrastruttura di servizio per conto dei clienti, il che significa che Microsoft è responsabile della protezione dell'infrastruttura che archivia i dati dei clienti.
 
-In termini di scalabilità, Microsoft attualmente usa quasi un milione di computer per alimentare Microsoft 365 servizi. L'infrastruttura di alimentazione di questi servizi varia notevolmente nell'hardware specifico del servizio e negli ambienti virtualizzati in Azure, Windows e Linux e nelle piattaforme multi-tenant e dedicate. Microsoft 365 è un'azienda globale e la nostra infrastruttura è distribuita in data center in tutto il mondo, il che consente ai clienti di soddisfare i requisiti di residenza e sovranità dei dati.
+In termini di scalabilità, Microsoft attualmente usa quasi un milione di computer per alimentare Microsoft 365 servizi. L'infrastruttura di alimentazione di questi servizi varia notevolmente tra hardware specifico del servizio e ambienti virtualizzati in Azure, Windows e Linux e piattaforme multi-tenant e dedicate. Microsoft 365 è un'azienda globale e la nostra infrastruttura è distribuita in data center in tutto il mondo, il che consente ai clienti di soddisfare i requisiti di residenza e sovranità dei dati.
 
 ## <a name="how-do-microsoft-online-services-ensure-isolation-between-customer-tenants"></a>In che modo i servizi online Microsoft garantiscono l'isolamento tra i tenant dei clienti?
 
 I servizi cloud di Microsoft si basano sul presupposto che tutti i tenant siano potenzialmente dannosi per tutti gli altri tenant. Per isolare correttamente i tenant l'uno dall'altro, Microsoft implementa diverse tecnologie e controlli di isolamento. Questi controlli sono progettati per evitare perdite di informazioni o accessi non autorizzati ai dati dei clienti nei tenant e per impedire che le azioni di un tenant influiscano negativamente sul servizio per un altro tenant.
 
-Il contenuto dei clienti è isolato logicamente all'interno dei tenant tramite Azure Active Directory (Azure AD). L'autenticazione utente nei Servizi online Microsoft verifica non solo l'identità utente, ma anche l'identità del tenant di cui fa parte l'account utente, impedendo agli utenti di accedere ai dati all'esterno dell'ambiente tenant. Per integrare l'isolamento logico di Azure AD, il contenuto del cliente viene sempre crittografato in fase di riposo e in transito. I singoli servizi possono inoltre fornire livelli aggiuntivi di isolamento del tenant, ad esempio l SharePoint in linea dei dati del tenant in database separati crittografati.
+Il contenuto del cliente è isolato logicamente all'interno dei tenant tramite Azure Active Directory (Azure AD). L'autenticazione utente nei Servizi online Microsoft verifica non solo l'identità utente, ma anche l'identità del tenant di cui fa parte l'account utente, impedendo agli utenti di accedere ai dati all'esterno dell'ambiente tenant. Per integrare l'isolamento logico di Azure AD, i contenuti dei clienti vengono sempre crittografati in fase di riposo e in transito. I singoli servizi possono inoltre fornire livelli aggiuntivi di isolamento del tenant SharePoint, ad esempio l'isolamento online dei dati del tenant in database separati e crittografati.
 
 ## <a name="how-do-microsoft-online-services-engineer-resilient-services-that-avoid-single-points-of-failure"></a>In che modo i Servizi online Microsoft possono progettare servizi resilienti che evitano singoli punti di errore?
 
 Microsoft progetta e crea servizi cloud per ottimizzare l'affidabilità e ridurre al minimo gli effetti negativi sui clienti di fronte a errori e sfide alle normali operazioni. Questa strategia inizia con la progettazione della rete che collega i datacenter geograficamente distribuiti. L'architettura di rete di Microsoft include interconnessioni dirette e più percorsi di rete. I servizi online Microsoft usano questa ridondanza per instradare automaticamente il traffico intorno agli errori per migliorare la qualità del servizio.
 
-Se possibile, i servizi online Microsoft vengono distribuiti in configurazioni attive/attive con monitoraggio automatico dell'integrità dei servizi, consentendo al servizio di rilevare e ripristinare da molti errori e errori comuni senza l'intervento umano. Oltre alle configurazioni attive/attive, i servizi online Microsoft aumentano la tolleranza di errore assicurando che il servizio sia distribuito in aree di errore separate, impedendo a un errore in un'area di influire sulla disponibilità di altre aree.
+Ove possibile, i servizi online Microsoft vengono distribuiti in configurazioni attive/attive con monitoraggio automatico dell'integrità dei servizi, consentendo al servizio di rilevare e ripristinare da molti errori e errori comuni senza l'intervento umano. Oltre alle configurazioni attive/attive, i servizi online Microsoft aumentano la tolleranza di errore assicurando che il servizio sia distribuito in aree di errore separate, impedendo a un errore in un'area di influire sulla disponibilità di altre aree.
 
 La resilienza dei dati integra la resilienza del servizio proteggendo l'integrità e la disponibilità dei dati nei servizi online Microsoft. I nostri servizi usano la ridondanza di archiviazione locale e la ridondanza geografica per replicare le copie dei dati dei clienti in diverse aree di errore. Se i dati sono danneggiati o vanno persi in una zona di errore, è possibile accedervi in un'altra zona di errore senza perdita di disponibilità. Il controllo automatico dell'integrità ripristina automaticamente i dati influenzati da molti tipi di danneggiamento fisico o logico. Microsoft fornisce inoltre ai clienti strumenti per ripristinare i dati eliminati o modificati accidentalmente dal cliente in servizi come Exchange Online e SharePoint Online.
 

@@ -2,7 +2,7 @@
 title: Requisiti di localizzazione dei dati personali in Russia
 description: Informazioni su come la raccolta dei dati personali, la registrazione dei dati personali dei cittadini russi, la sistematizzazione, l'accumulazione, l'archiviazione, il chiarimento e l'estrazione vengono eseguite in servizi Microsoft e database situati in Russia.
 keywords: Microsoft 365, conformità, offerte
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,22 +16,22 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 559614554eb661be33a751c212080bea20d967565daf37de59a292851b9a28e8
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 093ec578cd83dc6c52485101d232d9ccff88489e
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54287145"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482801"
 ---
 # <a name="russian-personal-data-localization-requirements"></a>Requisiti di localizzazione dei dati personali in Russia
 
 A partire dal 1° settembre 2015, le organizzazioni considerate operatori di dati personali devono garantire che, quando si raccolgono dati personali, la registrazione dei dati personali dei cittadini russi, la sistemizzazione, l'accumulazione, l'archiviazione, il chiarimento (aggiornamento, modifica) e l'estrazione siano eseguite attraverso i database situati in Russia ('requisito di localizzazione dei dati personali'). <sup>1</sup>
 
-servizi Microsoft disponibili per le organizzazioni (incluse ma non solo per gli istituti di istruzione) (quiinfter denominato "cliente"), inclusi quelli che consentono il trattamento dei dati personali come Microsoft Azure, Microsoft 365, Dynamics 365 e Power Platform, sono forniti da centri di trattamento dei dati situati al di fuori della Russia (per ulteriori informazioni, visitare il Centro protezione [Microsoft).](https://www.microsoft.com/trust-center)
+servizi Microsoft disponibili per le organizzazioni (incluse ma non solo per gli istituti di istruzione) (quiinfter denominato "cliente"), inclusi quelli che consentono il trattamento dei dati personali come Microsoft Azure, Microsoft 365, Dynamics 365 e Power Platform, sono forniti da centri di trattamento dei dati situati al di fuori della Russia (per ulteriori informazioni, visitare [il Microsoft Trust Center).](https://www.microsoft.com/trust-center)
 
 In base al tipo e al contenuto delle informazioni elaborate dai sistemi informatici dei clienti, tali sistemi, inclusi quelli che utilizzano prodotti cloud Microsoft, possono essere considerati un sistema di informazioni sui dati personali ('PDIS', 'ISPD'). Nei casi in cui il cliente desidera utilizzare servizi Microsoft in un sistema che si qualifica come PDIS tramite l'architettura e i tipi di informazioni elaborati, Microsoft invita i clienti a prendere in considerazione, tra le altre cose, le soluzioni disponibili specificate di seguito. Tutti gli scenari forniti sono disponibili per i clienti come opzione aggiuntiva per le offerte aziendali standard.
 
-Va notato che è il cliente come operatore di dati personali del PDIS a essere responsabile della conformità e deve analizzare e valutare i requisiti legali applicabili per la localizzazione dei dati personali e, a propria discrezione, determinare in modo indipendente misure sufficienti per garantire che il trattamento dei dati personali in PDIS sia conforme alla legge sui dati personali russa. <sup>2</sup>
+Va notato che è il cliente come operatore di dati personali del PDIS a essere responsabile della conformità e deve analizzare e valutare i requisiti legali applicabili per la localizzazione dei dati personali e, a propria discrezione, determinare in modo indipendente misure sufficienti per garantire che il trattamento dei dati personali in PDIS sia conforme al diritto russo sui dati personali. <sup>2</sup>
 
 ## <a name="subscribing-to-microsoft-services"></a>Sottoscrizione a servizi Microsoft
 
@@ -41,7 +41,7 @@ Microsoft invita i clienti a prendere in considerazione la sottoscrizione a serv
 
 ### <a name="managing-user-identity-and-access-for-microsoft-services"></a>Gestione dell'identità utente e dell'accesso per servizi Microsoft
 
-Ad servizi Microsoft, ad esempio Microsoft Azure, Microsoft 365, Dynamics 365 e Power Platform, la verifica degli utenti e la gestione degli accessi vengono eseguite tramite [Azure Active Directory (Azure Active Directory).](https://azure.microsoft.com/services/active-directory/) Nei casi in cui un cliente Microsoft usa un sistema di gestione dell'identificazione locale per i servizi cloud Microsoft (ad esempio il Windows Server Active Directory (AD) o qualsiasi altro sistema di gestione degli ID, il cliente ha l'opportunità di integrare rapidamente tale sistema con il Azure Active Directory (Azure Active Directory) tramite Azure AD Connessione. Per ulteriori informazioni, vedere azure [AD Connessione](/azure/active-directory/cloud-provisioning/). I clienti Microsoft possono anche prendere in considerazione l'uso di applicazioni e soluzioni di fornitori di terze parti per la gestione degli utenti e l'integrazione del sistema di identificazione locale con Azure AD.
+Per servizi Microsoft, ad esempio Microsoft Azure, Microsoft 365, Dynamics 365 e Power Platform, la verifica e la gestione degli accessi degli utenti vengono eseguite tramite [Azure Active Directory (Azure Active Directory).](https://azure.microsoft.com/services/active-directory/) Nei casi in cui un cliente Microsoft usa un sistema di gestione dell'identificazione locale per i servizi cloud Microsoft (ad esempio il Windows Server Active Directory (AD) o qualsiasi altro sistema di gestione degli ID, il cliente ha l'opportunità di integrare rapidamente tale sistema con il Azure Active Directory (Azure Active Directory) tramite Azure AD Connessione. Per ulteriori informazioni, vedere azure [AD Connessione](/azure/active-directory/cloud-provisioning/). I clienti Microsoft possono anche prendere in considerazione l'uso di applicazioni e soluzioni di fornitori di terze parti per la gestione degli utenti e l'integrazione del sistema di identificazione locale con Azure AD.
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usare Microsoft Compliance Manager per valutare i rischi
 
@@ -77,5 +77,5 @@ Per domande tecniche e di fatturazione, fare riferimento alle risorse del suppor
 - **Supporto online:** inviare query tramite [il supporto della piattaforma Power](/power-platform/admin/get-help-support)
 
 > [!NOTE]
-> <sup>1</sup> Legge federale n. 242-FZ (edizione datata 12.31.2014) "All'inserimento di modifiche in alcuni atti normativi della Federazione russa per chiarire la procedura per il trattamento dei dati personali nelle reti di informazione e telecomunicazioni" datata 07.21.2014 <br>
+> <sup>1</sup> Legge federale n. 242-FZ (edizione datata 12.31.2014) "Al momento dell'immissione di modifiche in alcuni atti normativi della Federazione russa sulla chiarire la procedura per il trattamento dei dati personali nelle reti di informazione e telecomunicazioni" datata 07.21.2014 <br>
 > <sup>2</sup> Legge federale n. 152-FZ sui dati personali a data 07.27. 2006<br>

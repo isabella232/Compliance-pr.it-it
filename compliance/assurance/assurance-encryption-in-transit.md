@@ -1,6 +1,6 @@
 ---
 title: Crittografia per i dati in transito
-description: In questo articolo, trovare una breve spiegazione di come Microsoft crittografa Microsoft 365 dati dei clienti in transito.
+description: In questo articolo, trovare una breve spiegazione del modo in cui Microsoft crittografa Microsoft 365 dati dei clienti in transito.
 ms.author: krowley
 author: kccross
 manager: laurawi
@@ -10,7 +10,7 @@ f1.keywords:
 audience: ITPro
 ms.topic: article
 ms.service: O365-seccomp
-localization_priority: None
+ms.localizationpriority: medium
 search.appverid:
 - MET150
 ms.collection:
@@ -21,12 +21,12 @@ ms.collection:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 6a4707be17c0ef5d992e1f98db9638b9b8337dfd22f012af914ef65891c315ed
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: ebeface33b0d5ba419773c13305c277d681e8400
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54291284"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482018"
 ---
 # <a name="encryption-for-data-in-transit"></a>Crittografia per i dati in transito
 
@@ -36,9 +36,9 @@ Oltre a proteggere i dati dei clienti in pausa, Microsoft usa tecnologie di crit
 - quando un server Microsoft comunica con un altro server Microsoft; e
 - quando un server Microsoft comunica con un server non Microsoft (ad esempio, Exchange Online la posta elettronica a un server di posta elettronica di terze parti).
 
-Le comunicazioni tra data center tra i server Microsoft si svolgono su TLS o IPsec e tutti i server rivolti ai clienti negoziano una sessione sicura utilizzando TLS con i computer client (ad esempio, Exchange Online usa TLS 1.2 con forza di crittografia a 256 bit ( convalidato da FIPS 140-2 livello 2). Per un [elenco delle](/microsoft-365/compliance/technical-reference-details-about-encryption) suite di crittografia TLS supportate da Office 365, vedere Dettagli tecnici sulla crittografia. Ciò si applica ai protocolli utilizzati da client quali Outlook, Skype for Business, Microsoft Teams e Outlook sul web (ad esempio, HTTP, POP3 e così via).
+Le comunicazioni tra data center tra i server Microsoft si verificano tramite TLS o IPsec e tutti i server rivolti ai clienti negoziano una sessione sicura utilizzando TLS con i computer client (ad esempio, Exchange Online usa TLS 1.2 con forza di crittografia a 256 bit (convalidato da FIPS 140-2 livello 2). Per un [elenco delle](/microsoft-365/compliance/technical-reference-details-about-encryption) suite di crittografia TLS supportate da Office 365, vedere Dettagli tecnici sulla crittografia. Ciò si applica ai protocolli utilizzati da client quali Outlook, Skype for Business, Microsoft Teams e Outlook sul web (ad esempio, HTTP, POP3 e così via).
 
-I certificati pubblici vengono emessi da MICROSOFT IT SSL utilizzando SSLAdmin, uno strumento Microsoft interno per proteggere la riservatezza delle informazioni trasmesse. Tutti i certificati emessi da Microsoft IT hanno una lunghezza minima di 2048 bit e la conformità Webtrust richiede SSLAdmin per assicurarsi che i certificati siano emessi solo agli indirizzi IP pubblici di proprietà di Microsoft. Tutti gli indirizzi IP che non soddisfano questo criterio vengono instradati attraverso un processo di eccezione.
+I certificati pubblici vengono emessi da MICROSOFT IT SSL utilizzando SSLAdmin, uno strumento Microsoft interno per proteggere la riservatezza delle informazioni trasmesse. Tutti i certificati emessi da Microsoft IT hanno una lunghezza minima di 2048 bit e la conformità Webtrust richiede SSLAdmin per assicurarsi che i certificati siano rilasciati solo agli indirizzi IP pubblici di proprietà di Microsoft. Tutti gli indirizzi IP che non soddisfano questo criterio vengono instradati attraverso un processo di eccezione.
 
 Tutti i dettagli di implementazione, ad esempio la versione di TLS in uso, se Forward Secrecy (FS) è abilitato, l'ordine delle suite di crittografia e così via, sono disponibili pubblicamente. Un modo per visualizzare questi dettagli è usare un sito Web di terze parti, ad esempio [Qualys SSL Labs.](https://www.ssllabs.com) Di seguito sono riportati i collegamenti alle pagine di test automatizzate di Qualys che visualizzano informazioni per i servizi seguenti:
 

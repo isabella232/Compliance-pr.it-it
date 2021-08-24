@@ -15,7 +15,7 @@ metadata:
   author: robmazz
   ms.author: robmazz
   ms.date: 11/30/2020
-  localization_priority: Normal
+  ms.localizationpriority: medium
 conceptualContent:
   title: 'Azure, Dynamics 365 e Microsoft 365 conformità'
   summary: 'Informazioni per Azure, Dynamics 365, Microsoft 365 e Power Platform e altri servizi utili per le normative nazionali, regionali e specifiche del settore per la raccolta e l''uso dei dati.'

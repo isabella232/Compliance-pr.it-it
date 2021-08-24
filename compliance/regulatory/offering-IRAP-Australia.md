@@ -2,7 +2,7 @@
 title: Australian Government Information Security Registered Assessor Program (IRAP)
 description: Microsoft è inclusa nell'Elenco dei servizi cloud certificati australiani sia per gli indicatori di limitazione della diffusione non classificata (DLM) che per i dati PROTETTI in base a una valutazione e certificazione IRAP da parte dell'Australian Cyber Security Centre (ACSC).
 keywords: Microsoft 365, conformità, offerte
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: df88a1837b948f5f1dc31ad04244b5d9a84442bc
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: cd7ad9a68f69f134689262ad7e379eec89284035
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58260311"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58483011"
 ---
 # <a name="australian-government-information-security-registered-assessor-program-irap"></a>Australian Government Information Security Registered Assessor Program (IRAP)
 
@@ -33,7 +33,7 @@ L'Information Security Registered Assessors Program (IRAP) è gestito e gestito 
 
 - Nel 2014 Azure è stato avviato come primo servizio cloud valutato dall'IRAP in Australia, ospitato dai data center di Melbourne e Sydney. Questi due data center offrono ai clienti australiani il controllo sulla posizione in cui vengono archiviati i dati dei clienti, fornendo allo stesso tempo una maggiore durata dei dati in caso di emergenza tramite backup in entrambe le posizioni.
 - All'inizio del 2015, Office 365 è diventato il primo servizio di produttività cloud a completare questa valutazione.
-- Nell'aprile 2015, l'ASD ha annunciato la certificazione CCSL di Azure e Office 365, e nel novembre 2015, di Dynamics 365.
+- Nell'aprile 2015, l'ASD ha annunciato la certificazione CCSL di Azure e Office 365 e, nel novembre 2015, di Dynamics 365.
 - A giugno 2017, ASD ha annunciato la ricertificazione di Microsoft Azure e Office 365 per un set di servizi notevolmente ampliato.
 - Nell'aprile 2018, l'ACSC ha annunciato la certificazione di Azure e Office 365 alla classificazione PROTECTED. Microsoft è il primo e unico provider di cloud pubblico a ottenere questo livello di certificazione.
 - A settembre 2019, l'ambito di valutazione IRAP aggiornato di Microsoft è stato ampliato per includere 113 servizi nella classificazione PROTECTED.
@@ -58,7 +58,7 @@ Come sempre, i controlli di compensazione aggiuntivi possono essere implementati
 
 La valutazione IRAP dei servizi e delle operazioni cloud di Microsoft consente di garantire ai clienti del settore pubblico e ai loro partner che Microsoft dispone di controlli di sicurezza appropriati ed efficaci per l'elaborazione, l'archiviazione e la trasmissione di dati classificati fino al livello DI PROTEZIONE incluso. Questa valutazione include la maggior parte dei dati governativi, sanitari ed educativi in Australia.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme e servizi cloud Microsoft inclusi nell'ambito
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servizi e piattaforme cloud Microsoft inclusi nell'ambito
 
 - Azure
 - [Dynamics 365](https://aka.ms/d365-compliance-list)

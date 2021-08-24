@@ -8,7 +8,7 @@ ms.reviewer: sosstah
 audience: ITPro
 ms.topic: article
 ms.service: O365-seccomp
-localization_priority: Normal
+ms.localizationpriority: medium
 search.appverid:
 - MET150
 f1.keywords:
@@ -19,12 +19,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 38bb8c8492c3bbff6ed96380ac3a4d284f220a0ec5b2fb7b7c00814033a5c02c
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: a35e6757d64dd0c2bffc1b1cbc62e23f524b8ac9
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54292189"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58481738"
 ---
 # <a name="microsoft-security-incident-management"></a>Gestione degli incidenti di sicurezza Microsoft
 
@@ -46,21 +46,21 @@ L'approccio di Microsoft alla gestione di un incidente di sicurezza è conforme 
 | Microsoft Security Response Center | Identifica, monitora, risolve e risponde a incidenti di sicurezza e vulnerabilità di sicurezza software Microsoft. |
 | Cyber Defense Operations Center | Il Cyber Defense Operations Center è la posizione fisica che riunisce team di risposta alla sicurezza ed esperti di tutta l'azienda per proteggere, rilevare e rispondere alle minacce in tempo reale. |
 | Affari aziendali, esterni e legali | Fornisce consigli legali e normativi per un sospetto incidente di sicurezza. |
-| Microsoft Datacenter Security Team | Team che si concentra sui vari servizi su investimenti comuni di progettazione della sicurezza per proteggere, rilevare e rispondere ai rischi e alle minacce dell'architettura dei servizi. |
+| Microsoft Datacenter Security Team | Team che si concentra sui vari servizi sugli investimenti comuni di progettazione della sicurezza per proteggere, rilevare e rispondere ai rischi e alle minacce dell'architettura dei servizi. |
 | Team di risposta alla sicurezza Microsoft | Team di sicurezza indipendenti di Azure, Dynamics 365 e Microsoft 365 che collaborano con i team di servizio per creare il processo di gestione degli incidenti di sicurezza appropriato e per guidare qualsiasi risposta agli incidenti di sicurezza. |
 | Team di governance, rischio e conformità (GRC) Microsoft | Fornire indicazioni su requisiti normativi, conformità e privacy. |
 | Team di assistenza | Team di progettazione per Azure, Dynamics 365, Microsoft 365 responsabili dei criteri e delle decisioni relative alla sicurezza per ogni servizio. |
 | Responsabili delle operazioni di Azure | Supervisiona l'indagine e la risoluzione degli incidenti di sicurezza e privacy correlati ad Azure. |
 | Microsoft Threat Intelligence Center (MSTIC) | Fornisce lo stato attuale delle minacce alla sicurezza digitale contro le infrastrutture e gli asset Microsoft, aiuta i team dei partner all'interno di Microsoft a definire le priorità dei piani di azione di prevenzione e prevenzione e aumenta la protezione adottando il monitoraggio/rilevamento di incidenti quasi in tempo reale. |
-| Team di comunicazione per l'esperienza del cliente | Team di progettazione responsabili di tutte le comunicazioni dei clienti su incidenti di sicurezza e servizi. I team separati sono dedicati ad Azure, Dynamics 365 e Microsoft 365. |
+| Team di comunicazione per l'esperienza del cliente | Team di progettazione responsabili di tutte le comunicazioni dei clienti su incidenti di sicurezza e servizi. Team separati sono dedicati ad Azure, Dynamics 365 e Microsoft 365. |
 
 ## <a name="response-management-process"></a>Processo di gestione delle risposte
 
 I team di sicurezza e i team dei servizi online Microsoft lavorano insieme e prendono lo stesso approccio agli incidenti di sicurezza, che si basa sulle fasi di gestione delle risposte NIST 800-61:
 
-- **Preparazione:** si riferisce alla preparazione dell'organizzazione necessaria per rispondere, inclusi strumenti, processi, competenze e preparazione.
+- **Preparazione:** si riferisce alla preparazione organizzativa necessaria per rispondere, inclusi strumenti, processi, competenze e preparazione.
 - **Detection & analysis**: fa riferimento all'attività per rilevare un incidente di sicurezza in un ambiente di produzione e per analizzare tutti gli eventi per verificare l'autenticità dell'incidente di sicurezza.
-- **Containment, eradication, recovery**: Fa riferimento alle azioni necessarie e appropriate intraprese per contenere l'incidente di sicurezza in base all'analisi eseguita nella fase precedente. Potrebbe essere necessaria un'analisi più approfondita anche in questa fase per il ripristino completo dall'incidente di sicurezza.
+- **Containment, eradication, recovery**: fa riferimento alle azioni necessarie e appropriate intraprese per contenere l'incidente di sicurezza in base all'analisi eseguita nella fase precedente. Potrebbe essere necessaria un'analisi più approfondita anche in questa fase per il ripristino completo dall'incidente di sicurezza.
 - **Attività post-incidente**: fa riferimento all'analisi post-mortem eseguita dopo il ripristino di un incidente di sicurezza. Le azioni operative eseguite durante il processo vengono esaminate per determinare se è necessario apportare modifiche nelle fasi di preparazione o rilevamento e analisi.
 
 ![Fasi di gestione degli incidenti di sicurezza](../media/assurance-sim-phases.png)

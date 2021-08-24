@@ -2,7 +2,7 @@
 title: FedRAMP (Federal Risk and Authorization Management Program)
 description: A Microsoft sono stati concessi P-ATO e ATO (Federal Risk and Authorization Management Program) statunitensi.
 keywords: Microsoft 365, conformità, offerte
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f613e35cfcfa6f15946572901cb0c9f3c7a5fa0407a970ccd3b4e19d8efc138a
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 3f178689655662272fc8149259cf769ce122a18a
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54292773"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482941"
 ---
 # <a name="federal-risk-and-authorization-management-program-fedramp"></a>FedRAMP (Federal Risk and Authorization Management Program)
 
@@ -43,7 +43,7 @@ Le autorizzazioni FedRAMP vengono concesse a tre livelli di impatto in base alle
 
 ## <a name="microsoft-and-fedramp"></a>Microsoft e FedRAMP
 
-I servizi cloud governativi di Microsoft, tra cui Azure Government, Dynamics 365 Government e Office 365 U.S. Government soddisfano i requisiti impegnativi del Federal Risk and Authorization Management Program (FedRAMP) statunitense, consentendo alle agenzie federali statunitensi di trarre vantaggio dai risparmi sui costi e dalla rigorosa sicurezza di Microsoft Cloud.
+I servizi cloud per enti pubblici di Microsoft, tra cui Azure Government, Dynamics 365 Government e Office 365 U.S. Government soddisfano i requisiti impegnativi del Federal Risk and Authorization Management Program (FedRAMP), che consente alle agenzie federali statunitensi di trarre vantaggio dai risparmi sui costi e dalla rigorosa sicurezza di Microsoft Cloud.
 
 I servizi cloud microsoft per enti pubblici offrono ai clienti del settore pubblico una vasta gamma di servizi conformi a FedRAMP e strumenti di implementazione e indicazioni affidabili, tra cui [il modello FedRAMP High,](https://aka.ms/fedrampblueprint)che consente ai clienti di distribuire un set di criteri di base per qualsiasi architettura distribuita da Azure che deve implementare i controlli FedRAMP High.
 
@@ -62,8 +62,8 @@ Per altre informazioni sulla conformità di Azure, Dynamics 365 e altri servizi 
 ## <a name="office-365-and-fedramp"></a>Office 365 e FedRAMP
 
 - Office 365 e Office 365 governo degli Stati Uniti hanno un ATO dal Dipartimento della salute e dei servizi umani (DHHS).
-- Office 365 U.S. Government Defense ha un P-ATO dalla US Defense Information Systems Agency (DISA). Tutti i clienti che desiderano distribuire un Office 365 U.S. Government Defense possono usare il DISA P-ATO per generare un'agenzia ATO per documentarne l'accettazione.
-- Office 365 (piani aziendali e aziendali) e Office 365 U.S. Government hanno un ATO FedRAMP Agency al livello di impatto moderato dal Office DHHS dell'Inspector General. Office 365 Il governo degli Stati Uniti è stato il primo servizio di collaborazione e posta elettronica basato sul cloud a ottenere questa autorizzazione.
+- Office 365 U.S. Government Defense ha un P-ATO dalla US Defense Information Systems Agency (DISA). Tutti i clienti che desiderano distribuire Office 365 U.S. Government Defense possono usare diSA P-ATO per generare un'agenzia ATO per documentarne l'accettazione.
+- Office 365 (piani aziendali e aziendali) e Office 365 U.S. Government hanno un ATO FedRAMP Agency a livello di impatto moderato dal Office DHHS dell'Inspector General. Office 365 Il governo degli Stati Uniti è stato il primo servizio di collaborazione e posta elettronica basato sul cloud a ottenere questa autorizzazione.
 
 ### <a name="office-365-cloud-environments"></a>Ambienti cloud di Office 365
 
@@ -89,7 +89,7 @@ Microsoft è tenuta a ricertificare i suoi servizi cloud ogni anno per mantenere
 
 **I servizi cloud Microsoft sono conformi al Federal Information Security Management Act (FISMA)?**
 
-FISMA è la legge federale che richiede alle agenzie federali degli Stati Uniti e ai loro partner di procurarsi servizi e sistemi in informazioni solo da organizzazioni che rispettano i requisiti FISMA. La maggior parte delle agenzie e dei fornitori che indicano di essere conformi a FISMA fa riferimento al modo in cui soddisfano i controlli identificati dal NIST nella pubblicazione speciale 800-53 rev 4. Il processo FISMA (ma non gli standard sottostanti) è stato sostituito da FedRAMP nel 2011.
+FISMA è la legge federale che richiede alle agenzie federali degli Stati Uniti e ai loro partner di procurarsi sistemi e servizi in informazioni solo da organizzazioni che rispettano i requisiti FISMA. La maggior parte delle agenzie e dei fornitori che indicano di essere conformi a FISMA fa riferimento al modo in cui soddisfano i controlli identificati dal NIST nella pubblicazione speciale 800-53 rev 4. Il processo FISMA (ma non gli standard sottostanti) è stato sostituito da FedRAMP nel 2011.
 
 **A chi si applica FedRAMP?**
 

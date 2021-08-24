@@ -1,5 +1,5 @@
 ---
-title: Sicurezza di rete
+title: Sicurezza della rete
 description: Informazioni sulla sicurezza di rete in Microsoft 365
 ms.author: robmazz
 author: robmazz
@@ -10,7 +10,7 @@ ms.topic: article
 f1.keywords:
 - NOCSH
 ms.service: O365-seccomp
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection:
 - Strat_O365_IP
 - M365-security-compliance
@@ -20,18 +20,18 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 18f5bfa40fc8827ec840a764ae3224765aadae81156738fe30a51acd6ca244ab
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 92da9e7bb2716f61088e02c244cb9905af142ead
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54292763"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58481838"
 ---
 # <a name="network-security-overview"></a>Panoramica sulla sicurezza di rete
 
 ## <a name="how-do-microsoft-online-services-secure-the-network-boundary"></a>In che modo i servizi online Microsoft possono proteggere il limite di rete?
 
-I servizi online Microsoft utilizzano più strategie per proteggere i propri limiti di rete, tra cui il rilevamento e la prevenzione automatizzati degli attacchi basati sulla rete, dispositivi firewall specializzati e Exchange Online Protection (EOP) per la protezione da posta indesiderata e antimalware. Inoltre, i servizi online Microsoft separano gli ambienti di produzione in segmenti di rete logicamente isolati, con solo le comunicazioni necessarie consentite tra i segmenti. Il traffico di rete viene protetto utilizzando firewall di rete aggiuntivi nei punti di confine per rilevare, prevenire e ridurre gli attacchi di rete.
+I servizi online Microsoft utilizzano più strategie per proteggere i propri limiti di rete, tra cui il rilevamento e la prevenzione automatizzati degli attacchi basati sulla rete, dei dispositivi firewall specializzati e di Exchange Online Protection (EOP) per la protezione da posta indesiderata e antimalware. Inoltre, i servizi online Microsoft separano gli ambienti di produzione in segmenti di rete logicamente isolati, con solo le comunicazioni necessarie consentite tra i segmenti. Il traffico di rete viene protetto utilizzando firewall di rete aggiuntivi nei punti di confine per rilevare, prevenire e ridurre gli attacchi di rete.
 
 ## <a name="how-do-microsoft-online-services-defend-against-ddos-attacks"></a>In che modo i servizi online Microsoft si difendono dagli attacchi DDoS?
 
@@ -39,9 +39,9 @@ La presenza internet di Grandi dimensioni di Microsoft la isola dagli effetti ne
 
 Oltre all'architettura di sistema ridondante di Microsoft, Microsoft usa sofisticati strumenti di rilevamento e mitigazione per rispondere agli attacchi DDoS. I firewall speciali monitorano e rilasciano il traffico indesiderato prima che attraversi il limite nella rete, riducendo lo stress sui sistemi che si trovano all'interno del limite di rete. Per proteggere ulteriormente i servizi cloud, Microsoft utilizza un sistema di difesa DDoS distribuito come parte di Microsoft Azure. Il sistema di difesa DDoS di Azure è progettato per resistere agli attacchi dall'esterno e da altri tenant di Azure.
 
-## <a name="how-does-microsoft-protect-users-against-spam-and-malware-being-uploaded-or-sent-through-online-services"></a>In che modo Microsoft protegge gli utenti da posta indesiderata e malware caricati o inviati tramite servizi online?
+## <a name="how-does-microsoft-protect-users-against-spam-and-malware-being-uploaded-or-sent-through-online-services"></a>In che modo Microsoft protegge gli utenti dalla posta indesiderata e dal malware caricato o inviato tramite i servizi online?
 
-I servizi online Microsoft generano la protezione antimalware in servizi che potrebbero essere vettori di codice dannoso, ad esempio Exchange Online e SharePoint Online. Exchange Online Protection (EOP) analizza tutti i messaggi di posta elettronica e gli allegati di posta elettronica alla ricerca di malware all'ingresso e all'uscita dal sistema, impedendo il recapito di messaggi e allegati infetti. Il filtro avanzato della posta indesiderata viene applicato automaticamente ai messaggi in ingresso e in uscita per impedire alle organizzazioni dei clienti di ricevere e inviare posta indesiderata. Questo livello di protezione protegge dagli attacchi che sfruttano la posta elettronica non richiesta o non autorizzata, ad esempio gli attacchi di phishing. SharePoint Online usa lo stesso motore di rilevamento virus per analizzare in modo selettivo i file caricati alla ricerca di malware. Se un file è contrassegnato come infetto, agli utenti viene impedito di scaricare o sincronizzare il file per proteggere gli endpoint client. Analogamente, Azure confronta gli hash relativi ai file caricati in Archiviazione di Azure con gli hash del malware noto. Quando vengono trovate corrispondenze, viene generato un avviso nel Centro sicurezza di Azure in cui viene presa una decisione sulla legittimità dell'avviso e su come deve essere indirizzato.
+I servizi online Microsoft generano la protezione antimalware in servizi che potrebbero essere vettori di codice dannoso, ad esempio Exchange Online e SharePoint Online. Exchange Online Protection (EOP) analizza tutti i messaggi di posta elettronica e gli allegati di posta elettronica alla ricerca di malware all'ingresso e all'uscita dal sistema, impedendo il recapito di messaggi e allegati infetti. Il filtro avanzato della posta indesiderata viene applicato automaticamente ai messaggi in ingresso e in uscita per impedire alle organizzazioni dei clienti di ricevere e inviare posta indesiderata. Questo livello di protezione protegge dagli attacchi che sfruttano la posta elettronica non richiesta o non autorizzata, ad esempio gli attacchi di phishing. SharePoint Online usa lo stesso motore di rilevamento virus per analizzare in modo selettivo i file caricati alla ricerca di malware. Se un file è contrassegnato come infetto, agli utenti viene impedito di scaricare o sincronizzare il file per proteggere gli endpoint client. Analogamente, Azure confronta gli hash relativi ai file caricati Archiviazione di Azure con gli hash del malware noto. Quando vengono trovate corrispondenze, viene generato un avviso nel Centro sicurezza di Azure in cui viene presa una decisione sulla legittimità dell'avviso e su come deve essere indirizzato.
 
 ## <a name="related-external-regulations--certifications"></a>Normative esterne correlate & certificazioni
 

@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 SharePoint dati online eliminazione
+title: Microsoft 365 SharePoint dati online
 description: Informazioni sul funzionamento dell'eliminazione dei dati in SharePoint Online, ad esempio dove è archiviato il contenuto eliminato e per quanto tempo.
 ms.author: robmazz
 author: robmazz
@@ -8,7 +8,7 @@ ms.reviewer: sosstah
 audience: ITPro
 ms.topic: article
 ms.service: O365-seccomp
-localization_priority: Normal
+ms.localizationpriority: medium
 search.appverid:
 - MET150
 ms.collection:
@@ -21,16 +21,16 @@ f1.keywords:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 5a507dcd68aeda46ccf744e31828559aa6102a4f0fc50987f97041c6da8ab56f
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 3545a6e5746553e59603fbf68432ee4705a21f3f
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54292044"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58481708"
 ---
 # <a name="sharepoint-online-data-deletion-in-microsoft-365"></a>SharePoint Eliminazione dei dati online in Microsoft 365
 
-SharePoint Online archivia gli oggetti come codice astratto all'interno dei database dell'applicazione. Quando un utente carica un file in SharePoint Online, tale file viene disassemblato e convertito nel codice dell'applicazione e archiviato in più tabelle in più database. In SharePoint Online, tutto il contenuto caricato da un cliente viene suddiviso in blocchi, crittografato (potenzialmente con più chiavi AES a 256 bit) e distribuito nel centro dati. Per informazioni dettagliate sul processo di crittografia e suddivisione in blocchi, vedere [Crittografia nel cloud Microsoft.](/microsoft-365/compliance/office-365-encryption-in-the-microsoft-cloud-overview) 
+SharePoint Online archivia gli oggetti come codice astratto all'interno dei database dell'applicazione. Quando un utente carica un file in SharePoint Online, tale file viene disassemblato e convertito nel codice dell'applicazione e archiviato in più tabelle in più database. In SharePoint Online, tutto il contenuto caricato da un cliente viene suddiviso in blocchi, crittografato (potenzialmente con più chiavi AES a 256 bit) e distribuito nel datacenter. Per informazioni dettagliate sul processo di crittografia e suddivisione in blocchi, vedere [Crittografia nel cloud Microsoft.](/microsoft-365/compliance/office-365-encryption-in-the-microsoft-cloud-overview) 
 
 In SharePoint Online, gli elementi vengono conservati per 93 giorni dal momento in cui vengono eliminati dalla posizione originale. Rimangono nel Cestino del sito per tutto il tempo, a meno che un utente non li elimini o lo svuota. In tal caso, gli elementi vengono visualizzati nel Cestino della raccolta siti, dove rimangono per il resto dei 93 giorni. Per informazioni sul ripristino degli elementi eliminati, vedere [Restore items in the Recycle Bin of a SharePoint site](https://support.office.com/article/6df466b6-55f2-4898-8d6e-c0dff851a0be#ID0EAADAAA=Online
 ) e Restore deleted items from the site collection recycle [bin.](https://support.office.com/article/5fa924ee-16d7-487b-9a0a-021b9062d14b) Il tempo di conservazione del Cestino non è configurabile in SharePoint Online.
@@ -43,7 +43,7 @@ Quando si elimina una raccolta siti, si elimina anche la gerarchia dei siti nell
 - Informazioni sui ruoli e sulla sicurezza correlate al sito o ai relativi siti secondari
 - Siti secondari del sito Web principale, relativi contenuti e informazioni utente
 
-Se si elimina accidentalmente una raccolta siti, è possibile ripristinarla da un amministratore globale o SharePoint tramite l SharePoint intervacazione di amministrazione.
+Se si elimina accidentalmente una raccolta siti, è possibile ripristinarla da un amministratore globale o SharePoint tramite l'SharePoint di amministrazione.
 
 Le raccolte siti eliminate vengono conservate per 93 giorni. Dopo 93 giorni, i siti e tutto il relativo contenuto e le impostazioni vengono eliminati definitivamente, inclusi elenchi, raccolte, pagine e siti secondari.
 
