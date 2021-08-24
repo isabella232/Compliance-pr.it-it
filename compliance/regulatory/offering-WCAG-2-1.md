@@ -2,7 +2,7 @@
 title: Linee guida per l'accessibilità dei contenuti Web
 description: Microsoft pubblica i report del livello di conformità AA delle linee guida WCAG che rispecchiano il prodotto o il servizio completo oppure parti del prodotto che possono essere installate separatamente.
 keywords: Microsoft 365, conformità, soluzioni
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: a8441c6ea20f5429a5e760cef307a132fab9559b
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: 79f4efec9c7e441405228de88e68916f8de3f754
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58260899"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58481168"
 ---
 # <a name="web-content-accessibility-guidelines"></a>Linee guida per l'accessibilità dei contenuti Web
 

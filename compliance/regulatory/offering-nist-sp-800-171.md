@@ -2,7 +2,7 @@
 title: NIST SP 800-171
 description: I servizi cloud Microsoft sono conformi alle linee guida NIST SP 800-171 per proteggere le informazioni non classificate controllate nei sistemi informatici non aziendali.
 keywords: Microsoft 365, conformità, offerte
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 4b5f8bfd19193b3a05b5ffa6476271bc6da05c7ec1c669a2f1614535a54942e1
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: bce6847fe4c0cd1541348b70aadacc9c13238c31
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54294303"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58481138"
 ---
 # <a name="nist-sp-800-171"></a>NIST SP 800-171
 
@@ -29,7 +29,7 @@ ms.locfileid: "54294303"
 
 Il National Institute of Standards and Technology (NIST) degli Stati Uniti promuove e mantiene gli standard e le linee guida di misurazione per proteggere i sistemi di informazioni e informazioni delle agenzie federali. In risposta all'ordine esecutivo 13556 sulla gestione delle informazioni non classificate controllate (CUI), ha pubblicato [NIST SP 800-171](https://csrc.nist.gov/publications/detail/sp/800-171/rev-1/final), *Protecting Controlled Unclassified Information In Nonfederal Information Systems and Organizations*. CUI è definito come informazioni, sia digitali che fisiche, create da un governo (o da un'entità per suo conto) che, pur non classificando, è ancora sensibile e richiede protezione.
 
-NIST SP 800-171 è stato originariamente pubblicato a giugno 2015 ed è stato aggiornato più volte da allora in risposta all'evoluzione delle minacce informatiche. Fornisce linee guida su come i cui devono essere accessibili, trasmessi e archiviati in modo sicuro in sistemi e organizzazioni non aziendali; i requisiti rientrano in quattro categorie principali:
+NIST SP 800-171 è stato originariamente pubblicato a giugno 2015 ed è stato aggiornato più volte da allora in risposta all'evoluzione delle minacce informatiche. Fornisce linee guida su come i cui devono essere accessibili, trasmessi e archiviati in modo sicuro in organizzazioni e sistemi in informazioni non aziendali; i requisiti rientrano in quattro categorie principali:
 
 - Controlli e processi per la gestione e la protezione
 - Monitoraggio e gestione dei sistemi IT
@@ -42,9 +42,9 @@ Le organizzazioni di valutazione di terze parti accreditate, Kratos Secureinfo e
 
 I requisiti NIST SP 800-171 sono un sottoinsieme di NIST SP 800-53, lo standard utilizzato da FedRAMP. L'appendice D di NIST SP 800-171 fornisce un mapping diretto dei requisiti di sicurezza cui ai controlli di sicurezza pertinenti in NIST SP 800-53, per i quali i servizi cloud nell'ambito sono già stati valutati e autorizzati nell'ambito del programma FedRAMP.
 
-Qualsiasi entità che elabora o archivia i cui enti pubblici statunitensi: istituti di ricerca, società di consulenza, appaltatori di produzione, deve rispettare i requisiti stringenti del NIST SP 800-171. Questo attestazione significa che i servizi cloud microsoft nell'ambito possono supportare i clienti che desiderano distribuire carichi di lavoro CUI con la garanzia che Microsoft sia in piena conformità. Ad esempio, tutti gli appaltatori DoD che elaborano, archiviano o trasmettono "informazioni di difesa coperte" utilizzando i servizi cloud Microsoft nell'ambito dei propri sistemi in informazioni soddisfano le clausole DFARS del Dipartimento della Difesa degli Stati Uniti che richiedono la conformità ai requisiti di sicurezza di NIST SP 800-171.
+Qualsiasi entità che elabora o archivia i cui enti pubblici statunitensi: istituti di ricerca, società di consulenza, appaltatori di produzione, deve rispettare i requisiti stringenti del NIST SP 800-171. Questo attestazione significa che i servizi cloud microsoft nell'ambito possono supportare i clienti che desiderano distribuire carichi di lavoro cui con la garanzia che Microsoft sia in piena conformità. Ad esempio, tutti gli appaltatori DoD che elaborano, archiviano o trasmettono "informazioni di difesa coperte" utilizzando i servizi cloud Microsoft nell'ambito dei propri sistemi in informazioni soddisfano le clausole DFARS del Dipartimento della Difesa degli Stati Uniti che richiedono la conformità ai requisiti di sicurezza di NIST SP 800-171.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme e servizi cloud Microsoft inclusi nell'ambito
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servizi e piattaforme cloud Microsoft inclusi nell'ambito
 
 - Azure Commercial, Azure Government
 - Dynamics 365 U.S. Government

@@ -2,7 +2,7 @@
 title: Us Internal Revenue Service Publication 1075
 description: Microsoft dispone di controlli che soddisfano i requisiti della pubblicazione 1075 del servizio dei ricavi interni degli Stati Uniti.
 keywords: Microsoft 365, conformità, offerte
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 11fcdc23347500265e8eb46cf33195c66a4708d1
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: 3212e28e055629b3f2894e7887ffac03e94b9e3a
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58260909"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58481038"
 ---
 # <a name="us-internal-revenue-service-publication-1075"></a>Us Internal Revenue Service Publication 1075
 
@@ -33,7 +33,7 @@ Per proteggere FTI, IRS 1075 prescrive i controlli di sicurezza e privacy per i 
 
 ## <a name="microsoft-and-us-internal-revenue-service-publication-1075"></a>Microsoft e US Internal Revenue Service Publication 1075
 
-Microsoft Azure I servizi [cloud](https://products.office.com/government/office-365-web-services-for-government) per enti pubblici e Microsoft Office 365 stati uniti forniscono un impegno contrattuale per l'applicazione dei controlli appropriati e le funzionalità di sicurezza necessarie ai clienti delle agenzie Microsoft per soddisfare i requisiti sostanziali di IRS 1075.  
+Microsoft Azure I servizi cloud governativi e Microsoft Office 365 [U.S. Government](https://products.office.com/government/office-365-web-services-for-government) forniscono un impegno contrattuale per la creazione dei controlli appropriati e le funzionalità di sicurezza necessarie ai clienti delle agenzie Microsoft per soddisfare i requisiti sostanziali di IRS 1075.  
   
 Questi servizi cloud Microsoft per enti pubblici forniscono una piattaforma su cui i clienti possono creare e gestire le proprie soluzioni, ma i clienti devono determinare da soli se tali soluzioni specifiche sono gestite in conformità con IRS 1075 e sono pertanto soggette a controlli IRS.  
   
@@ -42,10 +42,10 @@ Per aiutare le agenzie governative nei loro sforzi di conformità, Microsoft:
 - Offre indicazioni dettagliate per aiutare le agenzie a comprendere le proprie responsabilità e il modo in cui i vari controlli IRS vengono mappati alle funzionalità in Azure Government e Office 365 U.S. Government. L'IRS 1075 Safeguard Security Report (SSR) documenta accuratamente come servizi Microsoft implementa i controlli IRS applicabili e si basa sui pacchetti FedRAMP di Azure Government e Office 365 U.S. Government. Poiché sia IRS 1075 che FedRAMP sono basati su NIST 800-53, il limite di conformità per IRS 1075 è lo stesso dell'autorizzazione FedRAMP.
 - L'IRS deve approvare esplicitamente il rilascio di qualsiasi documento di sicurezza IRS, in modo che solo i clienti governativi sotto la NDA possano esaminare la richiesta.
 - Rende disponibili report di controllo e informazioni di monitoraggio prodotti da valutatori indipendenti per i servizi cloud.
-- Fornisce all'IRS Considerazioni sulla conformità di Azure Government e Office 365 U.S. Government Compliance Considerations, che illustrano come un'agenzia può usare i servizi Microsoft Cloud per enti pubblici in modo conforme a IRS 1075. I clienti governativi con NDA possono richiedere questi documenti.
+- Fornisce all'IRS Considerazioni sulla conformità di Azure per enti pubblici e Office 365 considerazioni sulla conformità del governo degli Stati Uniti, che illustrano come un'agenzia può usare i servizi Microsoft Cloud per enti pubblici in modo conforme a IRS 1075. I clienti governativi con NDA possono richiedere questi documenti.
 - Offre ai clienti l'opportunità (a loro spese) di comunicare con esperti microsoft o revisori esterni, se necessario.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme e servizi cloud Microsoft inclusi nell'ambito
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servizi e piattaforme cloud Microsoft inclusi nell'ambito
 
 Le autorizzazioni FedRAMP vengono concesse a tre livelli di impatto in base alle linee guida NIST: bassa, media e alta. Questi classificano l'impatto che la perdita di riservatezza, integrità o disponibilità potrebbe avere su un'organizzazione, ovvero basso (effetto limitato), medio (grave effetto negativo) e alto (effetto grave o catastrofico).
 
@@ -93,7 +93,7 @@ Sì, se l'organizzazione soddisfa i requisiti di idoneità per Azure Government 
 
 **È possibile usare Azure o Office 365 cloud pubblico ed essere comunque conforme a IRS 1075?**
 
-No. Gli unici ambienti in cui è possibile archiviare ed elaborare FTI sono Azure Government Office 365 U.S. Government. I clienti governativi devono soddisfare i requisiti di idoneità per l'utilizzo di questi ambienti.
+No. Gli unici ambienti in cui È possibile archiviare ed elaborare FTI sono Azure Government Office 365 U.S. Government. I clienti governativi devono soddisfare i requisiti di idoneità per l'utilizzo di questi ambienti.
 
 ### <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usare Microsoft Compliance Manager per valutare i rischi
 

@@ -2,7 +2,7 @@
 title: Considerazioni sulla sicurezza e sulla privacy del cloud computing per enti pubblici neozelandesi
 description: Microsoft NZ affronta le domande pubblicate nel framework di cloud computing della Nuova Zelanda.
 keywords: Microsoft 365, conformità, offerte
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f135cf64356a55ba3ed6c0010e8273d2854c005e
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: 2e6dc7b7dcd59e3d82d6787b59f698c621f119bb
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58259815"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58480488"
 ---
 # <a name="new-zealand-government-information-security-and-privacy-considerations-ispc"></a>Considerazioni sulla privacy e sulla sicurezza delle informazioni del governo neozelandese (ISPC)
 
@@ -60,7 +60,7 @@ Usare la tabella seguente per determinare l'applicabilità per i servizi e l'abb
 | **Commerciale** | Exchange Online, SharePoint Online, Skype for Business |
 
 >[!Note]
->Microsoft NZ ha collaborato con il team GCIO per sviluppare un'architettura di riferimento per l'integrazione di Exchange Online e SEEMail descritti in Office 365: SEEMail Integration and Reference Architecture.
+>Microsoft NZ ha collaborato con il team GCIO per sviluppare un'architettura di riferimento per l'integrazione di Exchange Online e SEEMail descritta in Office 365: SEEMail Integration and Reference Architecture.
 
 ## <a name="frequently-asked-questions"></a>Domande frequenti
 
@@ -74,7 +74,7 @@ Se l'agenzia è necessaria per eseguire la certificazione e l'accreditamento del
 
 ## <a name="resources"></a>Risorse
 
-- [Requisiti di sicurezza per i servizi di produttività Office off-Office: guida alla conformità per Office 365](https://aka.ms/o365-gcio-conformance-guidance)
+- [Requisiti di sicurezza per i servizi di produttività Office off-Office 365](https://aka.ms/o365-gcio-conformance-guidance)
 - [NZ Government ICT Strategy 2015](https://www.ict.govt.nz/strategy-and-action-plan/strategy/)
 - [Cloud Computing: considerazioni sulla sicurezza delle informazioni e sulla privacy (ISPC)](https://www.digital.govt.nz/standards-and-guidance/technology-and-architecture/cloud-services/)
 - [Condizioni di Microsoft Online Services](https://aka.ms/Online-Services-Terms)

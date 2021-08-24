@@ -2,7 +2,7 @@
 title: National Institute of Standards and Technology (NIST) Cybersecurity Framework (CSF)
 description: Microsoft Cloud Services meet the National Institute of Standards and Technology (NIST) Cybersecurity Framework (CSF).
 keywords: Microsoft 365, conformità, offerte
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 84a7515c8d23a3e224118bbf56175e6ec79f1ecb
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: aef50dc21274c863708c5b5d774b401e91407114
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58259795"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58480518"
 ---
 # <a name="national-institute-of-standards-and-technology-nist-cybersecurity-framework-csf"></a>National Institute of Standards and Technology (NIST) Cybersecurity Framework (CSF)
 
@@ -42,7 +42,7 @@ Scopri come accelerare la distribuzione di NIST Cybersecurity Framework con il p
 - [Panoramica dell'esempio di blueprint NIST SP 800-53 R4](/azure/governance/blueprints/samples/nist-sp-800-53-rev4/)
 - [Altre informazioni sulla valutazione csf NIST per Office 365 in Compliance Score](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/New-NIST-CSF-and-CSA-CCM-assessments-available-in-Compliance/ba-p/218554)
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme e servizi cloud Microsoft inclusi nell'ambito
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servizi e piattaforme cloud Microsoft inclusi nell'ambito
 
 - Azure Per enti pubblici
 - Dynamics 365 per enti pubblici
@@ -68,7 +68,7 @@ Usare la tabella seguente per determinare l'applicabilità per i servizi e l'abb
 
 ### <a name="office-365-audit-cycle-and-certification"></a>Office 365 di controllo e certificazione
 
-La certificazione CSF NIST Office 365 valida per due anni.
+La certificazione CSF NIST di Office 365 è valida per due anni.
 
 - [Office 365 Lettera di certificazione NIST CSF](https://aka.ms/O365NISTCSFcertification)
 
@@ -76,11 +76,11 @@ La certificazione CSF NIST Office 365 valida per due anni.
 
 **Un valutatore indipendente ha convalidato che Office 365 i requisiti NIST CSF?**
 
-Sì, Office 365 la lettera di certificazione [NIST CSF](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=2a472d92-7c3b-47e0-9ae7-0f539da31f42&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_GRC_Assessment_Reports) da HITRUST a luglio 2019.
+Sì, Office 365 ottenuto la lettera di certificazione [NIST CSF](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=2a472d92-7c3b-47e0-9ae7-0f539da31f42&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_GRC_Assessment_Reports) da HITRUST a luglio 2019.
 
 **In che modo Microsoft Cloud Services dimostra la conformità al framework?**
 
-Usando i report di controllo formali preparati da terze parti per l'accreditamento FedRAMP, Microsoft può mostrare come i controlli pertinenti osservati in questi rapporti dimostrano la conformità al framework NIST per migliorare la cybersecurity delle infrastrutture critiche. I controlli controllati implementati da Microsoft servono a garantire la riservatezza, l'integrità e la disponibilità dei dati archiviati, elaborati e trasmessi da Azure, Office 365 e Dynamics 365 che sono stati identificati come responsabilità di Microsoft.
+Usando i report di controllo formali preparati da terze parti per l'accreditamento FedRAMP, Microsoft può mostrare come i controlli pertinenti osservati in questi rapporti dimostrano la conformità al framework NIST per migliorare la cybersecurity delle infrastrutture critiche. I controlli controllati implementati da Microsoft servono a garantire la riservatezza, l'integrità e la disponibilità dei dati archiviati, elaborati e trasmessi da Azure, Office 365 e Dynamics 365 identificati come responsabilità di Microsoft.
 
 **Quali sono le responsabilità di Microsoft per il mantenimento della conformità a questa iniziativa?**
 

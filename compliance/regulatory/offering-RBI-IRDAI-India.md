@@ -2,7 +2,7 @@
 title: Reserve Bank of India (RBI) e Insurance Regulatory and Development Authority of India (IRDAI)
 description: Microsoft ha pubblicato linee guida per aiutare gli istituti finanziari in India con l'adozione del cloud.
 keywords: Microsoft 365, conformità, offerte
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: eb0e6498a516af763c36163733c6480c9531a584c3820e01701fdcf31089b8e3
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 200319178a714383feeca3d58cf608e9a3baa304
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54294223"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58481018"
 ---
 # <a name="reserve-bank-of-india-rbi-and-insurance-regulatory-and-development-authority-of-india-irdai"></a>Reserve Bank of India (RBI) e Insurance Regulatory and Development Authority of India (IRDAI)
 
@@ -33,7 +33,7 @@ Le linee guida per l'esternalizzazione e la gestione dei rischi includono:
 
 - [](https://rbidocs.rbi.org.in/rdocs/notification/PDFs/73713.pdf) Le linee guida sulla gestione dei rischi e del codice di condotta nell'esternalizzazione dei servizi finanziari da parte delle banche (RBI) affrontano i rischi a cui verrebbero esposte le banche regolamentate mentre esternalizzando i servizi finanziari e assicurano che l'esternalizzazione non ostacola il ruolo di supervisione dell'RBI. L'RBI non richiede l'approvazione preventiva per le banche che cercano di esternalizzare i servizi finanziari; Tuttavia, le funzioni bancarie di base, come le funzioni di controllo interno e conformità, non devono essere esternalmente.
 - [Linee guida per la sicurezza delle informazioni, l'electronic banking, la gestione dei rischi tecnologici e le frodi informatiche](https://rbidocs.rbi.org.in/rdocs/content/PDFs/GBS300411F.pdf) (RBI). Gli istituti finanziari devono segnalare accordi di esternalizzazione in cui la portata e la natura delle attività sono significative o richiedono una condivisione estesa dei dati con provider di servizi al di fuori dell'India. Queste indicazioni si applicano in particolare se i dati operativi vengono archiviati o elaborati al di fuori dell'India.
-- [Esternalizzazione delle attività da parte del regolamento](https://www.irdai.gov.in/ADMINCMS/cms/frmGeneral_Layout.aspx?page=PageNo3149&flag=1) IRDAI (Indian Insurers Regulation). Ogni anno, le organizzazioni assicurative devono segnalare l'esternalizzazione a IRDAI di alcune funzioni di supporto delle attività principali entro 45 giorni dalla chiusura dell'anno finanziario. (La pagina 7 [](https://servicetrust.microsoft.com/Documents/TrustDocuments?command=Download&downloadType=Document&downloadId=26f4af15-2771-4cd4-a7c7-9328149f9453&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides) dell'elenco di controllo Microsoft descrive cosa costituisce le "funzioni di supporto delle attività di base".
+- [Esternalizzazione delle attività da parte del regolamento](https://www.irdai.gov.in/ADMINCMS/cms/frmGeneral_Layout.aspx?page=PageNo3149&flag=1) IRDAI (Indian Insurers Regulation). Ogni anno, le organizzazioni assicurative devono segnalare all'IRDAI l'esternalizzazione di alcune funzioni di supporto delle attività principali entro 45 giorni dalla chiusura dell'anno finanziario. (La pagina 7 [](https://servicetrust.microsoft.com/Documents/TrustDocuments?command=Download&downloadType=Document&downloadId=26f4af15-2771-4cd4-a7c7-9328149f9453&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides) dell'elenco di controllo Microsoft descrive cosa costituisce le "funzioni di supporto delle attività di base".
 
 Le società finanziarie che utilizzano servizi cloud devono inoltre conformarsi alle regole sulla privacy, tra cui le regole information technology (ragionevoli procedure e procedure di sicurezza e dati personali sensibili [o informazioni), 2011](https://meity.gov.in/sites/upload_files/dit/files/GSR313E_10511\(1\).pdf) (MeitY). Sviluppate per rafforzare le leggi sulla protezione dei dati in India, queste regole regolano la protezione e la gestione dei dati personali sensibili.
 
@@ -41,12 +41,12 @@ Le società finanziarie che utilizzano servizi cloud devono inoltre conformarsi 
 
 Per aiutare gli istituti finanziari in India a considerare l'esternalizzazione delle funzioni aziendali nel cloud, Microsoft ha pubblicato un elenco di controllo di conformità per gli istituti finanziari in India. Esaminando e completando l'elenco di [controllo,](https://servicetrust.microsoft.com/Documents/TrustDocuments?command=Download&downloadType=Document&downloadId=26f4af15-2771-4cd4-a7c7-9328149f9453&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)le organizzazioni finanziarie possono adottare i servizi cloud aziendali Microsoft con la certezza di essere conformi ai requisiti normativi applicabili.
 
-Quando gli istituti finanziari indiani esternalizzare le attività aziendali nel cloud, devono seguire le linee guida della Reserve Bank of India per la gestione dei rischi e la risoluzione dei problemi derivanti dall'uso delle tecnologie dell'informazione. Devono inoltre rispettare i requisiti di sicurezza e privacy dei dati stabiliti dal Ministero dell'elettronica e della tecnologia dell'informazione (MeitY). Inoltre, le organizzazioni assicurative devono seguire le linee guida per l'esternalizzazione pubblicate dall'Insurance Regulatory and Development Authority of India (IRDAI).
+Quando gli istituti finanziari indiani esternalizzando le attività aziendali al cloud, devono seguire le linee guida della Reserve Bank of India per gestire i rischi e risolvere i problemi derivanti dall'uso delle tecnologie dell'informazione. Devono inoltre rispettare i requisiti di sicurezza e privacy dei dati stabiliti dal Ministero dell'elettronica e della tecnologia dell'informazione (MeitY). Inoltre, le organizzazioni assicurative devono seguire le linee guida per l'esternalizzazione pubblicate dall'Insurance Regulatory and Development Authority of India (IRDAI).
 
 L'elenco di controllo Microsoft aiuta le società finanziarie in India che stanno effettuando valutazioni di due diligence dei servizi cloud aziendali Microsoft e includono:
 
 - Informazioni generali sul panorama regolatorio del contesto.
-- Elenco di controllo che definisce i problemi da risolvere e mappa i servizi Microsoft Azure, Microsoft Dynamics 365 e Microsoft Office 365 in base a tali obblighi normativi. L'elenco di controllo può essere usato come strumento per misurare la conformità ad alcune normative e definire uno schema interno per documentare la conformità e aiutare i clienti a svolgere le loro valutazioni dei rischi rispetto ai servizi cloud Microsoft per le aziende.
+- Elenco di controllo che definisce i problemi da affrontare e mappa i servizi Microsoft Azure, Microsoft Dynamics 365 e Microsoft Office 365 in base a tali obblighi normativi. L'elenco di controllo può essere usato come strumento per misurare la conformità ad alcune normative e definire uno schema interno per documentare la conformità e aiutare i clienti a svolgere le loro valutazioni dei rischi rispetto ai servizi cloud Microsoft per le aziende.
 
 ## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme e servizi cloud Microsoft inclusi nell'ambito
 
@@ -58,7 +58,7 @@ L'elenco di controllo Microsoft aiuta le società finanziarie in India che stann
 
 - [Elenco di controllo di conformità per l'India:](https://servicetrust.microsoft.com/Documents/TrustDocuments?command=Download&downloadType=Document&downloadId=26f4af15-2771-4cd4-a7c7-9328149f9453&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)le società finanziarie possono ottenere assistenza nell'esecuzione di valutazioni dei rischi dei servizi cloud aziendali Microsoft.
 - [Valutazione dei rischi e guida alla conformità](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=edee9b14-3661-4a16-ba83-c35caf672bd7&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_FAQ_and_White_Papers): creare un modello di governance per la valutazione dei rischi dei servizi cloud Microsoft e la notifica all'organismo di regolamentazione.
-- [Casi d'uso finanziari per Azure](/azure/industry/financial/): panoramica dei casi d'uso, esercitazioni e altre risorse per creare soluzioni di Azure per i servizi finanziari.
+- [Casi d'uso finanziari per Azure](/azure/industry/financial/): panoramica dei casi di utilizzo, esercitazioni e altre risorse per creare soluzioni di Azure per i servizi finanziari.
 
 ## <a name="frequently-asked-questions"></a>Domande frequenti
 

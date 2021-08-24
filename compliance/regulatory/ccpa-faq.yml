@@ -3,7 +3,7 @@ metadata:
   title: Domande frequenti sul California Consumer Privacy Act (CCPA)
   description: Domande frequenti sui servizi Microsoft e sul California Consumer Privacy Act (CCPA).
   keywords: Microsoft 365, compliance, CCPA, GDPR
-  localization_priority: Priority
+  ms.localizationpriority: high
   ms.prod: microsoft-365-enterprise
   ms.topic: article
   f1.keywords:
@@ -15,12 +15,12 @@ metadata:
   ms.collection:
   - M365-security-compliance
   - MS-Compliance
-  ms.openlocfilehash: 9ed5d5c7062dcdbd2b572b32b4a9ef082d46bc764dc9e46a195a6677d4623a0d
-  ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+  ms.openlocfilehash: 7c324a175f3c5e2cb6eeca07fa7f5046b5e7c28f
+  ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
   ms.translationtype: MT
   ms.contentlocale: it-IT
-  ms.lasthandoff: 08/05/2021
-  ms.locfileid: "54290254"
+  ms.lasthandoff: 08/23/2021
+  ms.locfileid: "58481298"
 title: Domande frequenti sul California Consumer Privacy Act (CCPA)
 summary: >
   > [!Note]
@@ -32,7 +32,7 @@ sections:
   - question: >
       Che cos'è il CCPA?
     answer: >
-      Il California Consumer Privacy Act (CCPA) è la prima legge completa sulla privacy negli Stati Uniti. È diventato legge alla fine di giugno 2018 e garantisce una varietà di diritti alla privacy agli utenti della California. Le aziende regolamentate dal CCPA avranno una serie di obblighi nei confronti di tali consumatori, tra cui divulgazioni, diritti simili al GDPR (General Data Protection Regulation), un "rifiuto esplicito" per determinati trasferimenti di dati e un requisito di "consenso esplicito" per i minori.
+      Il California Consumer Privacy Act (CCPA) è la prima legge completa sulla privacy negli Stati Uniti. È diventato legge alla fine di giugno 2018 e garantisce una varietà di diritti alla privacy agli utenti della California. Le aziende regolamentate dal CCPA avranno una serie di obblighi nei confronti di tali consumatori, tra cui divulgazioni, diritti simili al GDPR (General Data Protection Regulation) per i consumatori, un "rifiuto esplicito" per determinati trasferimenti di dati e un requisito di "consenso esplicito" per i minori.
   - question: >
       Chi deve conoscere il CCPA?
     answer: >
@@ -44,7 +44,7 @@ sections:
   - question: >
       In che modo il CCPA influenzerà le aziende?
     answer: >
-      Molti dei diritti del CCPA per i californiani sono simili ai diritti forniti dal GDPR, tra cui la divulgazione e le richieste degli utenti simili alle richieste DSR (Data Subject Right), come l'accesso, l'eliminazione e la portabilità. Di conseguenza, il cliente può fare riferimento alle soluzioni previste per il GDPR per garantire la conformità al CCPA.
+      Molti dei diritti del CCPA per i californiani sono simili ai diritti forniti dal GDPR, tra cui la divulgazione e le richieste degli utenti simili alle richieste DSR (Data Subject Right), ad esempio l'accesso, l'eliminazione e la portabilità. Di conseguenza, il cliente può fare riferimento alle soluzioni previste per il GDPR per garantire la conformità al CCPA.
 
 
       Cinque sono i passaggi principali da tenere in considerazione per il CCPA:
@@ -106,7 +106,7 @@ sections:
       La definizione di "vendita" nel CCPA è incredibilmente ampia, inclusa la "disponibilità di informazioni personali a" una terza parte per una considerazione valutata o di altro valore. Se un utente ha scelto di "rifiutare esplicitamente", l'azienda dovrà disattivare il flusso di informazioni personali verso terze parti.
 
 
-      Il CCPA fornisce una serie di carve-out a questo controllo di rifiuto esplicito della vendita. Le tre carve-out principali sono i trasferimenti (i) a un provider di servizi, (ii) a un 'entità esente' o 'appaltatore' e (iii) in direzione del consumatore. Anche se un utente ha scelto di "rifiutare esplicitamente", le informazioni personali possono continuare a essere trasferite a terze parti che rientrano in tali carve-out.
+      Il CCPA fornisce una serie di carve-out a questo controllo di rifiuto esplicito della vendita. I tre carve-out principali sono i trasferimenti (i) a un provider di servizi, (ii) a un 'entità esente' o 'appaltatore' e (iii) in direzione del consumatore. Anche se un utente ha scelto di "rifiutare esplicitamente", le informazioni personali possono continuare a essere trasferite a terze parti che rientrano in tali carve-out.
 
 
       Per trarre vantaggio dalle prime due esenzioni, le imprese dovranno garantire che i trasferimenti siano regolati da contratti scritti contenenti i termini specifici richiesti dal CCPA.
@@ -149,7 +149,7 @@ sections:
       - Definizione di "imprese" che comprende la definizione GDPR di "controller".
 
 
-      La differenza principale nel CCPA è il requisito principale per consentire un rifiuto esplicito dalla vendita di dati a terze parti (con la "vendita" ampiamente definita per includere la condivisione dei dati per un'importante considerazione). Si tratta di un obbligo più ristretto e più specifico del diritto generale del GDPR di osare il trattamento, che comprende questo tipo di "vendita", ma non si limita specificamente a coprire questo tipo di condivisione.
+      La differenza principale nel CCPA è il requisito principale per consentire un rifiuto esplicito dalla vendita di dati a terze parti (con la "vendita" ampiamente definita per includere la condivisione dei dati per un'importante considerazione). Si tratta di un obbligo più stretto e più specifico del diritto generale del GDPR di osare il trattamento, che comprende questo tipo di "vendita", ma non si limita specificamente a coprire questo tipo di condivisione.
   - question: >
       Cosa sono "Processori" e "Controller"?
     answer: >
@@ -227,4 +227,4 @@ sections:
       Nel mese di ottobre 2019 sono stati approvati alcuni emendamenti al CCPA. Un emendamento in particolare ha chiarito che gli obblighi previsti dal CCPA non si applicano alle informazioni personali dei dipendenti di un'azienda. Il legislatore, tuttavia, ha fissato il termine di 1 anno per tale esenzione. Si prevede che in California verrà promulgata una nuova legge sulla protezione dei dati per i dipendenti delle aziende nel 2020.  
   - question: >
       I clienti Microsoft devono esprimere il rifiuto esplicito per il trasferimento dei dati a Microsoft?
-    answer: No. Come provider di servizi online, stiamo prendendo misure per garantire che ci qualificamo come "provider di servizi" in CCPA. Come indicato in precedenza, è consentito il trasferimento delle informazioni personali ai provider di servizi, anche nel caso di rifiuto esplicito da parte dell'utente.
+    answer: No. In qualità di provider di servizi online, stiamo prendendo misure per garantire che ci qualificamo come "provider di servizi" in CCPA. Come indicato in precedenza, è consentito il trasferimento delle informazioni personali ai provider di servizi, anche nel caso di rifiuto esplicito da parte dell'utente.
