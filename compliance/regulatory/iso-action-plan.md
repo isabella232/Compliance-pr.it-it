@@ -3,7 +3,7 @@ title: Piano d'azione ISO 27001 di Microsoft 365, priorità per i primi 30 giorn
 description: Un piano d'azione prioritario che può essere seguito durante il lavoro per soddisfare i requisiti dell'International Organization for Standardization (ISO)
 keywords: Microsoft 365, Microsoft 365 Education, Documentazione Microsoft 365, ISO, ISO 27001
 author: BrendaCarter
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 ms.custom: seo-marvel-apr2020
 hideEdit: true
-ms.openlocfilehash: 525870883b67ef37b45af2aa690ce849acd9217d
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: 4fc85558c4bef8763b7d6cae039f5ab085df6c61
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58261123"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482299"
 ---
 # <a name="microsoft-365-iso-27001-action-plan--top-priorities-for-your-first-30-days-90-days-and-beyond"></a>Piano d'azione ISO 27001 di Microsoft 365: massime priorità per i primi 30 giorni, 90 giorni e oltre
 
@@ -58,7 +58,7 @@ Queste attività richiedono una quantità di tempo leggermente superiore per la 
 
 |**Area**|**Attività**|
 |:-----|:-----|
-|Usare le funzionalità di sicurezza di Microsoft 365 per controllare l'accesso all'ambiente e proteggere risorse e informazioni organizzative in base alle procedure operative standard (SOP) definite.|• Proteggere gli account amministratore e utente finale implementando i [criteri di identità e accesso ai dispositivi](/microsoft-365/security/office-365-security/microsoft-365-policies-configurations), inclusa l'attivazione dell'autenticazione a più fattori (MFA) per tutti gli account utente e l'autenticazione moderna per tutte le app.<br>• Stabilire [criteri per l'utilizzo di password complesse](https://www.microsoft.com/research/publication/password-guidance) per gestire e proteggere le credenziali degli account utente.<br>• Configurare [Crittografia messaggi di Office 365](/microsoft-365/compliance/ome) per consentire agli utenti finali di essere conformi alle SOP dell'organizzazione per l'invio di dati sensibili tramite posta elettronica.<br>• Distribuire [Microsoft Defender Advanced Threat Protection (ATP)](/windows/security/threat-protection/windows-defender-atp/windows-defender-advanced-threat-protection) a tutti i desktop per la protezione dai codici dannosi e per la prevenzione e la risposta alle violazioni dei dati.<br>• Configurare, testare e distribuire i [criteri di prevenzione della perdita dei dati (DLP)](/exchange/security-and-compliance/data-loss-prevention/data-loss-prevention) per identificare, monitorare e [proteggere automaticamente](/microsoft-365/compliance/apply-protection-to-personal-data-in-office-365) oltre 80 tipi di dati sensibili comuni all'interno di documenti e messaggi di posta elettronica, incluse informazioni personali, mediche e finanziarie.<br>• Informare automaticamente i mittenti di posta elettronica che potrebbero violare i criteri, ancor prima che inviino un messaggio non conforme, configurando i [suggerimenti per i criteri](/exchange/security-and-compliance/data-loss-prevention/policy-tips). I suggerimenti per i criteri possono essere configurati per presentare una breve nota in Outlook, Outlook sul web e Outlook Web App per dispositivi, che fornisce informazioni sulle possibili violazioni dei criteri durante la creazione di messaggi.<br>•    Implementare [Office 365 Advanced Threat Protection (ATP)](/microsoft-365/security/office-365-security/office-365-atp) per impedire i più comuni vettori di attacco, tra cui i messaggi di posta elettronica di phishing e i documenti di Office contenenti allegati e collegamenti dannosi.|
+|Usare le funzionalità di sicurezza di Microsoft 365 per controllare l'accesso all'ambiente e proteggere risorse e informazioni organizzative in base alle procedure operative standard (SOP) definite.|• Proteggere gli account amministratore e utente finale implementando i [criteri di identità e accesso ai dispositivi](/microsoft-365/security/office-365-security/microsoft-365-policies-configurations), inclusa l'attivazione dell'autenticazione a più fattori (MFA) per tutti gli account utente e l'autenticazione moderna per tutte le app.<br>• Stabilire [criteri per l'utilizzo di password complesse](https://www.microsoft.com/research/publication/password-guidance) per gestire e proteggere le credenziali degli account utente.<br>• Configurare [Crittografia messaggi di Office 365](/microsoft-365/compliance/ome) per consentire agli utenti finali di essere conformi alle SOP dell'organizzazione per l'invio di dati sensibili tramite posta elettronica.<br>• Distribuire [Microsoft Defender Advanced Threat Protection (ATP)](/windows/security/threat-protection/windows-defender-atp/windows-defender-advanced-threat-protection) a tutti i desktop per la protezione dai codici dannosi e per la prevenzione e la risposta alle violazioni dei dati.<br>• Configurare, testare e distribuire i [criteri di prevenzione della perdita dei dati (DLP)](/exchange/security-and-compliance/data-loss-prevention/data-loss-prevention) per identificare, monitorare e [proteggere automaticamente](/microsoft-365/compliance/apply-protection-to-personal-data-in-office-365) oltre 80 tipi di dati sensibili comuni all'interno di documenti e messaggi di posta elettronica, incluse informazioni personali, mediche e finanziarie.<br>• Informare automaticamente i mittenti di posta elettronica che potrebbero violare i criteri, ancor prima che inviino un messaggio non conforme, configurando i [suggerimenti per i criteri](/exchange/security-and-compliance/data-loss-prevention/policy-tips). I suggerimenti per i criteri possono essere configurati per presentare una breve nota in Outlook, Outlook sul Web e Outlook Web App per dispositivi, che fornisce informazioni sulle possibili violazioni dei criteri durante la creazione di messaggi.<br>•    Implementare [Office 365 Advanced Threat Protection (ATP)](/microsoft-365/security/office-365-security/office-365-atp) per impedire i più comuni vettori di attacco, tra cui i messaggi di posta elettronica di phishing e i documenti di Office contenenti allegati e collegamenti dannosi.|
 
 ## <a name="beyond-90-days--ongoing-security-data-governance-and-reporting"></a>Dopo 90 giorni: sicurezza, governance dei dati e creazione di report
 

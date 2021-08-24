@@ -2,7 +2,7 @@
 title: Valutazioni d'impatto sulla protezione dei dati
 description: Questi documenti forniscono informazioni ai titolari del trattamento dei dati per aiutarli a determinare se è necessaria una DPIA e, in tal caso, quali dettagli includere.
 keywords: Valutazione impatto protezione dati, DPIA, Dynamics 365, servizi professionali Microsoft, Microsoft 365, documentazione Microsoft 365, RGPD
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -17,12 +17,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft GDPR
 hideEdit: true
-ms.openlocfilehash: 711cbafddaa6fbdff4050b138edacbd399666ef3
-ms.sourcegitcommit: 8bf2602d56eedee4447ddb374ef95b0587f254e7
+ms.openlocfilehash: c634e1c63a123232f600cbe085964cf9d2e366a9
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53377783"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58479798"
 ---
 # <a name="data-protection-impact-assessment-for-the-gdpr"></a>Valutazione dell'impatto sulla protezione dei dati per il GDPR
 
@@ -53,7 +53,7 @@ Quando si valuta se completare una DPIA devono essere considerati i fattori di r
 - Elaborazione su vasta scala di categorie speciali di dati (dati che rivelano informazioni che identificano in modo unico una persona fisica) o di dati personali relativi a condanne penali o crimini.
 - Monitoraggio sistematico di un'area pubblicamente accessibile su vasta scala.
 
-Il GDPR chiarisce che: "il trattamento di dati personali non dovrebbe essere considerato un trattamento su larga scala qualora riguardi dati personali di pazienti o clienti da parte di un singolo medico, operatore sanitario o avvocato. In tali casi non dovrebbe essere obbligatorio procedere a una valutazione d'impatto sulla protezione dei dati".
+Il GDPR chiarisce che: "Il trattamento di dati personali non dovrebbe essere considerato un trattamento su larga scala qualora riguardi dati personali di pazienti o clienti da parte di un singolo medico, operatore sanitario o avvocato. In tali casi non dovrebbe essere obbligatorio procedere a una valutazione d'impatto sulla protezione dei dati".
 
 **Cosa è necessario per completare una DPIA?**
 

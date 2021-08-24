@@ -2,7 +2,7 @@
 title: Richieste degli interessati per Professional Services e supporto tecnico Microsoft nell'ambito del GDPR e del CCPA
 description: Informazioni su come Professional Services e supporto tecnico Microsoft gestiscono le richieste degli interessati nell'ambito del GDPR e del CCPA.
 keywords: Professional Services, Microsoft 365, Microsoft 365 Education, documentazione Microsoft 365, GDPR, CCPA
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -18,12 +18,12 @@ ms.collection:
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
 hideEdit: true
-ms.openlocfilehash: bee4db3f01fe2add3a031c07e0f97869b08339ed
-ms.sourcegitcommit: 5d8e670e9d9968458047b51b6b2930f7bd14a011
+ms.openlocfilehash: 06dbe8eeeddc32fb98b7b4bf0351834fb6a34944
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "53141457"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482631"
 ---
 # <a name="microsoft-support-and-professional-services-data-subject-requests-for-the-gdpr-and-ccpa"></a>Richieste degli interessati per Professional Services e supporto tecnico Microsoft nell'ambito del GDPR e del CCPA
 
@@ -47,12 +47,12 @@ Tutte le richieste devono essere effettuate tramite un rappresentante del suppor
 
 #### <a name="overview-of-the-processes-outlined-in-this-guide"></a>Panoramica dei processi descritti in questa guida
 
-- **Individuazione:** usare gli strumenti di ricerca per trovare più facilmente i dati del cliente che possono essere oggetto di una richiesta dell’interessato. Dopo aver raccolto i documenti potenzialmente rilevanti, è possibile eseguire una o più delle azioni DSR descritte nei passaggi seguenti per rispondere alla richiesta del soggetto interessato. In alternativa, è possibile stabilire che la richiesta non soddisfa le linee guida della propria organizzazione in merito alla risposta alle richieste dell'interessato.
+- **Scoprire**: utilizzo degli strumenti di ricerca e individuazione per trovare più facilmente i dati dei clienti che potrebbero essere oggetto di una richiesta DSR. Dopo aver raccolto dei documenti potenzialmente reattivi, è possibile eseguire una o più delle azioni DSR descritte nella seguente procedura per rispondere alla richiesta. In alternativa, si potrebbe determinare che la richiesta non soddisfa le linee guida dell'organizzazione relative alla risposta alle richieste DSR.
 - **Accesso:** recuperare i dati personali che risiedono nel cloud Microsoft e, se richiesto, crearne una copia che può essere disponibile per l'interessato.
 - **Rettificare:** apportare modifiche o implementare le azioni richieste sui dati personali, ove applicabile.
-- **Limitare**: limitare il trattamento dei dati personali, rimuovendo le licenze per vari servizi di Azure o disattivando i servizi desiderati, dove possibile. È anche possibile rimuovere i dati dal cloud di Microsoft e conservarli in locale o in un'altra posizione.
+- **Limitare**: limitare il trattamento dei dati personali, tramite la rimozione delle licenze per vari servizi di Azure o disattivando i servizi desiderati ove possibile. È anche possibile rimuovere i dati dal cloud Microsoft e mantenerli in locale o in un altro posto.
 - **Eliminare:** rimuovere in modo definitivo i dati personali che risiedono nel cloud Microsoft.
-- **Esportare/ricevere (portabilità):** fornire all'interessato una copia elettronica dei dati o delle informazioni personali in un formato leggibile in modo automatizzato. Secondo il CCPA, le informazioni personali sono qualsiasi informazione riguardante una persona fisica identificata o identificabile. Non esiste distinzione tra i ruoli privati, pubblici o professionali di una persona. Il termine definito "informazioni personali" combacia con il termine "dati personali" del GDPR. Tuttavia, il CCPA include anche i dati relativi alla famiglia e al nucleo familiare. Per altre informazioni sul CCPA, vedere il [California Consumer Privacy Act](offering-ccpa.md) e le [Domande frequenti sul California Consumer Privacy Act](ccpa-faq.yml).
+- **Esportazione/ricezione (portabilità):** fornire all'interessato una copia elettronica dei dati o delle informazioni personali in un formato leggibile da una macchina. Secondo il CCPA, le informazioni personali sono qualsiasi informazione riguardante una persona fisica identificata o identificabile. Non esiste distinzione tra i ruoli privati, pubblici o professionali di una persona. Il termine definito "informazioni personali" combacia con il termine "dati personali" del GDPR. Tuttavia, il CCPA include anche i dati relativi alla famiglia e al nucleo familiare. Per altre informazioni sul CCPA, vedere il [California Consumer Privacy Act](offering-ccpa.md) e le [Domande frequenti sul California Consumer Privacy Act](ccpa-faq.yml).
 
 ### <a name="terminology"></a>Terminologia
 
@@ -64,9 +64,9 @@ Di seguito sono riportate le definizioni dei termini relativi all'RGPD per quest
 
 #### <a name="additional-terms-and-definitions-that-may-be-helpful-in-understanding-this-guide"></a>Ulteriori termini e definizioni che possono facilitare la comprensione di questa guida
 
-- **Dati relativi a supporto e consulenza:** tutti i dati, tra cui file di testo, audio, video e immagini, o il software, che vengono forniti a Microsoft dal cliente o per suo conto (o che il cliente autorizza Microsoft a ottenere da un servizio online) tramite un impegno con Microsoft per ottenere supporto tecnico o Servizi professionali. Per chiarire, questo non include i dati raccolti in cui Microsoft è il titolare del trattamento dei dati, inclusi i dati di contatto del cliente.
-- **Contatto cliente:** dati personali che potrebbero far parte della relazione commerciale con Microsoft, ad esempio i dati personali contenuti nelle informazioni di contatto del cliente. Ciò potrebbe includere nome, indirizzo e-mail o numero di telefono del Premier Contract Service Manager (CSM), dell'amministratore IT o globale di un servizio online o ruoli simili.
-- **Dati pseudonimizzati:** quando si usa il supporto tecnico Microsoft per i prodotti e servizi aziendali Microsoft, Microsoft genera alcune informazioni collegate a un identificatore numerico Microsoft per fornire il supporto. Queste informazioni vengono spesso denominate "dati pseudonimizzati". Anche se questi dati non possono essere attribuiti a un interessato specifico senza l'uso di informazioni aggiuntive, alcuni di essi possono rientrare nella definizione generale di "dati personali" del GDPR. All'interno di Servizi professionali, le richieste per soddisfare o assistere all'adempimento di richieste DSR includeranno sempre automaticamente dati di indirizzamento presentati con l'uso di pseudonimi.
+- **Dati relativi a consulenza e supporto:** tutti i dati, tra cui file di testo, audio, video e immagini, o il software, che vengono forniti a Microsoft dal cliente o per suo conto (ovvero il cliente autorizza Microsoft a ottenerli da un servizio online) tramite un impegno con Microsoft per ottenere supporto tecnico o Servizi professionali. Per chiarire, questo non include i dati raccolti dove Microsoft è il titolare del trattamento dei dati, compresi i dati di contatto dei clienti.
+- **Contatto cliente:** i dati personali che potrebbero far parte della relazione aziendale con Microsoft, come i dati personali contenuti nelle informazioni di contatto del cliente. Ciò potrebbe includere nome, indirizzo e-mail o numero di telefono del Premier Contract Service Manager (CSM), dell'amministratore IT o globale di un servizio online o ruoli simili.
+- **Dati presentati con l'uso di pseudonimi:** quando si usufruisce del supporto tecnico Microsoft per prodotti e servizi aziendali Microsoft, Microsoft genera alcune informazioni collegate a un identificatore numerico Microsoft per fornire il supporto. Tali informazioni vengono spesso denominate "dati presentati con l'uso di pseudonimi". Anche se questi dati non possono essere attribuiti a un interessato specifico senza l'uso di ulteriori informazioni, una parte di essi può essere considerata personale secondo l'ampia definizione illustrata nell'RGPD in merito ai dati personali. All'interno di Servizi professionali, le richieste per soddisfare o assistere all'adempimento di DSR includeranno sempre dati di indirizzamento presentati con l'uso di pseudonimi automaticamente.
 
 ### <a name="how-to-use-this-guide"></a>Come usare questa guida
 
@@ -89,7 +89,7 @@ Quando i dati personali del contatto cliente vengono raccolti nel corso della fo
 
 È importante che i clienti comprendano che la richiesta dell’interessato riguarda solo i dati personali del contatto cliente e che non verranno modificati o eliminati i dati del cliente inviati come parte degli impegni assunti (ad esempio, trascrizioni, descrizioni dei casi, file, prodotto di lavoro) poiché Microsoft è il responsabile del trattamento dei dati. Inoltre, per mantenere il record cronologico degli impegni, non verranno apportate modifiche agli impegni conclusi, tra cui il record di chi ha aperto un impegno.
 
-Dopo aver ricevuto una richiesta da un contatto cliente in merito alla richiesta dell'interessato in cui Microsoft è il responsabile del trattamento, il personale Microsoft indirizzerà il contatto del cliente al [Privacy Response Center](https://go.microsoft.com/fwlink/?LinkId=321116). Questo è il meccanismo di input principale di Microsoft per le richieste e i reclami sulla privacy. Dopo aver ricevuto un reclamo, il Privacy Response Center identificherà se fa parte di un account commerciale o aziendale e risponderà di conseguenza.
+Alla ricezione di una richiesta di informazioni da un contatto cliente in merito a una richiesta dell'interessato in cui Microsoft è il titolare del trattamento dei dati, il personale Microsoft indirizza un contatto cliente al [Privacy Response Center](https://go.microsoft.com/fwlink/?LinkId=321116). Si tratta del meccanismo di input principale di Microsoft per i reclami e le richieste di informazioni sulla privacy. Nel momento in cui riceve una richiesta di informazioni, il Privacy Response Center determina se fa parte di un account commerciale o aziendale e risponde in modo adeguato.
 
 Nel caso in cui Microsoft è il responsabile del trattamento, vedere <b>Richiesta dell'interessato per i dati forniti dal cliente: supporto commerciale</b> di seguito.
 
@@ -133,7 +133,7 @@ Per individuare i dati pertinenti e ottenere assistenza da Microsoft, un cliente
 
 *Opzione A: richiesta dell'interessato del cliente per il Supporto tecnico Microsoft*. Applicare la richiesta dell'interessato a tutti i dati relativi al supporto del cliente nell'ambiente di supporto Microsoft. A questo scopo, un cliente può semplicemente chiedere a Microsoft di applicare la richiesta dell'interessato a tutti i dati del supporto raccolti.
 
-*Opzione B: interazioni specifiche del cliente.* Usare i sistemi online per analizzare i ticket, quindi identificare le interazioni specifiche contenenti i dati personali pertinenti e segnalarli a Microsoft. Microsoft proverà a fornire assistenza per eseguire una ricerca se il cliente non è in grado di effettuare la ricerca nelle varie interazioni (ticket).
+*Opzione B: impegni specifici del cliente.* Utilizzare i sistemi online per analizzare i ticket, quindi identificare gli impegni specifici contenenti i dati personali pertinenti e segnalarli a Microsoft. Microsoft tenterà di fornire assistenza per eseguire una ricerca se il cliente non è in grado di effettuare la ricerca nei vari impegni (ticket).
 
 *Una volta identificati gli impegni, richiedere di applicare i diritti del soggetto dei dati a una parte specifica del record o a tutto ciò che riguarda tale impegno in Microsoft.*
 
@@ -176,13 +176,13 @@ Nel caso in cui un cliente abbia intenzione di eliminare dei dati personali in r
 
 Microsoft applica a tutti i dati dei criteri di conservazione ed eliminazione, che variano a seconda del rischio e di altri fattori.
 
-I clienti possono richiedere la cancellazione dei dati personali di un interessato a livello globale nei sistemi di supporto tramite il TAM o compilando una richiesta di supporto nell’Hub dei servizi o in un sistema equivalente.  È *necessario* indicare che si tratta di una richiesta di assistenza per una richiesta dell'interessato ai sensi del GDPR.
+I clienti possono richiedere la cancellazione dei dati personali di un interessato a livello globale nei sistemi di supporto tramite il TAM o compilando una richiesta di supporto nell’Hub servizi o in un sistema equivalente. *È necessario* indicare che si tratta di una richiesta di assistenza per una richiesta dell'interessato secondo il GDPR.
 
-*Opzione A: richiesta dell'interessato del cliente relativa al supporto tecnico Microsoft per più sistemi*. Per una richiesta dell'interessato per più sistemi, il cliente deve fornire i dati personali necessari a Microsoft per identificare i dati richiesti (ad esempio, l'indirizzo e-mail, il numero di telefono). Microsoft non correla o esegue ricerche nei record, ma utilizza direttamente gli identificatori forniti dal cliente. Una volta individuati i dati, Microsoft elimina tutte le interazioni e tutti i dati associati.
+*Opzione A: DSR del cliente per il supporto tecnico Microsoft*. Per una richiesta DSR in più sistemi, il cliente deve fornire i dati personali di cui necessita Microsoft per identificare i dati richiesti (ad esempio, l'indirizzo e-mail, il numero di telefono). Microsoft non correla o esegue ricerche nei record, ma utilizza direttamente gli identificatori forniti dal cliente. Una volta individuati i dati, Microsoft elimina tutti gli impegni e tutti i dati associati.
 
 > Nota importante: questa operazione potrebbe comportare la perdita di record cronologici importanti per l'organizzazione del cliente.
 
-*Opzione B: interazioni specifiche del cliente*. Per quanto riguarda le interazioni specifiche che il cliente ha identificato e vuole che siano rimosse, non eliminare i ticket dall’Hub dei servizi. In questo modo, i dati personali rimangono nei log e nei sistemi downstream che potrebbero non essere eliminati nell'intervallo di tempo necessario. Al contrario, identificare il ticket o i dati personali nel ticket da eliminare e contattare il supporto tecnico Microsoft per ricevere assistenza con l'eliminazione di tali dati.
+*Opzione B: impegni specifici del cliente*. Per quanto riguarda gli impegni specifici che il cliente ha identificato e vuole rimuovere, non eliminare i ticket dall’Hub servizi. In questo modo, i dati personali rimangono nei log e nei sistemi downstream che potrebbero non essere eliminati nell'intervallo di tempo necessario. Al contrario, identificare il ticket o i dati personali nel ticket da eliminare e contattare il Supporto tecnico Microsoft per ricevere assistenza con l'eliminazione di tali dati.
 
 ### <a name="microsoft-support-data-transfer-and-management-tool-dtm-instructions"></a>Istruzioni sullo strumento Data Transfer and Management (DTM) del Supporto tecnico Microsoft
 

@@ -2,7 +2,7 @@
 title: Elenco di controllo di preparazione della conformità di Servizi professionali e supporto tecnico Microsoft al GDPR
 description: Questo elenco di controllo offre un modo pratico per accedere alle informazioni necessarie per l'applicazione del GDPR quando si usano Microsoft Professional Services e il Servizio Supporto Tecnico Clienti Microsoft.
 keywords: ARC, elenco di controllo, Microsoft 365, Microsoft 365 Education, documentazione Microsoft 365, GDPR
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -17,12 +17,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft GDPR
-ms.openlocfilehash: 47f5508899933cd3f0293034c571824d36b7e95a485b96b1227dd1e0c43c63b2
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 044631cd05dc25f126388f38e9d45675ce397d4f
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54290214"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58480378"
 ---
 # <a name="microsoft-support-and-professional-services-accountability-readiness-checklist-for-the-gdpr"></a>Elenco di controllo di preparazione della conformità di Servizi professionali e supporto tecnico Microsoft al GDPR
 
