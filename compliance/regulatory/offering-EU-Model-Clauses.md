@@ -16,20 +16,18 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: ad57ba94dbb79e1e8d5536598ef4e2fd3f0fbf55
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: e57b10527b5eb1bd1baefebb36c9a8f37a97f59e
+ms.sourcegitcommit: 16cec8f7ca799a415bfbae937b177a628a0f2987
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482249"
+ms.lasthandoff: 08/24/2021
+ms.locfileid: "58505909"
 ---
 # <a name="european-union-model-clauses"></a>Clausole del modello dell'Unione europea
 
 ## <a name="european-union-model-clauses-overview"></a>Panoramica delle clausole del modello dell'Unione europea
 
-La legge sulla protezione dei dati dell'Unione europea (UE) regola il trasferimento dei dati personali dei clienti UE in paesi al di fuori dell'Area Economica Europea (AEE) che include tutti i paesi dell'Unione europea, Islanda, Liechtenstein e Norvegia. Le clausole del modello UE sono clausole contrattuali standard usate negli accordi tra provider di servizi (quale Microsoft) e i loro clienti per garantire che l'eventuale trasferimento di dati personali al di fuori dell'AEE sia adeguato alla legge sulla protezione dei dati europea e soddisfi i requisiti della Direttiva europea sulla protezione dei dati 95/46/EC.
-
-A livello pratico, la conformità alle leggi sulla protezione dei dati europea significa anche che i clienti hanno bisogno di meno autorizzazioni da parte delle singole autorità per trasferire i dati personali al di fuori dell'UE, poiché la maggior parte degli Stati membri dell'UE non richiede un'autorizzazione aggiuntiva se il trasferimento si basa su un accordo conforme alle clausole del modello.
+La legge sulla protezione dei dati dell'Unione europea (UE) regola il trasferimento dei dati personali dei clienti UE in paesi al di fuori dell'Area Economica Europea (AEE) che include tutti i paesi dell'Unione europea, Islanda, Liechtenstein e Norvegia. A livello pratico, la conformità alle leggi sulla protezione dei dati europea significa anche che i clienti hanno bisogno di meno autorizzazioni da parte delle singole autorità per trasferire i dati personali al di fuori dell'UE, poiché la maggior parte degli Stati membri dell'UE non richiede un'autorizzazione aggiuntiva se il trasferimento si basa su un accordo conforme alle clausole del modello.
 
 ## <a name="microsoft-and-european-union-model-clauses"></a>Microsoft e le clausole del modello dell'Unione europea
 
@@ -71,10 +69,6 @@ Microsoft valuta costantemente gli standard dell'Unione europea e aggiorna i suo
 
 ## <a name="frequently-asked-questions"></a>Domande frequenti
 
-**Cos'è la Direttiva europea sulla protezione dei dati 95/46/EC?**
-
-Questa direttiva definisce la linea di base per la gestione dei dati personali nell'Unione europea. Costituisce il framework normativo in base al quale Microsoft trasferisce i dati personali all'esterno dell'Unione europea. Ai sensi di questa direttiva e degli accordi contrattuali, Microsoft agisce come responsabile del trattamento dei dati dei clienti. Il cliente agisce invece come titolare del trattamento dei dati, mantenendo la proprietà dei dati e la responsabilità di garantire il trasferimento legale dei dati a Microsoft per il trattamento all'esterno dell'AEE.
-
 **Perché è importante l'adeguamento alle clausole del modello?**
 
 Un provider di servizi che si impegna contrattualmente a rispettare le clausole del modello garantisce ai suoi clienti che i dati personali verranno trasferiti ed elaborati nel rispetto della legge sulla protezione dei dati dell'Unione europea. Grazie al rispetto delle Clausole del modello, i clienti devono ottenere un minor numero di approvazioni dalle singole autorità di protezione dei dati per trasferire i dati personali al di fuori dell'Unione europea.
@@ -93,6 +87,7 @@ Un "responsabile secondario del trattamento dei dati" è chiunque elabori i dati
 
 ## <a name="resources"></a>Risorse
 
+- [Documentazione sulla conformità di Azure](/azure/compliance/)
 - [Organizzazioni degli standard europei](https://eur-lex.europa.eu/)
 - [Clausole modello UE](https://aka.ms/EU-model_clauses)
 - [Direttiva europea sulla protezione dei dati](https://aka.ms/EU-DPD)
