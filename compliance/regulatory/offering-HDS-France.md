@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: aea00230d5f34c2e682aa278ab5dc6ca062fa803
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: f8c99a93cac767439d157a7d709c7ed1d706c113
+ms.sourcegitcommit: 16cec8f7ca799a415bfbae937b177a628a0f2987
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482479"
+ms.lasthandoff: 08/24/2021
+ms.locfileid: "58505939"
 ---
 # <a name="health-data-hosting-hds-france"></a>Hosting di dati sanitari (HDS) Francia
 
@@ -48,7 +48,11 @@ Il rigoroso controllo è stato effettuato sulle misure adottate da Microsoft per
 
 ## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme e servizi cloud Microsoft inclusi nell'ambito
 
-- [Azure](https://aka.ms/AzureCompliance). Il certificato HDS è valido per i servizi di Azure elencati come conformi alle normative ISO/IEC 27001 nelle offerte di conformità di Azure e forniti dalle aree di Azure Francia centrale, Francia meridionale, Europa occidentale ed Europa settentrionale.
+- [Azure](https://aka.ms/AzureCompliance). Il certificato HDS è valido per i servizi di Azure elencati come conformi alle normative ISO/IEC 27001 nelle offerte di conformità di Azure e forniti nelle aree seguenti:
+    - Francia centrale (Parigi)
+    - Francia meridionale (Marsiglia)
+    - Europa settentrionale (Irlanda)
+    - Europa occidentale (Paesi Bassi)
 - Dynamics 365. Il certificato HDS è valido per i [servizi online standard](https://aka.ms/Online-Services-Terms) di Dynamics 365 forniti dalle aree geografiche della Francia e dell’Unione Europea.
 - Intune
 - Microsoft 365. Il certificato HDS è valido per i [servizi online standard](https://aka.ms/Online-Services-Terms) di Office 365 forniti dalle aree geografiche della Francia e dell’Unione Europea.
@@ -58,10 +62,7 @@ Il certificato HDS non è valido per i servizi online Microsoft in anteprima o i
 
 ## <a name="audits-reports-and-certificates"></a>Controlli, report e certificati
 
-La certificazione HDS è valida per tre anni.
-
-- HDS: 2018: [ASIP SANTÉ](https://esante.gouv.fr/)
-- [Gruppo BSI](https://www.bsigroup.com/fr-FR/Nos-services/Certification/Recherche-dans-le-repertoire-des-certificats-et-des-clients/Resultats-de-la-recherche-dans-le-repertoire-des-certificats-et-des-clients/?searchkey=licence%3dHDS%2b701569%26company%3dMicrosoft%2bCorp&licencenumber=HDS%20701569)
+[La certificazione HDS](https://esante.gouv.fr/labels-certifications/hebergement-des-donnees-de-sante) impone requisiti avanzati di sicurezza e privacy per i servizi di hosting e i provider cloud per garantire che la riservatezza e l'integrità dei dati sensibili siano adeguatamente protette. Ai servizi cloud Microsoft (incluso Azure) è stata concessa la certificazione HDS, come mostrato nell'elenco ASIP Santé degli [host certificati HDS](https://esante.gouv.fr/labels-certifications/hds/liste-des-herbergeurs-certifies).
 
 ## <a name="how-to-implement"></a>Come eseguire l'implementazione
 
@@ -70,6 +71,7 @@ La certificazione HDS è valida per tre anni.
 
 ## <a name="resources"></a>Risorse
 
+- [Documentazione sulla conformità di Azure](/azure/compliance/)
 - [Condizioni di Microsoft Online Services](https://aka.ms/Online-Services-Terms)
 - [Blog sulla certificazione HDS Microsoft](https://news.microsoft.com/2018/11/06/microsoft-1er-acteur-majeur-du-cloud-public-a-etre-certifie-hebergeur-de-donnees-de-sante-en-france/)
 - [Azure Francia](https://azure.microsoft.com/global-infrastructure/france/)
