@@ -17,30 +17,18 @@ metadata:
   ms.date: 11/30/2020
 highlightedContent:
   items:
-    - title: Attività rapide per iniziare a usare il Centro conformità Microsoft 365
-      itemType: get-started
-      url: /microsoft-365/compliance/compliance-quick-tasks
-    - title: 'Distribuire la protezione delle informazioni per le normative sulla privacy dei dati '
-      itemType: get-started
-      url: /microsoft-365/solutions/information-protection-deploy
-    - title: Informazioni sulla responsabilità condivisa nel cloud
-      itemType: overview
-      url: /azure/security/fundamentals/shared-responsibility
     - title: Informazioni su come Microsoft protegge i dati dei clienti
       itemType: learn
       url: /learn/paths/audit-safeguard-customer-data/
+    - title: Informazioni sulla responsabilità condivisa nel cloud
+      itemType: overview
+      url: /azure/security/fundamentals/shared-responsibility
     - title: Informazioni su Microsoft Compliance Manager
       itemType: learn
       url: /learn/paths/compmgmt/
-    - title: Gestione del rischio Insider in Microsoft 365
-      itemType: learn
-      url: /learn/paths/m365-compliance-insider/
-    - title: Gestire la protezione e la governance delle informazioni
-      itemType: learn
-      url: /learn/paths/m365-compliance-information/
-    - title: Informazioni su Advanced eDiscovery controllo avanzato
-      itemType: learn
-      url: /learn/paths/compliance-discover/
+    - title: Guida introduttiva alle Microsoft 365 di conformità
+      itemType: get-started
+      url: /microsoft-365/solutions/information-protection-deploy
 productDirectory:
   title: Conformità & settore normativo
   summary: Linee guida Microsoft sulla conformità con le aree del settore e le normative & internazionali.
