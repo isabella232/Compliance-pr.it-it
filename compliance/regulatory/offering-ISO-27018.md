@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: af81575c0f33e0266efee32792eed85fd9f39cd3
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 4398f120af9f051c0255b63e25c7534f15b03c0f
+ms.sourcegitcommit: deff41bc5085d0da42c33dd6d1672be0724a067c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58483001"
+ms.lasthandoff: 08/26/2021
+ms.locfileid: "58561364"
 ---
 # <a name="isoiec-27018-code-of-practice-for-protecting-personal-data-in-the-cloud"></a>Code of Practice per la protezione dei dati personali nel cloud ISO/IEC 27018
 
@@ -64,6 +64,7 @@ Seguendo gli standard ISO/IEC 27001 e il Code of Practice integrato in ISO/IEC 2
 - Power BI Embedded
 - Power Virtual Agents
 - Microsoft Defender per endpoint: Rilevamento e reazione dagli endpoint, Analisi e risoluzione automatiche, Secure Score
+- Windows 365
 
 ## <a name="azure-dynamics-365-and-iso-isoiec-27018"></a>Azure, Dynamics 365 e ISO ISO/IEC 27018
 

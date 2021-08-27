@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: efd0e2c90018c8fb32e39f83bdafa7f02bf0f230
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: b17c7629918bdf4386ad24d28c6cb6687728603c
+ms.sourcegitcommit: deff41bc5085d0da42c33dd6d1672be0724a067c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482931"
+ms.lasthandoff: 08/26/2021
+ms.locfileid: "58561354"
 ---
 # <a name="isoiec-270172015-code-of-practice-for-information-security-controls"></a>Codice di condotta in materia di controllo della sicurezza informatica ISO/IEC 27017:2015 
 
@@ -58,6 +58,7 @@ ISO/IEC 27017 è unico nel fornire indicazioni tanto ai provider di servizi clou
 - Servizio cloud PowerApps, autonomo o incluso in un piano o in una famiglia di prodotti con marchio Office 365 o Dynamics 365
 - Servizio cloud Power BI, autonomo o incluso in un piano o in una famiglia di prodotti con marchio Office 365
 - Power BI Embedded
+- Windows 365
 
 ## <a name="azure-dynamics-365-and-iso-270172015"></a>Azure, Dynamics 365 e ISO 27017:2015
 
