@@ -17,12 +17,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 4ebd8a02efc7bae74504cf22b1b927673e22e7de
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 5bc9f37cdf6d8f30ea71eddb612232b11844a4ba
+ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482149"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58676822"
 ---
 # <a name="enterprise-business-continuity-management-customer-and-cloud-partner-responsibilities"></a>Responsabilità del partner di cloud e dei clienti nella gestione della continuità aziendale
 
@@ -60,7 +60,7 @@ Microsoft gestisce più canali per le comunicazioni sullo stato dei servizi util
 
 Offrire l’accesso ai servizi online di Microsoft 365 rappresenta una partnership tra l'organizzazione e Microsoft. Nel grafico seguente viene riepilogato l'equilibrio di responsabilità per Microsoft e il cliente durante un incidente di servizio e durante normali operazioni.
 
-![equilibrio del cliente e responsabilità di Microsoft](../media/responsibilities.png)
+![equilibrio delle responsabilità dei clienti e di Microsoft.](../media/responsibilities.png)
 
 ## <a name="your-environment---service-continuity"></a>Ambiente - continuità del servizio
 
@@ -80,6 +80,6 @@ Microsoft pubblica i [principi di connettività di rete](/microsoft-365/enterpri
 Molte soluzioni per la collaborazione dipendono dai sistemi, come la rete WAN (Wide Area Network) aziendale. Se questi sistemi non fossero disponibili, quali sarebbero le ripercussioni per l’organizzazione?
 Questo elemento grafico rappresenta i problemi che possono avere un impatto su più aree. La tabella seguente include esempi da tenere in considerazione
 
-![Diagramma venn dei sistemi](../media/venn-diagram.png)
+![Diagramma venn dei sistemi.](../media/venn-diagram.png)
 
 I piani di continuità devono considerare ognuna di queste aree. Ad esempio: se si desidera che gli utenti si trovino nella rete aziendale e al contempo ci fosse una tormenta di neve, in che modo questi utenti avrebbero accesso alle risorse chiave? Se la neve impedisse di raggiungere l’ufficio e gli ingegneri del servizio avessero bisogno di connettersi alla rete aziendale, esiste un criterio che impone di avere dei laptop aziendali a casa?

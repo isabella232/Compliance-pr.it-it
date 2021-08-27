@@ -1,6 +1,6 @@
 ---
 title: Simulazione di un attacco in Microsoft 365
-description: In questo articolo scopri come Microsoft monitora e testa continuamente i limiti del tenant per Microsoft 365.
+description: In questo articolo, scopri come Microsoft monitora e testa continuamente i limiti del tenant per Microsoft 365.
 ms.author: robmazz
 author: robmazz
 manager: laurawi
@@ -20,20 +20,20 @@ f1.keywords:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 940e5a4aa0a1327da6d964d9babf0ae3fb897598
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: ff5860197375d6504bc85f257a442915dfff50cc
+ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481858"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58678615"
 ---
 # <a name="attack-simulation-in-microsoft-365"></a>Simulazione di un attacco in Microsoft 365
 
 Microsoft monitora costantemente e verifica in modo esplicito i punti deboli e le vulnerabilità nei limiti del tenant, tra cui il monitoraggio delle intrusioni, i tentativi di violazione delle autorizzazioni e la carestia delle risorse. Usiamo anche più sistemi interni per monitorare continuamente l'utilizzo improprio delle risorse, che, se rilevato, attiva la limitazione predefinita.
 
-Microsoft 365 dispone di sistemi di monitoraggio interni che monitorano continuamente eventuali errori e guidano il ripristino automatico quando viene rilevato un errore. Microsoft 365 i sistemi di analisi delle deviazioni nel comportamento del servizio e avviano processi di auto-riparazione incorporati nel sistema. Microsoft 365 utilizza anche il monitoraggio esterno in cui il monitoraggio viene eseguito da più posizioni sia da servizi di terze parti attendibili (per la verifica indipendente del contratto di servizio) che dai nostri datacenter per generare avvisi. Per la diagnostica, sono stati evasi la registrazione, il controllo e l'analisi. La traccia granulare e il monitoraggio ci aiutano a isolare i problemi ed eseguire un'analisi rapida ed efficace delle cause radice.
+Microsoft 365 sono presenti sistemi di monitoraggio interni che monitorano continuamente eventuali errori e guidano il ripristino automatico quando viene rilevato un errore. Microsoft 365 i sistemi di analisi delle deviazioni nel comportamento del servizio e avviano processi di auto-riparazione incorporati nel sistema. Microsoft 365 utilizza anche il monitoraggio esterno in cui il monitoraggio viene eseguito da più posizioni sia da servizi di terze parti attendibili (per la verifica indipendente del contratto di servizio) che dai nostri datacenter per generare avvisi. Per la diagnostica, sono stati evasi la registrazione, il controllo e l'analisi. La traccia granulare e il monitoraggio ci aiutano a isolare i problemi ed eseguire un'analisi rapida ed efficace delle cause radice.
 
-Anche se Microsoft 365 ha azioni di ripristino automatizzate, ove possibile, i tecnici microsoft a chiamata sono disponibili 24x7 per analizzare tutte le escalation di sicurezza di gravità 1 e le revisioni post-mortem di ogni incidente di servizio contribuiscono all'apprendimento continuo e al miglioramento. Questo team include tecnici del supporto, sviluppatori di prodotti, program manager, product manager e dirigenti senior. I nostri professionisti di chiamata forniscono un backup rapido e spesso possono automatizzare le azioni di ripristino, in modo che la prossima volta che si verifica un evento, possa essere auto-curato.
+Anche se Microsoft 365 ha azioni di ripristino automatizzate, ove possibile, i tecnici di chiamata Microsoft sono disponibili 24x7 per analizzare tutte le escalation di sicurezza di gravità 1 e le revisioni post-mortem di ogni incidente di servizio contribuiscono all'apprendimento continuo e al miglioramento. Questo team include tecnici del supporto, sviluppatori di prodotti, program manager, product manager e dirigenti senior. I nostri professionisti di chiamata forniscono un backup rapido e spesso possono automatizzare le azioni di ripristino, in modo che la prossima volta che si verifica un evento, possa essere auto-curato.
 
 Microsoft esegue un'analisi approfondita post-incidente ogni volta che si verifica un Microsoft 365 di sicurezza indipendentemente dalla grandezza dell'impatto. Una revisione post-incidente consiste in un'analisi di ciò che è successo, di come abbiamo risposto e di come preveniamo incidenti simili in futuro. Nell'interesse della trasparenza e della responsabilità, condividiamo le revisioni post-incidente per eventuali incidenti di servizio principali con i clienti interessati. Per informazioni dettagliate, vedere [Gestione degli incidenti di sicurezza Microsoft.](assurance-security-incident-management.md)
 
@@ -64,7 +64,7 @@ Il Team Rosso è un gruppo di personale a tempo pieno all'interno di Microsoft c
 
 Il ruolo del team rosso è quello di attaccare e penetrare in ambienti usando gli stessi passaggi di un avversario:
 
-![Fasi di violazione](../media/office-365-isolation-breach-stages.png)
+![Fasi di violazione.](../media/office-365-isolation-breach-stages.png)
 
 Tra le altre funzioni, i team rossi tentano in modo specifico di violare i limiti di isolamento del tenant per individuare bug o lacune nella progettazione dell'isolamento.
 
@@ -84,8 +84,8 @@ Quando un avversario, ad esempio un team rosso, ha violato un ambiente, il team 
 - Formare un piano di correzione per contenere o eliminare l'avversario
 - Eseguire il piano di correzione e ripristinare la violazione
 
-Questi passaggi formano la risposta agli incidenti di sicurezza che viene eseguita in parallelo a quella dell'avversario, come illustrato di seguito:
+Questi passaggi formano la risposta agli eventi imprevisti di sicurezza che viene eseguita in parallelo a quella dell'avversario, come illustrato di seguito:
 
-![Fasi di risposta alle violazioni](../media/office-365-isolation-breach-response-stages.png)
+![Fasi di risposta alla violazione.](../media/office-365-isolation-breach-response-stages.png)
 
 Le violazioni del team rosso consentono di esercitare la capacità del team blu di rilevare e rispondere agli attacchi del mondo reale end-to-end. Soprattutto, consente una risposta pratica agli incidenti di sicurezza prima di una violazione autentica. Inoltre, a causa delle violazioni del Red Team, il team blu migliora la propria consapevolezza della situazione, che può essere utile quando si tratta di violazioni future (dal Team Rosso o da un altro avversario). Durante tutto il processo di rilevamento e risposta, il team blu produce un'intelligenza utilizzabile e ottiene visibilità nelle condizioni effettive degli ambienti che stanno cercando di difendere. Spesso questa operazione viene eseguita tramite analisi dei dati e analisi forensi, eseguite dal team blu, quando si risponde agli attacchi del Team Rosso e stabilendo indicatori di minaccia, ad esempio indicatori di compromissione. Analogamente al modo in cui il team rosso identifica le lacune nella storia della sicurezza, i team blu identificano le lacune nella loro capacità di rilevare e rispondere. Inoltre, dal momento che i team rossi modellano gli attacchi reali, il team blu può essere valutato in modo accurato in base alla loro capacità o incapacità di gestire gli avversari determinati e persistenti. Infine, le violazioni del team rosso misurano sia la prontezza che l'impatto della nostra risposta di violazione.

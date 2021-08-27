@@ -19,12 +19,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 5cb8d92a970c73f76de3d9a824c7bab86d13ce2e
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 0c99c28ee6a291acbcfe913a87aa107d3be5c75a
+ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481698"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58676805"
 ---
 # <a name="microsoft-security-incident-management-containment-eradication-and-recovery"></a>Gestione degli incidenti di sicurezza Microsoft: contenimento, eliminazione e ripristino
 
@@ -51,11 +51,11 @@ Un aspetto chiave per il ripristino è avere una maggiore vigilanza e controlli 
 
 ## <a name="customer-notification-of-security-incident"></a>Notifica al cliente di un evento imprevisto di sicurezza
 
-Se Microsoft determina che si è verificato un incidente di sicurezza, microsoft informerà l'utente con un ritardo indebito e entro i requisiti contrattuali e di conformità concordati. Dopo aver identificato tutti i tenant interessati, il team di comunicazione corrispondente lavora per identificare eventuali normative rilevanti che potrebbero essere applicate ai tenant interessati. Il team delle comunicazioni utilizza il canale di comunicazione appropriato definito nelle normative applicabili per inviare una notifica al contatto tenant appropriato.
+Se Microsoft determina che si è verificato un incidente di sicurezza, microsoft informerà l'utente con un ritardo indebito e entro i requisiti contrattuali e di conformità concordati. Dopo aver identificato tutti i tenant interessati, il team di comunicazione corrispondente lavora per identificare eventuali normative rilevanti applicabili ai tenant interessati. Il team delle comunicazioni utilizza il canale di comunicazione appropriato definito nelle normative applicabili per inviare una notifica al contatto tenant appropriato.
 
-![Procedura di risposta a un incidente](../media/assurance-incident-response-process.png)
+![Processo di risposta agli eventi imprevisti.](../media/assurance-incident-response-process.png)
 
-La notifica includerà informazioni dettagliate sull'evento imprevisto, ad esempio una descrizione dell'evento imprevisto, l'effetto sui dati dei clienti, se presenti, le azioni intraprese da Microsoft e/o le azioni suggerite ai clienti per risolvere il problema e impedire la ricorrenza. La notifica verrà recapitata agli amministratori designati del tenant dei servizi online Microsoft. Per assicurarsi che le notifiche siano ricevute, è necessario assicurarsi che gli amministratori forniranno e mantengano informazioni di contatto accurate nei profili tenant. Inoltre, a seconda della natura dell'incidente, i clienti Microsoft 365 possono ricevere una notifica anche tramite il dashboard Microsoft 365 [Service Health.](http://status.yammer.com/)
+La notifica includerà informazioni dettagliate sull'evento imprevisto, ad esempio una descrizione dell'evento imprevisto, l'effetto sui dati dei clienti, se presenti, le azioni intraprese da Microsoft e/o le azioni suggerite ai clienti per risolvere il problema e impedire la ricorrenza. La notifica verrà recapitata agli amministratori designati del tenant dei servizi online Microsoft. Per assicurarsi che le notifiche siano ricevute, è necessario assicurarsi che gli amministratori forniranno e mantengano informazioni di contatto accurate nei profili tenant. Inoltre, a seconda della natura dell'incidente, i clienti Microsoft 365 possono ricevere una notifica anche tramite il dashboard Microsoft 365 [Service Health Dashboard](http://status.yammer.com/).
 
 ## <a name="related-articles"></a>Articoli correlati
 

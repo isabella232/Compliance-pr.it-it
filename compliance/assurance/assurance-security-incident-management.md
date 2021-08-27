@@ -19,12 +19,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: a35e6757d64dd0c2bffc1b1cbc62e23f524b8ac9
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: cb9d27f02ec53c98e2f00d3106f8e4be8798d78f
+ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481738"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58678585"
 ---
 # <a name="microsoft-security-incident-management"></a>Gestione degli incidenti di sicurezza Microsoft
 
@@ -63,7 +63,7 @@ I team di sicurezza e i team dei servizi online Microsoft lavorano insieme e pre
 - **Containment, eradication, recovery**: fa riferimento alle azioni necessarie e appropriate intraprese per contenere l'incidente di sicurezza in base all'analisi eseguita nella fase precedente. Potrebbe essere necessaria un'analisi più approfondita anche in questa fase per il ripristino completo dall'incidente di sicurezza.
 - **Attività post-incidente**: fa riferimento all'analisi post-mortem eseguita dopo il ripristino di un incidente di sicurezza. Le azioni operative eseguite durante il processo vengono esaminate per determinare se è necessario apportare modifiche nelle fasi di preparazione o rilevamento e analisi.
 
-![Fasi di gestione degli incidenti di sicurezza](../media/assurance-sim-phases.png)
+![Fasi di gestione degli incidenti di sicurezza.](../media/assurance-sim-phases.png)
 
 ## <a name="federated-security-response-model"></a>Modello di risposta di sicurezza federata
 

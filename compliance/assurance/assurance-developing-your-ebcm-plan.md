@@ -17,12 +17,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 71e84ad97c560cd90b8ba49a1c568dd70fd516f5
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 6a44866d5c82ffa93e6c3c0d9c0ece3946651bd2
+ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482069"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58676785"
 ---
 # <a name="developing-your-business-continuity-plan"></a>Sviluppo del piano di continuità aziendale
 
@@ -83,7 +83,7 @@ Ecco un'analisi delle dipendenze di esempio da cui iniziare. Nell'analisi delle 
 Dopo aver inventariato i processi aziendali e aver mappato tutte le relazioni con altri processi e tecnologie, è necessario creare scenari di convalida per tutti i processi. Fondamentalmente, riflettere su come convalidare i piani di continuità dei processi aziendali. Probabilmente si scoprirà che alcuni sono più importanti di altri e si vorrà dare loro la priorità.
 È importante tenere presente che, una volta stabilito il piano, formare regolarmente i dipendenti in merito alle misure di continuità e risposta agli incidenti è molto importante. È opportuno usare revisioni post evento per migliorare le strategie di resilienza, incorporando quanto appreso da ogni convalida o test.
 
-![Visione di convalida delle funzionalità](../media/capability-validation-visio.png)
+![visio di convalida delle funzionalità.](../media/capability-validation-visio.png)
 
 ## <a name="incident-coordination-and-communication"></a>Comunicazioni e coordinamento in caso di incidenti
 
@@ -93,7 +93,7 @@ In Microsoft, ogni team del servizio ha stabilito canali di comunicazione altern
 
 Durante l'analisi dell'impatto aziendale e l'analisi delle dipendenze, si assoceranno i processi critici alle tecnologie o ai servizi a cui dipendono. Prestare particolare attenzione alle comunicazioni in questa fase della pianificazione e pensare a soluzioni alternative. Ecco alcuni esempi.
 
-- Se il metodo principale usato per informare gli utenti e gli stakeholder è l'e-mail e il servizio di posta elettronica è degradato o non è disponibile, si può usare come backup un altro servizio, come Microsoft Teams, Yammer o un servizio di terze parti. La chiave consiste nello stabilire tutto questo in anticipo e nell'insegnare agli utenti dove andare. Un Yammer thread non sarà utile se nessuno sa che esiste o se nessuno lo ha aggiunto ai segnalibri.  
+- Se il metodo principale usato per informare gli utenti e gli stakeholder è l'e-mail e il servizio di posta elettronica è degradato o non è disponibile, si può usare come backup un altro servizio, come Microsoft Teams, Yammer o un servizio di terze parti. La chiave consiste nello stabilire tutto questo in anticipo e nell'insegnare agli utenti dove andare. Un Yammer thread non sarà utile se nessuno sa che esiste o se nessuno ha un segnalibro.  
 - Se i processi interni di gestione degli incidenti si basano sulle comunicazioni vocali per coordinare le risposte, stabilire una soluzione di telefonia alternativa da usare durante una crisi. Questa soluzione non deve avere la parità completa con il servizio principale, ma deve fornire il livello minimo di collaborazione per coordinare i team di continuità aziendale e gestione degli incidenti. Inoltre, chiedere agli utenti di pubblicare i numeri di telefono cellulare nell'elenco indirizzi globale può fornire un ulteriore livello di comunicazione di backup nei casi più estremi.
 - Può essere utile creare un dashboard di integrità dei servizi personalizzato o un altro sito di questo genere, che possa fornire aggiornamenti sullo stato durante un evento imprevisto. Informare gli utenti in anticipo su dove rivolgersi per ottenere informazioni contribuirà a ridurre le chiamate superflue all'help desk e a infondere fiducia nella base degli utenti sul fatto che la situazione viene gestita in modo rapido ed efficiente. Usa l'API O365 Service Communications per collegare queste informazioni Microsoft 365 un livello di visibilità ancora maggiore.  
 - È essenziale che l'ubicazione dei piani di continuità aziendale e delle procedure operative standard sia ben nota. È consigliabile mantenere copie online e offline dei documenti critici, ad esempio configurando OneDrive for Business o SharePoint Online per la sincronizzazione automatica con i dispositivi locali. Per i Centri operazioni di servizio/rete e altri team simili che saranno critici per il ripristino, è anche possibile mantenere disponibili copie rigide da utilizzare in caso di emergenza.

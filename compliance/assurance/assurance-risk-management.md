@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: ae5177f524fd8f2025198aa5155821f4aa759050
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 8be83f6faa3d365e2cb91c996e2c87367797670f
+ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481768"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58678595"
 ---
 # <a name="risk-management-overview"></a>Panoramica sulla gestione dei rischi
 
@@ -35,13 +35,13 @@ La gestione dei rischi è il processo di identificazione, valutazione e risposta
 
 La gestione dei rischi di Microsoft si allinea al framework ERM (Enterprise Risk Management). L’ERM consente il processo complessivo di gestione dei rischi aziendali e interagisce con la gestione in tutta l'azienda per identificare e garantire la responsabilità per i rischi più significativi di Microsoft.
 
-![Struttura di gestione dei rischi](../media/assurance-risk-management-structure.png)
+![Struttura di gestione dei rischi.](../media/assurance-risk-management-structure.png)
 
 Microsoft ERM consente principi comuni di gestione dei rischi nell'organizzazione in modo che le unità aziendali possano facilitare in modo indipendente valutazioni coerenti e comparative dei rischi. Questo coordinamento offre a Microsoft la possibilità di aggregare e segnalare le informazioni sui rischi in modo consolidato per la gestione. L’ERM fornisce alle unità operative di Microsoft metodologie, strumenti e obiettivi comuni per il processo di gestione dei rischi. Microsoft 365 e altri gruppi di progettazione e unità aziendali utilizzano questi strumenti per eseguire valutazioni dei rischi individuali nell'ambito dei propri programmi di gestione dei rischi sotto la guida di ERM.
 
 ## <a name="how-do-microsoft-online-services-work-with-erm"></a>Come funzionano i servizi online Microsoft con ERM?
 
-Ogni servizio online segue le indicazioni ERM per gestire i rischi tra servizi Microsoft. Il programma si concentra sull'allineamento del framework ERM con i processi di progettazione, gestione dei servizi e conformità Microsoft esistenti, rendendo il programma di gestione dei rischi più efficace ed efficiente. Le attività di gestione dei rischi di ogni servizio online vengono infine rimboccate e informate del processo ERM.
+Ogni servizio online segue le linee guida ERM per gestire i rischi tra servizi Microsoft. Il programma si concentra sull'allineamento del framework ERM con i processi di progettazione, gestione dei servizi e conformità Microsoft esistenti, rendendo il programma di gestione dei rischi più efficace ed efficiente. Le attività di gestione dei rischi di ogni servizio online vengono infine rimboccate e informate del processo ERM.
 
 Nell'ambito delle attività di valutazione dei rischi, ogni servizio online analizza la progettazione e l'efficacia operativa dei controlli implementati nell'ambito di Microsoft Controls Framework (Framework). Framework è un insieme razionalizzato di controlli che, se implementati correttamente insieme al supporto delle attività di conformità, consentono ai team di progettazione di conformarsi a normative e certificazioni chiave.
 

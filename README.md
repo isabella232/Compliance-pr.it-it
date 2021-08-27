@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 51c917585c8138a476e9aacd349c6dd46c545d2c140696ebfc4d0aee6f0a67cc
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: e340c0c21579bbae4294379bf2a2b3adae222cd5
+ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54288165"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58676775"
 ---
 # <a name="overview"></a>Panoramica
 
@@ -16,17 +16,17 @@ Chiunque sia interessato può contribuire agli argomenti. Quando contribuisci, i
 
 I collaboratori che apportano solo aggiornamenti poco frequenti o di piccole dimensioni possono modificare il file direttamente su GitHub.com senza dover installare software aggiuntivo. In questo articolo viene illustrato come. [Questo video di due minuti](https://www.microsoft.com/videoplayer/embed/RE1XQTG) illustra anche come contribuire.
 
-1. Assicurati di aver eseguito l'accesso a GitHub.com con il tuo account GitHub.
+1. Assicurati di aver effettuato l'accesso a GitHub.com con il tuo account GitHub.
 2. Passare alla pagina che si desidera modificare in docs.microsoft.com.
 3. Sul lato destro della pagina fare clic su **Modifica** (icona a forma di matita).
 
-   ![Pulsante Modifica in docs.microsoft.com](compliance/media/quick-update-edit.png)
+   ![Pulsante Modifica in docs.microsoft.com.](compliance/media/quick-update-edit.png)
 
-4. Verrà aperto il file dell'argomento GitHub, in cui è necessario fare clic sull'icona a forma di matita Modifica **questo file.**
+4. Verrà aperto il file dell'argomento corrispondente GitHub, in cui è necessario fare clic sull'icona a forma di matita Modifica **questo file.**
 
-   ![Pulsante Modifica in github.com](compliance/media/quick-update-github.png)
+   ![Pulsante Modifica in github.com.](compliance/media/quick-update-github.png)
 
-5. L'argomento viene aperto in una pagina di modifica con numeri di riga in cui è possibile apportare modifiche al file. I file GitHub vengono scritti e modificati utilizzando il linguaggio Markdown. Per informazioni sull'uso di Markdown, vedi [Mastering Markdown.](https://guides.github.com/features/mastering-markdown/) Seleziona la **scheda Anteprima modifiche** per visualizzare le modifiche mentre vai.
+5. L'argomento viene aperto in una pagina di modifica con numeri di riga in cui è possibile apportare modifiche al file. I file GitHub vengono scritti e modificati utilizzando il linguaggio Markdown. Per informazioni sull'uso di Markdown, vedere [Mastering Markdown.](https://guides.github.com/features/mastering-markdown/) Selezionare la **scheda Anteprima modifiche** per visualizzare le modifiche mentre si passa.
 
 6. Dopo aver apportato le modifiche, passare alla sezione **Proponi modifica file** nella parte inferiore della pagina:
 
@@ -35,20 +35,20 @@ I collaboratori che apportano solo aggiornamenti poco frequenti o di piccole dim
 
    Quando si è pronti, fare clic sul pulsante verde **Proponi modifica file.**
 
-   ![Sezione Proponi modifica file](compliance/media/propose-file-change.png)
+   ![Sezione Proponi modifica file.](compliance/media/propose-file-change.png)
 
 7. Nella pagina **Confronto delle modifiche** visualizzata fare clic sul pulsante verde Crea richiesta **pull.**
 
-   ![Pagina Confronto delle modifiche](compliance/media/comparing-changes-page.png)
+   ![Pagina Confronto delle modifiche.](compliance/media/comparing-changes-page.png)
 
 8. Nella pagina **Apri una richiesta pull** visualizzata fare clic sul pulsante verde Crea richiesta **pull.**
 
-   ![Aprire una pagina di richiesta pull](compliance/media/open-a-pull-request-page.png)
+   ![Aprire una pagina di richiesta pull.](compliance/media/open-a-pull-request-page.png)
 
 > [!NOTE]
 > Le autorizzazioni nel repo determinano ciò che viene visualizzato negli ultimi passaggi. Gli utenti senza privilegi speciali visualizzano la sezione Suggerisci **modifica file** e le pagine di conferma successive come descritto. Gli utenti con autorizzazioni per creare e approvare le proprie richieste pull visualizzano una sezione **Commit modifiche** simile con opzioni aggiuntive per la creazione di un nuovo ramo e un numero minore di pagine di conferma.<br/><br/>Il punto è: fare clic sui pulsanti verdi che vengono presentati fino a quando non sono più disponibili.
 
-Il writer identificato nei metadati dell'argomento riceverà una notifica e alla fine rivedrà e approverà le modifiche in modo che l'argomento verrà aggiornato docs.microsoft.com. In caso di domande o problemi con gli aggiornamenti, l'autore contatta l'utente.
+Il writer identificato nei metadati dell'argomento riceverà una notifica e alla fine rivedrà e approverà le modifiche in modo che l'argomento verrà aggiornato docs.microsoft.com. In caso di domande o problemi con gli aggiornamenti, l'autore ti contatta.
 
 ## <a name="microsoft-open-source-code-of-conduct"></a>Codice di comportamento Microsoft Open Source
 
@@ -64,7 +64,7 @@ Quando invii una richiesta pull, un CLA-bot determinerà automaticamente se è n
 
 ### <a name="legal-notices"></a>Note legali
 
-Microsoft e tutti i collaboratori ti concedono una licenza per la documentazione Microsoft e altri contenuti in questo repository nella Licenza pubblica internazionale [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/legalcode), vedi il file [LICENSE](LICENSE) e concedi una licenza a qualsiasi codice nel repository sotto licenza [MIT](https://opensource.org/licenses/MIT), vedi il file [LICENSE-CODE.](LICENSE-CODE)
+Microsoft e tutti i collaboratori ti concedono una licenza per la documentazione Microsoft e altri contenuti in questo repository in [Creative Commons Attribution 4.0 International Public License](https://creativecommons.org/licenses/by/4.0/legalcode), vedi il file [LICENSE](LICENSE) e concedi una licenza a qualsiasi codice nel repository sotto licenza [MIT](https://opensource.org/licenses/MIT), vedi il file [LICENSE-CODE.](LICENSE-CODE)
 
 Microsoft, Windows, Microsoft Azure e/o altri prodotti e servizi Microsoft a cui si fa riferimento nella documentazione possono essere marchi o marchi registrati di Microsoft negli Stati Uniti e/o in altri paesi.
 

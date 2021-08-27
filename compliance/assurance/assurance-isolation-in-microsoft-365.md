@@ -20,26 +20,26 @@ f1.keywords:
 - NOCSH
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 9b152aedd872c43d58b248f846d5550117566442
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 82378b72d8dc17441a1ab92fc7ac222d7b9d4036
+ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481928"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58678625"
 ---
 # <a name="isolation-and-access-control-in-microsoft-365"></a>Isolamento e controllo di accesso in Microsoft 365
 
 Azure Active Directory (Azure AD) e Microsoft 365 usano un modello di dati estremamente complesso che include decine di servizi, centinaia di entità, migliaia di relazioni e decine di migliaia di attributi. A livello elevato, Azure AD e le directory del servizio sono i contenitori di tenant e destinatari mantenuti sincronizzati utilizzando protocolli di replica basati sullo stato. Oltre alle informazioni sulla directory contenute in Azure AD, ognuno dei carichi di lavoro del servizio dispone di una propria infrastruttura di servizi directory.
  
-![Microsoft 365 dei dati del tenant](../media/office-365-isolation-tenant-data-sync.png)
+![Microsoft 365 sincronizzazione dei dati del tenant.](../media/office-365-isolation-tenant-data-sync.png)
 
-All'interno di questo modello non esiste una singola origine di dati della directory. Sistemi specifici sono proprietari di singole parti di dati, ma nessun singolo sistema contiene tutti i dati. Microsoft 365 collaborano con Azure AD in questo modello di dati. Azure AD è il "sistema di verita' per i dati condivisi, che in genere sono dati di piccole dimensioni e statici usati da ogni servizio. Il modello federato usato in Microsoft 365 e Azure AD fornisce la visualizzazione condivisa dei dati.
+All'interno di questo modello non esiste una singola origine di dati della directory. Sistemi specifici sono proprietari di singole parti di dati, ma nessun singolo sistema contiene tutti i dati. Microsoft 365 collaborano con Azure AD in questo modello di dati. Azure AD è il "sistema di verita' per i dati condivisi, che in genere sono dati di piccole dimensioni e statici usati da ogni servizio. Il modello federato usato all'interno Microsoft 365 e Azure AD fornisce la visualizzazione condivisa dei dati.
 
-Microsoft 365 usa sia l'archiviazione fisica che l'archiviazione cloud di Azure. Exchange Online (inclusi Exchange Online Protection) e Skype for Business utilizzare il proprio spazio di archiviazione per i dati dei clienti. SharePoint Online usa sia SQL Server archiviazione che Archiviazione di Azure, quindi la necessità di un ulteriore isolamento dei dati dei clienti a livello di archiviazione.
+Microsoft 365 usa sia l'archiviazione fisica che l'archiviazione cloud di Azure. Exchange Online (inclusi Exchange Online Protection) e Skype for Business il proprio spazio di archiviazione per i dati dei clienti. SharePoint Online usa sia SQL Server archiviazione che Archiviazione di Azure, quindi la necessità di un ulteriore isolamento dei dati dei clienti a livello di archiviazione.
 
 ## <a name="exchange-online"></a>Exchange Online
 
-Exchange Online i dati dei clienti nelle cassette postali. Le cassette postali sono ospitate all'interno di database ESE (Extensible Archiviazione Engine) denominati database delle cassette postali. Sono incluse le cassette postali degli utenti, le cassette postali collegate, le cassette postali condivise e le cassette postali delle cartelle pubbliche. Le cassette postali degli utenti includono Skype for Business contenuto, ad esempio le cronologie delle conversazioni.
+Exchange Online i dati dei clienti nelle cassette postali. Le cassette postali sono ospitate all'interno di database ESE (Extensible Archiviazione Engine) denominati database delle cassette postali. Sono incluse le cassette postali degli utenti, le cassette postali collegate, le cassette postali condivise e le cassette postali delle cartelle pubbliche. Le cassette postali degli utenti includono Skype for Business contenuti salvati, ad esempio le cronologie delle conversazioni.
 
 Il contenuto della cassetta postale utente include:
 
@@ -47,7 +47,7 @@ Il contenuto della cassetta postale utente include:
 - Calendario e informazioni sulla disponibilità
 - Contatti
 - Attività
-- Note
+- Notes
 - Gruppi
 - Dati di inferenza
 
@@ -58,8 +58,8 @@ Ogni database delle cassette postali Exchange Online contiene cassette postali d
 Skype for Business i dati vengono archiviati in diverse posizioni:
 
 - Le informazioni su utenti e account, che includono endpoint di connessione, ID tenant, dial plan, impostazioni mobili, stato presenza, elenchi contatti e così via, vengono archiviate nei server Active Directory di Skype for Business e in vari server di database Skype for Business. Gli elenchi contatti vengono archiviati nella cassetta postale Exchange Online'utente se l'utente è abilitato per entrambi i prodotti o nei server Skype for Business se l'utente non lo è. Skype for Business server di database non sono partizionati per tenant, ma l'isolamento multi-tenancy dei dati viene applicato tramite il controllo di accesso basato sui ruoli (RBAC).
-- Il contenuto delle riunioni e i dati caricati vengono archiviati in condivisioni DFS (Distributed File System). Questo contenuto può essere archiviato anche in Exchange Online se abilitato. Le condivisioni DFS non sono partizionate per tenant. il contenuto è protetto con gli ACL e la multi-tenancy viene applicata tramite RBAC.
-- I record dettagli chiamata, che sono la cronologia delle attività, ad esempio la cronologia delle chiamate, le sessioni di messaggistica istantanea, la condivisione delle applicazioni, la cronologia di messaggistica istantanea e così via, possono essere archiviati anche in Exchange Online, ma la maggior parte dei record dettagli chiamata viene temporaneamente archiviata nei server CDR (Call Detail Record). Il contenuto non viene partizionato per tenant, ma la multi-tenancy viene applicata tramite RBAC.
+- Il contenuto delle riunioni e i dati caricati vengono archiviati in condivisioni DFS (Distributed File System). Questo contenuto può anche essere archiviato in Exchange Online se abilitato. Le condivisioni DFS non sono partizionate per tenant. il contenuto è protetto con gli ACL e la multi-tenancy viene applicata tramite RBAC.
+- I record dettagli chiamata, che sono la cronologia attività, ad esempio la cronologia delle chiamate, le sessioni di messaggistica istantanea, la condivisione delle applicazioni, la cronologia messaggistica istantanea e così via, possono essere archiviati anche in Exchange Online, ma la maggior parte dei record dettagli chiamata viene temporaneamente archiviata nei server cdR (Call Detail Record). Il contenuto non viene partizionato per tenant, ma la multi-tenancy viene applicata tramite RBAC.
 
 ## <a name="sharepoint-online"></a>SharePoint Online
 
@@ -73,7 +73,7 @@ Per ogni tenant viene utilizzato un *Valore SubscriptionId* univoco. Tutti i sit
 
 SharePoint Online usa SQL Server e Archiviazione di Azure per l'archiviazione dei metadati del contenuto. La chiave di partizione per l'archivio del contenuto *è SiteId* in SQL. Quando si esegue una query SQL, SharePoint Online usa un *SiteId* verificato come parte di un controllo *SubscriptionId* a livello di tenant.
 
-SharePoint Online archivia il contenuto dei file crittografati in Microsoft Azure BLOB. Ogni farm SharePoint Online dispone di un proprio account Microsoft Azure e tutti i BLOB salvati in Azure vengono crittografati singolarmente con una chiave archiviata nell'archivio SQL contenuto. Chiave di crittografia protetta nel codice dal livello di autorizzazione e non esposta direttamente all'utente finale. SharePoint Online ha un monitoraggio in tempo reale per rilevare quando una richiesta HTTP legge o scrive dati per più tenant. L'identità della richiesta *SubscriptionId* viene rilevata in *base al SubscriptionId* della risorsa a cui si accede. Le richieste di accesso alle risorse di più tenant non devono mai essere effettuate dagli utenti finali. Le richieste di servizio in un ambiente multi-tenant sono l'unica eccezione. Ad esempio, il crawler di ricerca estrae le modifiche del contenuto per un intero database contemporaneamente. Ciò comporta in genere l'esecuzione di query sui siti di più tenant in una singola richiesta di servizio, operazione eseguita per motivi di efficienza.
+SharePoint Online archivia il contenuto dei file crittografati in Microsoft Azure BLOB. Ogni farm SharePoint Online ha un proprio account Microsoft Azure e tutti i BLOB salvati in Azure vengono crittografati singolarmente con una chiave archiviata nell'SQL di contenuto. Chiave di crittografia protetta nel codice dal livello di autorizzazione e non esposta direttamente all'utente finale. SharePoint Online ha un monitoraggio in tempo reale per rilevare quando una richiesta HTTP legge o scrive dati per più tenant. L'identità della richiesta *SubscriptionId* viene rilevata in *base al SubscriptionId* della risorsa a cui si accede. Le richieste di accesso alle risorse di più tenant non devono mai essere effettuate dagli utenti finali. Le richieste di servizio in un ambiente multi-tenant sono l'unica eccezione. Ad esempio, il crawler di ricerca estrae le modifiche del contenuto per un intero database contemporaneamente. Ciò comporta in genere l'esecuzione di query sui siti di più tenant in una singola richiesta di servizio, operazione eseguita per motivi di efficienza.
 
 ## <a name="teams"></a>Teams
 
@@ -81,7 +81,7 @@ I Teams vengono archiviati in modo diverso, a seconda del tipo di contenuto.
 
 Per una discussione approfondita, vedere la sessione di Microsoft Teams [Ignite](https://channel9.msdn.com/Events/Ignite/Microsoft-Ignite-Orlando-2017/BRK3071) sull'architettura.
 
-### <a name="core-teams-customer-data"></a>Dati Teams clienti di base
+### <a name="core-teams-customer-data"></a>Dati Teams di base dei clienti
 
 Se viene effettuato il provisioning del tenant in Australia, Canada, Unione Europea, Francia, Germania, India, Giappone, Sud Africa, Corea del Sud, Svizzera (che include Liechtenstein), Emirati Arabi Uniti, Regno Unito o Stati Uniti, Microsoft archivia i seguenti dati dei clienti a riposo solo all'interno di tale posizione:
 
