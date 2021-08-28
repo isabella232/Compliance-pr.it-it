@@ -18,12 +18,12 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-mar2020
-ms.openlocfilehash: 2c016cb1d13654564dcbbc3a013e6bb52e1fbb2b
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 820197523e37958873853e00afdcff555408f423
+ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482419"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58676855"
 ---
 # <a name="azure-data-subject-requests-for-the-gdpr-and-ccpa"></a>Richieste degli interessati per Azure nell'ambito del GDPR e del CCPA
 
@@ -105,7 +105,7 @@ Ciò è particolarmente utile per trovare o modificare i dati personali per un u
 
 4. Nel pannello **Tutti gli utenti** selezionare un utente dall'elenco e quindi, nel pannello relativo all'utente selezionato, fare clic su **Profilo** per visualizzare le informazioni del profilo utente che potrebbero contenere dati personali.
 
-    ![Selezionare Profilo.](../media/gdpr-azure-dsr-azure-user-profile.png)
+    ![Selezionare profilo.](../media/gdpr-azure-dsr-azure-user-profile.png)
 
 5. Se è necessario aggiungere o modificare le informazioni del profilo utente, è possibile farlo selezionando **Modifica** nella barra dei comandi e quindi selezionando **Salva** dopo aver completato le modifiche.
 
@@ -153,11 +153,11 @@ I clienti aziendali hanno la possibilità di gestire le richieste di rettifica D
 
 4. Nel pannello **Tutti gli utenti** selezionare un utente dall'elenco e quindi, nel pannello relativo all'utente selezionato, fare clic su **Profilo** per visualizzare le informazioni sul profilo utente da correggere o aggiornare.
 
-    ![Selezionare il profilo utente](../media/gdpr-azure-dsr-azure-user-profile.png)
+    ![Selezionare profilo utente.](../media/gdpr-azure-dsr-azure-user-profile.png)
 
 5. Correggere o aggiornare le informazioni del profilo utente, incluse le informazioni professionali, selezionando **Modifica** nella barra dei comandi, quindi selezionare  **Salva** dopo aver apportato le modifiche.
 
-    ![Selezionare Modifica](../media/gdpr-azure-dsr-azure-edit-user-profile.png)
+    ![Selezionare modifica.](../media/gdpr-azure-dsr-azure-edit-user-profile.png)
 
 #### <a name="service-specific-interfaces"></a>Interfacce specifiche dei servizi
 
@@ -202,18 +202,18 @@ Di seguito viene descritto il processo di eliminazione degli utenti dal tenant.
 
 4. Selezionare la casella accanto all'utente da eliminare, selezionare **Elimina utente**, quindi **Sì** nella casella che richiede se si desidera eliminare l'utente.
 
-    ![Gestione degli utenti](../media/gdpr-azure-dsr-azure-selected-user.png)
+    ![Gestione degli utenti.](../media/gdpr-azure-dsr-azure-selected-user.png)
 
-5. Nel pannello **Tutti gli utenti** selezionare **Utenti eliminati**.
+5. Nel pannello **Tutti gli utenti** , selezionare **Utenti eliminati**.
 
-    ![Visualizzare un profilo utente](../media/gdpr-azure-dsr-azure-deleted-user.png)
+    ![Visualizzare profilo utente](../media/gdpr-azure-dsr-azure-deleted-user.png)
 
 4. Selezionare di nuovo lo stesso utente, selezionare  **Elimina definitivamente** nella barra dei comandi, quindi selezionare  **Sì**  nell'apposita casella per confermare.
 
 >[!IMPORTANT]  
 >Tenere presente che, facendo clic su **Sì**, si elimina in modo permanente e irrevocabile l'utente e tutti i dati e i log generati dal sistema associati. Se si effettua questa operazione per errore, sarà necessario aggiungere nuovamente in modo manuale l'utente al tenant. I dati e i log generati dal sistema ad esso associati non sono recuperabili.
 
-   ![Visualizzare le informazioni utente professionali](../media/gdpr-azure-dsr-azure-permanently-deleted-user.png)
+   ![Visualizzare le informazioni professionali utente.](../media/gdpr-azure-dsr-azure-permanently-deleted-user.png)
 
 #### <a name="service-specific-interfaces"></a>Interfacce specifiche dei servizi
 
@@ -289,15 +289,15 @@ Di seguito viene descritto il processo di esportazione dei dati dal tenant.
 
 1. Aprire il portale di Azure, selezionare **Tutti i servizi**, digitare *criteri* nel filtro e quindi selezionare **Criteri**.
 
-     ![Filtro Tutti i servizi ](../media/gdpr-azure-dsr-azure-policy.png)
+     ![Filtro Tutti i servizi.](../media/gdpr-azure-dsr-azure-policy.png)
 
-2. Nel pannello **Criteri**, selezionare **Privacy dell'utente**, quindi **Gestisci richieste utente** e infine **Aggiungi richiesta di esportazione**.
+2. Nel pannello **Criteri**, selezionare **Privacy utente**, in seguito **Gestisci richieste utente**, e infine **Aggiungi richiesta di esportazione**.
 
-    ![Aggiungi richiesta di esportazione ](../media/gdpr-azure-dsr-azure-add-export-request.png)
+    ![Aggiungi richiesta di esportazione](../media/gdpr-azure-dsr-azure-add-export-request.png)
 
-3. Completare la **richiesta di esportazione dei dati**:
+3. Completare la **Richiesta di esportazione dati**:
 
-    ![Nuova richiesta di esportazione dati](../media/gdpr-azure-dsr-azure-export-data-request.png)
+    ![Nuova richiesta di esportazione dati.](../media/gdpr-azure-dsr-azure-export-data-request.png)
 
 - **Utente.** Digitare l'indirizzo e-mail dell'utente di Azure Active Directory che ha richiesto l'esportazione.
 - **Sottoscrizione.** Selezionare l'account utilizzato per creare il report relativo all'utilizzo delle risorse e fatturare i servizi. Si tratta anche della posizione dell'account di archiviazione di Azure.
