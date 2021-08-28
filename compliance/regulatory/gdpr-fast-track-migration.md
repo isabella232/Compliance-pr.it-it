@@ -18,12 +18,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft GDPR
 hideEdit: true
-ms.openlocfilehash: e7434613707cec900506e85c5e61b6cd45c98d3c
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 42320db7a7f792e12cb255900c172083794d8070
+ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482369"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58678665"
 ---
 # <a name="fasttrack-migration-toolset-for-submitting-delete-request"></a>Set di strumenti di migrazione di FastTrack per inviare una richiesta di eliminazione
 
@@ -49,9 +49,9 @@ Microsoft supporta la versione iniziale di questo set di strumenti nella piattaf
 
 Il set di strumenti è disponibile in PowerShell Gallery nell'applicazione console di PowerShell. Per individuare e caricare questo modulo cmdlet, aprire PowerShell in modalità di amministratore in modo da avere le autorizzazioni adeguate per installare il modulo. Se PowerShell non è mai stato utilizzato in precedenza, passare alla barra delle applicazioni di Windows e digitare nella casella di ricerca "PowerShell". Selezionare l'applicazione console facendo clic con il pulsante destro del mouse e scegliere l'opzione **Esegui come amministratore**, quindi fare clic su **Sì** per eseguire Windows PowerShell.
 
-![PowerShell — Esegui come amministratore](../media/fasttrack-powershell_image.png)
+![PowerShell — Esegui come amministratore.](../media/fasttrack-powershell_image.png)
 
-![PowerShell — Consenti all'app di apportare modifiche](../media/fasttrack-run-powershell_image.png)
+![PowerShell — Consenti all'app di apportare modifiche.](../media/fasttrack-run-powershell_image.png)
 
 Una volta aperta la console, è necessario impostare le autorizzazioni per l'esecuzione dello script. Digitare il comando seguente per consentire l'esecuzione di script:
 
@@ -63,7 +63,7 @@ Verrà richiesto di confermare l'azione, poiché l'amministratore può modificar
 
 ***Impostare criteri di esecuzione***
 
-![Impostare la modifica dei criteri di esecuzione in PowerShell](../media/powershell-set-execution-policy_image.png)
+![Impostare la modifica dei criteri di esecuzione in PowerShell.](../media/powershell-set-execution-policy_image.png)
 
 Dopo che la console è impostata per consentire lo script, eseguire il seguente comando per installare il modulo:
 
