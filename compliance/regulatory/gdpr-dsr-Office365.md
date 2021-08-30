@@ -18,12 +18,12 @@ ms.collection:
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
 hideEdit: true
-ms.openlocfilehash: 0d48c7bc2c4b3b2dbfa8e4c102e22853c3ba5cc242cfebdf31ee4c6149f95756
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: f5b0acae758e149f2bfde5683a0b9f2c45f0db29
+ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54293570"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58676835"
 ---
 # <a name="office-365-data-subject-requests-for-the-gdpr-and-ccpa"></a>Richieste degli interessati per Office 365 nell'ambito del GDPR e del CCPA
 
@@ -446,13 +446,13 @@ Quando si esportano i risultati di una Ricerca contenuto, è possibile scaricare
 Per esportare e scaricare gli elementi:
 
 1. Aprire Ricerca contenuto nel Centro sicurezza e conformità.
-2. Nella pagina di ricerca a comparsa selezionare ![icona di download](../media/o365-dsr_image21.png) **Altro** e quindi **Esporta risultati**. È possibile esportare anche un report.
+2. Nella pagina di ricerca a comparsa selezionare ![icona Download.](../media/o365-dsr_image21.png) **Altro** e quindi selezionare **Esporta risultati**. È possibile esportare anche un report.
 3. Completare le sezioni nella pagina a comparsa **Esporta risultati**. Assicurarsi di usare la barra di scorrimento per visualizzare tutte le opzioni di esportazione.
 4. Tornare alla pagina Ricerca contenuto nel Centro sicurezza e conformità e selezionare la scheda **Esporta**.
 5. Selezionare **Aggiorna** per aggiornare la pagina.
 6. Nella colonna **Nome** selezionare il processo di esportazione appena creato. Il nome del processo di esportazione corrisponde al nome della ricerca contenuto accodata con **\_Esporta**.
 7. Nella pagina a comparsa dell'esportazione, in **Chiave di esportazione**, selezionare su **Copia negli Appunti**. Questa chiave verrà usata nel passaggio 10 per scaricare i risultati della ricerca.
-8. Nella parte superiore della pagina a comparsa selezionare ![icona di download](../media/o365-dsr_image21.png) **Scarica risultati**.
+8. Nella parte superiore della pagina a comparsa selezionare ![icona Download](../media/o365-dsr_image21.png) **Scarica risultati**.
 9. Se viene chiesto di installare lo **strumento di esportazione di eDiscovery di Microsoft Office 365**, selezionare **Installa**.
 10. Nello **strumento di esportazione di eDiscovery** incollare nella casella appropriata la chiave di esportazione copiata nel passaggio 7.
 11. Selezionare **Sfoglia** per specificare il percorso in cui scaricare i file dei risultati della ricerca.
@@ -1470,7 +1470,7 @@ Per limitare l'elaborazione di dati in Delve nell'organizzazione, è possibile d
 
 In Delve gli utenti possono eliminare le informazioni seguenti:
 
-- **Informazioni sul profilo:** per eliminare le informazioni sul profilo, selezionare **Me** \> **Aggiorna profilo** e quindi eliminare il testo in formato libero. In base alle impostazioni dell'organizzazione nell'elenco indirizzi globale, gli utenti potrebbero non essere in grado di eliminare tutte le informazioni del profilo, ad esempio il nome o la posizione lavorativa.
+- **Informazioni sul profilo**. Per eliminare le informazioni sul profilo, è possibile selezionare **Me** \> **Aggiorna profilo** e quindi eliminare il testo in formato libero. In base alle impostazioni dell'organizzazione nell'elenco indirizzi globale, gli utenti potrebbero non riuscire eliminare tutte le informazioni del profilo, ad esempio il nome o la posizione professionale.
 - **Documenti e allegati di posta elettronica:** per eliminare un documento o un allegato, gli utenti devono accedere al servizio in cui il documento o l'allegato è archiviato (ad esempio SharePoint Online, OneDrive for Business oppure Exchange Online) ed eliminare il documento.
 
 ### <a name="myanalytics"></a>MyAnalytics
