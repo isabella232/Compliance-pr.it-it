@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: e5c253fe5a2b4995dffc7059717d74fecdc73935
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: addcf3852fda46989e75b18bd323d86aa1981d4e
+ms.sourcegitcommit: 70efe7749db2c6dd4ae0faa8ac22da6e87109c79
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58479768"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58707145"
 ---
 # <a name="financial-industry-regulatory-authority-finra-rule-4511c-united-states"></a>Regola 4511(c) Dell'autorità di regolamentazione del settore finanziario (FINRA) Stati Uniti
 
@@ -29,7 +29,7 @@ ms.locfileid: "58479768"
 
 La [Financial Industry Regulatory Authority (FINRA)](https://www.finra.org/#/) è il più grande organismo indipendente che regola le società di titoli con la supervisione di più di 4.500 società di intermediazione negli Stati Uniti. È stato autorizzato dal Congresso degli Stati Uniti "a proteggere gli investitori statunitensi assicurando che il settore broker-rivenditori opeli equamente e onestamente".
 
-Nel 2011, la Commissione per la sicurezza e la Exchange (SEC) statunitense ha approvato l'adozione finra delle regole SEC che regolano la conservazione di libri e record su supporti di archiviazione elettronici. La regola [FINRA 4511(c)](https://www.finra.org/sites/default/files/NoticeDocument/p123548.pdf) specifica che "tutti i libri e i record da eseguire ai sensi delle regole FINRA devono essere conservati in un formato e supporti conformi alla regola SEA (Securities Exchange Act) 17a-4".
+Nel 2011, la Commissione per la sicurezza e la Exchange (SEC) statunitense ha approvato l'adozione finRA delle regole SEC che regolano la conservazione di libri e record su supporti di archiviazione elettronici. La regola [FINRA 4511(c)](https://www.finra.org/sites/default/files/NoticeDocument/p123548.pdf) specifica che "tutti i libri e i record che devono essere effettuati ai sensi delle regole FINRA devono essere conservati in un formato e supporti conformi alla regola SEA (Securities Exchange Act) 17a-4".
 
 Inoltre, la regola FINRA 4511(c) richiede alle aziende di conservare per un periodo di almeno sei anni tali libri e record per i quali non esiste un periodo di conservazione specificato in base alle regole FINRA o SEA applicabili. In effetti, se i libri e i record riguardano un account, il periodo di conservazione deve essere di sei anni dopo la chiusura dell'account. In caso contrario, il periodo di conservazione è di sei anni dopo la creazione di tali libri e record.
 
@@ -41,11 +41,11 @@ Microsoft Azure L'Archiviazione BLOB non modificabile con Policy Lock e Microsof
 
 ## <a name="microsoft-azure"></a>Microsoft Azure
 
-Per valutare la conformità di Azure alla regola FINRA 4511(c), Microsoft ha mantenuto una società di valutazione indipendente specializzata nella gestione dei record e nella governance delle informazioni, Cohasset Associates. Il report risultante, [SEC 17a-4(f) & CFTC 1.31 (c-d) Compliance Assessment: Archiviazione di Microsoft Azure](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=19b08fd4-d276-43e8-9461-715981d0ea20&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_GRC_Assessment_Reports), comprende la conformità di Azure alla regola FINRA 4511(c), che rinvia al formato e ai requisiti multimediali della regola SEC 17a-4(f).
+Per valutare la conformità di Azure alla regola FINRA 4511(c), Microsoft ha mantenuto una società di valutazione indipendente specializzata nella gestione dei record e nella governance delle informazioni, Cohasset Associates. Il report risultante, [SEC 17a-4(f) & CFTC 1.31 (c-d) Compliance Assessment: Archiviazione di Microsoft Azure](https://azure.microsoft.com/resources/azure-immutable-storage-assessment-for-sec-17a-4f-by-cohasset/), comprende la conformità di Azure alla regola FINRA 4511(c), che rinvia al formato e ai requisiti multimediali della regola SEC 17a-4(f).
 
-Cohasset ha convalidato che il [Archiviazione BLOB](/azure/storage/blobs/storage-blob-immutable-storage) non modificabile di Azure con l'opzione Blocco criteri, se usato per conservare i BLOB basati sul tempo in un formato WORM (Non-Erasable and Non-Rewritable), soddisfa i requisiti di archiviazione FINRA pertinenti. Ogni BLOB (record) è protetto dalla modifica, dalla sovrascrittura o dall'eliminazione fino alla scadenza del periodo di conservazione richiesto e al rilascio di eventuali blocchi legali associati.
+Cohasset ha convalidato che il [Archiviazione BLOB](/azure/storage/blobs/storage-blob-immutable-storage) non modificabile di Azure con l'opzione Blocco criteri, se usato per conservare i BLOB basati sul tempo in un formato WORM (Non-Erasable and Non-Rewritable), soddisfa i requisiti di archiviazione FINRA pertinenti. Ogni BLOB (record) è protetto dalla modifica, dalla sovrascrittura o dall'eliminazione finché il periodo di conservazione richiesto non è scaduto e non sono state rilasciate eventuali esenzioni legali associate.
 
-I provider di software e i partner con carichi di lavoro sensibili possono ora fare affidamento su Azure Immutable Blob Archiviazione come soluzione cloud di negozio unica per la conservazione dei record e l'archiviazione non modificabile. Gli istituti finanziari possono ora creare le proprie applicazioni sfruttando queste funzionalità pur rimanendo conformi.
+I provider di software e i partner con carichi di lavoro sensibili possono ora fare affidamento su Blob Archiviazione non modificabili di Azure come soluzione cloud di negozio one-stop per la conservazione dei record e l'archiviazione non modificabile. Gli istituti finanziari possono ora creare le proprie applicazioni sfruttando queste funzionalità pur rimanendo conformi.
 
 ## <a name="microsoft-365"></a>Microsoft 365
 

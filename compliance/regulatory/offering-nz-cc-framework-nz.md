@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 2e6dc7b7dcd59e3d82d6787b59f698c621f119bb
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 6785c459f8350714b8e4636a0f1a5dc9f4ff667d
+ms.sourcegitcommit: 9bb0e86b2fd4121a3a79a23dde95aa2584ce3167
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58480488"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58744262"
 ---
 # <a name="new-zealand-government-information-security-and-privacy-considerations-ispc"></a>Considerazioni sulla privacy e sulla sicurezza delle informazioni del governo neozelandese (ISPC)
 
@@ -35,7 +35,7 @@ Per assistere le agenzie governative NZ nell'esecuzione di due diligence coerent
 
 ## <a name="microsoft-and-new-zealand-government-cloud-computing-security-and-privacy-considerations"></a>Considerazioni sulla sicurezza e sulla privacy di Microsoft e New Zealand Government Cloud Computing
 
-Per aiutare le agenzie a intraprendere l'analisi e la valutazione dei servizi cloud aziendali Microsoft, Microsoft New Zealand ha prodotto documenti che mostrano come i servizi cloud aziendali affrontano le domande poste nel "Cloud Computing ISPC" collegandoli agli standard in base ai quali i servizi cloud Microsoft sono certificati. Queste certificazioni sono centrali per il modo in cui Microsoft garantisce ai clienti del settore pubblico e privato che i servizi cloud sono progettati, creati e gestiti per ridurre in modo efficace i rischi per la privacy e la sicurezza e risolvere i problemi di sovranità dei dati. La [risposta di Azure all'ISPC cloud computing](https://azure.microsoft.com/resources/microsoft-azure-response-to-nz-gcio-cloud-computing-information-security-privacy-considerations/) è disponibile per il download per i clienti.
+Per aiutare le agenzie a eseguire l'analisi e la valutazione dei servizi cloud aziendali Microsoft, Microsoft New Zealand ha prodotto documenti che mostrano come i servizi cloud aziendali affrontano le domande poste nel "Cloud Computing ISPC" collegandoli agli standard in base ai quali i servizi cloud Microsoft sono certificati. Queste certificazioni sono centrali per il modo in cui Microsoft garantisce ai clienti del settore pubblico e privato che i servizi cloud sono progettati, creati e gestiti per ridurre in modo efficace i rischi per la privacy e la sicurezza e risolvere i problemi di sovranità dei dati. La [risposta di Azure all'ISPC cloud computing](https://azure.microsoft.com/resources/microsoft-azure-response-to-nz-gcio-cloud-computing-information-security-privacy-considerations/) è disponibile per il download per i clienti.
 
 ## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme e servizi cloud Microsoft inclusi nell'ambito
 
@@ -70,11 +70,11 @@ Le organizzazioni che rientrano nel mandato GCIO, i servizi pubblici e non pubbl
 
 **La mia agenzia può usare le risposte di Microsoft a questo framework nel processo di certificazione dei nostri sistemi ICT?**
 
-Se l'agenzia è necessaria per eseguire la certificazione e l'accreditamento del proprio sistema ICT nell'ambito del Manuale per la sicurezza delle informazioni in [Nuova](https://go.microsoft.com/fwlink/p/?linkid=2099496)Zelanda, è possibile utilizzare queste risposte come parte dell'analisi.
+Se l'agenzia è necessaria per eseguire la certificazione e l'accreditamento del suo sistema ICT nell'ambito del Manuale per la sicurezza delle informazioni in [Nuova](https://go.microsoft.com/fwlink/p/?linkid=2099496)Zelanda, è possibile utilizzare queste risposte come parte dell'analisi.
 
 ## <a name="resources"></a>Risorse
 
-- [Requisiti di sicurezza per i servizi di produttività Office off-Office 365](https://aka.ms/o365-gcio-conformance-guidance)
+- [Requisiti di sicurezza per i servizi di produttività Office off-Office: guida alla conformità per Office 365](https://aka.ms/o365-gcio-conformance-guidance)
 - [NZ Government ICT Strategy 2015](https://www.ict.govt.nz/strategy-and-action-plan/strategy/)
 - [Cloud Computing: considerazioni sulla sicurezza delle informazioni e sulla privacy (ISPC)](https://www.digital.govt.nz/standards-and-guidance/technology-and-architecture/cloud-services/)
 - [Condizioni di Microsoft Online Services](https://aka.ms/Online-Services-Terms)
@@ -83,6 +83,7 @@ Se l'agenzia è necessaria per eseguire la certificazione e l'accreditamento del
 ## <a name="microsoft-responses-to-cloud-computing-ipsc"></a>Risposte Microsoft all'IPSC cloud computing
 
 - [Azure](https://aka.ms/Azure-NZ-response)
+- [Dynamics 365](https://www.microsoft.com/download/details.aspx?id=103390)
 - [Intune](https://aka.ms/Intune-NZ-response)
 - [Office 365](https://aka.ms/O365-NZ-Response)
 - [Power BI](https://download.microsoft.com/download/5/1/7/51726B9B-2E76-49C4-9D4F-A36BF025CB93/Response-to-GCIO-105-questions-Power-BI.pdf)

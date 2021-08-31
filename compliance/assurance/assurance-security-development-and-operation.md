@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: fc6113dbf5c095cc4b22eb8ed0a4527d84f7e143
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: b74c004e63838900f87c774a8acf84ab8aeb03d4
+ms.sourcegitcommit: 70efe7749db2c6dd4ae0faa8ac22da6e87109c79
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481748"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58707115"
 ---
 # <a name="security-development-and-operations-overview"></a>Panoramica delle operazioni e dello sviluppo della sicurezza
 
@@ -56,7 +56,7 @@ Microsoft ha adottato una strategia di alto livello per la gestione della sicure
 - Determinare se tali componenti presentano vulnerabilità.
 - Rispondere correttamente quando vengono individuate vulnerabilità che interessano tali componenti.
 
-I team di progettazione Microsoft sono responsabili della sicurezza di tutto il software open source incluso in un prodotto o servizio. Per ottenere questa sicurezza su larga scala, Microsoft ha integrato funzionalità essenziali nei sistemi di progettazione tramite CG, che automatizza il rilevamento open source, i flussi di lavoro dei requisiti legali e l'avviso per i componenti vulnerabili. Gli strumenti CG automatizzati analizzano le build di Microsoft per la ricerca di componenti open source e vulnerabilità della sicurezza o obblighi legali associati. I componenti individuati vengono registrati e inviati ai team appropriati per le verifiche aziendali e di sicurezza. Queste verifiche sono progettate per valutare eventuali obblighi legali o vulnerabilità di sicurezza associati ai componenti open source e risolverli prima di approvare la distribuzione dei componenti.
+I team di progettazione Microsoft sono responsabili della sicurezza di tutto il software open source incluso in un prodotto o servizio. Per ottenere questa sicurezza su larga scala, Microsoft ha integrato le funzionalità essenziali nei sistemi di progettazione tramite Component Governance (CG), che automatizza il rilevamento open source, i flussi di lavoro dei requisiti legali e l'avviso per i componenti vulnerabili. Gli strumenti CG automatizzati analizzano le build di Microsoft per la ricerca di componenti open source e vulnerabilità della sicurezza o obblighi legali associati. I componenti individuati vengono registrati e inviati ai team appropriati per le verifiche aziendali e di sicurezza. Queste verifiche sono progettate per valutare eventuali obblighi legali o vulnerabilità di sicurezza associati ai componenti open source e risolverli prima di approvare la distribuzione dei componenti.
 
 ## <a name="related-external-regulations--certifications"></a>Normative esterne correlate & certificazioni
 

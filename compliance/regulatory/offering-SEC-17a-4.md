@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 57e5a9140c7a4aaff49bceb798bb6815e675f328
-ms.sourcegitcommit: 16cec8f7ca799a415bfbae937b177a628a0f2987
+ms.openlocfilehash: 50c44b6801e15af02bf4bfa4f4d46758b7a6c7a8
+ms.sourcegitcommit: 70efe7749db2c6dd4ae0faa8ac22da6e87109c79
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/24/2021
-ms.locfileid: "58505929"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58707125"
 ---
 # <a name="securities-and-exchange-commission-sec-rule-17a-4f-united-states"></a>Securities and Exchange Commission (SEC) Rule 17a-4(f) United States
 
@@ -35,9 +35,9 @@ Un sistema di archiviazione elettronico soddisfa tali condizioni se impedisce l'
 
 ## <a name="microsoft-and-sec-rule-17a-4f"></a>Regola Microsoft e SEC 17a-4(f)
 
-I clienti dei servizi finanziari, che rappresentano uno dei settori più regolamentati al mondo, sono soggetti a disposizioni complesse come la conservazione delle transazioni finanziarie e le comunicazioni correlate in uno stato non cancellabile e non modificabile. Tra le più prescrittive c'è la regola 17a-4(f) della Commissione per la sicurezza e la Exchange (SEC) statunitense che stabilisce requisiti rigosi per le entità regolamentate che decidno di conservare libri e record su supporti di archiviazione elettronici. I record archiviati devono essere a prova di manomissione senza possibilità di modificarli o eliminarli fino a dopo il periodo di conservazione designato.
+I clienti dei servizi finanziari, che rappresentano uno dei settori più regolamentati al mondo, sono soggetti a disposizioni complesse come la conservazione delle transazioni finanziarie e le comunicazioni correlate in uno stato non cancellabile e non modificabile. Tra i più prescrittivi è la regola 17a-4(f) della Commissione per la sicurezza e la Exchange (SEC) statunitense che stabilisce requisiti rigosi per le entità regolamentate che decidno di conservare libri e record su supporti di archiviazione elettronici. I record archiviati devono essere a prova di manomissione senza possibilità di modificarli o eliminarli fino a dopo il periodo di conservazione designato.
 
-Microsoft Azure L'Archiviazione BLOB non modificabile con blocco dei criteri e Microsoft Office 365 con blocco di conservazione può aiutare gli istituti finanziari a soddisfare i requisiti di archiviazione non modificabili della regola SEC 17a-4(f).
+Microsoft Azure L'Archiviazione BLOB non modificabile con Policy Lock e Microsoft Office 365 con Preservation Lock può aiutare gli istituti finanziari a soddisfare i requisiti di archiviazione non modificabili della regola SEC 17a-4(f).
 
 ## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme e servizi cloud Microsoft inclusi nell'ambito
 
@@ -54,13 +54,13 @@ Per valutare la conformità di Azure e Office 365 alla regola SEC 17a-4(f), Micr
 
 Microsoft ha conservato una società indipendente di valutazione di terze parti specializzata nella gestione dei record e nella governance delle informazioni per valutare l'archiviazione non modificabile per la conformità dell'archiviazione BLOB di Azure ai requisiti della regola SEC 17a-4(f). Il report risultante *[Cohasset Assessment: Microsoft Azure WORM Archiviazione](https://azure.microsoft.com/resources/azure-immutable-storage-assessment-for-sec-17a-4f-by-cohasset/)* disponibile per i clienti.
 
-È opinione del valutatore che Archiviazione di Azure con la funzionalità di archiviazione non  modificabile per BLOB di *Azure* e l'opzione dei criteri basati sul tempo bloccata mantiene i BLOB basati sul tempo (record) in un formato non cancellabile e non risibile e soddisfa i requisiti di archiviazione pertinenti della regola SEC 17a-4(f), della regola [FINRA 4511(c)](/azure/compliance/offering-finra-4511-us.md)e dei requisiti basati sui principi della regola [CFTC 1.31(c)-(d)](offering-cftc-1-31-us.md).
+È opinione del valutatore che Archiviazione di Azure con la funzionalità di archiviazione non  modificabile per i BLOB di *Azure* e l'opzione dei criteri basati sul tempo bloccata mantiene i BLOB basati sul tempo (record) in un formato non cancellabile e non risibile e soddisfa i requisiti di archiviazione pertinenti della regola SEC 17a-4(f), della regola [FINRA 4511(c)](offering-FINRA-4511.md)e dei requisiti basati sui principi della regola [CFTC 1.31(c)-(d)](offering-cftc-1-31-us.md).
 
 Su richiesta, Microsoft fornirà anche una lettera di *90* giorni necessaria per soddisfare i requisiti sec 17a-4(f)(2) per consentire ai clienti di comunicare all'autorità di controllo designata almeno 90 giorni prima di utilizzare supporti di archiviazione elettronici. Come indicato nelle normative, "il membro, il broker o il rivenditore deve fornire la propria rappresentazione o una dal fornitore del supporto di archiviazione o da altre terze parti con competenze appropriate che il supporto di archiviazione selezionato soddisfi le condizioni specificate in questo paragrafo (f)(2)." Per ottenere l'attestazione *Microsoft* del Archiviazione Servizi multimediali elettronico per la regola SEC 17a-4, i clienti con un piano di supporto di [Azure](https://azure.microsoft.com/support/plans/) possono creare un [ticket](https://azure.microsoft.com/support/create-ticket/) di supporto nel portale di Azure e richiedere la lettera di attestazione per la regola SEC 17a-4. In questo documento, Microsoft fornisce garanzie rilevanti per i requisiti SEC 17a-4(f)(2).
 
 ### <a name="office-365"></a>Office 365
 
-Per i requisiti [sec 17a-4(f),](/microsoft-365/compliance/retention-regulatory-requirements#sec-17a-4f-finra-4511c-and-cftc-131c-d) Cohasset ha convalidato che Microsoft 365 include funzionalità di archiviazione che consentono ai clienti regolamentati, inclusi i broker-rivenditori, di archiviare i dati in modo che siano conformi ai requisiti SEC per la conservazione dei record. Le funzionalità di conservazione in Microsoft 365 consentono di conservare un'ampia gamma di dati, tra cui posta elettronica, segreteria telefonica, documenti condivisi, messaggi istantanei e dati di terze parti. In particolare, l'archiviazione in Microsoft 365 consente ai clienti di impostare criteri di conservazione della messaggistica globali o granulari per archiviare i dati per un periodo definito e oltre in un formato non riscrivibile e non cancellabile.
+Per i requisiti [sec 17a-4(f),](/microsoft-365/compliance/retention-regulatory-requirements#sec-17a-4f-finra-4511c-and-cftc-131c-d) Cohasset ha convalidato che Microsoft 365 include funzionalità di archiviazione che consentono ai clienti regolamentati, inclusi i broker-rivenditori, di archiviare i dati in modo che rispettino i requisiti SEC per la conservazione dei record. Le funzionalità di conservazione in Microsoft 365 consentono di conservare un'ampia gamma di dati, tra cui posta elettronica, segreteria telefonica, documenti condivisi, messaggi istantanei e dati di terze parti. In particolare, l'archiviazione in Microsoft 365 consente ai clienti di impostare criteri di conservazione della messaggistica globali o granulari per archiviare i dati per un periodo definito e oltre in un formato non riscrivibile e non cancellabile.
 
 ## <a name="audits-reports-and-certificates"></a>Controlli, report e certificati
 
@@ -68,7 +68,7 @@ Per i requisiti [sec 17a-4(f),](/microsoft-365/compliance/retention-regulatory-r
 
 - [Sec 17a-4(f) & CFTC 1.31 (c-d) Compliance Assessment of Archiviazione di Azure](https://azure.microsoft.com/resources/azure-immutable-storage-assessment-for-sec-17a-4f-by-cohasset/)
 
-L'attestazione Microsoft *dell'Archiviazione Servizi multimediali* elettronica per la regola SEC 17a-4 può essere richiesta creando un ticket di [supporto](https://azure.microsoft.com/support/create-ticket/) con il [supporto di Azure.](https://azure.microsoft.com/support/plans/) In questa lettera di attestazione, Microsoft fornisce garanzie per aiutare i clienti a rispettare i requisiti SEC 17a-4(f)(2).
+Microsoft *Attestation of Electronic Archiviazione Servizi multimediali* for SEC Rule 17a-4 può essere richiesto creando un ticket di [supporto](https://azure.microsoft.com/support/create-ticket/) con il supporto [di Azure](https://azure.microsoft.com/support/plans/). In questa lettera di attestazione, Microsoft fornisce garanzie per aiutare i clienti a rispettare i requisiti SEC 17a-4(f)(2).
 
 ### <a name="office-365--sec-rule-17"></a>Office 365 & SEC 17
 
@@ -95,7 +95,7 @@ Usare panoramiche dei casi, esercitazioni e altre risorse per creare soluzioni d
 ## <a name="resources"></a>Risorse
 
 - [Documentazione sulla conformità di Azure](/azure/compliance/)
-- [Azure consente un mondo di conformità](https://azure.microsoft.com/resources/azure-enables-a-world-of-compliance/)
+- [Azure offre un mondo di conformità](https://azure.microsoft.com/resources/azure-enables-a-world-of-compliance/)
 - [Securities and Exchange Commission](https://www.sec.gov/) (SEC) [Rule 17a-4](https://www.sec.gov/rules/final/34-38245.txt)
 - [Risorse per i servizi finanziari Microsoft Cloud](https://servicetrust.microsoft.com/viewpage/financialservicesoverview)
 - [Programma di conformità dei servizi finanziari Microsoft Cloud](https://aka.ms/FSCP-Print)
