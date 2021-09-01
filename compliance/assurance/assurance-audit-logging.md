@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 3212ca2a42677dc27afda8a7598b39d7f24bf27c
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 11695a941e5d5e6740833ab19bf2d68ac487c1c5
+ms.sourcegitcommit: 5e6e25ed264b248522ad49ea25490962db08e471
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482189"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58832259"
 ---
 # <a name="audit-logging-overview"></a>Panoramica sulla registrazione di controllo
 
@@ -50,9 +50,11 @@ La registrazione di controllo interna dei servizi online Microsoft acquisisce i 
 
 Molti tipi diversi di dati di log vengono caricati dai server Microsoft in una soluzione di monitoraggio della sicurezza proprietaria per l'analisi in tempo quasi reale (NRT) e un servizio di big data computing interno (Cosmos) o Azure Data Explorer (Kusto) per l'archiviazione a lungo termine. Questo trasferimento dei dati avviene tramite una connessione TLS convalidata da FIPS 140-2 su porte e protocolli approvati tramite strumenti di gestione dei log automatizzati.
 
-I log vengono elaborati in NRT utilizzando metodi di apprendimento automatico, statistici e basati su regole per rilevare gli indicatori delle prestazioni del sistema e i potenziali eventi di sicurezza. I modelli di machine learning utilizzano i dati dei registri in ingresso e i dati cronologici archiviati in Cosmos o Kusto per migliorare continuamente le funzionalità di rilevamento. I rilevamenti correlati alla sicurezza generano avvisi, notificando ai tecnici di chiamata di un potenziale incidente e attivando azioni di correzione automatizzate, se applicabile. Oltre al monitoraggio automatico della sicurezza, i team di servizio utilizzano strumenti di analisi e dashboard per la correlazione dei dati, le query interattive e l'analisi dei dati. Questi report vengono utilizzati per monitorare e migliorare le prestazioni complessive del servizio.
+I log vengono elaborati in NRT utilizzando metodi di apprendimento automatico, statistici e basati su regole per rilevare gli indicatori delle prestazioni del sistema e i potenziali eventi di sicurezza. I modelli di machine learning utilizzano i dati del registro in ingresso e i dati cronologici archiviati in Cosmos o Kusto per migliorare continuamente le funzionalità di rilevamento. I rilevamenti correlati alla sicurezza generano avvisi, notificando ai tecnici di chiamata di un potenziale incidente e attivando azioni di correzione automatizzate, se applicabile. Oltre al monitoraggio automatico della sicurezza, i team di servizio utilizzano strumenti di analisi e dashboard per la correlazione dei dati, le query interattive e l'analisi dei dati. Questi report vengono utilizzati per monitorare e migliorare le prestazioni complessive del servizio.
 
 Per ulteriori informazioni sul monitoraggio della sicurezza e sugli avvisi, vedere Panoramica [del monitoraggio della sicurezza](assurance-security-monitoring.md).
+
+![Controllare il flusso di dati.](../media/assurance-audit-data-flow.png)
 
 ## <a name="how-do-microsoft-online-services-protect-audit-logs"></a>In che modo i servizi online Microsoft proteggono i log di controllo?
 
