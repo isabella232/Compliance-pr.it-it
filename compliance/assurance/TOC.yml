@@ -10,6 +10,8 @@
       href: assurance-microsoft-365-isolation-controls.md
     - name: Sicurezza dell'infrastruttura Microsoft 365
       href: assurance-securing-microsoft-365-infrastructure.md
+    - name: Responsabilità condivisa
+      href: /azure/security/fundamentals/shared-responsibility?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
 - name: Registrazione di controllo
   items:
     - name: Panoramica sulla registrazione di controllo
