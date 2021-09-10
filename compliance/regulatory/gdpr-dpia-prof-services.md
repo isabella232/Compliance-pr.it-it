@@ -18,18 +18,18 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft GDPR
-ms.openlocfilehash: d30214f68911553b0e835e072e02233428bf296bc4927c7c0e49fb04718a9282
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 838f6bfbae65770071cfa1e07e668bb6641e89a8
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54289884"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948099"
 ---
 # <a name="data-protection-impact-assessments-guidance-for-data-controllers-using-microsoft-professional-services"></a>Valutazioni d'impatto sulla protezione dei dati: guida per i titolari del trattamento dei dati che utilizzano Servizi professionali Microsoft
 
 ## <a name="introduction-to-microsoft-professional-services"></a>Introduzione ai servizi professionali Microsoft
 
-Servizi professionali di Microsoft include un gruppo eterogeneo di architetti, ingegneri, consulenti e professionisti del supporto tecnico dedicato alla realizzazione della mission di Microsoft di consentire ai clienti di fare di più e ottenere di più. Per ulteriori informazioni su Microsoft Professional Services, visitare la [pagina relativa all'attendibilità di Microsoft Professional Services](https://aka.ms/pstrust).
+Microsoft Professional Services include un gruppo eterogeneo di architetti, ingegneri, consulenti e professionisti del supporto tecnico dedicato alla realizzazione della mission di Microsoft di consentire ai clienti di fare di più e ottenere di più. Per altre informazioni su Microsoft Professional Services, vedere la [pagina relativa all'attendibilità di Microsoft Professional Services](https://aka.ms/pstrust).
 
 Microsoft Professional Services tiene seriamente conto degli obblighi derivanti dal Regolamento generale sulla protezione dei dati (GDPR). Le informazioni riportate in questo documento hanno lo scopo di fornire informazioni sulle offerte di consulenza e supporto di Microsoft che i clienti possono usare nella preparazione delle Valutazioni d’impatto sulla protezione dei dati (DPIA) ai sensi del GDPR.
 
@@ -51,7 +51,7 @@ L'articolo 35 del GDPR prevede che un titolare del trattamento dei dati crei una
 |||
 
 > [!Note]
-> <sup>1</sup> Rispetto ai criteri per un trattamento su "larga scala", la Considerazione iniziale 91 del GDPR chiarisce che: "Il trattamento di dati personali non dovrebbe essere considerato un trattamento su larga scala qualora riguardi dati personali di pazienti o clienti da parte di un singolo medico, operatore sanitario o avvocato. In tali casi non dovrebbe essere obbligatorio procedere a una valutazione d'impatto sulla protezione dei dati".
+> <sup>1</sup> Rispetto ai criteri per un trattamento su "larga scala", la Considerazione iniziale 91 del GDPR illustra che: "Il trattamento di dati personali non dovrebbe essere considerato un trattamento su larga scala qualora riguardi dati personali di pazienti o clienti da parte di un singolo medico, operatore sanitario o avvocato. In tali casi non dovrebbe essere obbligatorio procedere a una valutazione d'impatto sulla protezione dei dati".
   
 [Nota sullo sviluppo personalizzato] I Servizi professionali offrono un'ampia gamma di soluzioni di consulenza. Un titolare del trattamento dei dati potrebbe richiedere una soluzione che, in base ai criteri di cui sopra, potrebbe costituire una soluzione ad alto rischio. Ad esempio, un titolare del trattamento potrebbe richiedere che Servizi professionali crei una soluzione per lo sviluppo di un motore di business intelligence per prendere decisioni di assunzione o richieste di credito, o una soluzione che implica il rilevamento delle azioni dell’utente, un uso specializzato di intelligenza artificiale (AI)/analisi o il trattamento di categorie speciali di dati personali.
 
