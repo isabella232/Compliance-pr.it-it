@@ -22,11 +22,11 @@ ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
 ms.openlocfilehash: 3545a6e5746553e59603fbf68432ee4705a21f3f
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481708"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947085"
 ---
 # <a name="sharepoint-online-data-deletion-in-microsoft-365"></a>SharePoint Eliminazione dei dati online in Microsoft 365
 
@@ -43,7 +43,7 @@ Quando si elimina una raccolta siti, si elimina anche la gerarchia dei siti nell
 - Informazioni sui ruoli e sulla sicurezza correlate al sito o ai relativi siti secondari
 - Siti secondari del sito Web principale, relativi contenuti e informazioni utente
 
-Se si elimina accidentalmente una raccolta siti, è possibile ripristinarla da un amministratore globale o SharePoint tramite l'SharePoint di amministrazione.
+Se si elimina accidentalmente una raccolta siti, è possibile ripristinarla da un amministratore globale o SharePoint tramite l'interfaccia di amministrazione SharePoint locale.
 
 Le raccolte siti eliminate vengono conservate per 93 giorni. Dopo 93 giorni, i siti e tutto il relativo contenuto e le impostazioni vengono eliminati definitivamente, inclusi elenchi, raccolte, pagine e siti secondari.
 

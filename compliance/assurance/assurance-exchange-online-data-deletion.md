@@ -1,6 +1,6 @@
 ---
-title: Microsoft 365 Exchange Online dati
-description: Informazioni su come vengono gestite le eliminazioni di dati soft e hard per le cassette postali e gli elementi all'interno delle cassette postali Exchange Online.
+title: Microsoft 365 Exchange Online dei dati
+description: Informazioni su come le eliminazioni di dati soft e hard per le cassette postali e gli elementi all'interno delle cassette postali vengono gestite in Exchange Online.
 ms.author: robmazz
 author: robmazz
 manager: laurawi
@@ -21,11 +21,11 @@ ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
 ms.openlocfilehash: 9dd365e075226d8fdbfd1a9f9e371df2668f814d
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481988"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947079"
 ---
 # <a name="exchange-online-data-deletion-in-microsoft-365"></a>Exchange Online l'eliminazione dei dati in Microsoft 365
 
@@ -36,13 +36,13 @@ In Exchange Online, esistono due tipi di eliminazioni: eliminazioni soft ed elim
 Una cassetta postale utente eliminata in modo recidiva è una cassetta postale eliminata utilizzando il cmdlet interfaccia di amministrazione di Microsoft 365 o Remove-Mailbox ed è ancora presente nel Cestino di Azure Active Directory da meno di 30 giorni. Una cassetta postale può essere eliminata in uno dei modi seguenti:
 
 - L'account utente associato Azure Active Directory cassetta postale utente viene eliminato in modo recidiva (l'oggetto utente non è in ambito o nel contenitore del Cestino).
-- L'account utente associato alla cassetta Azure Active Directory è stato eliminato definitivamente, ma la cassetta postale Exchange Online è in stato di conservazione per controversia legale o eDiscovery.
-- L'account utente associato Azure Active Directory cassetta postale è stato eliminato negli ultimi 30 giorni. che è la lunghezza massima di conservazione Exchange Online la cassetta postale in uno stato eliminato temporaneamente prima che venga eliminata definitivamente e irreversibile.
+- L'account utente associato alla cassetta Azure Active Directory è stato eliminato definitivamente, ma la cassetta postale di Exchange Online è in stato di conservazione per controversia legale o eDiscovery.
+- L'account Azure Active Directory cassetta postale dell'utente è stato eliminato negli ultimi 30 giorni. che è la lunghezza massima di conservazione Exchange Online la cassetta postale verrà conservata in uno stato eliminato temporaneamente prima che venga eliminata definitivamente e irreversibile.
 
 Una cassetta postale utente eliminata definitivamente è una cassetta postale che è stata eliminata in uno dei modi seguenti:
 
 - La cassetta postale dell'utente è stata eliminata in modo recidiva per più di 30 giorni e l'Azure Active Directory è stato eliminato definitivamente. Tutto il contenuto della cassetta postale, ad esempio messaggi di posta elettronica, contatti e file, viene eliminato definitivamente.
-- L'account utente associato alla cassetta postale dell'utente è stato eliminato definitivamente dal Azure Active Directory. La cassetta postale dell'utente viene eliminata in Exchange Online e rimane in uno stato di eliminazione recidiva per 30 giorni. Se nel periodo di 30 giorni un nuovo utente di Azure Active Directory viene sincronizzato dall'account del destinatario originale con lo stesso **ExchangeGuid** o **ArchiveGuid** e il nuovo account è concesso in licenza per Exchange Online, verrà eliminata la cassetta postale dell'utente originale. Tutto il contenuto della cassetta postale, ad esempio messaggi di posta elettronica, contatti e file, viene eliminato definitivamente.
+- L'account utente associato alla cassetta postale dell'utente è stato eliminato definitivamente dal Azure Active Directory. La cassetta postale dell'utente viene eliminata in Exchange Online e rimane in uno stato di eliminazione recidiva per 30 giorni. Se nel periodo di 30 giorni un nuovo utente di Azure Active Directory viene sincronizzato dall'account destinatario originale con lo stesso **ExchangeGuid** o **ArchiveGuid** e il nuovo account è concesso in licenza per Exchange Online, verrà eliminata la cassetta postale dell'utente originale. Tutto il contenuto della cassetta postale, ad esempio messaggi di posta elettronica, contatti e file, viene eliminato definitivamente.
 - Una cassetta postale eliminata temporaneamente viene eliminata utilizzando **Remove-Mailbox -PermanentlyDelete**.
 
 Gli scenari di eliminazione precedenti presuppongono che la cassetta postale dell'utente non sia in uno degli stati di blocco, ad esempio il blocco per controversia legale o eDiscovery. Se nella cassetta postale è presente un tipo di blocco, non è possibile eliminare la cassetta postale. Per tutti i tipi di [](https://support.office.com/article/manage-legal-investigations-in-office-365-2e5fbe9f-ee4d-4178-8ff8-4356bc1b168e?ui=en-US&rs=en-US&ad=US) destinatario dell'utente di posta, le impostazioni di blocco vengono ignorate e non hanno alcun effetto sulle eliminazioni hard o sulle eliminazioni non definitiva.
@@ -91,7 +91,7 @@ Il processo di azzeramento delle pagine dipende dallo scenario di eliminazione. 
 I seguenti tipi di dati delle cassette postali non hanno disposizioni per l'azzeramento delle pagine:
 
 - **Registri delle transazioni del database** delle cassette postali - Quando i registri delle transazioni vengono eliminati come parte delle normali operazioni, non esiste alcun processo per azzerare i blocchi nel file system in cui sono archiviati i file di registro eliminati. È probabile che il file system reutilizzi rapidamente lo spazio libero per i log appena creati, ma non c'è alcuna garanzia che ciò accada.
-- **File di catalogo dell'indice** di contenuto : Exchange Online search foundation (noto anche come FAST) per la funzionalità di indicizzazione della ricerca. Il catalogo dell'indice di ricerca è costituito da diverse decine di file archiviati nello stesso volume del file del database delle cassette postali. Quando un messaggio viene eliminato in modo definitivo dal database delle cassette postali, il contenuto nel catalogo di ricerca ad esso associato non viene eliminato immediatamente. L'eliminazione del contenuto si verifica quando Search Foundation esegue un'ombreggiatura (o unione master) di molti file di catalogo di piccole dimensioni in un singolo file di dimensioni maggiori. Una volta completata l'unione master, i piccoli file del catalogo vengono eliminati. Non esiste alcun processo per azzerare i blocchi che hanno archiviato i file di catalogo eliminati.
+- **File di catalogo dell'indice** di contenuto : Exchange Online search Foundation (noto anche come FAST) per la funzionalità di indicizzazione della ricerca. Il catalogo dell'indice di ricerca è costituito da diverse decine di file archiviati nello stesso volume del file del database delle cassette postali. Quando un messaggio viene eliminato in modo definitivo dal database delle cassette postali, il contenuto nel catalogo di ricerca ad esso associato non viene eliminato immediatamente. L'eliminazione del contenuto si verifica quando Search Foundation esegue un'ombreggiatura (o unione master) di molti file di catalogo di piccole dimensioni in un singolo file di dimensioni maggiori. Una volta completata l'unione master, i piccoli file del catalogo vengono eliminati. Non esiste alcun processo per azzerare i blocchi che hanno archiviato i file di catalogo eliminati.
 
 ## <a name="continuous-replication"></a>Replica continua
 

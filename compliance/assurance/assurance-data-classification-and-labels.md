@@ -21,17 +21,17 @@ ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
 ms.openlocfilehash: a68332971da909d8739039be6f0c8d84310ff9f9
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482139"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947055"
 ---
 # <a name="data-classification--sensitivity-label-taxonomy"></a>Classificazione dei dati & tassonomia dell'etichetta di riservatezza
 
 I dati sensibili presentano rischi significativi per un'azienda se vengono rubati, condivisi inavvertitamente o esposti tramite una violazione. I fattori di rischio includono danni alla reputazione, impatto finanziario e perdita di vantaggio competitivo. La protezione dei dati e delle informazioni gestite dall'azienda è una priorità assoluta per l'organizzazione, ma potrebbe risultare difficile sapere se i propri sforzi sono veramente efficaci, data la quantità di contenuto mantenuto dall'azienda.
 
-Oltre al volume, il contenuto può variare di importanza da estremamente sensibile e di impatto a banale e transitorio. Può anche essere sotto il controllo di vari requisiti di conformità normativa. Sapere quali priorità e dove applicare i controlli può essere una sfida. Continua a leggere per informazioni sulla classificazione dei *dati,* uno strumento importante per proteggere il contenuto da furti, furti o distruzione accidentale e su come Microsoft 365 può aiutare a raggiungere gli obiettivi di sicurezza delle informazioni.
+Oltre al volume, il contenuto può variare di importanza da estremamente sensibile e di impatto a banale e transitorio. Può anche essere sotto il controllo di vari requisiti di conformità normativa. Sapere quali priorità e dove applicare i controlli può essere una sfida. Continua a leggere per informazioni sulla classificazione dei *dati,* uno strumento importante per proteggere il contenuto da furti, furti o distruzione accidentale e su come Microsoft 365 può aiutarti a raggiungere gli obiettivi di sicurezza delle informazioni.
 
 ## <a name="what-is-data-classification"></a>Che cos'è la classificazione dei dati?
 
@@ -53,7 +53,7 @@ Nella tabella seguente viene illustrato un esempio di livello di framework di cl
 
 Un altro componente importante di un framework di classificazione dei dati è i controlli associati a ogni livello. I livelli di classificazione dei dati sono semplicemente etichette (o tag) che indicano il valore o la riservatezza del contenuto. Per *proteggere* tale contenuto, i framework di classificazione dei dati definiscono i controlli che devono essere posizionati per ogni livello di classificazione dei dati. Questi controlli possono includere requisiti correlati a:
 
-- Archiviazione tipo e percorso
+- Archiviazione e percorso
 - Crittografia
 - Controllo di accesso
 - Distruzione dei dati

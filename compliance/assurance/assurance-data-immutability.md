@@ -21,11 +21,11 @@ ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
 ms.openlocfilehash: e17685c7d927ab8188abe1ef4dae4d2cdf0f3764
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482119"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947062"
 ---
 # <a name="data-immutability-in-microsoft-365"></a>Immutabilità dei dati in Microsoft 365
 
@@ -52,15 +52,15 @@ Inoltre, Microsoft ha sviluppato funzionalità aggiuntive [](https://support.off
 - [Controllo delle cassette postali](/microsoft-365/compliance/enable-mailbox-auditing)
 - [Criteri di conservazione](/microsoft-365/compliance/retention-policies)
 
-Ad esempio, quando una cassetta postale viene messa in conservazione per controversia legale, i dati di terze parti vengono mantenuti. È possibile eseguire ricerche nei dati di terze parti In-Place eDiscovery o ricerca di conformità. In altri termini, è possibile applicare criteri di archiviazione e conservazione ai dati di terze parti proprio come per i dati Microsoft. L'archiviazione di dati di terze parti in Microsoft 365 consente all'organizzazione di rimanere conforme ai criteri governativi e normativi.
+Ad esempio, quando una cassetta postale viene messa in conservazione per controversia legale, i dati di terze parti vengono mantenuti. È possibile eseguire ricerche in dati di terze parti In-Place eDiscovery o ricerca di conformità. In altri termini, è possibile applicare criteri di archiviazione e conservazione ai dati di terze parti proprio come per i dati Microsoft. L'archiviazione di dati di terze parti in Microsoft 365 consente all'organizzazione di rimanere conforme ai criteri governativi e normativi.
 
-L'archiviazione Microsoft 365 fornisce l'archiviazione conforme alle regole 17a-4 di Securities and Exchange Commission (SEC). Microsoft 365 conserva i file permanenti di tutti i dati raccolti in un formato non riscrivibile e non cancellabile utilizzando criteri di conservazione sul posto e criteri di conservazione, incluso il blocco di conservazione.
+L'archiviazione Microsoft 365 fornisce l'archiviazione conforme alle regole 17a-4 di Securities and Exchange Commission (SEC). Microsoft 365 conserva i file permanenti di tutti i dati raccolti in un formato non riscrivibile e non cancellabile utilizzando criteri di conservazione e criteri di conservazione sul posto, incluso il blocco di conservazione.
 
 In particolare:
 
 - Tutti i record archiviati utilizzando i criteri di conservazione indicati in precedenza vengono conservati in un'area di archiviazione dedicata al di fuori della visualizzazione dell'utente ordinario. Solo gli utenti autorizzati possono accedere a questi record ed eseguire ricerche, ma non modificarli o cancellarli.
 - I metadati per ogni elemento includono un timestamp utilizzato nel calcolo della durata della conservazione. I timestamp vengono applicati quando viene ricevuto o creato un nuovo elemento e non possono essere modificati o rimossi dai metadati.
-- L'archiviazione in Microsoft 365 consente agli utenti di combinare criteri di conservazione diversi e di mantenere azioni per creare criteri di conservazione granulari. Questi criteri definiscono il tipo o la posizione degli elementi conservati e la durata della conservazione.
-- La funzionalità di blocco dell'archiviazione consente agli utenti di scegliere se impostare il criterio come criterio restrittivo. Un criterio restrittivo impedisce a chiunque di avere la possibilità di rimuovere, disabilitare o apportare modifiche al criterio di conservazione. Ciò significa che, una volta abilitato il blocco di conservazione, non può essere disabilitato e non esiste alcun meccanismo in base al quale i dati dei depositati esistenti raccolti dai criteri di conservazione in atto possono essere sovrascritti, modificati, cancellati o eliminati durante il periodo di conservazione. Inoltre, il periodo di conservazione impostato dal blocco di conservazione potrebbe non essere ridotto o ridotto. Tuttavia, può essere allungato, nel caso di un requisito legale per continuare la conservazione dei dati archiviati, come indicato in precedenza. Il blocco dell'archiviazione garantisce che nessuno, nemmeno gli amministratori o quelli con determinati accessi di controllo, possa modificare le impostazioni o sovrascrivere o cancellare i dati archiviati, portando l'archiviazione in Microsoft 365 in linea con le indicazioni riportate nella versione 2003 della regola SEC 17a-4.
+- L'archiviazione in Microsoft 365 consente agli utenti di combinare criteri di conservazione diversi e di archiviare azioni per creare criteri di conservazione granulari. Questi criteri definiscono il tipo o la posizione degli elementi conservati e la durata della conservazione.
+- La funzionalità di blocco dell'archiviazione consente agli utenti di scegliere se impostare il criterio come criterio restrittivo. Un criterio restrittivo impedisce a chiunque di avere la possibilità di rimuovere, disabilitare o apportare modifiche al criterio di conservazione. Ciò significa che, una volta abilitato il blocco di conservazione, non può essere disabilitato e non esiste alcun meccanismo in base al quale i dati dei depositati esistenti raccolti dai criteri di conservazione in atto possono essere sovrascritti, modificati, cancellati o eliminati durante il periodo di conservazione. Inoltre, il periodo di conservazione impostato dal blocco di conservazione potrebbe non essere ridotto o ridotto. Tuttavia, può essere allungato, nel caso di un requisito legale per continuare la conservazione dei dati archiviati, come indicato in precedenza. Preservation Lock garantisce che nessuno, nemmeno gli amministratori o gli utenti con determinati accessi di controllo, possa modificare le impostazioni o sovrascrivere o cancellare i dati archiviati, portando l'archiviazione in Microsoft 365 in linea con le indicazioni riportate nella versione 2003 della regola SEC 17a-4.
 
 Per comprendere in che modo Microsoft 365 consente di soddisfare gli obblighi normativi, in particolare in relazione ai requisiti della regola 17a-4, vedere il [white paper](https://www.microsoft.com/microsoft-365/blog/wp-content/uploads/2015/11/Microsoft-EOA-White-Paper.pdf) relativo a Archiviazione Exchange Online, SharePoint Online, OneDrive for Business e Skype for Business. Il white paper fornisce inoltre un'analisi approfondita delle funzionalità e delle funzionalità di archiviazione di Microsoft 365 in base a ognuno dei requisiti della regola SEC 17a-4 e dimostra ai clienti regolamentati come l'archiviazione Microsoft 365 possa consentire loro di soddisfare questi requisiti.

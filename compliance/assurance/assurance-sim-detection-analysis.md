@@ -20,11 +20,11 @@ ms.collection:
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
 ms.openlocfilehash: b22c078715f2bbbf63ae5d6af8fb073aed1f1b48
-ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/27/2021
-ms.locfileid: "58676795"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947151"
 ---
 # <a name="microsoft-security-incident-management-detection-and-analysis"></a>Gestione degli incidenti di sicurezza Microsoft: rilevamento e analisi
 

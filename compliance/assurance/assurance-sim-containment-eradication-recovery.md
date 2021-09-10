@@ -20,11 +20,11 @@ ms.collection:
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
 ms.openlocfilehash: 0c99c28ee6a291acbcfe913a87aa107d3be5c75a
-ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/27/2021
-ms.locfileid: "58676805"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947133"
 ---
 # <a name="microsoft-security-incident-management-containment-eradication-and-recovery"></a>Gestione degli incidenti di sicurezza Microsoft: contenimento, eliminazione e ripristino
 
@@ -51,7 +51,7 @@ Un aspetto chiave per il ripristino è avere una maggiore vigilanza e controlli 
 
 ## <a name="customer-notification-of-security-incident"></a>Notifica al cliente di un evento imprevisto di sicurezza
 
-Se Microsoft determina che si è verificato un incidente di sicurezza, microsoft informerà l'utente con un ritardo indebito e entro i requisiti contrattuali e di conformità concordati. Dopo aver identificato tutti i tenant interessati, il team di comunicazione corrispondente lavora per identificare eventuali normative rilevanti applicabili ai tenant interessati. Il team delle comunicazioni utilizza il canale di comunicazione appropriato definito nelle normative applicabili per inviare una notifica al contatto tenant appropriato.
+Se Microsoft determina che si è verificato un incidente di sicurezza, microsoft informerà l'utente con un ritardo indebito e entro i requisiti contrattuali e di conformità concordati. Dopo aver identificato tutti i tenant interessati, il team di comunicazione corrispondente lavora per identificare eventuali normative rilevanti che potrebbero essere applicate ai tenant interessati. Il team delle comunicazioni utilizza il canale di comunicazione appropriato definito nelle normative applicabili per inviare una notifica al contatto tenant appropriato.
 
 ![Processo di risposta agli eventi imprevisti.](../media/assurance-incident-response-process.png)
 

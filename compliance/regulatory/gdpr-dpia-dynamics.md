@@ -19,11 +19,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft GDPR
 ms.openlocfilehash: ed23af0982dd5ce066c78963f108c2b7eaa2403a
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482439"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948087"
 ---
 # <a name="data-protection-impact-assessments-guidance-for-data-controllers-using-dynamics-365"></a>Valutazioni d'impatto sulla protezione dei dati: guida per i titolari del trattamento dei dati che utilizzano Dynamics 365
 

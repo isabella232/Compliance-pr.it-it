@@ -21,11 +21,11 @@ ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
 ms.openlocfilehash: 764259e22b23ecc7cea363283fc313a94875a2d1
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481788"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947388"
 ---
 # <a name="service-resource-limits"></a>Limiti della risorsa servizio
 
@@ -40,6 +40,6 @@ I limiti delle risorse vengono applicati utilizzando quote (limiti) e limitazion
 
 Oltre a questi limiti, vengono usati diversi meccanismi di limitazione in Azure AD e Microsoft 365. La limitazione all'interno del servizio è particolarmente importante, dato che le risorse di rete nei datacenter di Microsoft sono ottimizzate per l'ampio set di clienti che usano i servizi. I meccanismi di limitazione includono:
 
-- Azure AD e Microsoft 365 funzionalità di limitazione a livello di utente, che limitano il numero di transazioni o chiamate simultanee (tramite script o codice) che possono essere eseguite da un singolo utente.
+- Azure AD e Microsoft 365 funzionalità di limitazione a livello utente, che limitano il numero di transazioni o chiamate simultanee (tramite script o codice) che possono essere eseguite da un singolo utente.
 - Un criterio di limitazione di PowerShell predefinito viene assegnato a ogni tenant durante la creazione del tenant. Queste impostazioni influiscono su altri elementi, ad esempio il numero massimo di sessioni di PowerShell simultanee che possono essere aperte da un singolo amministratore.
-- Ogni Exchange Online cliente dispone di un criterio di servizi Web Exchange (EWS) predefinito ottimizzato per le operazioni dei client EWS e di limitazione che si applica a tutti i Outlook client.
+- Ogni Exchange Online cliente dispone di un criterio predefinito di servizi Web Exchange (EWS) ottimizzato per le operazioni client EWS e di limitazione che si applica a tutti i Outlook client.

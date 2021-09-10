@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: b7b1e3ea3600023c2ec95d4db7f318d70183b197
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482681"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947978"
 ---
 # <a name="gramm-leach-bliley-act-glba"></a>Gramm-Leach-Bliley Act (GLBA)
 
@@ -33,14 +33,14 @@ Il Gramm-Leach-Bliley Act (GLBA) è una legge statunitense che ha riformato il s
 
 Microsoft Azure, Microsoft Office 365, Dynamics 365 e Microsoft Power BI possono aiutare a soddisfare i requisiti stringenti della fornitura di servizi cloud per gli istituti di servizi finanziari. Come parte del nostro supporto, offriamo indicazioni per aiutarti a rispettare i requisiti della GLBA fornendo garanzie tecniche e organizzative per mantenere la sicurezza e prevenire l'utilizzo non autorizzato.
 
-Microsoft ha sviluppato strumenti di valutazione dei rischi sia per [Azure](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=6b218946-c235-4234-9beb-d557e39a3f44&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides) che [per Office 365](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=55702ffd-c35a-4619-8722-ab71c0c02002&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides) per consentire di eseguire in modo più efficiente una valutazione dei rischi di Azure e Office 365 servizi. Lo strumento (un foglio di calcolo di Excel) include numerosi domini di sicurezza delle informazioni (ad esempio i criteri di sicurezza e la gestione dei rischi) che tiene traccia dei requisiti delle normative sui servizi finanziari e di altri standard pertinenti, tra cui GLBA (nella colonna R nel foglio di calcolo di Azure e Colonna Q nel foglio di calcolo di Office 365). Gli strumenti spiegano come Azure e Office 365 conformarsi a ogni requisito applicabile ai provider di servizi cloud e possono aiutare a soddisfare i requisiti di sicurezza GLBA.
+Microsoft ha sviluppato strumenti di valutazione dei rischi per [Azure](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=6b218946-c235-4234-9beb-d557e39a3f44&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides) e [Office 365](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=55702ffd-c35a-4619-8722-ab71c0c02002&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides) per consentire di eseguire in modo più efficiente una valutazione dei rischi di Azure e Office 365 servizi. Lo strumento (un foglio di calcolo di Excel) include numerosi domini di sicurezza delle informazioni (ad esempio i criteri di sicurezza e la gestione dei rischi) che tiene traccia dei requisiti delle normative sui servizi finanziari e di altri standard pertinenti, tra cui GLBA (nella colonna R nel foglio di calcolo di Azure e Colonna Q nel foglio di calcolo di Office 365). Gli strumenti spiegano come Azure e Office 365 conformarsi a ogni requisito applicabile ai provider di servizi cloud e possono aiutare a soddisfare i requisiti di sicurezza GLBA.
 
 ## <a name="promote-your-glba-compliance"></a>Promuovere la conformità GLBA
 
 - [Scaricare lo strumento di valutazione dei rischi cloud di Azure Financial Services](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=6b218946-c235-4234-9beb-d557e39a3f44&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
 - [Scaricare lo strumento Office 365 valutazione dei rischi cloud](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=55702ffd-c35a-4619-8722-ab71c0c02002&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servizi e piattaforme cloud Microsoft inclusi nell'ambito
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme e servizi cloud Microsoft inclusi nell'ambito
 
 - Azure
 - [Dynamics 365](https://aka.ms/d365-compliance-list)

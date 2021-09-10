@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: addcf3852fda46989e75b18bd323d86aa1981d4e
-ms.sourcegitcommit: 70efe7749db2c6dd4ae0faa8ac22da6e87109c79
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/30/2021
-ms.locfileid: "58707145"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947973"
 ---
 # <a name="financial-industry-regulatory-authority-finra-rule-4511c-united-states"></a>Regola 4511(c) Dell'autorità di regolamentazione del settore finanziario (FINRA) Stati Uniti
 
@@ -37,19 +37,19 @@ Inoltre, la regola FINRA 4511(c) richiede alle aziende di conservare per un peri
 
 I clienti dei servizi finanziari, che rappresentano uno dei settori più regolamentati al mondo, sono soggetti a disposizioni complesse come la conservazione delle transazioni finanziarie e le comunicazioni correlate in uno stato non cancellabile e non modificabile. Tra questi c'è la regola 4511 della Financial Industry Regulatory Authority (FINRA) che stabilisce requisiti rigosi per le entità regolamentate che decidno di conservare libri e record su supporti di archiviazione elettronici. I record archiviati devono essere a prova di manomissione senza possibilità di modificarli o eliminarli fino a dopo il periodo di conservazione designato.
 
-Microsoft Azure L'Archiviazione BLOB non modificabile con Policy Lock e Microsoft Office 365 con Preservation Lock può aiutare gli istituti finanziari a soddisfare i requisiti di archiviazione non modificabili della regola FINRA 4511(c).
+Microsoft Azure L'Archiviazione BLOB non modificabile con blocco dei criteri e Microsoft Office 365 con blocco di conservazione può aiutare gli istituti finanziari a soddisfare i requisiti di archiviazione non modificabili della regola FINRA 4511(c).
 
 ## <a name="microsoft-azure"></a>Microsoft Azure
 
 Per valutare la conformità di Azure alla regola FINRA 4511(c), Microsoft ha mantenuto una società di valutazione indipendente specializzata nella gestione dei record e nella governance delle informazioni, Cohasset Associates. Il report risultante, [SEC 17a-4(f) & CFTC 1.31 (c-d) Compliance Assessment: Archiviazione di Microsoft Azure](https://azure.microsoft.com/resources/azure-immutable-storage-assessment-for-sec-17a-4f-by-cohasset/), comprende la conformità di Azure alla regola FINRA 4511(c), che rinvia al formato e ai requisiti multimediali della regola SEC 17a-4(f).
 
-Cohasset ha convalidato che il [Archiviazione BLOB](/azure/storage/blobs/storage-blob-immutable-storage) non modificabile di Azure con l'opzione Blocco criteri, se usato per conservare i BLOB basati sul tempo in un formato WORM (Non-Erasable and Non-Rewritable), soddisfa i requisiti di archiviazione FINRA pertinenti. Ogni BLOB (record) è protetto dalla modifica, dalla sovrascrittura o dall'eliminazione finché il periodo di conservazione richiesto non è scaduto e non sono state rilasciate eventuali esenzioni legali associate.
+Cohasset ha convalidato che il [Archiviazione BLOB](/azure/storage/blobs/storage-blob-immutable-storage) non modificabile di Azure con l'opzione Blocco criteri, se usato per conservare i BLOB basati sul tempo in un formato WORM (Non-Erasable and Non-Rewritable), soddisfa i requisiti di archiviazione FINRA pertinenti. Ogni BLOB (record) è protetto dalla modifica, dalla sovrascrittura o dall'eliminazione fino alla scadenza del periodo di conservazione richiesto e al rilascio di eventuali blocchi legali associati.
 
-I provider di software e i partner con carichi di lavoro sensibili possono ora fare affidamento su Blob Archiviazione non modificabili di Azure come soluzione cloud di negozio one-stop per la conservazione dei record e l'archiviazione non modificabile. Gli istituti finanziari possono ora creare le proprie applicazioni sfruttando queste funzionalità pur rimanendo conformi.
+I provider di software e i partner con carichi di lavoro sensibili possono ora fare affidamento sul Archiviazione BLOB non modificabile di Azure come soluzione cloud di negozio unica per la conservazione dei record e l'archiviazione non modificabile. Gli istituti finanziari possono ora creare le proprie applicazioni sfruttando queste funzionalità pur rimanendo conformi.
 
 ## <a name="microsoft-365"></a>Microsoft 365
 
-Per i requisiti della regola [FINRA 4511(c),](/microsoft-365/compliance/retention-regulatory-requirements#sec-17a-4f-finra-4511c-and-cftc-131c-d) Cohasset ha convalidato che Microsoft 365 include funzionalità di archiviazione che consentono ai clienti regolamentati, inclusi i broker-rivenditori, di archiviare i dati in modo che siano conformi ai requisiti SEC per la conservazione dei record. Le funzionalità di conservazione in Microsoft 365 consentono di conservare un'ampia gamma di dati, tra cui posta elettronica, segreteria telefonica, documenti condivisi, messaggi istantanei e dati di terze parti. In particolare, l'archiviazione in Microsoft 365 consente ai clienti di impostare criteri di conservazione della messaggistica globali o granulari per archiviare i dati per un periodo definito e oltre in un formato non riscrivibile e non cancellabile.
+Per i requisiti della regola [FINRA 4511(c),](/microsoft-365/compliance/retention-regulatory-requirements#sec-17a-4f-finra-4511c-and-cftc-131c-d) Cohasset ha convalidato che Microsoft 365 include funzionalità di archiviazione che consentono ai clienti regolamentati, inclusi i broker-rivenditori, di archiviare i dati in modo che rispettino i requisiti SEC per la conservazione dei record. Le funzionalità di conservazione in Microsoft 365 consentono di conservare un'ampia gamma di dati, tra cui posta elettronica, segreteria telefonica, documenti condivisi, messaggi istantanei e dati di terze parti. In particolare, l'archiviazione in Microsoft 365 consente ai clienti di impostare criteri di conservazione della messaggistica globali o granulari per archiviare i dati per un periodo definito e oltre in un formato non riscrivibile e non cancellabile.
 
 ## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme e servizi cloud Microsoft inclusi nell'ambito
 

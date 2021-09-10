@@ -19,11 +19,11 @@ titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
 hideEdit: true
 ms.openlocfilehash: 06dbe8eeeddc32fb98b7b4bf0351834fb6a34944
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482631"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947859"
 ---
 # <a name="microsoft-support-and-professional-services-data-subject-requests-for-the-gdpr-and-ccpa"></a>Richieste degli interessati per Professional Services e supporto tecnico Microsoft nell'ambito del GDPR e del CCPA
 
@@ -31,7 +31,7 @@ ms.locfileid: "58482631"
 
 Microsoft Professional Services si avvale dell’esperienza di architetti, ingegneri, consulenti e professionisti del supporto tecnico che forniscono consulenze ai clienti per aiutarli a realizzare obiettivi sempre più ambizioni, ispirati dalla mission di Microsoft. Il team Professional Services include più di 21.000 operatori tra consulenti, esperti digitali, supporto tecnico Premier, personale tecnico e commerciale che operano in 191 paesi e oltre 46 lingue, gestiscono milioni di interazioni al mese e comunicano con clienti e partner tramite strumenti automatizzati, in locale, telefono, Web e community. L'organizzazione offre consulenze generali sull'intero portfolio Microsoft, sfruttando una vasta rete di partner, community tecniche, strumenti, dati di diagnostica e canali di contatto con i clienti aziendali.
 
-Per ulteriori informazioni sui Servizi professionali di Microsoft passale alla [pagina Web della Documentazione sulla sicurezza di Microsoft Professional Services](https://www.microsoft.com/professionalservices/overview). Per i servizi professionali di Microsoft, il rispetto degli obblighi derivanti dal Regolamento generale sulla protezione dei dati (GDPR) è importante. Le informazioni contenute in questo documento possono aiutare a risolvere eventuali dubbi dei clienti su come i servizi di assistenza e consulenza Microsoft supportino i clienti per gestire gli obblighi relativi alle richieste degli interessati secondo il GDPR.
+Sono disponibili ulteriori informazioni su Servizi professionali di Microsoft accedendo alla [pagina Web della documentazione di sicurezza di Servizi professionali di Microsoft](https://www.microsoft.com/professionalservices/overview). Servizi professionali di Microsoft tiene seriamente conto degli obblighi derivanti dal Regolamento generale sulla protezione dei dati (GDPR). Le informazioni riportate in questo documento hanno lo scopo di rispondere alle domande dei clienti sul modo in cui le offerte di consulenza e supporto di Microsoft assistono i clienti nell'adempimento agli obblighi definiti dall'GDPR in merito alla risposta alle richieste DSR (Data Subject Rights, Diritti dell'interessato).
 
 ### <a name="introduction-to-dsrs"></a>Introduzione alle richieste DSR 
 

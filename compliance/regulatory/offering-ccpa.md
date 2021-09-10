@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: 61b15a095dec310aac74bac10b2d062eb1011750
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482661"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947838"
 ---
 # <a name="california-consumer-privacy-act-ccpa"></a>California Consumer Privacy Act (CCPA)
 
@@ -37,7 +37,7 @@ Il gruppo di disponibilità della California applica il CCPA e avrà il potere d
 
 ## <a name="microsoft-and-the-ccpa"></a>Microsoft e il CCPA
 
-Per i clienti commerciali che fanno affari in California, Microsoft fungerà da "provider di servizi" per quanto riguarda l'offerta di servizi online e Professional.  I termini delle Condizioni per i servizi online (OST) e microsoft Professional Services Data Protection Addendum (MSDPA) soddisfano già i requisiti per i provider di servizi nell'ambito del CCPA e sono in genere sufficienti per consentire ai clienti di continuare a trasferire i dati ai servizi online. Di conseguenza, non sono necessarie ulteriori modifiche contrattuali per i clienti per poter fare affidamento su Microsoft come provider di servizi nell'ambito del CCPA.
+Per i clienti commerciali che fanno affari in California, Microsoft fungerà da "provider di servizi" per quanto riguarda l'offerta di servizi online e Professional.  I termini delle Condizioni dei servizi online (OST) e dell'Addendum per la protezione dei dati di Microsoft Professional Services (MSDPA) soddisfano già i requisiti per i provider di servizi nell'ambito del CCPA e sono in genere sufficienti per consentire ai clienti di continuare a trasferire i dati nei servizi online. Di conseguenza, non sono necessarie ulteriori modifiche contrattuali per i clienti per poter fare affidamento su Microsoft come provider di servizi nell'ambito del CCPA.
 
 Come descritto nell'OST, Microsoft è conforme a tutte le leggi e le normative applicabili alla fornitura dei Servizi online, che includerebbe il CCPA.  
 
@@ -105,4 +105,4 @@ Il CCPA richiede aziende regolamentate che raccolgono, trasferiscono e vendono i
 - [Guida introduttiva a CCPA](https://info.microsoft.com/ww-landing-Five-tips-to-help-you-prepare-for-the-California-Consumer-Privacy-Act.html)
 - [Richieste dell'oggetto dei dati e GDPR](gdpr-data-subject-requests.md)
 - [Domande frequenti sul California Consumer Privacy Act (CCPA)](ccpa-faq.yml)
-- [Conformità nel Centro protezione Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Conformità in Microsoft Trust Center](https://www.microsoft.com/trust-center/compliance/compliance-overview)

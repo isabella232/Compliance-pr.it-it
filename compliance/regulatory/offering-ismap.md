@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: 5f51e0eb46550734a3906e6011a67323fe67fc78
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482891"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947985"
 ---
 # <a name="information-system-security-management-and-assessment-program-ismap"></a>Information System Security Management and Assessment Program (ISMAP)
 

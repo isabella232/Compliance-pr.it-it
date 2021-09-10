@@ -21,11 +21,11 @@ search.appverid:
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
 ms.openlocfilehash: 97fe615296f03c8f72dbf23d886501988686b53a
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482199"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947043"
 ---
 # <a name="architecture-overview"></a>Panoramica dell'architettura
 
@@ -53,7 +53,7 @@ In termini di scalabilità, Microsoft attualmente usa quasi un milione di comput
 
 I servizi cloud di Microsoft si basano sul presupposto che tutti i tenant siano potenzialmente dannosi per tutti gli altri tenant. Per isolare correttamente i tenant l'uno dall'altro, Microsoft implementa diverse tecnologie e controlli di isolamento. Questi controlli sono progettati per evitare perdite di informazioni o accessi non autorizzati ai dati dei clienti nei tenant e per impedire che le azioni di un tenant influiscano negativamente sul servizio per un altro tenant.
 
-Il contenuto del cliente è isolato logicamente all'interno dei tenant tramite Azure Active Directory (Azure AD). L'autenticazione utente nei Servizi online Microsoft verifica non solo l'identità utente, ma anche l'identità del tenant di cui fa parte l'account utente, impedendo agli utenti di accedere ai dati all'esterno dell'ambiente tenant. Per integrare l'isolamento logico di Azure AD, i contenuti dei clienti vengono sempre crittografati in fase di riposo e in transito. I singoli servizi possono inoltre fornire livelli aggiuntivi di isolamento del tenant SharePoint, ad esempio l'isolamento online dei dati del tenant in database separati e crittografati.
+Il contenuto del cliente è isolato logicamente all'interno dei tenant usando Azure Active Directory (Azure AD). L'autenticazione utente nei Servizi online Microsoft verifica non solo l'identità utente, ma anche l'identità del tenant di cui fa parte l'account utente, impedendo agli utenti di accedere ai dati all'esterno dell'ambiente tenant. Per integrare l'isolamento logico di Azure AD, i contenuti dei clienti vengono sempre crittografati in fase di riposo e in transito. I singoli servizi possono inoltre fornire livelli aggiuntivi di isolamento del tenant, ad esempio l'isolamento SharePoint online dei dati del tenant in database separati crittografati.
 
 ## <a name="how-do-microsoft-online-services-engineer-resilient-services-that-avoid-single-points-of-failure"></a>In che modo i Servizi online Microsoft possono progettare servizi resilienti che evitano singoli punti di errore?
 

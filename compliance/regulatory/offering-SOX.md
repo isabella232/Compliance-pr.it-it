@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: 375f7a58db675f3f14bd98ff580919ef40f603f1
-ms.sourcegitcommit: 16cec8f7ca799a415bfbae937b177a628a0f2987
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/24/2021
-ms.locfileid: "58505889"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948080"
 ---
 # <a name="sarbanes-oxley-act-of-2002-sox"></a>Sarbanes-Oxley Act del 2002 (SOX)
 
@@ -33,7 +33,7 @@ La SEC non definisce o impone un processo di certificazione SOX. Al contrario, f
 
 ## <a name="microsoft-and-sox"></a>Microsoft e SOX
 
-I clienti dei servizi cloud Microsoft soggetti alla conformità con il Sarbanes-Oxley Act (SOX) possono utilizzare l'attestazione SOC 1 Tipo 2 ricevuta da Una società di controllo indipendente per affrontare i propri obblighi di conformità SOX. Questa attestazione è appropriata per la segnalazione dei controlli interni sui report finanziari.
+I clienti dei servizi cloud Microsoft soggetti alla conformità con il Sarbanes-Oxley Act (SOX) possono utilizzare l'attestazione SOC 1 Tipo 2 ricevuta da una società di controllo indipendente per affrontare i propri obblighi di conformità SOX. Questa attestazione è appropriata per la segnalazione dei controlli interni sui report finanziari.
 
 Anche se non esiste alcuna certificazione SOX o convalida per i provider di servizi cloud, Microsoft può aiutare i clienti a rispettare i propri obblighi SOX. Ad esempio, SOX richiede controlli interni per la preparazione e la revisione dei rendiconti finanziari, in particolare i controlli che influiscono sull'accuratezza, la completezza, l'efficacia e la divulgazione pubblica di modifiche materiali correlate alla creazione di report finanziari. Per aiutare le aziende, Microsoft gestisce un'attestazione SOC 1 Tipo 2 appropriata per la creazione di report su tali controlli in un ampio portfolio di servizi che possono essere utilizzati per creare un'ampia gamma di applicazioni. Si basa sull'American Institute of Certified Public Accountants (AICPA) Statement on Standards for Attestation Engagements 18 (SSAE 18) e sullo Standard internazionale sugli impegni di garanzia n. n. 3402. Questa attestazione ha sostituito SAS 70.
 
@@ -41,7 +41,7 @@ Il report di controllo, prodotto da una società di controllo di terze parti, at
 
 Microsoft condivide la responsabilità della conformità con i clienti. Forniamo le specifiche dei nostri programmi di conformità, che puoi verificare richiedendo risultati di controllo dettagliati da terze parti che certificano. In ultima analisi, tuttavia, sta a te determinare se i nostri servizi sono conformi alle leggi e alle normative specifiche applicabili alla tua azienda. Ad esempio, esistono controlli di sicurezza correlati a SOX, ad esempio l'accesso degli utenti alle risorse cloud, che sono responsabilità dell'organizzazione: l'organizzazione deve sviluppare un controllo appropriato di questi controlli come parte della conformità SOX.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servizi e piattaforme cloud Microsoft inclusi nell'ambito
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme e servizi cloud Microsoft inclusi nell'ambito
 
 - Azure
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
@@ -93,8 +93,8 @@ Quando si esegue la migrazione delle applicazioni e dei dati ai servizi cloud Mi
 ### <a name="resources"></a>Risorse
 
 - [Documentazione sulla conformità di Azure](/azure/compliance/)
-- [Azure consente un mondo di conformità](https://azure.microsoft.com/resources/azure-enables-a-world-of-compliance/)
-- [Microsoft 365 conformità](/compliance/regulatory/offering-home)
+- [Azure offre un mondo di conformità](https://azure.microsoft.com/resources/azure-enables-a-world-of-compliance/)
+- [Offerte conformità Microsoft 365](/compliance/regulatory/offering-home)
 - [Conformità nel Centro protezione Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
 - [Sarbanes-Oxley Act del 2002](https://www.congress.gov/bill/107th-congress/house-bill/3763) (SOX)
 - [Securities and Exchange Commission](https://www.sec.gov/) (SEC)

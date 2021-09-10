@@ -21,19 +21,19 @@ ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
 ms.openlocfilehash: ff5860197375d6504bc85f257a442915dfff50cc
-ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/27/2021
-ms.locfileid: "58678615"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947128"
 ---
 # <a name="attack-simulation-in-microsoft-365"></a>Simulazione di un attacco in Microsoft 365
 
 Microsoft monitora costantemente e verifica in modo esplicito i punti deboli e le vulnerabilità nei limiti del tenant, tra cui il monitoraggio delle intrusioni, i tentativi di violazione delle autorizzazioni e la carestia delle risorse. Usiamo anche più sistemi interni per monitorare continuamente l'utilizzo improprio delle risorse, che, se rilevato, attiva la limitazione predefinita.
 
-Microsoft 365 sono presenti sistemi di monitoraggio interni che monitorano continuamente eventuali errori e guidano il ripristino automatico quando viene rilevato un errore. Microsoft 365 i sistemi di analisi delle deviazioni nel comportamento del servizio e avviano processi di auto-riparazione incorporati nel sistema. Microsoft 365 utilizza anche il monitoraggio esterno in cui il monitoraggio viene eseguito da più posizioni sia da servizi di terze parti attendibili (per la verifica indipendente del contratto di servizio) che dai nostri datacenter per generare avvisi. Per la diagnostica, sono stati evasi la registrazione, il controllo e l'analisi. La traccia granulare e il monitoraggio ci aiutano a isolare i problemi ed eseguire un'analisi rapida ed efficace delle cause radice.
+Microsoft 365 dispone di sistemi di monitoraggio interni che monitorano continuamente eventuali errori e guidano il ripristino automatico quando viene rilevato un errore. Microsoft 365 i sistemi di analisi delle deviazioni nel comportamento del servizio e avviano processi di auto-riparazione incorporati nel sistema. Microsoft 365 utilizza anche il monitoraggio esterno in cui il monitoraggio viene eseguito da più posizioni sia da servizi di terze parti attendibili (per la verifica indipendente del contratto di servizio) che dai nostri datacenter per generare avvisi. Per la diagnostica, sono stati evasi la registrazione, il controllo e l'analisi. La traccia granulare e il monitoraggio ci aiutano a isolare i problemi ed eseguire un'analisi rapida ed efficace delle cause radice.
 
-Anche se Microsoft 365 ha azioni di ripristino automatizzate, ove possibile, i tecnici di chiamata Microsoft sono disponibili 24x7 per analizzare tutte le escalation di sicurezza di gravità 1 e le revisioni post-mortem di ogni incidente di servizio contribuiscono all'apprendimento continuo e al miglioramento. Questo team include tecnici del supporto, sviluppatori di prodotti, program manager, product manager e dirigenti senior. I nostri professionisti di chiamata forniscono un backup rapido e spesso possono automatizzare le azioni di ripristino, in modo che la prossima volta che si verifica un evento, possa essere auto-curato.
+Anche se Microsoft 365 ha azioni di ripristino automatizzate, ove possibile, i tecnici microsoft sono disponibili 24x7 per analizzare tutte le escalation di sicurezza di gravità 1 e le revisioni post-mortem di ogni incidente di servizio contribuiscono all'apprendimento continuo e al miglioramento. Questo team include tecnici del supporto, sviluppatori di prodotti, program manager, product manager e dirigenti senior. I nostri professionisti di chiamata forniscono un backup rapido e spesso possono automatizzare le azioni di ripristino, in modo che la prossima volta che si verifica un evento, possa essere auto-curato.
 
 Microsoft esegue un'analisi approfondita post-incidente ogni volta che si verifica un Microsoft 365 di sicurezza indipendentemente dalla grandezza dell'impatto. Una revisione post-incidente consiste in un'analisi di ciò che è successo, di come abbiamo risposto e di come preveniamo incidenti simili in futuro. Nell'interesse della trasparenza e della responsabilità, condividiamo le revisioni post-incidente per eventuali incidenti di servizio principali con i clienti interessati. Per informazioni dettagliate, vedere [Gestione degli incidenti di sicurezza Microsoft.](assurance-security-incident-management.md)
 
@@ -45,7 +45,7 @@ Sebbene le procedure [di](https://www.microsoft.com/TrustCenter/Security/default
 
 Sebbene i processi di sicurezza di prevenzione delle violazioni, ad esempio la modellazione delle minacce, le revisioni del codice e i test di sicurezza siano molto utili nell'ambito del ciclo di vita dello sviluppo della [sicurezza,](https://www.microsoft.com/securityengineering/sdl/)presuppongono che la violazione offra numerosi vantaggi che consentono di valutare la sicurezza complessiva esercitando e misurando le funzionalità reattive in caso di violazione.
 
-Microsoft si è posta l'obiettivo di ottenere questo risultato attraverso esercitazioni di giochi di guerra in corso e test di penetrazione del sito in tempo reale dei piani di risposta alla sicurezza con l'obiettivo di migliorare le funzionalità di rilevamento e risposta. Microsoft simula regolarmente violazioni reali, esegue un monitoraggio continuo della sicurezza e pratica la gestione degli incidenti di sicurezza per convalidare e migliorare la sicurezza di Microsoft 365, Azure e altri servizi cloud Microsoft.
+Microsoft si è posta l'obiettivo di ottenere questo risultato attraverso esercitazioni di giochi di guerra in corso e test di penetrazione del sito in tempo reale dei piani di risposta alla sicurezza con l'obiettivo di migliorare le funzionalità di rilevamento e risposta. Microsoft simula regolarmente violazioni reali, esegue il monitoraggio continuo della sicurezza e pratica la gestione degli incidenti di sicurezza per convalidare e migliorare la sicurezza di Microsoft 365, Azure e altri servizi cloud Microsoft.
 
 Microsoft esegue la strategia di sicurezza presuppongono che la violazione utilizzi due gruppi principali:
 
@@ -54,9 +54,9 @@ Microsoft esegue la strategia di sicurezza presuppongono che la violazione utili
 
 Sia Microsoft Azure che Microsoft 365 il personale separano il Teams e il Teams a tempo Teams.
 
-Definito "[Red Teaming](https://go.microsoft.com/fwlink/?linkid=518599)", l'approccio consiste nel testare i sistemi e le operazioni di Azure e Microsoft 365 usando le stesse tattiche, tecniche e procedure degli avversari reali, rispetto all'infrastruttura di produzione in tempo reale, senza il supporto dei team tecnici o operativi. Questo test consente di testare le funzionalità di risposta e rilevamento della sicurezza di Microsoft e consente di identificare le vulnerabilità di produzione, gli errori di configurazione, i presupposti non validi e altri problemi di sicurezza in modo controllato. Ogni violazione del Team Rosso è seguita dalla divulgazione completa tra entrambi i team per identificare le lacune, risolvere i risultati e migliorare la risposta alle violazioni.
+Definito "[Red Teaming](https://go.microsoft.com/fwlink/?linkid=518599)", l'approccio consiste nel testare i sistemi e le operazioni di Azure e Microsoft 365 utilizzando le stesse tattiche, tecniche e procedure degli avversari reali, rispetto all'infrastruttura di produzione in tempo reale, senza il foreknowledge dei team di progettazione o operazioni. Questo test consente di testare le funzionalità di risposta e rilevamento della sicurezza di Microsoft e consente di identificare le vulnerabilità di produzione, gli errori di configurazione, i presupposti non validi e altri problemi di sicurezza in modo controllato. Ogni violazione del Team Rosso è seguita dalla divulgazione completa tra entrambi i team per identificare le lacune, risolvere i risultati e migliorare la risposta alle violazioni.
 
-**NOTA:** durante il red teaming o i test di penetrazione del sito in tempo reale, non viene intenzionalmente preso di mira alcun dato del cliente. I test sono in Microsoft 365 e le piattaforme di Azure, nonché i tenant, le applicazioni e i dati di Microsoft. I tenant dei clienti, le applicazioni e il contenuto ospitato in Microsoft 365 o Azure non sono mai destinati.
+**NOTA:** durante il red teaming o i test di penetrazione del sito in tempo reale, non viene intenzionalmente preso di mira alcun dato del cliente. I test sono a Microsoft 365 e alle piattaforme di Azure, nonché ai tenant, alle applicazioni e ai dati di Microsoft. I tenant dei clienti, le applicazioni e il contenuto ospitato in Microsoft 365 o Azure non sono mai destinati.
 
 ## <a name="red-teams"></a>Rosso Teams
 
@@ -84,7 +84,7 @@ Quando un avversario, ad esempio un team rosso, ha violato un ambiente, il team 
 - Formare un piano di correzione per contenere o eliminare l'avversario
 - Eseguire il piano di correzione e ripristinare la violazione
 
-Questi passaggi formano la risposta agli eventi imprevisti di sicurezza che viene eseguita in parallelo a quella dell'avversario, come illustrato di seguito:
+Questi passaggi formano la risposta agli incidenti di sicurezza che viene eseguita in parallelo a quella dell'avversario, come illustrato di seguito:
 
 ![Fasi di risposta alla violazione.](../media/office-365-isolation-breach-response-stages.png)
 

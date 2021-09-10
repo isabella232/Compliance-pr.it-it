@@ -22,11 +22,11 @@ ms.custom:
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
 ms.openlocfilehash: 06d8f500a96c84bf961dc47f6b8d259e0fffe02d
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481648"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947437"
 ---
 # <a name="technology-controls-in-microsoft-365"></a>Controlli tecnologici in Microsoft 365 
 
@@ -64,9 +64,9 @@ Quando sono autorizzati e approvati per l'accesso, i tecnici ricevono una passwo
 
 I tecnici utilizzano due interfacce di gestione per eseguire attività amministrative: Desktop remoto tramite gateway del servizio terminal (TSG) protetti e Remote PowerShell. All'interno di queste interfacce di gestione, i criteri software e i controlli di accesso determinano restrizioni significative sulle applicazioni eseguite e sui comandi e i cmdlet disponibili.
 
-Microsoft 365 server limitano le sessioni simultanee a una sessione per ogni amministratore del team di servizio, per server. I gruppi di protezione dei servizi terminal consentono una sola sessione simultanea per gli utenti e non consentono più sessioni. Utilizzando una singola sessione per server, i gruppi di sicurezza dei servizi di Microsoft 365 consentono agli amministratori del team del servizio di connettersi contemporaneamente a più server in modo che gli amministratori possano svolgere efficacemente le proprie attività. Gli amministratori del team del servizio non dispongono di autorizzazioni per i gruppi di sicurezza dei servizi di dominio. Il gruppo TSG viene utilizzato solo per applicare l'autenticazione a più fattori (MFA) e i requisiti di crittografia. Una volta che l'amministratore del team del servizio si connette a un server specifico tramite un gruppo di protezione dei servizi, il server specifico applica un limite di sessione di uno per ogni amministratore.
+Microsoft 365 server limitano le sessioni simultanee a un amministratore del team per servizio, per server. I gruppi di protezione dei servizi terminal consentono una sola sessione simultanea per gli utenti e non consentono più sessioni. Utilizzando una singola sessione per server, i gruppi di sicurezza dei servizi di Microsoft 365 consentono agli amministratori del team del servizio di connettersi contemporaneamente a più server in modo che gli amministratori possano svolgere efficacemente le proprie mansioni. Gli amministratori del team del servizio non dispongono di autorizzazioni per i gruppi di sicurezza dei servizi di dominio. Il gruppo TSG viene utilizzato solo per applicare l'autenticazione a più fattori (MFA) e i requisiti di crittografia. Una volta che l'amministratore del team del servizio si connette a un server specifico tramite un gruppo di protezione dei servizi, il server specifico applica un limite di sessione di uno per ogni amministratore.
 
-Le restrizioni di utilizzo e i requisiti di connessione e configurazione per Microsoft 365 personale vengono stabiliti dai criteri di gruppo di Active Directory. Questi criteri includono le caratteristiche seguenti:
+Le restrizioni di utilizzo e i requisiti di connessione e configurazione per Microsoft 365 personale sono stabiliti dai criteri di gruppo di Active Directory. Questi criteri includono le caratteristiche seguenti:
 
 - I TSG utilizzano solo la crittografia [convalidata FIPS](https://www.microsoft.com/TrustCenter/Compliance/FIPS) 140-2.
 - Le sessioni TSG si disconnettino dopo 30 minuti di inattività.
@@ -74,6 +74,6 @@ Le restrizioni di utilizzo e i requisiti di connessione e configurazione per Mic
 
 Per le connessioni ai TSG è inoltre necessaria l'autenticazione a più fattori utilizzando una smart card fisica separata e un account separato dalle credenziali aziendali Microsoft del tecnico. I tecnici vengono emessi smart card diverse per diverse piattaforme e piattaforme di gestione dei segreti garantiscono l'archiviazione sicura delle credenziali. I gruppi di servizi terminal utilizzano i criteri di gruppo di Active Directory per controllare chi può accedere ai server remoti, il numero di sessioni consentite e le impostazioni di timeout di inattività. Criteri aggiuntivi limitano l'accesso alle applicazioni consentite e limitano l'accesso a Internet.
 
-Oltre all'accesso remoto tramite TSG configurati appositamente, Exchange Online consente agli utenti con il ruolo Service Engineer Operations di accedere a determinate funzionalità amministrative nei server di produzione tramite Remote PowerShell. A tale scopo, l'utente deve essere autorizzato per l'accesso di sola lettura (debug) all'Microsoft 365 di produzione. L'escalation dei privilegi è abilitata nello stesso modo in cui viene abilitata per i TSG tramite il processo Lockbox.
+Oltre all'accesso remoto tramite TSG appositamente configurati, Exchange Online consente agli utenti con il ruolo Service Engineer Operations di accedere a determinate funzionalità amministrative nei server di produzione tramite Remote PowerShell. A tale scopo, l'utente deve essere autorizzato per l'accesso di sola lettura (debug) all'Microsoft 365 di produzione. L'escalation dei privilegi è abilitata nello stesso modo in cui viene abilitata per i TSG tramite il processo Lockbox.
 
 Per l'accesso remoto, ogni datacenter dispone di un IP virtuale con bilanciamento del carico che funge da singolo punto di accesso. I cmdlet di Remote PowerShell disponibili si basano sul livello di privilegio identificato nell'attestazione di accesso ottenuta durante l'autenticazione. Questi cmdlet forniscono l'unica funzionalità amministrativa accessibile dagli utenti che si connettono utilizzando questo metodo. Remote PowerShell limita l'ambito dei comandi disponibili per il tecnico e si basa sul livello di accesso concesso tramite il processo Lockbox. Ad esempio, in Exchange Online, Get-Mailbox potrebbe essere disponibile, ma Set-Mailbox potrebbe non.

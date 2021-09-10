@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: 0ec79c5be17018f8b01eb3d938b65392b021ce77
-ms.sourcegitcommit: 16cec8f7ca799a415bfbae937b177a628a0f2987
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/24/2021
-ms.locfileid: "58505949"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947950"
 ---
 # <a name="family-educational-rights-and-privacy-act-ferpa"></a>Family Educational Rights and Privacy Act (FERPA)
 
@@ -37,7 +37,7 @@ La sicurezza è fondamentale per la conformità con FERPA, che richiede la prote
 
 FERPA non richiede o riconosce controlli o altre certificazioni, pertanto qualsiasi istituto accademico soggetto a FERPA deve valutare se e in che modo l'uso di un servizio cloud influisce sulla capacità di soddisfare i requisiti FERPA. Nel DPA [(Online Services Terms Data Protection Addendum),](https://aka.ms/DPA) Microsoft accetta di essere designato come "funzionario scolastico" con "interessi didattici legittimi" nei dati dei clienti, come definito in FERPA. I dati dei clienti includono tutti i record degli studenti forniti tramite l'uso di Azure da parte di un istituto di istruzione. Durante la gestione dei record dell'istruzione degli studenti, Microsoft accetta di rispettare le limitazioni e i requisiti imposti da 34 CFR 99.33(a) come fanno i funzionari scolastici.  Microsoft ha pubblicato la documentazione sussidiare per aiutare i clienti di Azure a soddisfare i requisiti di conformità FERPA.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servizi e piattaforme cloud Microsoft inclusi nell'ambito
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme e servizi cloud Microsoft inclusi nell'ambito
 
 I servizi per i quali Microsoft accetta di essere designato come "funzionario scolastico" con "interessi educativi legittimi" nei dati dei clienti includono:
 
@@ -92,7 +92,7 @@ COPPA e CIPA sono leggi aggiuntive destinate a proteggere la privacy dei bambini
 ### <a name="resources"></a>Risorse
 
 - [Documentazione sulla conformità di Azure](/azure/compliance/)
-- [Azure consente un mondo di conformità](https://azure.microsoft.com/resources/azure-enables-a-world-of-compliance/)
+- [Azure offre un mondo di conformità](https://azure.microsoft.com/resources/azure-enables-a-world-of-compliance/)
 - [Family Educational Rights and Privacy Act](https://www.ed.gov/policy/gen/guid/fpco/ferpa/index.html)
 - [Codice elettronico delle normative federali: FERPA](https://aka.ms/FERPA-GPO)
 - Microsoft Online Services Condizioni [per la protezione dei dati Addendum](https://aka.ms/DPA)

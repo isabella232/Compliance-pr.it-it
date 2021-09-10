@@ -21,11 +21,11 @@ ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
 ms.openlocfilehash: 633873434620266d0fc9f24bbe7a3470554c35f3
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481828"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947122"
 ---
 # <a name="microsoft-pre-employment-screening"></a>Screening precedente all'impiego presso Microsoft
 
@@ -56,7 +56,7 @@ Nella misura consentita dalla legge locale, i controlli includono quanto segue:
 - La cronologia penale controlla fino a sette anni per reati di reati e reati a livello di stato, di provincia e locale e, se appropriato, a livello federale negli Stati Uniti. Un controllo della cronologia penale internazionale (a seconda del diritto locale) è applicabile per le aree al di fuori degli Stati Uniti.
 - conferma del livello più alto di istruzione conseguito;
 - Cronologia dell'impiego di cinque anni
-- Sanzioni globali e controlli di applicazione, tra cui Office dell'elenco OFAC (Foreign Assets Control), l'elenco BIS (Bureau of Industry and Security) e i controlli degli elenchi Office of Defense Trade Controls Debarred Persons (DDTC).
+- Sanzioni globali e controllo dell'applicazione, tra cui Office dell'elenco OFAC (Foreign Assets Control), l'elenco BIS (Bureau of Industry and Security) e i controlli degli elenchi Office of Defense Trade Controls Debarred Persons (DDTC).
 
 ## <a name="supplier-screening"></a>Screening dei fornitori
 

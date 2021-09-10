@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: 313905ec68c7d730cd2372ebd4679943ff124993
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482731"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947883"
 ---
 # <a name="criminal-justice-information-services-cjis-security-policy"></a>Criteri di sicurezza CJIS (Criminal Justice Information Services)
 
@@ -43,7 +43,7 @@ Microsoft ha valutato i criteri operativi e le procedure di Microsoft Azure Gove
 
 Informazioni sui vantaggi dei criteri di sicurezza CJIS in Microsoft Cloud: leggi come Genetec ha autorizzato [le indagini penali](https://customers.microsoft.com/story/genetec)
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servizi e piattaforme cloud Microsoft inclusi nell'ambito
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme e servizi cloud Microsoft inclusi nell'ambito
 
 - Azure Per enti pubblici
 - Dynamics 365 U.S. Government

@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: 6785c459f8350714b8e4636a0f1a5dc9f4ff667d
-ms.sourcegitcommit: 9bb0e86b2fd4121a3a79a23dde95aa2584ce3167
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/30/2021
-ms.locfileid: "58744262"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948050"
 ---
 # <a name="new-zealand-government-information-security-and-privacy-considerations-ispc"></a>Considerazioni sulla privacy e sulla sicurezza delle informazioni del governo neozelandese (ISPC)
 
@@ -35,7 +35,7 @@ Per assistere le agenzie governative NZ nell'esecuzione di due diligence coerent
 
 ## <a name="microsoft-and-new-zealand-government-cloud-computing-security-and-privacy-considerations"></a>Considerazioni sulla sicurezza e sulla privacy di Microsoft e New Zealand Government Cloud Computing
 
-Per aiutare le agenzie a eseguire l'analisi e la valutazione dei servizi cloud aziendali Microsoft, Microsoft New Zealand ha prodotto documenti che mostrano come i servizi cloud aziendali affrontano le domande poste nel "Cloud Computing ISPC" collegandoli agli standard in base ai quali i servizi cloud Microsoft sono certificati. Queste certificazioni sono centrali per il modo in cui Microsoft garantisce ai clienti del settore pubblico e privato che i servizi cloud sono progettati, creati e gestiti per ridurre in modo efficace i rischi per la privacy e la sicurezza e risolvere i problemi di sovranità dei dati. La [risposta di Azure all'ISPC cloud computing](https://azure.microsoft.com/resources/microsoft-azure-response-to-nz-gcio-cloud-computing-information-security-privacy-considerations/) è disponibile per il download per i clienti.
+Per aiutare le agenzie a intraprendere l'analisi e la valutazione dei servizi cloud aziendali Microsoft, Microsoft New Zealand ha prodotto documenti che mostrano come i servizi cloud aziendali affrontano le domande poste nel "Cloud Computing ISPC" collegandoli agli standard in base ai quali i servizi cloud Microsoft sono certificati. Queste certificazioni sono centrali per il modo in cui Microsoft garantisce ai clienti del settore pubblico e privato che i servizi cloud sono progettati, creati e gestiti per ridurre in modo efficace i rischi per la privacy e la sicurezza e risolvere i problemi di sovranità dei dati. La [risposta di Azure all'ISPC cloud computing](https://azure.microsoft.com/resources/microsoft-azure-response-to-nz-gcio-cloud-computing-information-security-privacy-considerations/) è disponibile per il download per i clienti.
 
 ## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme e servizi cloud Microsoft inclusi nell'ambito
 
@@ -60,7 +60,7 @@ Usare la tabella seguente per determinare l'applicabilità per i servizi e l'abb
 | **Commerciale** | Exchange Online, SharePoint Online, Skype for Business |
 
 >[!Note]
->Microsoft NZ ha collaborato con il team GCIO per sviluppare un'architettura di riferimento per l'integrazione di Exchange Online e SEEMail descritta in Office 365: SEEMail Integration and Reference Architecture.
+>Microsoft NZ ha collaborato con il team GCIO per sviluppare un'architettura di riferimento per l'integrazione di Exchange Online e SEEMail descritti in Office 365: SEEMail Integration and Reference Architecture.
 
 ## <a name="frequently-asked-questions"></a>Domande frequenti
 
@@ -70,7 +70,7 @@ Le organizzazioni che rientrano nel mandato GCIO, i servizi pubblici e non pubbl
 
 **La mia agenzia può usare le risposte di Microsoft a questo framework nel processo di certificazione dei nostri sistemi ICT?**
 
-Se l'agenzia è necessaria per eseguire la certificazione e l'accreditamento del suo sistema ICT nell'ambito del Manuale per la sicurezza delle informazioni in [Nuova](https://go.microsoft.com/fwlink/p/?linkid=2099496)Zelanda, è possibile utilizzare queste risposte come parte dell'analisi.
+Se l'agenzia è necessaria per eseguire la certificazione e l'accreditamento del proprio sistema ICT nell'ambito del Manuale per la sicurezza delle informazioni in [Nuova](https://go.microsoft.com/fwlink/p/?linkid=2099496)Zelanda, è possibile utilizzare queste risposte come parte dell'analisi.
 
 ## <a name="resources"></a>Risorse
 

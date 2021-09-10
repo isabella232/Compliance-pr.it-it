@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: c0c987dc5fbe2bee60508f0fab7dbdb8dce97857
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482841"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947894"
 ---
 # <a name="department-of-defense-dod-impact-level-5-il5"></a>Department of Defense (DoD) Impact Level 5 (IL5)
 
@@ -51,7 +51,7 @@ Inoltre, secondo la sezione [SRG 5.2.2.3](https://dl.dod.cyber.mil/wp-content/up
 - È necessaria la separazione fisica da tenant non governativi o non federali (ovvero tenant pubblici, locali/statali).
 - Il CSP limita il potenziale accesso alle informazioni di DoD e della community ai dipendenti CSP che sono cittadini statunitensi.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servizi e piattaforme cloud Microsoft inclusi nell'ambito
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme e servizi cloud Microsoft inclusi nell'ambito
 
 - Azure
 - Servizio clienti Dynamics 365
@@ -82,7 +82,7 @@ Usare la tabella seguente per determinare l'applicabilità per i servizi e l'abb
 
 ### <a name="attestation-documents"></a>Documenti di attestazione
 
-I clienti del governo statunitense possono richiedere Office 365 fedRAMP per la difesa del governo degli Stati Uniti direttamente dal [Marketplace FedRAMP](https://marketplace.fedramp.gov/#!/products?sort=productName&productNameSearch=azure) inviando un modulo di richiesta di accesso al pacchetto. Devi avere un indirizzo di posta elettronica .gov o .mil per accedere a un pacchetto di sicurezza FedRAMP direttamente da FedRAMP.
+I clienti del governo statunitense Office 365 la documentazione FedRAMP per la difesa del governo degli Stati Uniti direttamente dal [Marketplace FedRAMP](https://marketplace.fedramp.gov/#!/products?sort=productName&productNameSearch=azure) inviando un modulo di richiesta di accesso al pacchetto. Devi avere un indirizzo di posta elettronica .gov o .mil per accedere a un pacchetto di sicurezza FedRAMP direttamente da FedRAMP.
 
 Selezionare la documentazione FedRAMP e DoD, tra cui System Security Plan (SSP), report di monitoraggio continuo, Plan of Action and Milestones (POA M) e così via, è disponibile per i clienti in NDA e l'autorizzazione di accesso in sospeso dalla sezione Report di controllo del Portale dei servizi attendibili \& [- Report FedRAMP.](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3) Per assistenza, contattare il rappresentante dell'account Microsoft.
 

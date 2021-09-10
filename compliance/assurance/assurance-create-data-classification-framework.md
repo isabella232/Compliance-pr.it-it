@@ -21,11 +21,11 @@ ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
 ms.openlocfilehash: 17aa73258f1ecc4db9cc13a5df08b1aa76a583a7
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482159"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947026"
 ---
 # <a name="create-a-well-designed-data-classification-framework"></a>Creare un framework di classificazione dei dati ben progettato
 
@@ -110,7 +110,7 @@ Per organizzazioni di piccole dimensioni o organizzazioni con un framework di cl
 >[!TIP]
 >Durante un progetto pilota per la protezione delle informazioni interne di Microsoft, si sono verificate difficoltà con la comprensione e l'uso dell'etichetta "Personale". Gli utenti erano confusi sul fatto che si trattasse di informazioni personali o semplicemente correlate a una questione personale. L'etichetta è stata modificata in "non aziendale" per essere più chiara. Questo esempio mostra che la tassonomia non deve essere perfetta fin dall'inizio. Iniziare con ciò che ritieni giusto, pilotarlo e regolare l'etichetta in base al feedback, se necessario
 
-Per organizzazioni di grandi dimensioni con una portata globale o esigenze di sicurezza delle informazioni più complesse, questa relazione uno-a-uno tra il numero di livelli di classificazione nel criterio e il numero di etichette di riservatezza nell'ambiente Microsoft 365 può essere una sfida. Questa sfida è particolarmente valida nelle organizzazioni globali in cui un determinato livello di classificazione dei dati, ad esempio "Con restrizioni", può avere una definizione diversa o un set di controlli diverso a seconda dell'area geografica.
+Per organizzazioni di grandi dimensioni con una portata globale o esigenze di sicurezza delle informazioni più complesse, questa relazione uno-a-uno tra il numero di livelli di classificazione nei criteri e il numero di etichette di riservatezza nell'ambiente Microsoft 365 può essere una sfida. Questa sfida è particolarmente valida nelle organizzazioni globali in cui un determinato livello di classificazione dei dati, ad esempio "Con restrizioni", può avere una definizione diversa o un set di controlli diverso a seconda dell'area geografica.
 
 Per ulteriori informazioni sull'implementazione, vedere [Informazioni sulla classificazione dei dati](/microsoft-365/compliance/data-classification-overview) e Informazioni sulle etichette di [riservatezza.](/microsoft-365/compliance/sensitivity-labels)
 

@@ -21,11 +21,11 @@ search.appverid:
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
 ms.openlocfilehash: 29d0c6633c67d65c6bef27a9768fa213a9e50ac4
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481818"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947398"
 ---
 # <a name="privacy-overview"></a>Panoramica sulla privacy
 
@@ -51,7 +51,7 @@ Per condivisione con terzi si intende la condivisione o la successiva divulgazio
 
 Microsoft Data Handling Standard specifica per quanto tempo i dati dei clienti vengono conservati dopo l'eliminazione. Quando un cliente termina la sottoscrizione, Microsoft conserva i dati dei clienti in un account di funzione limitato per 90 giorni per consentire al cliente di estrarre i dati. Al termine del periodo di conservazione di 90 giorni, Microsoft eliminerà i dati dei clienti, a meno che non siano autorizzati a conservarli o non siano tenuti a conservarli per legge. Non più di 180 giorni dopo la scadenza o la chiusura di una sottoscrizione ai servizi online Microsoft, Microsoft disabilita l'account ed elimina tutti i dati dei clienti dall'account. Una volta trascorso il periodo di conservazione massimo per tutti i dati, il rendering dei dati viene reso commercialmente irreversibile.
 
-Microsoft elimina anche tutti i dati di diagnostica e generati dal servizio nell'ambito del ciclo di vita standard dei dati Microsoft, a meno che non siano necessari per mantenere la sicurezza e la stabilità del servizio. Per qualsiasi abbonamento, un sottoscrittore può contattare il Supporto tecnico Microsoft e richiedere il deprovisioning rapido della sottoscrizione. Quando un cliente usa questo processo, tutti i dati utente vengono eliminati tre giorni dopo che l'amministratore ha immesso il codice di blocco fornito da Microsoft. Questa eliminazione include i dati in SharePoint Online e Exchange Online in attesa o archiviati in cassette postali inattive.
+Microsoft elimina anche tutti i dati di diagnostica e generati dal servizio nell'ambito del ciclo di vita standard dei dati Microsoft, a meno che non siano necessari per mantenere la sicurezza e la stabilità del servizio. Per qualsiasi abbonamento, un sottoscrittore può contattare il Supporto tecnico Microsoft e richiedere il deprovisioning rapido della sottoscrizione. Quando un cliente usa questo processo, tutti i dati utente vengono eliminati tre giorni dopo che l'amministratore ha immesso il codice di blocco fornito da Microsoft. Questa eliminazione include i dati in SharePoint Online e Exchange Online in attesa o archiviati nelle cassette postali inattive.
 
 ## <a name="related-external-regulations--certifications"></a>Normative esterne correlate & certificazioni
 

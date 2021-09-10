@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: e8e6ca43cbce4755ab29f3ef7cadc06a5dda7e32
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482289"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947823"
 ---
 # <a name="australian-prudential-regulation-authority-apra"></a>Australian Prudential Regulation Authority (APRA)
 
@@ -37,7 +37,7 @@ Per gli istituti finanziari in Australia che valutano i provider cloud e i relat
 - [Servizi cloud Microsoft: elenco di controllo di conformità per gli istituti finanziari in Australia](https://www.microsoft.com/cms/api/am/binary/RE3ez0C)
 - [Servizi cloud Microsoft: conformità con APRA Prudential Standard CPS 234](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2OsZg)
 
-Insieme dimostrano come le società finanziarie possono spostare i dati e i carichi di lavoro in Microsoft Azure con la sicurezza di essere conformi alle normative e alle linee guida dell'Australian Prudential Regulation Authority (APRA).
+Insieme dimostrano come le società finanziarie possono spostare i dati e i carichi di lavoro Microsoft Azure con la sicurezza di essere conformi alle normative e alle linee guida dell'Australian Prudential Regulation Authority (APRA).
 
 Per informazioni sui vantaggi dei servizi finanziari conformi a APRA in Azure, leggere l'articolo [Regtech meets Fintech: Perpetual and Microsoft transform the finance sector.](https://news.microsoft.com/en-au/features/regtech-meets-fintech-perpetual-microsoft-transform-finance-sector/)
 
@@ -72,7 +72,7 @@ Basandoci sul nostro approccio completo alla garanzia dei rischi nel cloud, siam
 
 Ottenere supporto pratico per lo spostamento di dati e carichi di lavoro in Azure in conformità alle normative APRA: Scaricare i servizi cloud Microsoft: un elenco di controllo di conformità per gli istituti finanziari [in Australia.](https://www.microsoft.com/cms/api/am/binary/RE3ez0C)
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servizi e piattaforme cloud Microsoft inclusi nell'ambito
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme e servizi cloud Microsoft inclusi nell'ambito
 
 - Azure
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
@@ -121,4 +121,4 @@ Sì. La normativa generale sulla privacy (che si applica a tutti i settori, non 
 - [Programma di conformità dei servizi finanziari Microsoft](https://www.microsoft.com/download/details.aspx?id=55332)
 - [Conformità dei servizi finanziari in Azure](https://azure.microsoft.com/resources/videos/azurecon-2015-financial-services-compliance-in-azure/)
 - [Servizi finanziari e servizi cloud aziendali di Microsoft](https://www.microsoft.com/trustcenter/cloudservices/financialservices)
-- [Conformità nel Centro protezione Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Conformità in Microsoft Trust Center](https://www.microsoft.com/trust-center/compliance/compliance-overview)

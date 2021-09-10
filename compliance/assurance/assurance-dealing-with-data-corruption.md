@@ -21,11 +21,11 @@ ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
 ms.openlocfilehash: 860a150760e080df4a577d73478a75ac94b8700b
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482079"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947061"
 ---
 # <a name="dealing-with-data-corruption-in-microsoft-365"></a>Gestione del danneggiamento dei dati in Microsoft 365
 
@@ -37,7 +37,7 @@ Uno degli aspetti più impegnativi dell'esecuzione di un servizio cloud su larga
 - Hacker malintenzionati e dipendenti scontenti
 - Eventi imprevisti in servizi esterni che comportano la perdita di dati
 
-Poiché una maggiore resilienza nell'integrità dei dati significa un numero minore di incidenti di danneggiamento dei dati, Microsoft ha integrato meccanismi di protezione di Microsoft 365 per evitare che si verifichino danneggiamenti, nonché sistemi e processi che consentono di ripristinare i dati in caso contrario. I controlli e i processi sono presenti nelle varie fasi del processo di rilascio della progettazione per aumentare la resilienza contro il danneggiamento dei dati, tra cui:
+Poiché una maggiore resilienza nell'integrità dei dati significa un minor numero di incidenti di danneggiamento dei dati, Microsoft ha integrato meccanismi di protezione di Microsoft 365 per impedire il danneggiamento, nonché sistemi e processi che ci consentono di recuperare i dati in caso contrario. I controlli e i processi sono presenti nelle varie fasi del processo di rilascio della progettazione per aumentare la resilienza contro il danneggiamento dei dati, tra cui:
 
 - Progettazione del sistema
 - Organizzazione e struttura del codice

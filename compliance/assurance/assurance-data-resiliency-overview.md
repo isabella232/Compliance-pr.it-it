@@ -1,6 +1,6 @@
 ---
 title: Resilienza dei dati in Microsoft 365
-description: In questo articolo, informazioni sulla progettazione e sui principi di resilienza e ripristino dei dati in Microsoft 365.
+description: In questo articolo vengono trattate le informazioni sulla progettazione e sui principi di resilienza e ripristino dei dati in Microsoft 365.
 ms.author: robmazz
 author: robmazz
 manager: laurawi
@@ -21,11 +21,11 @@ ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
 ms.openlocfilehash: 48fe50347e7e81c7e5f8552299c04a268b8b449c
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482109"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947067"
 ---
 # <a name="data-resiliency-in-microsoft-365"></a>Resilienza dei dati in Microsoft 365
 
@@ -44,7 +44,7 @@ Oggi, i clienti si aspettano un'innovazione continua da Microsoft senza comprome
 
 ## <a name="microsoft-365-data-resiliency-principles"></a>Microsoft 365 di resilienza dei dati
 
-La resilienza si riferisce alla capacità di un servizio basato su cloud di sopportare determinati tipi di errori e di rimanere completamente funzionante dal punto di vista dei clienti. La resilienza dei dati significa che, indipendentemente da quali errori si verificano all'interno Microsoft 365, i dati critici dei clienti rimangono intatti e inalterati. A tale scopo, i Microsoft 365 sono stati progettati in base a cinque principi di resilienza specifici:
+La resilienza si riferisce alla capacità di un servizio basato su cloud di sopportare determinati tipi di errori e di rimanere completamente funzionante dal punto di vista dei clienti. La resilienza dei dati significa che, indipendentemente da quali errori si verificano Microsoft 365, i dati critici dei clienti rimangono intatti e inalterati. A tale scopo, i Microsoft 365 sono stati progettati in base a cinque principi di resilienza specifici:
 
 - Sono presenti dati critici e non critici. I dati non critici (ad esempio, se un messaggio è stato letto) possono essere eliminati in rari scenari di errore. I dati critici (ad esempio, i dati dei clienti come i messaggi di posta elettronica) devono essere protetti a costi estremi. Come obiettivo di progettazione, i messaggi di posta elettronica recapitati sono sempre critici e aspetti come la lettura di un messaggio non sono critici.
 - Le copie dei dati dei clienti devono essere separate in diverse aree di errore o nel maggior numero possibile di domini di errore (ad esempio datacenter, accessibili con credenziali singole (processo, server o operatore)) per garantire l'isolamento degli errori. 

@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: c57183a53c563fffa2bb3eb1cedb2fca23db26f4
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482449"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947891"
 ---
 # <a name="department-of-defense-dod-impact-level-2-il2"></a>Department of Defense (DoD) Impact Level 2 (IL2)
 
@@ -35,7 +35,7 @@ La nota del CIO DoD del 15 dicembre [2014](https://www.esi.mil/contentview.aspx?
 
 La sezione [SRG 5.1.1](https://dl.dod.cyber.mil/wp-content/uploads/cloud/SRG/index.html#5SECURITYREQUIREMENTS) DoD use *of FedRAMP Security Controls* afferma che le informazioni IL2 possono essere ospitate in un CSP che contiene al minimo una PA moderata FedRAMP e una PA doD di livello 2, soggette alla conformità ai requisiti di sicurezza del personale descritti nella sezione 5.6.2. Tuttavia, questo approccio non consente al CSP di soddisfare altri requisiti di sicurezza e integrazione come richiesto dal proprietario della missione. Secondo la sezione [SRG 5.2.2.1](https://dl.dod.cyber.mil/wp-content/uploads/cloud/SRG/index.html#5.2LegalConsiderations) *Il2 Requisiti* di posizione e separazione, DoD IL2 PA è adeguatamente coperto da una PA moderata FedRAMP in modo che i requisiti non siano valutati in modo aggiuntivo per una PA IL2.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servizi e piattaforme cloud Microsoft inclusi nell'ambito
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme e servizi cloud Microsoft inclusi nell'ambito
 
 - Azure
 - Dynamics 365

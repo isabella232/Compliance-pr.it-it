@@ -1,6 +1,6 @@
 ---
 title: Resilienza dei dati di SharePoint e OneDrive in Microsoft 365
-description: In questo articolo viene fornita una panoramica della resilienza SharePoint e OneDrive dei dati in Microsoft 365.
+description: In questo articolo viene fornita una panoramica della resilienza dei SharePoint e OneDrive dei dati in Microsoft 365.
 ms.author: robmazz
 author: robmazz
 manager: laurawi
@@ -20,20 +20,20 @@ ms.collection:
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
 ms.openlocfilehash: 02df77f949cf1633017dd25f4cff17175c536d53
-ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/27/2021
-ms.locfileid: "58676815"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947417"
 ---
 # <a name="sharepoint-and-onedrive-data-resiliency-in-microsoft-365"></a>Resilienza dei dati di SharePoint e OneDrive in Microsoft 365
 
-In Microsoft 365, OneDrive è basato sulla piattaforma SharePoint file. In questo articolo verrà SharePoint solo per fare riferimento a entrambi i prodotti. Il contenuto di questo articolo è pertinente Microsoft 365 e non si applica ai servizi per gli utenti.
+All'Microsoft 365, OneDrive è basato sulla piattaforma SharePoint file. In questo articolo, solo SharePoint verrà usato per fare riferimento a entrambi i prodotti. Il contenuto di questo articolo è pertinente Microsoft 365 e non si applica ai servizi per gli utenti.
 
 Esistono due asset principali che costituiscono l'archiviazione del contenuto di base di SharePoint:
 
-- **Metadati:** i metadati relativi a ogni file vengono archiviati in database SQL di Azure. Azure SQL offre una storia completa di continuità aziendale che SharePoint e i dettagli sono trattati più avanti in questo articolo.
-- **Archiviazione BLOB:** il contenuto dell'utente caricato in SharePoint viene archiviato in Archiviazione di Azure. SharePoint ha creato un piano di resilienza personalizzato in Archiviazione di Azure per garantire la duplicazione quasi in tempo reale del contenuto degli utenti e un sistema realmente attivo/attivo.
+- **Metadati**: i metadati relativi a ogni file vengono archiviati in database SQL di Azure. Azure SQL offre una storia completa di continuità aziendale che SharePoint e i dettagli sono trattati più avanti in questo articolo.
+- **Archiviazione BLOB:** il contenuto utente caricato in SharePoint viene archiviato in Archiviazione di Azure. SharePoint ha creato un piano di resilienza personalizzato in Archiviazione di Azure per garantire la duplicazione quasi in tempo reale del contenuto degli utenti e un sistema realmente attivo/attivo.
 
 L'insieme completo di controlli per garantire la resilienza dei dati è illustrato nelle sezioni successive.
 
@@ -45,17 +45,17 @@ SharePoint utilizza Append-Only archiviazione. Questo processo garantisce che i 
 
 ![Resilienza dell'archiviazione BLOB.](../media/assurance-blob-storage-resiliency-diagram.png)
 
-SharePoint in entrambi i data center possono accedere ai contenitori di archiviazione in entrambe le aree di Azure. Per motivi di prestazioni, il contenitore di archiviazione nello stesso datacenter locale è sempre preferibile, tuttavia, le richieste di lettura che non visualizzano risultati entro una soglia desiderata avranno lo stesso contenuto richiesto dal datacenter remoto per garantire che i dati siano sempre disponibili.
+SharePoint in entrambi i datacenter possono accedere ai contenitori di archiviazione in entrambe le aree di Azure. Per motivi di prestazioni, il contenitore di archiviazione nello stesso datacenter locale è sempre preferibile, tuttavia, le richieste di lettura che non visualizzano risultati entro una soglia desiderata avranno lo stesso contenuto richiesto dal datacenter remoto per garantire che i dati siano sempre disponibili.
 
 ## <a name="metadata-resilience"></a>Resilienza dei metadati
 
-SharePoint metadati è fondamentale anche per accedere al contenuto dell'utente in quanto archivia la posizione e i tasti di scelta per il contenuto archiviato in Archiviazione di Azure. Questi database sono archiviati in Azure SQL, che dispone di un piano di [continuità aziendale esteso.](/azure/sql-database/sql-database-business-continuity)
+SharePoint metadati è fondamentale anche per accedere al contenuto dell'utente in quanto archivia la posizione e i tasti di scelta per il contenuto archiviato in Archiviazione di Azure. Questi database sono archiviati in Azure SQL, che ha un piano di [continuità aziendale esteso.](/azure/sql-database/sql-database-business-continuity)
 
 SharePoint utilizza il modello di replica fornito da Azure SQL e ha creato una tecnologia di automazione proprietaria per determinare se è necessario un failover e avviare l'operazione, se necessario. Di conseguenza, rientra nella categoria "Failover manuale del database" da una prospettiva SQL Azure. Le metriche più recenti per la recuperabilità SQL database di Azure sono [disponibili qui.](/azure/azure-sql/database/business-continuity-high-availability-disaster-recover-hadr-overview#recover-a-database-to-the-existing-server)
 
 ![Resilienza dei metadati.](../media/assurance-metadata-resiliency-diagram.png)
 
-SharePoint il sistema di backup SQL azure per abilitare i ripristini temporici (PITR) per un massimo di 14 giorni. PITR è più trattato in una [sezione successiva.](#deletion-backup-and-point-in-time-restore)
+SharePoint usa il sistema di backup di Azure SQL per abilitare i ripristini temporici (PITR) per un massimo di 14 giorni. PITR è più trattato in una [sezione successiva.](#deletion-backup-and-point-in-time-restore)
 
 ## <a name="automated-failover"></a>Failover automatico
 
@@ -65,11 +65,11 @@ SharePoint usa il servizio Azure Front Door per fornire il routing interno alla 
 
 ## <a name="versioning-and-files-restore"></a>Controllo delle versioni e ripristino dei file
 
-Per le raccolte documenti appena create, SharePoint per impostazione predefinita su 500 versioni in ogni file e può essere configurato per conservare altre versioni, se lo si desidera. L'interfaccia utente non consente l'impostazione di un valore inferiore a 100 versioni, ma è possibile impostare il sistema in modo da archiviare un numero inferiore di versioni usando le API pubbliche. Per l'affidabilità, qualsiasi valore inferiore a 100 non è consigliato e può causare una perdita accidentale di dati da parte dell'utente.
+Per le raccolte documenti appena create, SharePoint per impostazione predefinita su 500 versioni per ogni file e può essere configurato per conservare altre versioni, se lo si desidera. L'interfaccia utente non consente l'impostazione di un valore inferiore a 100 versioni, ma è possibile impostare il sistema per archiviare un numero inferiore di versioni usando le API pubbliche. Per l'affidabilità, qualsiasi valore inferiore a 100 non è consigliato e può causare una perdita accidentale di dati da parte dell'utente.
 
 Per ulteriori informazioni sul controllo delle versioni, vedere [Versioning in SharePoint](/microsoft-365/community/versioning-basics-best-practices).
 
-Il ripristino dei file consente di passare "indietro nel tempo" in qualsiasi raccolta documenti SharePoint a un secondo di tempo negli ultimi 30 giorni. Questo processo può essere utilizzato per il ripristino da ransomware, eliminazioni di massa, danneggiamenti o qualsiasi altro evento. Questa funzionalità utilizza le versioni dei file in modo che la riduzione delle versioni predefinite possa ridurre l'efficacia di questo ripristino.
+Il ripristino dei file consente di tornare indietro nel tempo in qualsiasi raccolta documenti SharePoint a un secondo di tempo negli ultimi 30 giorni. Questo processo può essere utilizzato per il ripristino da ransomware, eliminazioni di massa, danneggiamenti o qualsiasi altro evento. Questa funzionalità utilizza le versioni dei file in modo che la riduzione delle versioni predefinite possa ridurre l'efficacia di questo ripristino.
 
 La funzionalità Ripristino file è documentata sia per [OneDrive](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a15) che [per SharePoint](https://support.office.com/article/Restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a).
 
@@ -84,9 +84,9 @@ Gli elementi eliminati vengono conservati nei Cestini per un determinato periodo
 
 Questo processo è il flusso di eliminazione predefinito e non prende in considerazione i criteri o le etichette di conservazione. Per ulteriori informazioni, vedere [Informazioni sulla conservazione per SharePoint e OneDrive](/microsoft-365/compliance/retention-policies-sharepoint).
 
-Al termine della pipeline di riciclo di 93 giorni, l'eliminazione avviene in modo indipendente per i metadati e per i Archiviazione. I metadati verranno rimossi immediatamente dal database, il che rende il contenuto illeggibile a meno che i metadati non vengano ripristinati dal backup. SharePoint mantiene backup di metadati per 14 giorni. Questi backup vengono evasi localmente quasi in tempo reale e quindi [](/azure/sql-database/sql-database-automated-backups) inseriti nell'archiviazione in contenitori di Archiviazione di Azure ridondanti in base alla documentazione al momento della pubblicazione, una pianificazione di 5-10 minuti.
+Al termine della pipeline di riciclo di 93 giorni, l'eliminazione avviene in modo indipendente per i metadati e per i Archiviazione. I metadati verranno rimossi immediatamente dal database, il che rende il contenuto illeggibile a meno che i metadati non vengano ripristinati dal backup. SharePoint mantiene backup di metadati per 14 giorni. Questi backup vengono evasi localmente in tempo quasi reale e quindi inseriti nell'archiviazione in contenitori Archiviazione di Azure ridondanti in [base](/azure/sql-database/sql-database-automated-backups) alla documentazione al momento della pubblicazione, una pianificazione di 5-10 minuti.
 
-Quando si elimina il contenuto Archiviazione BLOB, SharePoint la funzionalità di eliminazione rescissiva per i blob di Azure Archiviazione per la protezione da eliminazioni accidentali o dannose. Usando questa funzionalità, abbiamo un totale di 14 giorni in cui ripristinare il contenuto prima che venga eliminato definitivamente.
+Quando si elimina il contenuto Archiviazione BLOB, SharePoint la funzionalità di eliminazione recidiva per i blob di Azure Archiviazione per la protezione da eliminazioni accidentali o dannose. Usando questa funzionalità, abbiamo un totale di 14 giorni in cui ripristinare il contenuto prima che venga eliminato definitivamente.
 
 >[!Note]
 >Mentre le applicazioni Microsoft invieranno contenuto al Cestino per il processo standard, SharePoint fornisce API che consentono di ignorare il Cestino e forzare un'eliminazione immediata. Esaminare le applicazioni per assicurarsi che questa operazione sia eseguita solo quando necessario per motivi di conformità.

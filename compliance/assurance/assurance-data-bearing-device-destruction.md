@@ -1,5 +1,5 @@
 ---
-title: Distruzione dei dispositivi di rilevamento dei dati
+title: Distruzione di dispositivi contenenti dati
 description: In questo articolo viene fornita una panoramica del processo di distruzione dei dispositivi per i data center Microsoft.
 ms.author: robmazz
 author: robmazz
@@ -21,17 +21,17 @@ ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
 ms.openlocfilehash: 6a26334b805be069298302d3ad1e8e5b9e728150
-ms.sourcegitcommit: 1fd50ef5f165228109a3f2f0aef4b0c2aa59b2ff
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/02/2021
-ms.locfileid: "58862400"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947025"
 ---
-# <a name="data-bearing-device-destruction"></a>Distruzione dei dispositivi di rilevamento dei dati
+# <a name="data-bearing-device-destruction"></a>Distruzione di dispositivi contenenti dati
 
 ## <a name="data-destruction-overview"></a>Panoramica della distruzione dei dati
 
-Microsoft dispone di linee guida, criteri, requisiti di sicurezza e procedure per la gestione e la gestione dei DBD all'interno dei datacenter Microsoft.
+Microsoft dispone di linee guida, criteri, requisiti di sicurezza e procedure per la gestione e la gestione dei dbD all'interno dei datacenter Microsoft.
 
 Un DBD è qualsiasi dispositivo di archiviazione in grado di archiviare i dati microsoft proprietari o dei clienti:
 
@@ -48,7 +48,7 @@ I DBD non riusciti utilizzati nei datacenter Microsoft vengono controllati ed di
 
 Microsoft usa tre categorie di sanitizzazione dei dati per DBD e asset contenenti dati:
 
-- **Clear**: si riferisce alle tecniche logiche che consentono di disinfettare i dati in tutte le posizioni di archiviazione indirizzabili dall'utente per la protezione da semplici tecniche di recupero dati non invasive. Si tratta di tecniche in genere applicate tramite i comandi standard di lettura e scrittura al dispositivo di archiviazione, ad esempio riscrittura con un nuovo valore o l'uso di un'opzione di menu per ripristinare lo stato di fabbrica del dispositivo (in cui la riscrittura non è supportata).
+- **Clear**: si riferisce alle tecniche logiche che consentono di disinfettare i dati in tutte le posizioni di archiviazione indirizzabili dall'utente per la protezione da semplici tecniche di recupero dati non invasive. Si tratta di tecniche in genere applicate tramite i comandi standard di lettura e scrittura al dispositivo di archiviazione, ad esempio riscrittura con un nuovo valore o l'utilizzo di un'opzione di menu per ripristinare lo stato di fabbrica del dispositivo (in cui la riscrittura non è supportata).
 - **Purge**: si riferisce a tecniche fisiche o logiche che rendono impossibile il ripristino dei dati di destinazione utilizzando tecniche di laboratorio all'avanguardia.
 - **Destroy**: rende il ripristino dei dati di destinazione infeasible utilizzando tecniche di laboratorio all'avanguardia e comporta l'impossibilità successiva di utilizzare i supporti per l'archiviazione dei dati.
 

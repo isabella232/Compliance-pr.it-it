@@ -21,11 +21,11 @@ search.appverid:
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
 ms.openlocfilehash: 86885737bb3e6acd0a9503c240b09cb3349da7a8
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481978"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947109"
 ---
 # <a name="governance-overview"></a>Panoramica sulla governance
 
@@ -39,17 +39,17 @@ Il programma di governance della sicurezza di Microsoft è informato e si alline
 
 ## <a name="how-do-microsoft-online-services-implement-the-microsoft-security-policy-msp"></a>In che modo i servizi online Microsoft implementano i criteri di sicurezza Microsoft (MSP)?
 
-Microsoft 365 documenta le implementazioni di sicurezza nel Microsoft 365 di sicurezza delle informazioni. Questi criteri sono in linea con i Criteri di sicurezza di Microsoft e regolano il sistema informativo di Microsoft 365, compresi tutti gli ambienti Microsoft 365 e tutte le risorse coinvolte nelle operazioni di raccolta, elaborazione, manutenzione, uso, condivisione, diffusione ed eliminazione dei dati. Analogamente, Azure e Dynamics 365 usano i criteri di sicurezza Microsoft per governare il sistema di informazioni.
+Microsoft 365 documenta le implementazioni di sicurezza nel criterio Microsoft 365 sicurezza delle informazioni. Questi criteri sono in linea con i Criteri di sicurezza di Microsoft e regolano il sistema informativo di Microsoft 365, compresi tutti gli ambienti Microsoft 365 e tutte le risorse coinvolte nelle operazioni di raccolta, elaborazione, manutenzione, uso, condivisione, diffusione ed eliminazione dei dati. Analogamente, Azure e Dynamics 365 usano i criteri di sicurezza Microsoft per governare il sistema di informazioni.
 
 I sistemi in informazioni includono i seguenti componenti disciplinati dai criteri di sicurezza delle informazioni di Microsoft 365 (per Microsoft 365) e dai criteri di sicurezza Microsoft (per Azure e Dynamics 365):
 
-- Infrastruttura: componenti fisici e hardware di Azure, Dynamics 365 e Microsoft 365 (strutture, attrezzature e reti)
-- Software: programmi e software operativo di Azure, Dynamics 365 e sistemi Microsoft 365 (sistemi, applicazioni e utilità)
-- Persone: il personale coinvolto nel funzionamento e nell'uso dei sistemi Azure, Dynamics 365 e Microsoft 365 (sviluppatori, operatori, utenti e manager)
-- Procedure: le procedure programmate e manuali coinvolte nel funzionamento dei sistemi Azure, Dynamics 365 e Microsoft 365
+- Infrastruttura: componenti fisici e hardware di Azure, Dynamics 365 e sistemi Microsoft 365 (strutture, attrezzature e reti)
+- Software: i programmi e il software operativo di Azure, Dynamics 365 e Microsoft 365 (sistemi, applicazioni e utilità)
+- Persone: il personale coinvolto nel funzionamento e nell'uso di Azure, Dynamics 365 e sistemi Microsoft 365 (sviluppatori, operatori, utenti e manager)
+- Procedure: le procedure programmate e manuali coinvolte nel funzionamento di Azure, Dynamics 365 e Microsoft 365 sistema
 - Dati: informazioni generate, raccolte ed elaborate dai sistemi Azure, Dynamics 365 e Microsoft 365 (flussi di transazioni, file, database e tabelle)
 
-I Criteri di sicurezza delle informazioni Microsoft 365 sono integrati dal Framework di controllo Microsoft 365. In Microsoft 365 Framework di controllo vengono dettagliati i requisiti minimi di sicurezza per tutti i Microsoft 365 e i componenti del sistema di informazioni. Fa inoltre riferimento ai requisiti legali e aziendali dietro ogni controllo. Il framework include nomi e descrizioni delle attività di controllo e indicazioni per assicurare implementazioni efficaci dei controlli da parte dei team di servizio. Microsoft 365 usa il framework di controllo per tenere traccia delle implementazioni dei controlli per la creazione di report interni ed esterni. Analogamente, le implementazioni del controllo record di Azure e Dynamics 365 in Azure Control Framework.
+I Criteri di sicurezza delle informazioni Microsoft 365 sono integrati dal Framework di controllo Microsoft 365. In Microsoft 365 Framework di controllo vengono dettagliati i requisiti minimi di sicurezza per tutti i Microsoft 365 e i componenti del sistema informazioni. Fa inoltre riferimento ai requisiti legali e aziendali dietro ogni controllo. Il framework include nomi e descrizioni delle attività di controllo e indicazioni per assicurare implementazioni efficaci dei controlli da parte dei team di servizio. Microsoft 365 usa il framework di controllo per tenere traccia delle implementazioni dei controlli per la creazione di report interni ed esterni. Analogamente, le implementazioni del controllo record di Azure e Dynamics 365 in Azure Control Framework.
 
 ## <a name="how-do-online-services-limit-and-track-exceptions-to-established-policies-and-procedures"></a>In che modo i servizi online limitano e monitorano le eccezioni a criteri e procedure stabiliti?
 

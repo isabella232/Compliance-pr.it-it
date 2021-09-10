@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: 7f597f5267482868c472ed04fada2a2f73490ab7
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482951"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948020"
 ---
 # <a name="ministry-of-electronics-and-information-technology-meity"></a>Ministero dell'elettronica e delle tecnologie dell'informazione (MeitY)
 
@@ -64,4 +64,4 @@ Rendere i servizi pubblici disponibili per i cittadini online è una parte fonda
 - [Ministero dell'elettronica e delle tecnologie dell'informazione](https://meity.gov.in/)
 - [Iniziativa cloud MeghRaj](https://meity.gov.in/content/gi-cloud-meghraj)
 - [Provider di servizi cloud accreditati](https://meity.gov.in/content/gi-cloud-meghraj)
-- [Conformità nel Centro protezione Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Conformità in Microsoft Trust Center](https://www.microsoft.com/trust-center/compliance/compliance-overview)

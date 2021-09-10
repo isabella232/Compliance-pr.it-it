@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: 5f3a17ca4f06f61b62bcc13e44b74ad4d436a6da
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482921"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947910"
 ---
 # <a name="international-traffic-in-arms-regulations-itar"></a>Norme internazionali sul traffico di armi (ITAR)
 
@@ -41,7 +41,7 @@ L'ITAR ha obblighi specifici di segnalare violazioni, che possono fornire alcuni
   
 I clienti che desiderano ospitare dati regolamentati da ITAR devono collaborare con il proprio account Microsoft e i team di gestione delle licenze per saperne di più, ottenere contratti adeguati e accedere alle informazioni rilevanti sull'architettura del sistema.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servizi e piattaforme cloud Microsoft inclusi nell'ambito
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme e servizi cloud Microsoft inclusi nell'ambito
 
 - Azure Per enti pubblici
 - Office 365 U.S. Government - High, Office 365 Defense
@@ -76,4 +76,4 @@ Contattare il proprio Microsoft Office 365 account.
 - [DDTC ITAR](https://www.pmddtc.state.gov/?id=ddtc_kb_article_page&sys_id=24d528fddbfc930044f9ff621f961987)
 - [ITAR Title 22 CFR 120-130](https://aka.ms/itar)
 - [Office 365 Governo degli Stati Uniti](https://products.office.com/government/office-365-web-services-for-government)
-- [Conformità nel Centro protezione Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Conformità in Microsoft Trust Center](https://www.microsoft.com/trust-center/compliance/compliance-overview)

@@ -20,11 +20,11 @@ ms.collection:
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
 ms.openlocfilehash: ca194511e000a7d98ddd89ae9ef85a1ee1ee01bd
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481668"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947145"
 ---
 # <a name="microsoft-security-incident-management-preparation"></a>Gestione degli incidenti di sicurezza Microsoft: preparazione
 
@@ -62,7 +62,7 @@ I test eseguiti per la protezione avanzata dei servizi all'interno dei servizi o
 3. **Test continuo delle vulnerabilità del sistema:** Microsoft esegue test regolari in cui i team tentano di violare il sistema utilizzando minacce emergenti, minacce miste e/o minacce persistenti avanzate, mentre altri team tentano di bloccare tali tentativi di violazione.
 4. **Microsoft Online Services Bug Bounty Program**: Questo programma gestisce un criterio per consentire valutazioni di vulnerabilità limitate, originate dal cliente nei servizi online Microsoft. Per ulteriori informazioni, vedere [Microsoft Online Services Bug Bounty Terms](https://www.microsoft.com/msrc/bounty-terms).
 
-I team di progettazione dei servizi online Microsoft pubblicano periodicamente diversi documenti di conformità. Molti di questi documenti sono disponibili in base a un contratto di non divulgazione da [Microsoft Cloud Service Trust Portal](https://aka.ms/STP) o dall'area Service Assurance del [Centro conformità Microsoft 365](https://compliance.office.com)
+I team di progettazione dei servizi online Microsoft pubblicano periodicamente diversi documenti di conformità. Molti di questi documenti sono disponibili nell'ambito di un contratto di non divulgazione da [Microsoft Cloud Service Trust Portal](https://aka.ms/STP) o dall'area Service Assurance del [Centro conformità Microsoft 365](https://compliance.office.com)
 
 >[!NOTE]
 >Per informazioni dettagliate su come accedere al Service Trust Portal, vedere Get started with the Service Trust Portal for Office 365 for business, Azure, and Dynamics CRM Online subscriptions. Per accedere Microsoft 365 è necessaria una sottoscrizione Centro conformità Microsoft 365.
@@ -81,10 +81,10 @@ I team di Microsoft Red sono gruppi di personale a tempo pieno all'interno di Mi
 
 I team Microsoft Blue sono composti da set dedicati di risponditori di sicurezza e membri di tutti i team di risposta agli incidenti di sicurezza, progettazione e operazioni. Sono indipendenti e operano separatamente dai team red. I team blu seguono i processi di sicurezza stabiliti e utilizzano gli strumenti e le tecnologie più recenti per rilevare e rispondere ad attacchi e tentativi di penetrazione. Proprio come gli attacchi reali, i team blu non sanno quando o come si verificheranno gli attacchi del team rosso o quali metodi possono essere utilizzati. Il loro compito, che si tratta di un attacco del team rosso o di un attacco vero e proprio, è quello di rilevare e rispondere a tutti gli incidenti di sicurezza. Per questo motivo, i team blu sono costantemente a chiamata e devono reagire alle violazioni del team rosso come farebbe per qualsiasi altro avversario.
 
-Il personale Microsoft separa i team rossi a tempo pieno e i team blu di Microsoft in varie divisioni che eservitino le operazioni sia tra i servizi che all'interno di essi. Noto come *Red Teaming,* l'approccio consiste nel testare i sistemi e le operazioni di servizi Microsoft usando le stesse tattiche, tecniche e procedure degli avversari reali, rispetto all'infrastruttura di produzione in tempo reale, senza l'avanza dell'infrastruttura e della piattaforma o i team operativi. Questo test consente di testare le funzionalità di rilevamento e risposta della sicurezza e consente di identificare le vulnerabilità di produzione, gli errori di configurazione, i presupposti non validi o altri problemi di sicurezza in modo controllato. Ogni violazione del team rosso è seguita dalla divulgazione completa tra il team rosso e il team blu, inclusi i team di servizio, per identificare le lacune, risolvere i risultati e migliorare in modo significativo la risposta alle violazioni.
+Il personale Microsoft separa i team rossi a tempo pieno e i team blu di Microsoft in varie divisioni che eservitino le operazioni sia tra i servizi che all'interno di essi. Noto come *Red Teaming,* l'approccio consiste nel testare i sistemi e le operazioni di servizi Microsoft usando le stesse tattiche, tecniche e procedure degli avversari reali, rispetto all'infrastruttura di produzione in tempo reale, senza il foreknowledge dell'infrastruttura e dei team di progettazione della piattaforma o operativi. Questo test consente di testare le funzionalità di rilevamento e risposta della sicurezza e consente di identificare le vulnerabilità di produzione, gli errori di configurazione, i presupposti non validi o altri problemi di sicurezza in modo controllato. Ogni violazione del team rosso è seguita dalla divulgazione completa tra il team rosso e il team blu, inclusi i team di servizio, per identificare le lacune, risolvere i risultati e migliorare in modo significativo la risposta alle violazioni.
 
 >[!NOTE]
->Durante gli esercizi di red teaming o di penetrazione del sito in tempo reale non viene preso di mira alcun dato del cliente. I test sono in Microsoft 365 infrastruttura e piattaforme di Azure, oltre ai tenant, alle applicazioni e ai dati di Microsoft. I tenant dei clienti, le applicazioni e i dati ospitati in Azure, Dynamics 365 o Microsoft 365 non sono mai mirati in base alle regole di coinvolgimento concordate.
+>Durante gli esercizi di red teaming o di penetrazione del sito in tempo reale non viene preso di mira alcun dato del cliente. I test sono a Microsoft 365 e alle piattaforme di Azure, nonché ai tenant, alle applicazioni e ai dati di Microsoft. I tenant dei clienti, le applicazioni e i dati ospitati in Azure, Dynamics 365 o Microsoft 365 non sono mai mirati in base alle regole di coinvolgimento concordate.
 
 ### <a name="joint-exercises"></a>Esercitazioni congiunte
 

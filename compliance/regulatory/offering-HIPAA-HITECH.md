@@ -1,6 +1,6 @@
 ---
 title: Health Insurance Portability and Accountability Act (HIPAA) & Health Information Technology for Economic and Clinical Health (HITECH) Act
-description: Microsoft offre contratti di associazione aziendale & Health Insurance & Accountability Act Business Associate Agreement (BAA).
+description: Microsoft offre contratti di associazione aziendale & health insurance & Accountability Act Business Associate Agreement (BAA).
 keywords: Microsoft 365, conformità, offerte
 ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: 31fcc11280e8026bc962136c271713cd5e26078b
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482469"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948009"
 ---
 # <a name="health-insurance-portability-and-accountability-act-hipaa--health-information-technology-for-economic-and-clinical-health-hitech-act"></a>Health Insurance Portability and Accountability Act (HIPAA) & Health Information Technology for Economic and Clinical Health (HITECH) Act
 
@@ -41,9 +41,9 @@ Attualmente non esiste uno standard di certificazione approvato dal Department o
 
 ## <a name="third-party-certifications"></a>Certificazioni di terze parti
 
-servizi Microsoft nell'ambito del BAA sono state sottoposte a controlli condotti da revisori indipendenti accreditati per la certificazione Microsoft ISO/IEC 27001 e la certificazione CSF HITRUST.
+servizi Microsoft coperti dal BAA sono stati sottoposti a controlli condotti da revisori indipendenti accreditati per la certificazione Microsoft ISO/IEC 27001 e la certificazione HITRUST CSF.
 
-I servizi cloud aziendali Microsoft sono inoltre coperti dalle valutazioni FedRAMP. Microsoft Azure e Microsoft Azure hanno ricevuto un'autorità provvisoria per operare dal Comitato di autorizzazione congiunto FedRAMP; Il governo statunitense di Microsoft Dynamics 365 ha ricevuto un'autorità dell'agenzia per operare dal Dipartimento degli alloggi e dello sviluppo urbano degli Stati Uniti, come Microsoft Office 365 U.S. Government dal Dipartimento della salute e dei servizi umani degli Stati Uniti.
+I servizi cloud aziendali Microsoft sono inoltre coperti dalle valutazioni FedRAMP. Microsoft Azure e Microsoft Azure hanno ricevuto un'autorità provvisoria per operare dal Comitato di autorizzazione congiunto FedRAMP; Il governo statunitense di Microsoft Dynamics 365 ha ricevuto un'autorità dell'agenzia per operare dal Dipartimento degli alloggi e dello sviluppo urbano degli Stati Uniti, così come Microsoft Office 365 U.S. Government dal Dipartimento della salute e dei servizi umani degli Stati Uniti.
 
 Per informazioni su come Microsoft Cloud aiuta i clienti a supportare HIPAA e i requisiti HITECH, visitare [Microsoft Customer Stories.](https://customers.microsoft.com/)
 
@@ -61,7 +61,7 @@ Per informazioni su come Microsoft Cloud aiuta i clienti a supportare HIPAA e i 
 - Office 365, Office 365 U.S. Government
 - Servizio cloud Power Automate (in precedenza Microsoft Flow), autonomo o incluso in un piano o in una famiglia di prodotti Office 365 o Dynamics 365
 - Servizio cloud PowerApps, autonomo o incluso in un piano o in una famiglia di prodotti con marchio Office 365 o Dynamics 365
-- Power BI servizio cloud come servizio autonomo o come incluso in un piano o in una famiglia di prodotti Office 365 o Dynamics 365
+- Power BI servizio cloud come servizio autonomo o incluso in un piano o in una famiglia di prodotti Office 365 o Dynamics 365
 
 ## <a name="azure-dynamics-365-and-hipaa"></a>Azure, Dynamics 365 e HIPAA
 
@@ -109,7 +109,7 @@ Il [Service Trust Portal](https://www.microsoft.com/trustcenter/STP/default.aspx
 Per assistere i clienti in questa attività, Microsoft ha pubblicato queste guide:
 
 - La guida all'implementazione di HIPAA/HITECH Act per [Azure](/azure/governance/blueprints/samples/hipaa-hitrust-9-2/) per i responsabili della privacy, della sicurezza e della conformità e altri responsabili dell'implementazione hipaaa e HITECH Act, descrive i passi concreti che l'organizzazione può intraprendere per mantenere la conformità.
-- [Guida pratica alla progettazione di soluzioni](https://aka.ms/azureindustrysecurity) sanitarie sicure Microsoft Azure consente di comprendere meglio cosa serve per adottare correttamente un servizio cloud in modo sicuro.
+- [Guida pratica alla progettazione di soluzioni](https://aka.ms/azureindustrysecurity) sanitarie sicure Microsoft Azure aiuta a comprendere meglio cosa serve per adottare correttamente un servizio cloud in modo sicuro.
 
 ### <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usare Microsoft Compliance Manager per valutare i rischi
 
