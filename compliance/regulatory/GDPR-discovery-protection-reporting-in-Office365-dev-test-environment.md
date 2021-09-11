@@ -22,11 +22,11 @@ titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
 hideEdit: true
 ms.openlocfilehash: 3b03feab5e1a73d7e8409e5dcfda78051b5a4a00
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481608"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948105"
 ---
 # <a name="gdpr-discovery-protection-and-reporting-in-the-devtest-environment"></a>Individuazione, protezione e creazione di report secondo il GDPR nell'ambiente di sviluppo/test
 
@@ -185,7 +185,7 @@ Contoso fa sempre riferimento ai clienti utilizzando un CCN nella corrispondenza
 
 ## <a name="phase-5-demonstrate-data-protection"></a>Fase 5: dimostrare la protezione dei dati
 
-La protezione delle informazioni personali di Microsoft 365 include l'uso delle funzionalità di prevenzione della perdita dei dati (DPL).  Con i criteri DPL, è possibile proteggere automaticamente le informazioni riservate in Microsoft 365.
+La protezione delle informazioni personali in Microsoft 365 include l'utilizzo delle funzionalità di prevenzione della perdita dei dati (DLP). Con i criteri DLP è possibile proteggere automaticamente le informazioni sensibili presenti in Microsoft 365.
 
 Esistono molti modi per applicare la protezione. Investire nella formazione e nella sensibilizzazione in merito alla posizione in cui i dati degli utenti che risiedono nell'UE vengono memorizzati nell'ambiente e a come i dipendenti sono autorizzati a gestirli, rappresenta un livello di protezione delle informazioni tramite i criteri di prevenzione della perdita dei dati di Office 365.
 
