@@ -20,8 +20,8 @@ ms.openlocfilehash: 6785c459f8350714b8e4636a0f1a5dc9f4ff667d
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948050"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59159409"
 ---
 # <a name="new-zealand-government-information-security-and-privacy-considerations-ispc"></a>Considerazioni sulla privacy e sulla sicurezza delle informazioni del governo neozelandese (ISPC)
 
@@ -60,7 +60,7 @@ Usare la tabella seguente per determinare l'applicabilità per i servizi e l'abb
 | **Commerciale** | Exchange Online, SharePoint Online, Skype for Business |
 
 >[!Note]
->Microsoft NZ ha collaborato con il team GCIO per sviluppare un'architettura di riferimento per l'integrazione di Exchange Online e SEEMail descritti in Office 365: SEEMail Integration and Reference Architecture.
+>Microsoft NZ ha collaborato con il team GCIO per sviluppare un'architettura di riferimento per l'integrazione di Exchange Online e SEEMail descritta in Office 365: SEEMail Integration and Reference Architecture.
 
 ## <a name="frequently-asked-questions"></a>Domande frequenti
 

@@ -23,8 +23,8 @@ ms.openlocfilehash: 7b6919cbdf2ece468eeec8931b652972a74b07dc
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947841"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59159835"
 ---
 # <a name="dynamics-365-data-subject-requests-for-the-gdpr-and-ccpa"></a>Richieste degli interessati per Dynamics 365 nell'ambito del GDPR e del CCPA
 

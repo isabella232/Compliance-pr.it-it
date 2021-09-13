@@ -20,8 +20,8 @@ ms.openlocfilehash: 50c44b6801e15af02bf4bfa4f4d46758b7a6c7a8
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948075"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59159889"
 ---
 # <a name="securities-and-exchange-commission-sec-rule-17a-4f-united-states"></a>Securities and Exchange Commission (SEC) Rule 17a-4(f) United States
 
@@ -56,7 +56,7 @@ Microsoft ha conservato una società indipendente di valutazione di terze parti 
 
 È opinione del valutatore che Archiviazione di Azure con la funzionalità di archiviazione non  modificabile per i BLOB di *Azure* e l'opzione dei criteri basati sul tempo bloccata mantiene i BLOB basati sul tempo (record) in un formato non cancellabile e non risibile e soddisfa i requisiti di archiviazione pertinenti della regola SEC 17a-4(f), della regola [FINRA 4511(c)](offering-FINRA-4511.md)e dei requisiti basati sui principi della regola [CFTC 1.31(c)-(d)](offering-cftc-1-31-us.md).
 
-Su richiesta, Microsoft fornirà anche una lettera di *90* giorni necessaria per soddisfare i requisiti sec 17a-4(f)(2) per consentire ai clienti di comunicare all'autorità di controllo designata almeno 90 giorni prima di utilizzare supporti di archiviazione elettronici. Come indicato nelle normative, "il membro, il broker o il rivenditore deve fornire la propria rappresentazione o una dal fornitore del supporto di archiviazione o da altre terze parti con competenze appropriate che il supporto di archiviazione selezionato soddisfi le condizioni specificate in questo paragrafo (f)(2)." Per ottenere l'attestazione Microsoft del *Archiviazione Servizi multimediali* elettronico per la regola SEC 17a-4, i clienti con un piano di supporto di [Azure](https://azure.microsoft.com/support/plans/) possono creare un [ticket](https://azure.microsoft.com/support/create-ticket/) di supporto nel portale di Azure e richiedere la lettera di attestazione per la regola SEC 17a-4. In questo documento, Microsoft fornisce garanzie rilevanti per i requisiti SEC 17a-4(f)(2).
+Su richiesta, Microsoft fornirà anche una lettera di *90* giorni necessaria per soddisfare i requisiti sec 17a-4(f)(2) per consentire ai clienti di comunicare all'autorità di controllo designata almeno 90 giorni prima di utilizzare supporti di archiviazione elettronici. Come indicato nelle normative, "il membro, il broker o il rivenditore deve fornire la propria rappresentazione o una dal fornitore del supporto di archiviazione o da altre terze parti con competenze appropriate che il supporto di archiviazione selezionato soddisfi le condizioni specificate in questo paragrafo (f)(2)." Per ottenere l'attestazione *Microsoft* del Archiviazione Servizi multimediali elettronico per la regola SEC 17a-4, i clienti con un piano di supporto di [Azure](https://azure.microsoft.com/support/plans/) possono creare un [ticket](https://azure.microsoft.com/support/create-ticket/) di supporto nel portale di Azure e richiedere la lettera di attestazione per la regola SEC 17a-4. In questo documento, Microsoft fornisce garanzie rilevanti per i requisiti SEC 17a-4(f)(2).
 
 ### <a name="office-365"></a>Office 365
 
@@ -68,11 +68,11 @@ Per i requisiti [sec 17a-4(f),](/microsoft-365/compliance/retention-regulatory-r
 
 - [Sec 17a-4(f) & CFTC 1.31 (c-d) Compliance Assessment of Archiviazione di Azure](https://azure.microsoft.com/resources/azure-immutable-storage-assessment-for-sec-17a-4f-by-cohasset/)
 
-L'attestazione Microsoft *dell'Archiviazione Servizi multimediali* elettronica per la regola SEC 17a-4 può essere richiesta creando un ticket di [supporto](https://azure.microsoft.com/support/create-ticket/) con il supporto [di Azure.](https://azure.microsoft.com/support/plans/) In questa lettera di attestazione, Microsoft fornisce garanzie per aiutare i clienti a rispettare i requisiti SEC 17a-4(f)(2).
+Microsoft *Attestation of Electronic Archiviazione Servizi multimediali* for SEC Rule 17a-4 può essere richiesto creando un ticket di [supporto](https://azure.microsoft.com/support/create-ticket/) con il supporto [di Azure](https://azure.microsoft.com/support/plans/). In questa lettera di attestazione, Microsoft fornisce garanzie per aiutare i clienti a rispettare i requisiti SEC 17a-4(f)(2).
 
 ### <a name="office-365--sec-rule-17"></a>Office 365 & SEC 17
 
-- [Valutazione della conformità SEC 17a-4(f): Centro sicurezza Microsoft & conformità con SharePoint, OneDrive, Teams, Exchange e Skype for Business](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=2dc92867-5f83-49d8-ad04-9e7295c9e40e&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913_FAQ_and_White_Papers)
+- [Valutazione della conformità SEC 17a-4(f): Centro sicurezza & e conformità Microsoft con SharePoint, OneDrive, Teams, Exchange e Skype for Business](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=2dc92867-5f83-49d8-ad04-9e7295c9e40e&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913_FAQ_and_White_Papers)
 
 ## <a name="how-to-implement"></a>Come eseguire l'implementazione
 
@@ -96,7 +96,7 @@ Usare panoramiche dei casi, esercitazioni e altre risorse per creare soluzioni d
 
 - [Documentazione sulla conformità di Azure](/azure/compliance/)
 - [Azure offre un mondo di conformità](https://azure.microsoft.com/resources/azure-enables-a-world-of-compliance/)
-- [Securities and Exchange Commission](https://www.sec.gov/) (SEC) [Rule 17a-4](https://www.sec.gov/rules/final/34-38245.txt)
+- Regola [17a-4](https://www.sec.gov/rules/final/34-38245.txt) della [Securities and Exchange Commission](https://www.sec.gov/) (SEC)
 - [Risorse per i servizi finanziari Microsoft Cloud](https://servicetrust.microsoft.com/viewpage/financialservicesoverview)
 - [Programma di conformità dei servizi finanziari Microsoft Cloud](https://aka.ms/FSCP-Print)
 - [Mappa di conformità dei principi normativi del cloud computing e dei servizi online Microsoft](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=5b483567-00b0-4d86-96ae-ee887dadb61c&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)

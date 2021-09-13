@@ -21,8 +21,8 @@ ms.openlocfilehash: f3a17e17f604904635c92e1c08f04e66fb25b850
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947146"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59159175"
 ---
 # <a name="service-incident-mitigation-strategies"></a>Strategie di mitigazione degli eventi imprevisti relativi ai servizi
 

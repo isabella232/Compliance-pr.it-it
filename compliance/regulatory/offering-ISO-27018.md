@@ -20,8 +20,8 @@ ms.openlocfilehash: 4398f120af9f051c0255b63e25c7534f15b03c0f
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947996"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59159469"
 ---
 # <a name="isoiec-27018-code-of-practice-for-protecting-personal-data-in-the-cloud"></a>Code of Practice per la protezione dei dati personali nel cloud ISO/IEC 27018
 

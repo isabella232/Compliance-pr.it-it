@@ -1,6 +1,6 @@
 ---
 title: Panoramica sulla sicurezza del datacenter
-description: Informazioni sulla sicurezza del datacenter in Microsoft 365
+description: Informazioni sulla sicurezza dei datacenter in Microsoft 365
 ms.author: robmazz
 author: robmazz
 manager: laurawi
@@ -26,8 +26,8 @@ ms.openlocfilehash: b2f88172d2a8158a2232acd1c4312217d7c3fef4
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947056"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59159229"
 ---
 # <a name="datacenter-security-overview"></a>Panoramica sulla sicurezza del datacenter
 

@@ -24,8 +24,8 @@ ms.openlocfilehash: 8be83f6faa3d365e2cb91c996e2c87367797670f
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947407"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59159619"
 ---
 # <a name="risk-management-overview"></a>Panoramica sulla gestione dei rischi
 
@@ -33,7 +33,7 @@ ms.locfileid: "58947407"
 
 La gestione dei rischi è il processo di identificazione, valutazione e risposta a minacce o eventi che possono influire sugli obiettivi aziendali o dei clienti. La gestione dei rischi di Microsoft è progettata per prevedere nuove minacce e garantire la sicurezza continua per i sistemi cloud e i clienti che li usano.
 
-La gestione dei rischi di Microsoft si allinea al framework Enterprise Risk Management (ERM). L’ERM consente il processo complessivo di gestione dei rischi aziendali e interagisce con la gestione in tutta l'azienda per identificare e garantire la responsabilità per i rischi più significativi di Microsoft.
+La gestione dei rischi di Microsoft si allinea al framework ERM (Enterprise Risk Management). L’ERM consente il processo complessivo di gestione dei rischi aziendali e interagisce con la gestione in tutta l'azienda per identificare e garantire la responsabilità per i rischi più significativi di Microsoft.
 
 ![Struttura di gestione dei rischi.](../media/assurance-risk-management-structure.png)
 

@@ -24,8 +24,8 @@ ms.openlocfilehash: 203adce9b4c7167315abbbfbebce0efdd604fefe
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947127"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59159011"
 ---
 # <a name="incident-management-overview"></a>Panoramica sulla gestione degli incidenti
 
@@ -35,7 +35,7 @@ Microsoft definisce un incidente della sicurezza all'interno dei suoi servizi on
 
 ## <a name="how-does-microsoft-respond-to-security-incidents"></a>In che modo Microsoft risponde agli incidenti di sicurezza?
 
-Ogni volta che si verifica un incidente di sicurezza, Microsoft si impegna a rispondere in modo rapido ed efficace per proteggere servizi Microsoft e i dati dei clienti. Microsoft utilizza una strategia di risposta agli incidenti progettata per analizzare, contenere e rimuovere le minacce alla sicurezza in modo rapido ed efficiente.
+Ogni volta che si verifica un incidente di sicurezza, Microsoft si impegna a rispondere in modo rapido ed efficace per proteggere i servizi Microsoft e i dati dei clienti. Microsoft utilizza una strategia di risposta agli incidenti progettata per analizzare, contenere e rimuovere le minacce alla sicurezza in modo rapido ed efficiente.
 
 I servizi cloud Microsoft vengono costantemente monitorati per i segni di compromissione. Oltre al monitoraggio e all'avviso di sicurezza automatizzati, tutti i dipendenti ricevono una formazione annuale per riconoscere e segnalare i segni di potenziali incidenti di sicurezza. Tutte le attività sospette rilevate da dipendenti, clienti o strumenti di monitoraggio della sicurezza vengono inoltrate ai team di Security Response specifici del servizio per l'indagine. Tutti i team delle operazioni di servizio, inclusi i team di Security Response specifici del servizio, mantengono una rotazione approfondita delle chiamate per garantire la disponibilità di risorse per la risposta agli incidenti 24x7x365. Le rotazioni di chiamata consentono a Microsoft di montare una risposta efficace agli incidenti in qualsiasi momento o scala, inclusi eventi diffusi o simultanei.
 

@@ -24,8 +24,8 @@ ms.openlocfilehash: 6c20c62feb1ff3ab23eeb97d5ad11abb5ad85a07
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947158"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59159607"
 ---
 # <a name="securing-the-microsoft-365-infrastructure"></a>Protezione dell'infrastruttura di Microsoft 365
 
@@ -49,7 +49,7 @@ Sette principi di sicurezza sono alla  base del nostro framework di protezione d
 
 ### <a name="access-control"></a>Controllo di accesso
 
-Per impostazione predefinita, il personale responsabile dello sviluppo e della gestione dei Microsoft 365 dispone di zero accesso permanente (ZSA) all'infrastruttura di servizio. Mentre Microsoft cerca di assumere solo i migliori tecnici e sono necessari rigorosi controlli in background, Microsoft non presuppone che siano considerati attendibili per impostazione predefinita nei servizi operativi. Inoltre, quando i tecnici vengono approvati per l'accesso con privilegi, gli viene concesso l'accesso solo per una durata limitata per eseguire solo le azioni necessarie per uno specifico ambito dell'infrastruttura di servizio. Microsoft fa riferimento a questi criteri come Just-in-Time (JIT) e Just-Enough-Access (JEA) implementati tramite un sistema denominato Lockbox.
+Per impostazione predefinita, il personale responsabile dello sviluppo e della manutenzione dei Microsoft 365 dispone di zero accesso permanente (ZSA) all'infrastruttura di servizio. Mentre Microsoft cerca di assumere solo i migliori tecnici e sono necessari rigorosi controlli in background, Microsoft non presuppone che siano considerati attendibili per impostazione predefinita nei servizi operativi. Inoltre, quando i tecnici vengono approvati per l'accesso con privilegi, gli viene concesso l'accesso solo per una durata limitata per eseguire solo le azioni necessarie per uno specifico ambito dell'infrastruttura di servizio. Microsoft fa riferimento a questi criteri come Just-in-Time (JIT) e Just-Enough-Access (JEA) implementati tramite un sistema denominato Lockbox.
 
 Per acquisire privilegi elevati, i tecnici Microsoft inviano una richiesta per l'attività specifica e specificano l'intervallo di tempo per eseguirla. Dopo l'approvazione, Lockbox genera un account JIT specializzato con la possibilità di eseguire solo l'attività richiesta. Le azioni in genere hanno la forma di flussi di lavoro automatizzati che eseguono in modo sicuro qualsiasi risoluzione dei problemi o ripristino necessario. In rari casi in cui è necessario l'accesso diretto all'infrastruttura, sono necessarie workstation con accesso privilegiato (PAW) rigorosamente monitorate.
 
@@ -69,7 +69,7 @@ Per ulteriori informazioni sulla crittografia in Microsoft 365, vedere [Panorami
 
 ### <a name="network-isolation"></a>Isolamento della rete
 
-In linea con il principio dei privilegi minimi, Microsoft 365 la comunicazione tra le diverse parti dell'infrastruttura di servizio solo a ciò che è necessario per funzionare. Tutto il traffico di rete viene negato per impostazione predefinita, con la sola comunicazione esplicitamente definita consentita. Questa restrizione definisce i limiti di violazione in tutta l'infrastruttura. Teams che desidera aggiungere nuovi percorsi di rete per supportare una nuova funzionalità al servizio deve avere la richiesta valutata e approvata prima di poter essere aperta.
+In linea con il principio dei privilegi minimi, Microsoft 365 la comunicazione tra diverse parti dell'infrastruttura di servizio solo a ciò che è necessario per operare. Tutto il traffico di rete viene negato per impostazione predefinita, con la sola comunicazione esplicitamente definita consentita. Questa restrizione definisce i limiti di violazione in tutta l'infrastruttura. Teams che desidera aggiungere nuovi percorsi di rete per supportare una nuova funzionalità al servizio deve avere la richiesta valutata e approvata prima di poter essere aperta.
 
 Per ulteriori informazioni sull'isolamento della rete in Microsoft 365, vedere Microsoft 365 [di isolamento.](/microsoft-365/enterprise/microsoft-365-isolation-controls)
 
@@ -95,7 +95,7 @@ Per ulteriori informazioni sul monitoraggio della sicurezza in Microsoft 365, ve
 
 ### <a name="attack-simulation-and-penetration-testing"></a>Simulazione degli attacchi e test di penetrazione
 
-Microsoft 365 priorità principale è impedire agli attacchi di infiltrarsi nelle difese. Microsoft 365 ha un team dedicato di esperti di sicurezza che stanno costantemente conducendo attacchi simulati per identificare vulnerabilità sconosciute in precedenza e per fornire un flusso costante di dati dettagliati per migliorare le funzionalità di monitoraggio della sicurezza. Questi attacchi simulati hanno la forma di frequenti attacchi automatici su piccola scala e immersioni approfondite guidate da esperti. Da queste attività, Microsoft valuta la capacità di rilevare, rispondere ed eviti gli utenti malintenzionati.
+Microsoft 365 priorità principale è evitare che gli attacchi si infiltrino nelle difese. Microsoft 365 ha un team dedicato di esperti di sicurezza che stanno costantemente conducendo attacchi simulati per identificare vulnerabilità sconosciute in precedenza e per fornire un flusso costante di dati dettagliati per migliorare le funzionalità di monitoraggio della sicurezza. Questi attacchi simulati hanno la forma di frequenti attacchi automatici su piccola scala e immersioni approfondite guidate da esperti. Da queste attività, Microsoft valuta la capacità di rilevare, rispondere ed eviti gli utenti malintenzionati.
 
 Per ulteriori informazioni sul monitoraggio della sicurezza in Microsoft 365, vedere [Simulazione di attacco in Microsoft 365](assurance-monitoring-and-testing.md).
 

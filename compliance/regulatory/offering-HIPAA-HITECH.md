@@ -20,8 +20,8 @@ ms.openlocfilehash: 31fcc11280e8026bc962136c271713cd5e26078b
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948009"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59159637"
 ---
 # <a name="health-insurance-portability-and-accountability-act-hipaa--health-information-technology-for-economic-and-clinical-health-hitech-act"></a>Health Insurance Portability and Accountability Act (HIPAA) & Health Information Technology for Economic and Clinical Health (HITECH) Act
 
@@ -79,7 +79,7 @@ Usare la tabella seguente per determinare l'applicabilità per i servizi e l'abb
 
 | **Applicabilità** | **Servizi inclusi nell'ambito** |
 |:------------------|:----------------------|
-| **Commerciale** | Access Online, Azure Active Directory, Azure Communications Service, Compliance Manager, Customer Lockbox, Delve, Exchange Online, Forms, Griffin, Identity Manager, Lockbox (Torus), Microsoft Defender for Office 365, Microsoft Teams, MyAnalytics, Office 365 Advanced Compliance add-on, Office 365 Customer Portal, Office 365 Microservices (inclusi, ma non solo, Kaizala, ObjectStore, Sway, Power Automate, PowerPoint Online Document Service, Query Annotation Service, Query Annotation Service, School Data Sync, Siphon, Speech, StaffHub, eXtensible Application Program), Office 365 Security & Compliance Center, Office Online, Office Pro Plus, Office Services Infrastructure, OneDrive for Business, Planner, PowerApps, Power BI, Project Online, Service Encryption with Customer Key, SharePoint Online, Skype for Business, Stream |
+| **Commerciale** | Access Online, Azure Active Directory, Azure Communications Service, Compliance Manager, Customer Lockbox, Delve, Exchange Online, Forms, Griffin, Identity Manager, Lockbox (Torus), Microsoft Defender for Office 365, Microsoft Teams, MyAnalytics, Office 365 Advanced Compliance add-on, Office 365 Customer Portal, Office 365 Microservices (inclusi Kaizala, ObjectStore, Sway, Power Automate, PowerPoint Online Document Service, Query Annotation Service, Query Annotation Service, School Data Sync, Siphon, Speech, StaffHub, eXtensible Application Program), Office 365 Security & Compliance Center, Office Online, Office Pro Plus, Office Services Infrastructure, OneDrive for Business, Planner, PowerApps, Power BI, Project Online, Service Encryption with Customer Key, SharePoint Online, Skype for Business, Stream |
 | **GCC** | Azure Active Directory, Servizi di comunicazioni Azure, Compliance Manager, Delve, Exchange Online, Forms, Microsoft Defender per Office 365, Microsoft Teams, MyAnalytics, componente aggiuntivo Office 365 Advanced Compliance, Centro sicurezza e conformità di Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business, Stream |
 
 ### <a name="frequently-asked-questions"></a>Domande frequenti
@@ -109,7 +109,7 @@ Il [Service Trust Portal](https://www.microsoft.com/trustcenter/STP/default.aspx
 Per assistere i clienti in questa attività, Microsoft ha pubblicato queste guide:
 
 - La guida all'implementazione di HIPAA/HITECH Act per [Azure](/azure/governance/blueprints/samples/hipaa-hitrust-9-2/) per i responsabili della privacy, della sicurezza e della conformità e altri responsabili dell'implementazione hipaaa e HITECH Act, descrive i passi concreti che l'organizzazione può intraprendere per mantenere la conformità.
-- [Guida pratica alla progettazione di soluzioni](https://aka.ms/azureindustrysecurity) sanitarie sicure Microsoft Azure aiuta a comprendere meglio cosa serve per adottare correttamente un servizio cloud in modo sicuro.
+- [Una guida pratica alla progettazione di soluzioni](https://aka.ms/azureindustrysecurity) di integrità sicure Microsoft Azure consente di comprendere meglio cosa serve per adottare correttamente un servizio cloud in modo sicuro.
 
 ### <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usare Microsoft Compliance Manager per valutare i rischi
 

@@ -20,8 +20,8 @@ ms.openlocfilehash: 375f7a58db675f3f14bd98ff580919ef40f603f1
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948080"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59159858"
 ---
 # <a name="sarbanes-oxley-act-of-2002-sox"></a>Sarbanes-Oxley Act del 2002 (SOX)
 

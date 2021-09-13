@@ -22,8 +22,8 @@ ms.openlocfilehash: f5b0acae758e149f2bfde5683a0b9f2c45f0db29
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947886"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59159913"
 ---
 # <a name="office-365-data-subject-requests-for-the-gdpr-and-ccpa"></a>Richieste degli interessati per Office 365 nell'ambito del GDPR e del CCPA
 

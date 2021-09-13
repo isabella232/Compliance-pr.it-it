@@ -24,8 +24,8 @@ ms.openlocfilehash: 56888f704d3cc5da5e820e3cb80a3d10cbb1ef95
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947134"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59159169"
 ---
 # <a name="microsoft-365-denial-of-service-defense-strategy"></a>Strategia di Microsoft 365 per la protezione contro gli attacchi Denial of Service
 
@@ -44,7 +44,7 @@ Di conseguenza, esistono due strategie principali per la difesa dagli attacchi D
 - Aumentare la capacità per aumentare il limite massimo di capacità (che a sua volta fornisce più tempo per rilevare un attacco); o
 - Ridurre il tempo necessario per rilevare un attacco.
 
-Un vantaggio per la sicurezza dell'utilizzo dei servizi cloud Microsoft è il modo in cui i servizi cloud su servizi Microsoft offrono una protezione di rete solida ai clienti cloud in modo conveniente. Anche su larga scala, deve esserci un equilibrio tra l'assorbimento, il rilevamento e la mitigazione. Per trovare tale equilibrio, Microsoft valuta i tassi di crescita degli attacchi per stimare la servizi Microsoft necessario assorbire.
+Un vantaggio per la sicurezza dell'utilizzo dei servizi cloud Microsoft è il modo in cui i servizi cloud su servizi Microsoft offrono una protezione di rete solida ai clienti cloud in modo conveniente. Anche su larga scala, deve esserci un equilibrio tra l'assorbimento, il rilevamento e la mitigazione. Per trovare questo equilibrio, Microsoft valuta i tassi di crescita degli attacchi per stimare la servizi Microsoft necessario assorbire.
 
 ## <a name="denial-of-service-defense-strategy"></a>Strategia di difesa da attacchi Denial of Service
 

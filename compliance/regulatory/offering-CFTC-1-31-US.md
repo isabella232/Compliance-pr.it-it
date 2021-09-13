@@ -20,8 +20,8 @@ ms.openlocfilehash: 8bb9f380d57e932576c969f10512f508de7c6ada
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947870"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59159666"
 ---
 # <a name="commodity-futures-trading-commission-cftc-rule-131c-d-united-states"></a>Commodity Futures Trading Commission (CFTC) Rule 1.31(c-d) Stati Uniti
 

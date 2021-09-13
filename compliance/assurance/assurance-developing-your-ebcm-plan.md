@@ -21,12 +21,12 @@ ms.openlocfilehash: 6a44866d5c82ffa93e6c3c0d9c0ece3946651bd2
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947091"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59159223"
 ---
 # <a name="developing-your-business-continuity-plan"></a>Sviluppo del piano di continuità aziendale
 
-In questo argomento vengono fornite indicazioni sullo sviluppo di un piano di continuità aziendale che tiene conto Microsoft 365 delle dipendenze. Vengono consigliati metodi per analizzare le funzioni aziendali e identificare quelle che dipendono dai servizi Microsoft 365. Si eseguirà questa analisi con la consapevolezza che si verificheranno errori dei servizi e che è necessario prepararsi per questa eventualità.
+In questo argomento vengono fornite indicazioni sullo sviluppo di un piano di continuità aziendale che tiene conto Microsoft 365 dipendenze aziendali. Vengono consigliati metodi per analizzare le funzioni aziendali e identificare quelle che dipendono dai servizi Microsoft 365. Si eseguirà questa analisi con la consapevolezza che si verificheranno errori dei servizi e che è necessario prepararsi per questa eventualità.
 
 In generale, la pianificazione della continuità aziendale implica quattro aspetti, ovvero la valutazione, la pianificazione, la convalida delle funzionalità, nonché le comunicazioni e il coordinamento.
 
@@ -93,7 +93,7 @@ In Microsoft, ogni team del servizio ha stabilito canali di comunicazione altern
 
 Durante l'analisi dell'impatto aziendale e l'analisi delle dipendenze, si assoceranno i processi critici alle tecnologie o ai servizi a cui dipendono. Prestare particolare attenzione alle comunicazioni in questa fase della pianificazione e pensare a soluzioni alternative. Ecco alcuni esempi.
 
-- Se il metodo principale usato per informare gli utenti e gli stakeholder è l'e-mail e il servizio di posta elettronica è degradato o non è disponibile, si può usare come backup un altro servizio, come Microsoft Teams, Yammer o un servizio di terze parti. La chiave consiste nello stabilire tutto questo in anticipo e nell'insegnare agli utenti dove andare. Un Yammer thread non sarà utile se nessuno sa che esiste o se nessuno lo ha contrassegnato come segnalibro.  
+- Se il metodo principale usato per informare gli utenti e gli stakeholder è l'e-mail e il servizio di posta elettronica è degradato o non è disponibile, si può usare come backup un altro servizio, come Microsoft Teams, Yammer o un servizio di terze parti. La chiave consiste nello stabilire tutto questo in anticipo e nell'insegnare agli utenti dove andare. Un Yammer thread non sarà utile se nessuno sa che esiste o se nessuno lo ha aggiunto ai segnalibri.  
 - Se i processi interni di gestione degli incidenti si basano sulle comunicazioni vocali per coordinare le risposte, stabilire una soluzione di telefonia alternativa da usare durante una crisi. Questa soluzione non deve avere la parità completa con il servizio principale, ma deve fornire il livello minimo di collaborazione per coordinare i team di continuità aziendale e gestione degli incidenti. Inoltre, chiedere agli utenti di pubblicare i numeri di telefono cellulare nell'elenco indirizzi globale può fornire un ulteriore livello di comunicazione di backup nei casi più estremi.
 - Può essere utile creare un dashboard di integrità dei servizi personalizzato o un altro sito di questo genere, che possa fornire aggiornamenti sullo stato durante un evento imprevisto. Informare gli utenti in anticipo su dove rivolgersi per ottenere informazioni contribuirà a ridurre le chiamate superflue all'help desk e a infondere fiducia nella base degli utenti sul fatto che la situazione viene gestita in modo rapido ed efficiente. Usa l'API O365 Service Communications per collegare queste informazioni Microsoft 365 un livello di visibilità ancora maggiore.  
 - È essenziale che l'ubicazione dei piani di continuità aziendale e delle procedure operative standard sia ben nota. È consigliabile mantenere copie online e offline dei documenti critici, ad esempio configurando OneDrive for Business o SharePoint Online per la sincronizzazione automatica con i dispositivi locali. Per i Centri operazioni di servizio/rete e altri team simili che saranno critici per il ripristino, è anche possibile mantenere disponibili copie rigide da utilizzare in caso di emergenza.

@@ -20,8 +20,8 @@ ms.openlocfilehash: 94e032efec2fd10f1d352f4f1b610916abe23cf7
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947990"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59159492"
 ---
 # <a name="us-internal-revenue-service-publication-1075"></a>Us Internal Revenue Service Publication 1075
 
@@ -33,7 +33,7 @@ Per proteggere FTI, IRS 1075 prescrive i controlli di sicurezza e privacy per i 
 
 ## <a name="microsoft-and-us-internal-revenue-service-publication-1075"></a>Microsoft e US Internal Revenue Service Publication 1075
 
-Microsoft Azure I servizi cloud governativi e Microsoft Office 365 [U.S. Government](https://products.office.com/government/office-365-web-services-for-government) forniscono un impegno contrattuale per avere i controlli appropriati in atto e le funzionalità di sicurezza necessarie ai clienti delle agenzie Microsoft per soddisfare i requisiti sostanziali di IRS 1075.  
+Microsoft Azure I servizi cloud governativi e Microsoft Office 365 [U.S. Government](https://products.office.com/government/office-365-web-services-for-government) forniscono un impegno contrattuale per la creazione dei controlli appropriati e le funzionalità di sicurezza necessarie ai clienti delle agenzie Microsoft per soddisfare i requisiti sostanziali di IRS 1075.  
   
 Questi servizi cloud Microsoft per enti pubblici forniscono una piattaforma su cui i clienti possono creare e gestire le proprie soluzioni, ma i clienti devono determinare da soli se tali soluzioni specifiche sono gestite in conformità con IRS 1075 e sono pertanto soggette a controlli IRS.  
   
@@ -82,9 +82,9 @@ La conformità ai requisiti sostanziali dell'IRS 1075 è coperta dal controllo F
 
 **In che modo Microsoft affronta i requisiti di IRS 1075?**
 
-Microsoft monitora regolarmente i controlli di sicurezza, privacy e operativi e NIST 800-53 rev. 4 controlli richiesti dalla linea di base FedRAMP per i sistemi in informazioni a impatto moderato. Fornisce l'accesso trimestrale a queste informazioni tramite report di monitoraggio continuo. I clienti di Azure Government e Office 365 U.S. Government possono accedere a queste informazioni di conformità riservate tramite [il Service Trust Portal.](https://aka.ms/stphelp)
+Microsoft monitora regolarmente i controlli di sicurezza, privacy e operativi e NIST 800-53 rev. 4 controlli richiesti dalla linea di base FedRAMP per i sistemi in informazioni a impatto moderato. Fornisce l'accesso trimestrale a queste informazioni tramite report di monitoraggio continuo. I clienti di Azure Government Office 365 U.S. Government possono accedere a queste informazioni di conformità riservate tramite [Service Trust Portal.](https://aka.ms/stphelp)
 
-Inoltre, Microsoft si è impegnata a includere i controlli IRS 1075 nel set di controllo principale per Azure Government e Office 365 U.S. Government e a controllare ogni anno.
+Inoltre, Microsoft si è impegnata a includere i controlli IRS 1075 nel suo set di controlli principali per Azure Government e Office 365 U.S. Government e a controllare ogni anno.
 
 **Posso esaminare i pacchetti FedRAMP o il Piano di sicurezza del sistema?**
 

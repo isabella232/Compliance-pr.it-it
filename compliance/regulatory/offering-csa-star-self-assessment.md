@@ -20,8 +20,8 @@ ms.openlocfilehash: 6ff20d9ac81562353a5971386d0d498b44edfd3b
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947878"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59159451"
 ---
 # <a name="cloud-security-alliance-csa-star-self-assessment"></a>Autovalutazione Cloud Security Alliance (CSA) STAR
 

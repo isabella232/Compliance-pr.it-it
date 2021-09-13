@@ -20,8 +20,8 @@ ms.openlocfilehash: 0e087393901b76a798c4a4ea3bef25fad8dcda84
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947915"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59159769"
 ---
 # <a name="federal-information-processing-standard-fips-publication-140-2"></a>Pubblicazione FIPS (Federal Information Processing Standard) 140-2
 
@@ -35,7 +35,7 @@ Il [Programma](https://csrc.nist.gov/Projects/cryptographic-module-validation-pr
 
 Microsoft mantiene un impegno attivo a soddisfare i requisiti 140-2, dopo aver convalidato i moduli crittografici dall'inizio dello standard nel 2001. Microsoft convalida i propri moduli crittografici nell'ambito del National Institute of Standards and Technology (NIST) [Cryptographic Module Validation Program](https://csrc.nist.gov/Projects/cryptographic-module-validation-program) (CMVP). Più prodotti Microsoft, inclusi molti servizi cloud, usano questi moduli di crittografia.
 
-Per informazioni tecniche sui moduli di crittografia di Microsoft Windows, sui criteri di sicurezza per ogni modulo e sul catalogo dei dettagli del certificato CMVP, vedere il contenuto [di Windows e Windows Server FIPS 140-2.](https://aka.ms/AA6ehud)
+Per informazioni tecniche sui moduli di crittografia di Microsoft Windows, sui criteri di sicurezza per ogni modulo e sul catalogo dei dettagli del certificato CMVP, vedere il contenuto [fiPS 140-2](https://aka.ms/AA6ehud)di Windows e Windows Server .
 
 ## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme e servizi cloud Microsoft inclusi nell'ambito
 
@@ -75,11 +75,11 @@ La cadenza per l'avvio di una convalida del modulo è allineata agli aggiornamen
 
 **Quali computer sono inclusi in una convalida FIPS 140?**
 
-Microsoft convalida i moduli di crittografia in un campione rappresentativo di configurazioni hardware che eseguono Windows 10 e Windows Server. È pratica comune accettare questa convalida FIPS 140-2 quando un ambiente utilizza hardware, simile agli esempi utilizzati per il processo di convalida.
+Microsoft convalida i moduli di crittografia su un campione rappresentativo di configurazioni hardware che eseguono Windows 10 e Windows Server. È pratica comune accettare questa convalida FIPS 140-2 quando un ambiente utilizza hardware, simile agli esempi utilizzati per il processo di convalida.
 
 **Nel sito Web NIST sono elencati molti moduli. Come posso sapere quale si applica alla mia agenzia?**
 
-Se è necessario utilizzare moduli di crittografia convalidati tramite FIPS 140-2, è necessario verificare che la versione utilizzata sia visualizzata nell'elenco di convalida. CMVP e Microsoft gestiscono un elenco di moduli crittografici convalidati, organizzati in base al rilascio del prodotto, insieme alle istruzioni per identificare i moduli installati in un Windows sistema. Per ulteriori informazioni sulla configurazione di sistemi conformi, vedere il contenuto Windows e [Windows Server FIPS 140-2](https://aka.ms/AA6ehud).
+Se è necessario utilizzare moduli di crittografia convalidati tramite FIPS 140-2, è necessario verificare che la versione utilizzata sia visualizzata nell'elenco di convalida. CMVP e Microsoft gestiscono un elenco di moduli di crittografia convalidati, organizzati in base al rilascio del prodotto, insieme alle istruzioni per identificare i moduli installati in un Windows sistema. Per ulteriori informazioni sulla configurazione di sistemi conformi, vedere il contenuto Windows e [Windows Server FIPS 140-2](https://aka.ms/AA6ehud).
 
 **Cosa significa "Se gestito in modalità FIPS" in un certificato?**
 

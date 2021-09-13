@@ -20,8 +20,8 @@ ms.openlocfilehash: 7f597f5267482868c472ed04fada2a2f73490ab7
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948020"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59159954"
 ---
 # <a name="ministry-of-electronics-and-information-technology-meity"></a>Ministero dell'elettronica e delle tecnologie dell'informazione (MeitY)
 

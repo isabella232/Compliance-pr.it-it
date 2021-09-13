@@ -21,8 +21,8 @@ ms.openlocfilehash: 592cfcdf3da33e6c26e90d5a83fb6bcd3b4241e0
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947110"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59159032"
 ---
 # <a name="built-in-service-resiliency-in-microsoft-365"></a>Resilienza del servizio integrata in Microsoft 365
 
@@ -46,7 +46,7 @@ La portata di un evento imprevisto relativo a un servizio viene misurata in base
 - distribuire gli aggiornamenti in modo controllato e graduato usando anelli di convalida in modo che gli eventuali problemi che potrebbero derivare dall'aggiornamento possano essere individuati e attenuati all'inizio del processo di distribuzione. Questa progettazione consente di eseguire la regressione dell'aggiornamento, se necessario, e si verifica prima in un piccolo gruppo all'interno di Microsoft (anello interno) prima di essere distribuito per gruppi più grandi come tutti i 140.000 dipendenti Microsoft (anello 2), quindi per gli anelli early adopter (anello 3) e infine per tutti i clienti a livello globale (anello 4).
 - migliorare il monitoraggio tramite l’automazione. Microsoft 365 è un servizio di grandi dimensioni e il tempo di attività di destinazione del contratto di servizio è elevato. All'inizio di un evento imprevisto di un servizio, se gli esseri umani dovessero occuparsi del rilevamento e della risposta, non sarebbe possibile rispondervi abbastanza velocemente da rispettare il contratto di servizio. L'automazione è la chiave per individuare e rispondere in modo rapido ed efficace. Prima si viene a conoscenza di un problema, prima questo può essere risolto.
 
-Insieme alle funzionalità attive/attive integrate nell'architettura del servizio Microsoft 365, questi sforzi attenuano la gravità, la durata e il numero di clienti che hanno un impatto durante un incidente di servizio.  
+Insieme alle funzionalità attive/attive integrate nell'architettura del servizio di Microsoft 365, questi sforzi attenuano la gravità, la durata e il numero di clienti in impatto durante un incidente di servizio.  
 
 ## <a name="fault-isolation"></a>Isolamento del guasto
 
@@ -55,7 +55,7 @@ Le misure di isolamento degli errori vengono applicate in più fasi dello svilup
 
 Il Microsoft Security Development Lifecycle (SDL) favorisce ulteriormente la resilienza e consiste in una serie di procedure che supportano i requisiti di sicurezza e conformità. SDL consente agli sviluppatori di creare servizi resilienti, sicuri e conformi. Gli elementi principali di SDL includono revisioni di codice, modellazione delle minacce, test di penetrazione e processi standard di risposta agli eventi imprevisti nel cloud di Microsoft.
 
-Microsoft 365 servizi sono altamente interconnessi, ma i sistemi e la tecnologia alla base di essi sono progettati in modo da limitarne l'impatto dal riversamento su altri servizi. Ad esempio, un problema che interessa Exchange Online non influisce sulle funzionalità di base in Teams o un problema con la funzionalità di ricerca in SharePoint Online non influisce sulla capacità degli utenti di caricare o scaricare file.
+Microsoft 365 servizi sono altamente interconnessi, ma i sistemi e la tecnologia alla base di essi sono progettati in modo da limitarne l'impatto dal riversamento su altri servizi. Ad esempio, un problema che interessa Exchange Online non influisce sulla funzionalità di base in Teams o un problema con la funzionalità di ricerca in SharePoint Online non influisce sulla capacità degli utenti di caricare o scaricare file.
 
 ## <a name="continuous-service-improvement"></a>Miglioramento continuo del servizio
 

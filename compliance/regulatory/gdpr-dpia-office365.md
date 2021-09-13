@@ -21,8 +21,8 @@ ms.openlocfilehash: 9b7a88bd84ccd39d0d4cd9572a250ba4a8a0a773
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948092"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59159511"
 ---
 # <a name="data-protection-impact-assessments-guidance-for-data-controllers-using-microsoft-office-365"></a>Valutazioni d'impatto sulla protezione dei dati: guida per i titolari del trattamento dei dati che utilizzano Microsoft Office 365 
 
@@ -44,7 +44,7 @@ L'articolo 35 del RGPD prevede che un titolare del trattamento dei dati crei una
 |||
 
 >[!Note]
-><sup>1</sup> Rispetto ai criteri per un trattamento su "larga scala", la Considerazione iniziale 91 del GDPR chiarisce che: "Il trattamento di dati personali non dovrebbe essere considerato un trattamento su larga scala qualora riguardi dati personali di pazienti o clienti da parte di un singolo medico, operatore sanitario o avvocato. In tali casi non dovrebbe essere obbligatorio procedere a una valutazione d'impatto sulla protezione dei dati".
+><sup>1</sup> Rispetto ai criteri per un trattamento su “larga scala”, la Considerazione iniziale 91 del GDPR illustra che: "Il trattamento di dati personali non dovrebbe essere considerato un trattamento su larga scala qualora riguardi dati personali di pazienti o clienti da parte di un singolo medico, operatore sanitario o avvocato. In tali casi non dovrebbe essere obbligatorio procedere a una valutazione d'impatto sulla protezione dei dati".
 
 ## <a name="part-2-contents-of-a-dpia"></a>Parte 2: contenuto di una DPIA
 

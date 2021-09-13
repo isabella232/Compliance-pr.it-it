@@ -24,8 +24,8 @@ ms.openlocfilehash: ff5860197375d6504bc85f257a442915dfff50cc
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947128"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59159631"
 ---
 # <a name="attack-simulation-in-microsoft-365"></a>Simulazione di un attacco in Microsoft 365
 

@@ -20,8 +20,8 @@ ms.openlocfilehash: addcf3852fda46989e75b18bd323d86aa1981d4e
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947973"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59159822"
 ---
 # <a name="financial-industry-regulatory-authority-finra-rule-4511c-united-states"></a>Regola 4511(c) Dell'autorità di regolamentazione del settore finanziario (FINRA) Stati Uniti
 

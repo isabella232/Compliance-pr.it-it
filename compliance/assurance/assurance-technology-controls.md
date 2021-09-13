@@ -25,8 +25,8 @@ ms.openlocfilehash: 06d8f500a96c84bf961dc47f6b8d259e0fffe02d
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947437"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59159541"
 ---
 # <a name="technology-controls-in-microsoft-365"></a>Controlli tecnologici in Microsoft 365 
 
@@ -36,7 +36,7 @@ Microsoft 365 tecnici non hanno accesso permanente ai Microsoft 365 dei clienti.
 
 ## <a name="lockbox-and-customer-lockbox"></a>Lockbox e Customer Lockbox
 
-Sebbene raro, un cliente potrebbe richiedere assistenza a Microsoft che espone il contenuto del cliente a un tecnico Microsoft. Per controllare l'accesso Exchange Online, Microsoft usa un sistema di controllo di accesso denominato Lockbox. Prima che un tecnico Microsoft accedono a Exchange Online o SharePoint online o ai dati, deve inviare una richiesta di accesso tramite Lockbox. Tutte le richieste di Exchange Online e SharePoint Online vengono gestite dal sistema Lockbox. Con Lockbox e Customer Lockbox, tutti gli accessi approvati sono tracciabili per un utente univoco, rendendo i tecnici in grado di gestire i dati dei clienti.
+Sebbene raro, un cliente potrebbe richiedere assistenza a Microsoft che espone il contenuto del cliente a un tecnico Microsoft. Per controllare l'accesso Exchange Online, Microsoft usa un sistema di controllo di accesso denominato Lockbox. Prima che un tecnico Microsoft accedono a Exchange Online o SharePoint o dati online, deve inviare una richiesta di accesso tramite Lockbox. Tutte le richieste di Exchange Online e SharePoint Online vengono gestite dal sistema Lockbox. Con Lockbox e Customer Lockbox, tutti gli accessi approvati sono tracciabili per un utente univoco, rendendo i tecnici in grado di gestire i dati dei clienti.
 
 > [!NOTE]
 > Exchange Online include tutti i Skype for Business archiviati nelle cassette postali degli utenti. Skype for Business non include le registrazioni Riunione Skype broadcast o il contenuto caricato nelle riunioni dagli utenti. SharePoint Online include OneDrive for Business.

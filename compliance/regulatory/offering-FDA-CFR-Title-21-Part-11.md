@@ -20,8 +20,8 @@ ms.openlocfilehash: 5d6f590a9035b8628645bdfa46f794c1dfbcd4fb
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947934"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59159708"
 ---
 # <a name="food-and-drug-administration-cfr-title-21-part-11"></a>Food and Drug Administration CFR Title 21 Parte 11
 
@@ -43,7 +43,7 @@ I servizi cloud aziendali Microsoft vengono sottoposti a controlli regolari di t
 
 Anche se questi controlli e certificazioni regolari non si concentrano in modo specifico sulla conformità alle normative FDA, i loro scopi e obiettivi sono simili a quelli del titolo CFR 21 parte 11 e servono a garantire la riservatezza, l'integrità e la disponibilità dei dati archiviati nei servizi cloud Microsoft. Il nostro approccio di qualificazione si basa anche sulle procedure consigliate del settore, tra cui la serie di guide alle buone pratiche GAMP (International Society for Pharmaceutical Engineering) (ISPE) e il Programma PIC/S (Pharmaceutical Inspection Cooperation Scheme) Good Practices for Computerized Systems in Regulated GxP Environments.
 
-I clienti possono richiedere l'accesso ai report di conformità, soggetti a condizioni e condizioni del contratto di non disdenza, tramite il proprio rappresentante dell'account Microsoft o tramite [il Service Trust Portal.](https://aka.ms/stphelp) Inoltre, le linee guida di qualificazione per Microsoft Azure e Microsoft Office 365 forniscono una spiegazione dettagliata di come i controlli Di Microsoft corrispondono ai requisiti del titolo CFR 21 parte 11, indicazioni per l'implementazione di una strategia di qualificazione FDA e una descrizione delle aree di responsabilità condivisa.
+I clienti possono richiedere l'accesso ai report di conformità, soggetti a condizioni e condizioni del contratto di non disdenza, tramite il proprio rappresentante dell'account Microsoft o tramite [il Service Trust Portal.](https://aka.ms/stphelp) Inoltre, le linee guida di qualificazione per Microsoft Azure e Microsoft Office 365 forniscono una spiegazione dettagliata di come i controlli Microsoft corrispondono ai requisiti del titolo CFR 21 parte 11, indicazioni per l'implementazione di una strategia di qualificazione FDA e una descrizione delle aree di responsabilità condivisa.
 
 Informazioni su come accelerare la distribuzione di FDA CFR Title 21: Scaricare la guida alla qualificazione [di Azure FDA 21](https://go.microsoft.com/fwlink/p/?linkid=2086604)
 

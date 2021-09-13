@@ -20,8 +20,8 @@ ms.openlocfilehash: 859067495b6811b2264ab3a379f305d428771bce
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947907"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59159091"
 ---
 # <a name="us-export-administration-regulations-ear"></a>Normative per l'amministrazione delle esportazioni statunitensi (EAR)
 
@@ -43,7 +43,7 @@ La regola [finale,](https://www.federalregister.gov/documents/2016/06/03/2016-12
 
 ## <a name="microsoft-and-the-ear"></a>Microsoft e EAR
 
-Le tecnologie, i prodotti e i servizi Microsoft sono soggetti alle normative EAR (Export Administration Regulations) degli Stati Uniti. Sebbene non sia disponibile alcuna certificazione di conformità per ear, Microsoft Azure, Microsoft Azure Government e Microsoft Office 365 Government (ambienti GCCHigh e DoD) offrono funzionalità e strumenti importanti per aiutare i clienti idonei soggetti all'EAR a gestire i rischi di controllo delle esportazioni e soddisfare i loro requisiti di conformità.
+Le tecnologie, i prodotti e i servizi Microsoft sono soggetti alle normative EAR (Export Administration Regulations) degli Stati Uniti. Anche se non esiste alcuna certificazione di conformità per gli ambienti EAR, Microsoft Azure, Microsoft Azure Government e Microsoft Office 365 Government (GCCHigh e DoD) offrono funzionalità e strumenti importanti per aiutare i clienti idonei soggetti all'EAR a gestire i rischi di controllo delle esportazioni e soddisfare i loro requisiti di conformità.
 
 Il Dipartimento del commercio statunitense, che applica l'EAR, ha assunto la posizione che i clienti, non i provider di servizi cloud come Microsoft, sono considerati esportatori dei propri dati dei clienti. Sebbene la maggior parte dei dati dei clienti non sia considerata "tecnologia" o "dati tecnici" soggetta ai controlli di esportazione EAR, i servizi cloud microsoft nell'ambito sono strutturati per aiutare i clienti a gestire e ridurre in modo significativo i potenziali rischi di controllo delle esportazioni che devono affrontare. Microsoft in genere, ma non esclusivamente, consiglia l'uso dei propri servizi cloud governativi per i clienti idonei. Con una pianificazione appropriata, i clienti possono utilizzare gli strumenti seguenti e le proprie procedure interne per garantire la completa conformità ai controlli di esportazione negli Stati Uniti.
 

@@ -20,8 +20,8 @@ ms.openlocfilehash: 3f178689655662272fc8149259cf769ce122a18a
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947875"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59159811"
 ---
 # <a name="federal-risk-and-authorization-management-program-fedramp"></a>FedRAMP (Federal Risk and Authorization Management Program)
 
@@ -43,7 +43,7 @@ Le autorizzazioni FedRAMP vengono concesse a tre livelli di impatto in base alle
 
 ## <a name="microsoft-and-fedramp"></a>Microsoft e FedRAMP
 
-I servizi cloud per enti pubblici di Microsoft, tra cui Azure Government, Dynamics 365 Government e Office 365 U.S. Government soddisfano i requisiti impegnativi del Federal Risk and Authorization Management Program (FedRAMP), che consente alle agenzie federali statunitensi di trarre vantaggio dai risparmi sui costi e dalla rigorosa sicurezza di Microsoft Cloud.
+I servizi cloud governativi di Microsoft, tra cui Azure Government, Dynamics 365 Government e Office 365 U.S. Government soddisfano i requisiti più impegnativi del Federal Risk and Authorization Management Program (FedRAMP), che consente alle agenzie federali statunitensi di trarre vantaggio dai risparmi sui costi e dalla rigorosa sicurezza di Microsoft Cloud.
 
 I servizi cloud microsoft per enti pubblici offrono ai clienti del settore pubblico una vasta gamma di servizi conformi a FedRAMP e strumenti di implementazione e indicazioni affidabili, tra cui [il modello FedRAMP High,](https://aka.ms/fedrampblueprint)che consente ai clienti di distribuire un set di criteri di base per qualsiasi architettura distribuita da Azure che deve implementare i controlli FedRAMP High.
 
@@ -61,8 +61,8 @@ Per altre informazioni sulla conformità di Azure, Dynamics 365 e altri servizi 
 
 ## <a name="office-365-and-fedramp"></a>Office 365 e FedRAMP
 
-- Office 365 e Office 365 governo degli Stati Uniti hanno un ATO dal Dipartimento della Salute e dei Servizi umani (DHHS).
-- Office 365 U.S. Government Defense ha un P-ATO dalla US Defense Information Systems Agency (DISA). Tutti i clienti che desiderano distribuire un Office 365 U.S. Government Defense possono usare il DISA P-ATO per generare un'agenzia ATO per documentarne l'accettazione.
+- Office 365 e Office 365 governo degli Stati Uniti hanno un ATO dal Dipartimento della salute e dei servizi umani (DHHS).
+- Office 365 U.S. Government Defense ha un P-ATO dalla US Defense Information Systems Agency (DISA). Tutti i clienti che desiderano distribuire Office 365 U.S. Government Defense possono usare il DISA P-ATO per generare un'agenzia ATO per documentarne l'accettazione.
 - Office 365 (piani aziendali e aziendali) e Office 365 U.S. Government hanno un ATO FedRAMP Agency al livello di impatto moderato dal Office DHHS dell'Inspector General. Office 365 Il governo degli Stati Uniti è stato il primo servizio di collaborazione e posta elettronica basato sul cloud a ottenere questa autorizzazione.
 
 ### <a name="office-365-cloud-environments"></a>Ambienti cloud di Office 365

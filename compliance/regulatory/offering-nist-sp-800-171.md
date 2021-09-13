@@ -20,8 +20,8 @@ ms.openlocfilehash: bce6847fe4c0cd1541348b70aadacc9c13238c31
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948032"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59159415"
 ---
 # <a name="nist-sp-800-171"></a>NIST SP 800-171
 
@@ -70,7 +70,7 @@ Usare la tabella seguente per determinare l'applicabilità per i servizi e l'abb
 | **GCC** | Activity Feed Service, Bing Services, Delve, Exchange Online, Intelligent Services, Microsoft Teams, Office 365 Customer Portal, Office Online, Office Service Infrastructure, Office Usage Reports, OneDrive for Business, People Card, SharePoint Online, Skype for Business, Windows Ink |
 | **GCC High** | Activity Feed Service, Bing Services, Exchange Online, Intelligent Services, Microsoft Teams, Office 365 Customer Portal, Office Online, Office Service Infrastructure, Office Usage Reports, OneDrive for Business, People Card, 
 SharePoint Online, Skype for Business, Windows Ink |
-| **DoD** | Activity Feed Service, Bing Services, Exchange Online, Intelligent Services, Office 365 Customer Portal, Office Online, Office Service Infrastructure, Office Usage Reports, OneDrive for Business, People Card, Microsoft Teams, SharePoint Online, Skype for Business, Windows Ink |
+| **DoD** | Activity Feed Service, Bing Services, Exchange Online, Intelligent Services, Office 365 Customer Portal, Office Online, Office Service Infrastructure, Office Usage Reports, OneDrive for Business, People Card, Microsoft Teams, SharePoint Online, Skype for Business, Windows Ink Windows Ink |
 
 ### <a name="frequently-asked-questions"></a>Domande frequenti
 

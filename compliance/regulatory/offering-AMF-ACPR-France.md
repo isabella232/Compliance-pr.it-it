@@ -20,8 +20,8 @@ ms.openlocfilehash: 3e7d08c15d126273cbacd75a2cab37e476ebf42d
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947817"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59159331"
 ---
 # <a name="financial-authority-amf-and-prudential-authority-acpr-france"></a>Organismi di vigilanza AMF (Autorité des Marchés Financiers) e ACPR (Autorité de Contrôle Prudentiel et de Résolution) in Francia
 

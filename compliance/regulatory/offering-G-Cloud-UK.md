@@ -20,8 +20,8 @@ ms.openlocfilehash: 805820ac031cd1fc1e1216c5e000e4ee2ad10837
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947971"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59159763"
 ---
 # <a name="united-kingdom-government-cloud-g-cloud"></a>Regno Unito Government-Cloud (G-Cloud)
 
@@ -29,7 +29,7 @@ ms.locfileid: "58947971"
 
 Government Cloud (G-Cloud) è un'iniziativa governativa del Regno Unito per facilitare l'approvvigionamento di servizi cloud da parte dei reparti governativi e promuovere l'adozione a livello governativo del cloud computing. G-Cloud comprende una serie di accordi quadro con i fornitori di servizi cloud (ad esempio Microsoft) e una presentazione dei loro servizi in un negozio online, digital marketplace. In questo modo le organizzazioni del settore pubblico possono confrontare e procurarsi tali servizi senza dover eseguire il proprio processo di revisione completo. L'inclusione nel Digital Marketplace richiede un'auto-attestazione della conformità, seguita da una verifica eseguita dal ramo government digital service (GDS) a sua discrezione.
 
-Il processo di nomina di G-Cloud è stato semplificato nel 2014 per ridurre i tempi e i costi per il governo del Regno Unito e lo schema di classificazione della sicurezza del governo è stato semplificato da sei a tre livelli: OFFICIAL, SECRET e TOP SECRET. (I livelli di certificazione G-Cloud non sono più espressi come livello di impatto o IL; Microsoft in precedenza ha tenuto un accreditamento IL2 per Microsoft Azure, Microsoft Dynamics 365 e Microsoft Office 365.)
+Il processo di nomina di G-Cloud è stato semplificato nel 2014 per ridurre i tempi e i costi per il governo del Regno Unito e lo schema di classificazione della sicurezza del governo è stato semplificato da sei a tre livelli: OFFICIAL, SECRET e TOP SECRET. (I livelli di certificazione G-Cloud non sono più espressi come livello di impatto o IL; Microsoft ha precedentemente tenuto un accreditamento IL2 per Microsoft Azure, Microsoft Dynamics 365 e Microsoft Office 365.)
 
 Invece della valutazione centrale dei servizi cloud precedentemente forniti, il nuovo processo richiede ai provider di servizi cloud di autocertificare e fornire prove a supporto dei 14 principi di sicurezza cloud di G-Cloud. Questo non ha modificato né le prove che Microsoft produce né gli standard a cui la società aderisce.
 
@@ -39,7 +39,7 @@ Ogni anno, Microsoft prepara la documentazione e invia prove per attestare che i
 
 La nomina di servizi Microsoft al Digital Marketplace significa che le agenzie governative e i partner del Regno Unito possono utilizzare i servizi nell'ambito per archiviare ed elaborare i dati ufficiali del Regno Unito, la maggior parte dei dati governativi. Inoltre, in G-Cloud sono ora inclusi più di 450 partner Microsoft che sono rivenditori di servizi cloud Microsoft. Possono dichiarare direttamente la conformità dei servizi nell'ambito con i 14 principi nelle proprie applicazioni. I clienti e i partner, tuttavia, dovranno ottenere la propria conformità per tutti i componenti non inclusi nell'attestazione e nella determinazione della conformità per i servizi cloud Microsoft.
 
- [14 Cloud Security Controls for UK cloud](https://azure.microsoft.com/resources/14-cloud-security-controls-for-uk-cloud-using-microsoft-azure/) using Microsoft Azure fornisce strategie dei clienti per trasferire i propri servizi in Azure e contribuire a soddisfare gli obblighi del Regno Unito previsti dal CESG/NCSC. Il white paper fornisce informazioni dettagliate su come azure può essere usato per aiutare a risolvere i 14 controlli descritti nelle entità di sicurezza cloud e descrive come i clienti possono spostarsi più velocemente e ottenere di più risparmiando denaro man mano che adottano i servizi Microsoft Azure.
+ [14 Cloud Security Controls for UK cloud](https://azure.microsoft.com/resources/14-cloud-security-controls-for-uk-cloud-using-microsoft-azure/) using Microsoft Azure fornisce strategie dei clienti per trasferire i propri servizi in Azure e contribuire a soddisfare gli obblighi del Regno Unito previsti dal CESG/NCSC. Il white paper fornisce informazioni dettagliate su come azure può essere usato per aiutare a risolvere i 14 controlli descritti nelle entità di sicurezza cloud e descrive come i clienti possono muoversi più velocemente e ottenere di più risparmiando denaro man mano che adottano i servizi Microsoft Azure.
 
 ## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme e servizi cloud Microsoft inclusi nell'ambito
 
@@ -98,7 +98,7 @@ Spostare i servizi pubblici nel cloud è ora più facile che mai usando il bluep
 
 ## <a name="frequently-asked-questions"></a>Domande frequenti
 
-**Who è idoneo per l'uso di Digital Marketplace?**
+**Who può usare Digital Marketplace?**
 
 Tutti i reparti governativi del Regno Unito, le amministrazione devolved, le autorità locali, gli enti pubblici più ampi e gli organismi di arme sono idonei ad acquistare servizi sul mercato. Se non si è incerti sull'idoneità, consultare le linee guida correnti per i fornitori del Servizio commerciale [Corona.](https://www.gov.uk/guidance/current-crown-commercial-service-suppliers-what-you-need-to-know)
 
@@ -123,7 +123,7 @@ Il [Service Trust Portal](/microsoft-365/compliance/get-started-with-service-tru
 
 ## <a name="resources"></a>Risorse
 
-- [Controlli di conformità efficaci per affrontare i 14 principi di sicurezza cloud comuni dei governi del Regno Unito Microsoft Azure](https://aka.ms/complianceuk)
+- [Controlli di conformità efficaci per affrontare i 14 principi di sicurezza cloud comuni dei governi del Regno Unito usando Microsoft Azure](https://aka.ms/complianceuk)
 - [Strategia cloud per enti pubblici del Regno Unito](https://aka.ms/UK_govt_cloud_strategy)
 - [Principi di sicurezza di G-Cloud](https://aka.ms/UK-G-Cloud)
 - [Digital Marketplace](https://www.digitalmarketplace.service.gov.uk/)

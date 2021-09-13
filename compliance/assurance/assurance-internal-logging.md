@@ -24,12 +24,12 @@ ms.openlocfilehash: 20a21fe0d67f8986ec6e89b8ecbfd2915f9b8245
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947037"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59159008"
 ---
 # <a name="internal-logging-for-microsoft-365-engineering"></a>Log interni per Microsoft 365 Engineering
 
-Oltre agli eventi e ai dati di registro disponibili per i clienti, Microsoft gestisce un sistema di raccolta dei dati di registro interno disponibile per Microsoft 365 tecnici. Molti tipi diversi di dati di registro vengono caricati dai server Microsoft 365 in una soluzione di monitoraggio della sicurezza proprietaria per l'analisi NRT (Near Real-Time) e un servizio di elaborazione dei big data (Cosmos) interno per l'archiviazione a lungo termine. Questo trasferimento dei dati avviene tramite una connessione TLS convalidata da FIPS 140-2 su porte e protocolli approvati utilizzando uno strumento di automazione proprietario denominato Office Data Loader (ODL). Gli strumenti utilizzati in Microsoft 365 per raccogliere ed elaborare i record di controllo non consentono modifiche permanenti o irreversibili al contenuto del record di controllo originale o all'ordinamento temporale.
+Oltre agli eventi e ai dati di registro disponibili per i clienti, Microsoft gestisce un sistema di raccolta dei dati di registro interno disponibile per Microsoft 365 tecnici. Molti tipi diversi di dati di registro vengono caricati dai server Microsoft 365 in una soluzione di monitoraggio della sicurezza proprietaria per l'analisi NRT (Near Real-Time) e un servizio di elaborazione dei big data (Cosmos) interno per l'archiviazione a lungo termine. Questo trasferimento di dati avviene tramite una connessione TLS convalidata da FIPS 140-2 su porte e protocolli approvati utilizzando uno strumento di automazione proprietario denominato ODL (Office Data Loader). Gli strumenti utilizzati in Microsoft 365 per raccogliere ed elaborare i record di controllo non consentono modifiche permanenti o irreversibili al contenuto del record di controllo originale o all'ordinamento temporale.
 
 I team di servizio utilizzano Cosmos come archivio centralizzato per eseguire un'analisi dell'utilizzo delle applicazioni, per misurare le prestazioni del sistema e operative e per cercare anomalie e modelli che potrebbero indicare problemi o problemi di sicurezza. Ogni team del servizio carica una linea di base che include:
 

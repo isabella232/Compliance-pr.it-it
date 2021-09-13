@@ -20,8 +20,8 @@ ms.openlocfilehash: 79f4efec9c7e441405228de88e68916f8de3f754
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947931"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59159798"
 ---
 # <a name="web-content-accessibility-guidelines"></a>Linee guida per l'accessibilità dei contenuti Web
 

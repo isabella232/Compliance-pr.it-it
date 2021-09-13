@@ -21,8 +21,8 @@ ms.openlocfilehash: f634224f02726f0e0ee49c268bf4a77027481c2f
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948135"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59159115"
 ---
 # <a name="additional-steps-to-export-system-generated-log-data"></a>Ulteriore procedura di esportazione dei dati del log generato dal sistema
 

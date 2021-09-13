@@ -18,8 +18,8 @@ ms.openlocfilehash: 9c281b6096512f65f20286948addc32127278b98
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948122"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59159139"
 ---
 # <a name="gdpr-for-on-premises-windows-server-file-shares"></a>Condivide l'RGDP per le condivisioni file di Windows Server locale
 

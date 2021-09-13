@@ -23,8 +23,8 @@ ms.openlocfilehash: ca194511e000a7d98ddd89ae9ef85a1ee1ee01bd
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947145"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59159559"
 ---
 # <a name="microsoft-security-incident-management-preparation"></a>Gestione degli incidenti di sicurezza Microsoft: preparazione
 
@@ -65,7 +65,7 @@ I test eseguiti per la protezione avanzata dei servizi all'interno dei servizi o
 I team di progettazione dei servizi online Microsoft pubblicano periodicamente diversi documenti di conformità. Molti di questi documenti sono disponibili nell'ambito di un contratto di non divulgazione da [Microsoft Cloud Service Trust Portal](https://aka.ms/STP) o dall'area Service Assurance del [Centro conformità Microsoft 365](https://compliance.office.com)
 
 >[!NOTE]
->Per informazioni dettagliate su come accedere al Service Trust Portal, vedere Get started with the Service Trust Portal for Office 365 for business, Azure, and Dynamics CRM Online subscriptions. Per accedere Microsoft 365 è necessaria una sottoscrizione Centro conformità Microsoft 365.
+>Per informazioni dettagliate su come accedere al Service Trust Portal, vedere Get started with the Service Trust Portal for Office 365 for business, Azure, and Dynamics CRM Online subscriptions. È Microsoft 365 una sottoscrizione per accedere al Centro conformità Microsoft 365.
 
 ## <a name="attack-simulation"></a>Simulazione di attacco
 
@@ -84,7 +84,7 @@ I team Microsoft Blue sono composti da set dedicati di risponditori di sicurezza
 Il personale Microsoft separa i team rossi a tempo pieno e i team blu di Microsoft in varie divisioni che eservitino le operazioni sia tra i servizi che all'interno di essi. Noto come *Red Teaming,* l'approccio consiste nel testare i sistemi e le operazioni di servizi Microsoft usando le stesse tattiche, tecniche e procedure degli avversari reali, rispetto all'infrastruttura di produzione in tempo reale, senza il foreknowledge dell'infrastruttura e dei team di progettazione della piattaforma o operativi. Questo test consente di testare le funzionalità di rilevamento e risposta della sicurezza e consente di identificare le vulnerabilità di produzione, gli errori di configurazione, i presupposti non validi o altri problemi di sicurezza in modo controllato. Ogni violazione del team rosso è seguita dalla divulgazione completa tra il team rosso e il team blu, inclusi i team di servizio, per identificare le lacune, risolvere i risultati e migliorare in modo significativo la risposta alle violazioni.
 
 >[!NOTE]
->Durante gli esercizi di red teaming o di penetrazione del sito in tempo reale non viene preso di mira alcun dato del cliente. I test sono a Microsoft 365 e alle piattaforme di Azure, nonché ai tenant, alle applicazioni e ai dati di Microsoft. I tenant dei clienti, le applicazioni e i dati ospitati in Azure, Dynamics 365 o Microsoft 365 non sono mai mirati in base alle regole di coinvolgimento concordate.
+>Durante gli esercizi di red teaming o di penetrazione del sito in tempo reale non viene preso di mira alcun dato del cliente. I test sono a Microsoft 365 infrastruttura e piattaforme di Azure, oltre ai tenant, alle applicazioni e ai dati di Microsoft. I tenant dei clienti, le applicazioni e i dati ospitati in Azure, Dynamics 365 o Microsoft 365 non sono mai mirati in base alle regole di coinvolgimento concordate.
 
 ### <a name="joint-exercises"></a>Esercitazioni congiunte
 

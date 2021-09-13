@@ -20,8 +20,8 @@ ms.openlocfilehash: b3690ba79ba8adca1d01e4eda03831c431747d01
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948057"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59159841"
 ---
 # <a name="system-and-organization-controls-soc-3"></a>SoC (controlli di sistema e dell'organizzazione) 3
 

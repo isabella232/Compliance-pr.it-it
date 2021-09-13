@@ -24,8 +24,8 @@ ms.openlocfilehash: dc53f42c6aa7ce16e1291538bfad6d63c5a1689d
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947098"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59159066"
 ---
 # <a name="encryption-and-key-management-overview"></a>Panoramica sulla crittografia e sulla gestione delle chiavi
 

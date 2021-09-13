@@ -24,8 +24,8 @@ ms.openlocfilehash: 1cecf95d167e75f1c31360bca831184dee3e322e
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947115"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59159019"
 ---
 # <a name="human-resources-overview"></a>Panoramica sulle risorse umane 
 

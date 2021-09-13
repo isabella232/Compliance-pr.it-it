@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: aef50dc21274c863708c5b5d774b401e91407114
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58480518"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59159421"
 ---
 # <a name="national-institute-of-standards-and-technology-nist-cybersecurity-framework-csf"></a>National Institute of Standards and Technology (NIST) Cybersecurity Framework (CSF)
 
@@ -35,14 +35,14 @@ Il FICIC fa riferimento a standard riconosciuti a livello globale, tra cui NIST 
 
 ## <a name="microsoft-and-the-nist-csf"></a>Microsoft e NIST CSF
 
-NIST Cybersecurity Framework (CSF) è un framework volontario costituito da standard, linee guida e procedure consigliate per gestire i rischi correlati alla cybersecurity. I servizi Cloud Microsoft sono stati sottoposti a controlli fedRAMP moderati e high baseline indipendenti di terze parti e sono certificati in base agli standard FedRAMP. Inoltre, tramite una valutazione convalidata eseguita da HITRUST, un'organizzazione leader per lo sviluppo e l'accreditamento degli standard di sicurezza e privacy, Office 365 è certificata in base agli obiettivi specificati nel NIST CSF.
+NIST Cybersecurity Framework (CSF) è un framework volontario costituito da standard, linee guida e procedure consigliate per gestire i rischi correlati alla cybersecurity. I servizi Cloud Microsoft sono stati sottoposti a controlli fedRAMP moderati e high baseline indipendenti di terze parti e sono certificati in base agli standard FedRAMP. Inoltre, attraverso una valutazione convalidata eseguita da HITRUST, un'organizzazione leader per lo sviluppo e l'accreditamento degli standard di sicurezza e privacy, Office 365 è certificata in base agli obiettivi specificati nel NIST CSF.
 
 Scopri come accelerare la distribuzione di NIST Cybersecurity Framework con il punteggio di conformità e il nostro blueprint di sicurezza e conformità di Azure:
 
 - [Panoramica dell'esempio di blueprint NIST SP 800-53 R4](/azure/governance/blueprints/samples/nist-sp-800-53-rev4/)
 - [Altre informazioni sulla valutazione csf NIST per Office 365 in Compliance Score](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/New-NIST-CSF-and-CSA-CCM-assessments-available-in-Compliance/ba-p/218554)
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servizi e piattaforme cloud Microsoft inclusi nell'ambito
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme e servizi cloud Microsoft inclusi nell'ambito
 
 - Azure Per enti pubblici
 - Dynamics 365 per enti pubblici
@@ -80,7 +80,7 @@ Sì, Office 365 ottenuto la lettera di certificazione [NIST CSF](https://service
 
 **In che modo Microsoft Cloud Services dimostra la conformità al framework?**
 
-Usando i report di controllo formali preparati da terze parti per l'accreditamento FedRAMP, Microsoft può mostrare come i controlli pertinenti osservati in questi rapporti dimostrano la conformità al framework NIST per migliorare la cybersecurity delle infrastrutture critiche. I controlli controllati implementati da Microsoft servono a garantire la riservatezza, l'integrità e la disponibilità dei dati archiviati, elaborati e trasmessi da Azure, Office 365 e Dynamics 365 identificati come responsabilità di Microsoft.
+Usando i report di controllo formali preparati da terze parti per l'accreditamento FedRAMP, Microsoft può mostrare come i controlli pertinenti osservati in questi rapporti dimostrano la conformità al framework NIST per migliorare la cybersecurity delle infrastrutture critiche. I controlli implementati da Microsoft servono a garantire la riservatezza, l'integrità e la disponibilità dei dati archiviati, elaborati e trasmessi da Azure, Office 365 e Dynamics 365 che sono stati identificati come responsabilità di Microsoft.
 
 **Quali sono le responsabilità di Microsoft per il mantenimento della conformità a questa iniziativa?**
 
@@ -110,4 +110,4 @@ Microsoft offre le offerte più complete rispetto ad altri provider di servizi c
 - [Ordine esecutivo per il rafforzamento della cybersecurity delle reti federali e dell'infrastruttura critica](https://www.whitehouse.gov/the-press-office/2017/05/11/presidential-executive-order-strengthening-cybersecurity-federal)
 - [Cloud Microsoft per enti pubblici](https://go.microsoft.com/fwlink/p/?linkid=2087246)
 - [Condizioni dei Servizi online](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=31)
-- [Conformità nel Centro protezione Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Conformità in Microsoft Trust Center](https://www.microsoft.com/trust-center/compliance/compliance-overview)
