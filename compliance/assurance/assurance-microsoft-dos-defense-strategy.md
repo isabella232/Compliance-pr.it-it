@@ -20,12 +20,12 @@ f1.keywords:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: e1613765d3ffb7b43b80d07823fe8aef45719b70
-ms.sourcegitcommit: cb0b058800d3a8f04921066b4c59fb427eb9c268
+ms.openlocfilehash: ba0d0bbea11000144d7091455c6ee204f2c17037
+ms.sourcegitcommit: 856111c112a30160950fdd0ce94369aff7e176dc
 ms.translationtype: MT
 ms.contentlocale: it-IT
 ms.lasthandoff: 09/23/2021
-ms.locfileid: "59486193"
+ms.locfileid: "59489373"
 ---
 # <a name="microsoft-denial-of-service-defense-strategy"></a>Strategia di difesa Denial of Service Microsoft
 
@@ -49,11 +49,11 @@ Microsoft adotta anche un approccio offensivo alla difesa DDoS. Le botnet sono u
 
 ## <a name="application-level-defenses"></a>Difese a livello di applicazione
 
-I team di progettazione Microsoft seguono i rigorosi standard impostati da [Microsoft Operational Security Assurance](https://www.microsoft.com/SDL/OperationalSecurityAssurance) per proteggere i dati dei clienti. I servizi cloud di Microsoft sono creati intenzionalmente per supportare carichi elevati, che consentono di proteggere dagli attacchi DDoS a livello di applicazione. L'architettura con scalabilità orizzontale di Microsoft distribuisce i servizi tra più datacenter globali con funzionalità di isolamento regionale e limitazione specifiche del carico di lavoro per i carichi di lavoro pertinenti.
+I servizi cloud di Microsoft sono creati intenzionalmente per supportare carichi elevati, che consentono di proteggere dagli attacchi DDoS a livello di applicazione. L'architettura con scalabilità orizzontale di Microsoft distribuisce i servizi tra più datacenter globali con funzionalità di isolamento regionale e limitazione specifiche del carico di lavoro per i carichi di lavoro pertinenti.
 
 Il paese o l'area geografica di ogni cliente, identificato dall'amministratore del cliente durante la configurazione iniziale dei servizi, determina la posizione di archiviazione principale per i dati del cliente. I dati dei clienti vengono replicati tra datacenter ridondanti in base a una strategia principale/di backup. Un datacenter principale ospita il software dell'applicazione insieme a tutti i dati principali dei clienti in esecuzione sul software. Un datacenter di backup fornisce il failover automatico. Se il datacenter principale smette di funzionare per qualsiasi motivo, le richieste vengono reindirizzate alla copia del software e dei dati dei clienti nel datacenter di backup. In un determinato momento, i dati dei clienti possono essere elaborati nel datacenter principale o di backup. La distribuzione dei dati tra più datacenter riduce l'area di superficie interessata nel caso in cui un datacenter sia stato attaccato. Inoltre, i servizi nel datacenter interessato possono essere reindirizzati rapidamente al datacenter secondario per mantenere la disponibilità durante un attacco e reindirizzati di nuovo al datacenter principale dopo aver attenuato un attacco.
 
-Come ulteriore mitigazione degli attacchi DDoS, i singoli carichi di lavoro includono funzionalità integrate che gestiscono l'utilizzo delle risorse. Ad esempio, i meccanismi di limitazione in Exchange Online e SharePoint Online fanno parte di un approccio a più livelli per la difesa dagli attacchi DDoS.
+Come ulteriore mitigazione degli attacchi DDoS, i singoli carichi di lavoro includono funzionalità integrate che gestiscono l'utilizzo delle risorse. Ad esempio, i meccanismi di limitazione in Exchange Online e SharePoint Online fanno parte di un approccio multistrato per la difesa dagli attacchi DDoS.
 
 database SQL di Azure dispone di un ulteriore livello di sicurezza sotto forma di un servizio gateway denominato DoSGuard che tiene traccia dei tentativi di accesso non riusciti in base all'indirizzo IP. Se viene raggiunta la soglia per i tentativi di accesso non riusciti dallo stesso IP, DoSGuard blocca l'indirizzo per un periodo di tempo prestadeterminato.
 
