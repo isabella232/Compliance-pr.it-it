@@ -16,18 +16,18 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 7cdc024d19ce0753d3d0c0e5cf45b6276939d6f2
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 79d0f7bfff27f28b65d8f29c71f472024fbcd07e
+ms.sourcegitcommit: cb0b058800d3a8f04921066b4c59fb427eb9c268
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59159942"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59486353"
 ---
 # <a name="federal-financial-institutions-examination-council-ffiec"></a>Federal Financial Institutions Examination Council (FFIEC)
 
 ## <a name="ffiec-overview"></a>Panoramica di FFIEC
 
-Il Federal Financial Institutions Examination Council (FFIEC) è un organismo di intermediazione formale costituito da cinque autorità di regolamentazione bancarie responsabili degli esami del governo federale statunitense degli istituti finanziari negli Stati Uniti. Il FFIEC Examiner Education Office pubblica manuali sull'esame IT destinati agli esaminatori sul campo delle agenzie membro FFIEC.
+Il Federal Financial Institutions Examination Council (FFIEC) è un organismo di intermediazione formale costituito da cinque autorità di regolamentazione bancarie responsabili degli esami del governo federale statunitense degli istituti finanziari negli Stati Uniti. Il FFIEC Examiner Education Office pubblica manuali di esame IT destinati agli esaminatori sul campo delle agenzie membri FFIEC.
 
 Il [manuale FFIEC Audit IT Examination Contiene](https://ithandbook.ffiec.gov/it-booklets/audit.aspx) indicazioni per questi esaminatori per valutare la qualità e l'efficacia dei programmi di controllo IT di istituti finanziari e TSP. In particolare, include la menzione dei rapporti di attestazione SOC 1, SOC 2 e SOC 3 dell'American Institute of Certified Public Accountants (AICPA) come esempi di report di controllo indipendenti. Tuttavia, la FFIEC consiglia agli istituti finanziari di non basarsi esclusivamente sulle informazioni contenute in questi report, ma anche di utilizzare le procedure di verifica e monitoraggio descritte in dettaglio nel manuale [FFIEC Outsourcing Technology Services IT Examination Handbook](https://ithandbook.ffiec.gov/it-booklets/outsourcing-technology-services.aspx).
 
@@ -40,7 +40,7 @@ Microsoft Azure, Microsoft Power BI e Microsoft Office 365 sono stati creati per
 
 Lo standard AICPA SSAE 18 ha sostituito SAS 70 ed è appropriato per la creazione di report sui controlli in un'organizzazione di servizi rilevante per i controlli interni delle entità utente sui report finanziari. Questo è il controllo formale che gli istituti finanziari possono sfruttare per le revisioni di terze parti dei provider di servizi tecnologici nel perseguire i propri obblighi di conformità specifici FFIEC per le risorse distribuite in Azure. Include il parere del revisore sull'efficacia del controllo per raggiungere gli obiettivi di controllo correlati durante il periodo di monitoraggio specificato.
 
-Inoltre, Azure ha sviluppato uno strumento di diagnostica della sicurezza cloud basato su Excel per accelerare una valutazione dei rischi che un istituto finanziario potrebbe voler eseguire in relazione ai servizi di Azure. Lo strumento si basa su un foglio di calcolo con 19 domini distinti che identificano i requisiti definiti nelle normative pertinenti e relative ai servizi finanziari, tra cui i manuali di esame IT FFIEC.  Lo strumento di valutazione dei rischi è precompilato con spiegazioni su come Azure è conforme ai requisiti applicabili ai provider di servizi cloud e può aiutare i clienti a soddisfare i propri requisiti di conformità FFIEC.
+Azure ha inoltre sviluppato uno strumento di diagnostica della sicurezza cloud basato su Excel per accelerare una valutazione dei rischi che un istituto finanziario potrebbe voler eseguire in relazione ai servizi di Azure. Lo strumento si basa su un foglio di calcolo con 19 domini distinti che identificano i requisiti definiti nelle normative pertinenti e relative ai servizi finanziari, tra cui i manuali di esame IT FFIEC.  Lo strumento di valutazione dei rischi è precompilato con spiegazioni su come Azure è conforme ai requisiti applicabili ai provider di servizi cloud e può aiutare i clienti a soddisfare i propri requisiti di conformità FFIEC.
 
 Disponibile anche per i clienti è il complementare della cartella di lavoro per la diagnostica della sicurezza cloud di Azure FFIEC, che offre indicazioni sull'uso dei servizi di Azure e considerazioni per la conformità dei clienti ai requisiti FFIEC
 
@@ -70,7 +70,7 @@ Usare la tabella seguente per determinare l'applicabilità per i servizi e l'abb
 
 | **Applicabilità** | **Servizi inclusi nell'ambito** |
 |:------------------|:----------------------|
-| **Commerciale** | Azure Active Directory, Azure Information Protection, Bookings, Compliance Manager, Delve, Exchange Online, Exchange Online Protection, Forms, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Defender per Office 365, Microsoft Graph, Microsoft Teams, Microsoft To-Do per il Web, MyAnalytics, componente aggiuntivo Conformità avanzata di Office 365, Office 365 Cloud App Security, Gruppi di Office 365, Centro sicurezza e conformità di Office 365, Video di Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, Microsoft SharePoint Online, Skype for Business, StaffHub, Microsoft Stream, Sway, Yammer Enterprise |
+| **Commerciale** | Azure Active Directory, Azure Information Protection, Bookings, Compliance Manager, Delve, Exchange Online, Exchange Online Protection, Forms, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Defender for Office 365, Microsoft Graph, Microsoft Teams, Microsoft To-Do for Web, MyAnalytics, Office 365 Advanced Compliance add-on, Office 365 Cloud App Security, Office 365 Groups, Office 365 Security & Compliance Center, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business, StaffHub, Stream, Sway, Yammer Enterprise, Yammer Enterprise |
 | **GCC** | Azure Active Directory, Compliance Manager, Delve, Exchange Online, Forms, Microsoft Defender per Office 365, Microsoft Teams, MyAnalytics, componente aggiuntivo Office 365 Advanced Compliance, Centro sicurezza e conformità di Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business, Stream |
 
 ### <a name="office-365-audits-reports-and-certificates"></a>Controlli, report e certificati di Office 365

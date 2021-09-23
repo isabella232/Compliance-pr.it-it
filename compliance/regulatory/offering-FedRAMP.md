@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 3f178689655662272fc8149259cf769ce122a18a
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 36e3ddb58a61bc3a0a14a300e15f22262027fc92
+ms.sourcegitcommit: cb0b058800d3a8f04921066b4c59fb427eb9c268
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59159811"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59486343"
 ---
 # <a name="federal-risk-and-authorization-management-program-fedramp"></a>FedRAMP (Federal Risk and Authorization Management Program)
 
@@ -43,7 +43,7 @@ Le autorizzazioni FedRAMP vengono concesse a tre livelli di impatto in base alle
 
 ## <a name="microsoft-and-fedramp"></a>Microsoft e FedRAMP
 
-I servizi cloud governativi di Microsoft, tra cui Azure Government, Dynamics 365 Government e Office 365 U.S. Government soddisfano i requisiti più impegnativi del Federal Risk and Authorization Management Program (FedRAMP), che consente alle agenzie federali statunitensi di trarre vantaggio dai risparmi sui costi e dalla rigorosa sicurezza di Microsoft Cloud.
+I servizi cloud governativi di Microsoft, tra cui Azure Government, Dynamics 365 Government e Office 365 U.S. Government soddisfano i requisiti impegnativi del Federal Risk and Authorization Management Program (FedRAMP) statunitense, consentendo alle agenzie federali statunitensi di trarre vantaggio dai risparmi sui costi e dalla rigorosa sicurezza di Microsoft Cloud.
 
 I servizi cloud microsoft per enti pubblici offrono ai clienti del settore pubblico una vasta gamma di servizi conformi a FedRAMP e strumenti di implementazione e indicazioni affidabili, tra cui [il modello FedRAMP High,](https://aka.ms/fedrampblueprint)che consente ai clienti di distribuire un set di criteri di base per qualsiasi architettura distribuita da Azure che deve implementare i controlli FedRAMP High.
 
@@ -53,7 +53,7 @@ I servizi cloud microsoft per enti pubblici offrono ai clienti del settore pubbl
 - [Dynamics 365 U.S. Government](https://aka.ms/d365-compliance-list)
 - Intune
 - Office 365 U.S. Government, Office 365 U.S. Government - High, Office 365 U.S. Government Defense
-- Servizio cloud Power BI, autonomo o incluso in un piano o in una famiglia di prodotti con marchio Office 365
+- Servizio cloud Power BI, servizio autonomo o incluso in un piano o in una famiglia di prodotti Office 365
 
 ## <a name="azure-dynamics-365-and-fedramp"></a>Azure, Dynamics 365 e FedRAMP
 
@@ -61,9 +61,9 @@ Per altre informazioni sulla conformità di Azure, Dynamics 365 e altri servizi 
 
 ## <a name="office-365-and-fedramp"></a>Office 365 e FedRAMP
 
-- Office 365 e Office 365 governo degli Stati Uniti hanno un ATO dal Dipartimento della salute e dei servizi umani (DHHS).
-- Office 365 U.S. Government Defense ha un P-ATO dalla US Defense Information Systems Agency (DISA). Tutti i clienti che desiderano distribuire Office 365 U.S. Government Defense possono usare il DISA P-ATO per generare un'agenzia ATO per documentarne l'accettazione.
-- Office 365 (piani aziendali e aziendali) e Office 365 U.S. Government hanno un ATO FedRAMP Agency al livello di impatto moderato dal Office DHHS dell'Inspector General. Office 365 Il governo degli Stati Uniti è stato il primo servizio di collaborazione e posta elettronica basato sul cloud a ottenere questa autorizzazione.
+- Office 365 e Office 365 governo degli Stati Uniti hanno un ATO dal Dipartimento della salute e dei servizi umani (DHHS) degli Stati Uniti.
+- Office 365 U.S. Government Defense ha un P-ATO dalla US Defense Information Systems Agency (DISA). Tutti i clienti che desiderano distribuire un Office 365 U.S. Government Defense possono usare diSA P-ATO per generare un'agenzia ATO per documentarne l'accettazione.
+- Office 365 (piani aziendali e aziendali) e Office 365 U.S. Government hanno un ATO FedRAMP Agency a livello di impatto moderato dal Office DHHS dell'Inspector General. Office 365 Il governo degli Stati Uniti è stato il primo servizio di collaborazione e posta elettronica basato sul cloud a ottenere questa autorizzazione.
 
 ### <a name="office-365-cloud-environments"></a>Ambienti cloud di Office 365
 
@@ -75,9 +75,9 @@ Usare la tabella seguente per determinare l'applicabilità per i servizi e l'abb
 
 | **Applicabilità** | **Servizi inclusi nell'ambito** |
 |:------------------|:----------------------|
-| **GCC** | Activity Feed Service, Bing Services, Delve, Exchange Online, Exchange Online Protection, Infrastructure, Intelligent Services, Microsoft Teams, Office 365 Customer Portal, Office Online, Office Service, Office Usage Reports, OneDrive for Business, People Card, SharePoint Online, Skype for Business, Windows Ink |
-| **GCC High** | Activity Feed Service, Bing Services, Exchange Online, Exchange Online Protection, Intelligent Services, Microsoft Teams, Office 365 Customer Portal, Office Online, Office Service Infrastructure, Office Usage Reports, OneDrive for Business, People Card, SharePoint Online, Skype for Business, Windows Ink |
-| **DoD** | Activity Feed Service, Bing Services, Exchange Online Protection, Exchange Online, Intelligent Services, Microsoft Teams, Office 365 Customer Portal, Office Online, Office Service Infrastructure, Office Usage Reports, OneDrive for Business, People Card, SharePoint Online, Skype for Business, Windows Ink |
+| **GCC** | Activity Feed Service, Bing Services, Bookings, Delve, Exchange Online, Exchange Online Protection, Infrastructure, Intelligent Services, Microsoft Teams, Office 365 Customer Portal, Office Online, Office Service, Office Usage Reports, OneDrive for Business, People Card, SharePoint Online, Skype for Business, Windows Ink |
+| **GCC High** | Activity Feed Service, Bing Services, Bookings, Exchange Online, Exchange Online Protection, Intelligent Services, Microsoft Teams, Office 365 Customer Portal, Office Online, Office Service Infrastruttura, Office di utilizzo, OneDrive for Business, Scheda utenti, SharePoint Online, Skype for Business, Windows Ink |
+| **DoD** | Activity Feed Service, Bing Services, Bookings, Exchange Online Protection, Exchange Online, Intelligent Services, Microsoft Teams, Office 365 Customer Portal, Office Online, Office Service Infrastruttura, Office di utilizzo, OneDrive for Business, Scheda utenti, SharePoint Online, Skype for Business, Windows Ink |
 
 ### <a name="office-365-audits-reports-and-certificates"></a>Controlli, report e certificati di Office 365
 

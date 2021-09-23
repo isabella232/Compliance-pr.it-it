@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 375f7a58db675f3f14bd98ff580919ef40f603f1
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: aa85357047d3f92b694023b102fa7141eb26344d
+ms.sourcegitcommit: cb0b058800d3a8f04921066b4c59fb427eb9c268
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59159858"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59486443"
 ---
 # <a name="sarbanes-oxley-act-of-2002-sox"></a>Sarbanes-Oxley Act del 2002 (SOX)
 
@@ -33,7 +33,7 @@ La SEC non definisce o impone un processo di certificazione SOX. Al contrario, f
 
 ## <a name="microsoft-and-sox"></a>Microsoft e SOX
 
-I clienti dei servizi cloud Microsoft soggetti alla conformità con il Sarbanes-Oxley Act (SOX) possono utilizzare l'attestazione SOC 1 Tipo 2 ricevuta da una società di controllo indipendente per affrontare i propri obblighi di conformità SOX. Questa attestazione è appropriata per la segnalazione dei controlli interni sui report finanziari.
+I clienti dei servizi cloud Microsoft soggetti alla conformità con il Sarbanes-Oxley Act (SOX) possono utilizzare l'attestazione SOC 1 Di tipo 2 che Microsoft ha ricevuto da una società di controllo indipendente per affrontare i propri obblighi di conformità SOX. Questa attestazione è appropriata per la segnalazione dei controlli interni sui report finanziari.
 
 Anche se non esiste alcuna certificazione SOX o convalida per i provider di servizi cloud, Microsoft può aiutare i clienti a rispettare i propri obblighi SOX. Ad esempio, SOX richiede controlli interni per la preparazione e la revisione dei rendiconti finanziari, in particolare i controlli che influiscono sull'accuratezza, la completezza, l'efficacia e la divulgazione pubblica di modifiche materiali correlate alla creazione di report finanziari. Per aiutare le aziende, Microsoft gestisce un'attestazione SOC 1 Tipo 2 appropriata per la creazione di report su tali controlli in un ampio portfolio di servizi che possono essere utilizzati per creare un'ampia gamma di applicazioni. Si basa sull'American Institute of Certified Public Accountants (AICPA) Statement on Standards for Attestation Engagements 18 (SSAE 18) e sullo Standard internazionale sugli impegni di garanzia n. n. 3402. Questa attestazione ha sostituito SAS 70.
 
@@ -74,7 +74,7 @@ Usare la tabella seguente per determinare l'applicabilità per i servizi e l'abb
 
 | **Applicabilità** | **Servizi inclusi nell'ambito** |
 |:------------------|:----------------------|
-| **Commerciale** | Augmentation Loop, Auto Alt Text, Azure Information Protection, Binary Conversion Services, Bookings, Delve, Document Item, Editor, Exchange Online, Forms, Insert Online Media, Insights, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Graph, Microsoft Teams, MyAnalytics, Office 365 Cloud App Security, Office 365 Groups, Office 365 Video, OneDrive for Business, Planner, Power Apps, PowerApps, Power Automate, Power BI, PowerPoint Designer, PowerPoint Online Document Service, SharePoint Online, Skype for Business, StaffHub, Stream,Sway, To-Do, Web Rendering Service, Yammer Enterprise  |
+| **Commerciale** | Augmentation Loop, Auto Alt Text, Azure Information Protection, Binary Conversion Services, Bookings, Delve, Document Item, Editor, Exchange Online, Forms, Insert Online Media, Insights, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Graph, Microsoft Teams, MyAnalytics, Office 365 Cloud App Security, Office 365 Groups, OneDrive for Business, Planner, Power Apps, PowerApps, Power Automate, Power BI, PowerPoint Designer, PowerPoint Online Document Service, SharePoint Online, Skype for Business, StaffHub, Stream,Sway, To-Do, Web Rendering Service, Yammer Enterprise  |
 
 ### <a name="audits-reports-and-certificates"></a>Controlli, report e certificati
 
