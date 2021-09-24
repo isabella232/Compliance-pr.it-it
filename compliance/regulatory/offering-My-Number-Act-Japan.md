@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: e38e5f2c370692a60d07ac25491ae457e0ed34c0
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: a770f37d778d56116050adefa03f2b27a1241792
+ms.sourcegitcommit: cb0b058800d3a8f04921066b4c59fb427eb9c268
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59159319"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59486273"
 ---
 # <a name="my-number-act-japan"></a>My Number Act (Giappone)
 
@@ -39,7 +39,7 @@ Le [Domande \&frequenti](https://www.ppc.go.jp/legal/policy/faq/) (in giapponese
 
 I servizi cloud Microsoft per le aziende definiscono questi obblighi nelle [Condizioni di Microsoft Online Services](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=31), che stipulano che la proprietà e la responsabilità dei dati contenenti i dati My Number sono esclusive dei clienti e non di Microsoft. Il cliente deve pertanto adottare controlli appropriati per proteggere i dati My Number contenuti nei dati dei clienti.
 
-Dato che Microsoft non dispone dell'accesso permanente ai dati My Number archiviati nei propri servizi cloud, non è necessario un contratto di "outsourcing" per il trattamento dei dati My Number. Se un cliente vuole ottenere accesso ai dati dei clienti che contengono dati My Number, deve creare un altro contratto di outsourcing con Microsoft per ogni caso prima di avanzare tale richiesta.
+Dato che Microsoft non dispone dell'accesso permanente ai dati My Number archiviati nei propri servizi cloud, non è necessario un contratto di "outsourcing" per il trattamento dei dati My Number. Se un cliente vuole accedere ai dati dei clienti che contengono dati My Number, deve creare un altro contratto di outsourcing con Microsoft per ogni caso prima di avanzare tale richiesta.
 
 Le condizioni stabiliscono anche che Microsoft si impegna a usare i dati dei clienti solo per fornire servizi al cliente, non per fini pubblicitari o altri scopi commerciali simili, e che dispone di sistemi solidi di controllo degli accessi.
 
@@ -66,7 +66,7 @@ Usare la tabella seguente per determinare l'applicabilità per i servizi e l'abb
 
 | **Applicabilità** | **Servizi inclusi nell'ambito** |
 |:------------------|:----------------------|
-| **Commerciale** | Azure Active Directory, Azure Information Protection, Bookings, Compliance Manager, Delve, Exchange Online, Exchange Online Protection, Forms, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Defender per Office 365, Microsoft Graph, Microsoft Teams, Microsoft To-Do per il Web, MyAnalytics, componente aggiuntivo Conformità avanzata di Office 365, Office 365 Cloud App Security, Gruppi di Office 365, Centro sicurezza e conformità di Office 365, Video di Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, Microsoft SharePoint Online, Skype for Business, StaffHub, Microsoft Stream, Sway, Yammer Enterprise |
+| **Commerciale** | Azure Active Directory, Azure Information Protection, Bookings, Compliance Manager, Delve, Exchange Online, Exchange Online Protection, Forms, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Defender per Office 365, Microsoft Graph, Microsoft Teams, Microsoft To-Do per il Web, MyAnalytics, componente aggiuntivo Conformità avanzata di Office 365, Office 365 Cloud App Security, Gruppi di Office 365, Centro sicurezza e conformità di Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, Microsoft SharePoint Online, Skype for Business, StaffHub, Microsoft Stream, Sway, Yammer Enterprise |
 
 ## <a name="how-to-implement"></a>Come eseguire l'implementazione
 

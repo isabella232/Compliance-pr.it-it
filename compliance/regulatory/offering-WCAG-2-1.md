@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 79f4efec9c7e441405228de88e68916f8de3f754
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 3208fab9675c02ec1e7af0824a05f9a062b311b2
+ms.sourcegitcommit: cb0b058800d3a8f04921066b4c59fb427eb9c268
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59159798"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59486433"
 ---
 # <a name="web-content-accessibility-guidelines"></a>Linee guida per l'accessibilità dei contenuti Web
 
@@ -62,10 +62,11 @@ Usare la tabella seguente per determinare l'applicabilità per i servizi e l'abb
 
 | **Applicabilità** | **Servizi inclusi nell'ambito** |
 |:------------------|:----------------------|
-| **Commerciale** | Excel, interfaccia di amministrazione di Exchange, interfaccia di amministrazione di Office 365 (portale), esperienza di accesso di Office 365 e Azure AD, portale per i clienti di Office 365, Centro sicurezza e conformità di Office 365, Office 365 Video, Office Lens, Office.com, interfaccia di amministrazione di OneDrive, OneDrive for Business, client di sincronizzazione di OneDrive, OneNote, Orcas, Outlook Groups, Outlook, PowerPoint, Project, Word  |
-| **GCC** | Azure Active Directory, Compliance Manager, Delve, Exchange Online, Forms, Microsoft Defender per Office 365, Microsoft Teams, MyAnalytics, componente aggiuntivo Office 365 Advanced Compliance, Centro sicurezza e conformità di Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business, Stream |
-| **GCC High** | Azure Active Directory, Exchange Online, Forms, Microsoft Defender per Office 365, Microsoft Teams, componente aggiuntivo Office 365 Advanced Compliance, Centro sicurezza e conformità di Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business |
-| **DoD** | Azure Active Directory, Exchange Online, Microsoft Defender per Office 365, Microsoft Teams, componente aggiuntivo Office 365 Advanced Compliance, Centro sicurezza e conformità di Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, Forms, Power BI, SharePoint Online, Skype for Business |
+| **Client** | Access, Excel, portale di amministrazione di Office 365 per Android, portale di amministrazione di Office 365 per iOS, Strumento di configurazione di Office, Office Lens, OneNote, Outlook, PowerPoint, Project, SharePoint, To-Do, Visio, Word |
+| **Commerciale** | Interfaccia di amministrazione di Exchange, Portale per i clienti di Office 365, Centro sicurezza e conformità di Office 365, Office.com, interfaccia di amministrazione di OneDrive, OneDrive for Business, client di sincronizzazione di OneDrive, Orcas, Outlook Groups |
+| **GCC** | Azure Active Directory, Compliance Manager, Delve, Exchange Online, Forms, Microsoft Defender per Office 365, Microsoft Teams, MyAnalytics, componente aggiuntivo Office 365 Advanced Compliance, Portale per i clienti di Office 365, Centro sicurezza e conformità di Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, Skype for Business, Stream |
+| **GCC High** | Azure Active Directory, Exchange Online, Forms, Microsoft Defender per Office 365, Microsoft Teams, componente aggiuntivo Office 365 Advanced Compliance, Portale per i clienti di Office 365, Centro sicurezza e conformità di Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, Skype for Business |
+| **DoD** | Azure Active Directory, Exchange Online, Microsoft Defender per Office 365, Microsoft Teams, componente aggiuntivo Office 365 Advanced Compliance, Portale per i clienti di Office 365, Centro sicurezza e conformità di Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, Forms, Power BI, Skype for Business |
 
 ## <a name="microsoft-accessibility-conformance-reports"></a>Report Microsoft sulla conformità agli standard di accessibilità
 
