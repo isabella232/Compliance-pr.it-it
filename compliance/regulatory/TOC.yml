@@ -88,7 +88,7 @@
               href: /azure/compliance/offerings/offering-nerc?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
         - name: Servizi finanziari
           items:
-            - name: 23 NYCRR parte 500
+            - name: 23 NYCRR parte 500 (US)
               href: offering-23-nycrr-part-500.md
             - name: AFM + DNB (Paesi Bassi)
               href: offering-afm-dnb-netherlands.md
@@ -298,7 +298,7 @@
           href: gdpr-dpia-azure.md
         - name: Dynamics 365
           href: gdpr-dpia-dynamics.md
-        - name: Professional Services e supporto tecnico Microsoft
+        - name: Professional Services e Supporto tecnico Microsoft
           href: gdpr-dpia-prof-services.md
         - name: Office 365
           href: gdpr-dpia-office365.md
