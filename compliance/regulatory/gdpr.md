@@ -18,12 +18,12 @@ ms.collection:
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
 hideEdit: true
-ms.openlocfilehash: d0016ed24cec4797ff515efa5614d8016fe7f1c1
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 10f8253d9acbed535d4aec31734be1ee16dd2b3a
+ms.sourcegitcommit: 0777355cfb73c07d2b7e11d95a5996be8913b2af
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59159109"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "60050580"
 ---
 # <a name="general-data-protection-regulation-summary"></a>Riepilogo del Regolamento generale sulla protezione dei dati
 
@@ -267,7 +267,7 @@ La conformità al GDPR costerà tempo e denaro alla maggior parte delle organizz
 
 **Come si fa a sapere se i dati trattati dall'organizzazione rientrano nell'ambito di applicazione del GDPR?**
 
-Il GDPR disciplina la raccolta, l'archiviazione, l'utilizzo e la condivisione dei "dati personali". Nel GDPR, i dati personali sono definiti molto ampiamente come qualsiasi dato relativo a una persona fisica identificata o identificabile.
+Il GDPR regola la raccolta, la conservazione, l'elaborazione e la condivisione dei "dati personali". I dati personali sono definiti in modo molto ampio nel GDPR, come qualsiasi dato relativo a una persona fisica identificata o identificabile.
 
 I dati personali possono includere, ad esempio, identificatori online (come gli indirizzi IP), informazioni sui dipendenti, database di vendita, dati sui servizi al cliente, moduli per i feedback dei clienti, dati sulla posizione, dati biometrici, riprese a circuito chiuso, record relativi a programmi di fidelizzazione, informazioni sanitarie e finanziare e molto altro. Possono anche includere informazioni che potrebbero non sembrare personali, ad esempio la foto di un panorama senza persone, in cui le informazioni sono collegate tramite un numero di account o un codice univoco a una persona identificabile. Anche i dati personali pseudonimizzati possono essere dati personali se lo pseudonimo può essere ricondotto a una persona specifica.
 
@@ -313,7 +313,7 @@ Nel caso in cui il trattamento continuo e la conservazione dei dati siano legitt
 
 **Il GDPR si occupa della crittografia?**
 
-Nell'ambito del GDPR, la crittografia è identificata come misura protettiva che rende i dati personali incomprensibili in caso di violazione. Pertanto, il fatto che la crittografia venga utilizzata o meno può influire sui requisiti di notifica in caso di violazione dei dati personali. Il GDPR considera inoltre la crittografia come una misura tecnica o organizzativa appropriata in alcuni casi, a seconda del rischio. La crittografia è anche un requisito per la conformità al PCI DSS (Payment Card Industry Data Security Standard) e fa parte delle rigorose linee guida di conformità specifiche del settore dei servizi finanziari. I prodotti e servizi Microsoft come Azure, Dynamics 365, Enterprise Mobility + Security, Microsoft Office 365, SQL Server/Database SQL di Azure e Windows 10 offrono una solida crittografia dei dati in transito e dei dati inattivi.
+Nell'ambito del GDPR, la crittografia è identificata come misura protettiva che rende i dati personali incomprensibili in caso di violazione. Pertanto, il fatto che la crittografia venga utilizzata o meno può influire sui requisiti di notifica in caso di violazione dei dati personali. Il GDPR considera inoltre la crittografia come una misura tecnica o organizzativa appropriata in alcuni casi, a seconda del rischio. La crittografia è anche un requisito per la conformità al PCI DSS (Payment Card Industry Data Security Standard) e fa parte delle rigorose linee guida di conformità specifiche del settore dei servizi finanziari. I prodotti e servizi Microsoft come Azure, Dynamics 365, Enterprise Mobility + Security, Microsoft Office 365, SQL Server/Database SQL di Azure, Windows 10 e Windows 11 offrono una solida crittografia dei dati in transito e dei dati inattivi.
 
 **In che modo il GDPR cambia la risposta di un'organizzazione alle violazioni dei dati personali?**
 

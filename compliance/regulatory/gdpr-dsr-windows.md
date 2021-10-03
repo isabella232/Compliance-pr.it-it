@@ -18,21 +18,22 @@ ms.collection:
 - M365-security-compliance
 - MS-Compliance
 hideEdit: true
-ms.openlocfilehash: 202b8aa75d3dd6fc94025a1a30f922563fc73e7b
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 52db464f30ac518cb60fcb62ad908e0fb3de31eb
+ms.sourcegitcommit: 0777355cfb73c07d2b7e11d95a5996be8913b2af
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59158953"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "60050570"
 ---
 # <a name="windows-diagnostic-data-processor-configuration-data-subject-requests-for-the-gdpr-and-ccpa"></a>Richieste degli interessati della configurazione del responsabile del trattamento dei dati di diagnostica Windows relative al GDPR e al CCPA
 
->[!NOTE]
->Questo argomento si applica alle edizioni di Windows 10 Enterprise, Pro ed Education, versione 1809 con aggiornamento di luglio 2021 e versioni successive.
+**Si applica a:**
+-   Edizioni di Windows 10 Enterprise, Pro ed Education, versione 1809 con aggiornamento di luglio 2021 e versioni successive.
+-   Windows 11 Enterprise, Pro e Education Edition
 
-## <a name="introduction-to-data-subject-requests-dsrs"></a>Introduzione alle richieste degli interessati (DSR)
+## <a name="introduction-to-data-subject-requests-dsrs"></a>Introduzione alle richieste dell'interessato (DSR)
 
-Il Regolamento generale europeo sulla protezione dei dati (GDPR) attribuisce alle persone (definite nel regolamento _soggetti interessati_) il diritto di gestire i dati personali raccolti da un datore di lavoro o da un altro tipo di ente o organizzazione (definito _titolare del trattamento dei dati_ o semplicemente _titolare del trattamento_). Nel GDPR, i dati personali sono definiti molto ampiamente come qualsiasi dato relativo a una persona fisica identificata o identificabile. In base al regolamento GDPR, ai soggetti dei dati vengono assegnati diritti specifici relativamente ai dati personali, tra i quali il diritto di ottenerne copie, richiedere correzioni, limitarne l'elaborazione, eliminarli o riceverli in formato elettronico in modo che possano essere trasferiti a un altro titolare. Una richiesta formale da un soggetto interessato a un titolare del trattamento di agire sui dati personali viene definita una _Richiesta dell’interessato_ o DSR.
+Il Regolamento generale sulla protezione dei dati (GDPR) dell'Unione europea garantisce alle persone (denominate come _interessati_ nel regolamento) il diritto di gestire i dati personali raccolti da un datore di lavoro o da un'altra organizzazione o agenzia (definiti come _titolari del trattamento dei dati_ o semplicemente _titolari_). I dati personali sono definiti nel GDPR in modo ampio come dati che si riferiscono a una persona fisica identificata o identificabile. Il GDPR garantisce agli interessati diritti specifici sui propri dati personali; tali diritti includono la possibilità di ottenere copie dei dati personali, richiedere di apportare modifiche ai dati, limitare il trattamento dei dati, eliminarli o riceverli in un formato elettronico affinché possano essere trasferiti a un altro titolare. Una richiesta formale di un interessato rivolta a un titolare in merito a un'operazione da effettuare sui propri dati personali è denominata _Richiesta dell’interessato_.
 
 Analogamente, il California Consumer Privacy Act (CCPA) prevede obblighi e diritti in materia di privacy per i consumatori della California, inclusi diritti simili a quelli che il GDPR riconosce all'interessato, ad esempio il diritto di eliminare, ricevere e accedere alle informazioni personali (portabilità). Nell'ambito dei diritti che i consumatori possono esercitare, il CCPA prevede inoltre l'obbligo per determinate divulgazioni, di protezioni contro la discriminazione e requisiti di “consenso o rifiuto esplicito” per alcuni trasferimenti di dati classificati come “vendite”. In generale, la definizione di vendite include la condivisione di dati a titolo oneroso. Per altre informazioni sul CCPA, vedere il [California Consumer Privacy Act](/microsoft-365/compliance/offering-ccpa) e le [Domande frequenti sul California Consumer Privacy Act](/microsoft-365/compliance/ccpa-faq).
 
@@ -72,7 +73,7 @@ Microsoft consente di accedere, eliminare ed esportare i dati di diagnostica Win
 > Alcuni dati di diagnostica Windows sono associati solo a un identificatore di dispositivo e non a un utente specifico. Questo tipo di dati a livello di dispositivo non viene esportato e viene eliminato dai sistemi entro 30 giorni.<br><br>
 > La possibilità di rettificare i dati di diagnostica Windows non è supportata. I dati di diagnostica Windows costituiscono le azioni effettive eseguite all’interno di Windows e le modifiche a tali dati potrebbero compromettere il record cronologico delle azioni, aumentare i rischi per la sicurezza e compromettere l’affidabilità.
 
-La sezione successiva illustra le procedure per eseguire una richiesta dell'interessato relativa ai dati di diagnostica Windows associati a un ID utente di Azure Active Directory (AAD). Per altre informazioni, vedere [Windows 10 e conformità in materia di privacy: guida per professionisti IT e della conformità](/windows/privacy/windows-10-and-privacy-compliance).
+La sezione successiva illustra le procedure per eseguire una richiesta dell'interessato relativa ai dati di diagnostica Windows associati a un ID utente di Azure Active Directory (AAD). Per altre informazioni, vedere [Windows 10 e Windows 11 e conformità in materia di privacy: guida per professionisti IT e della conformità](/windows/privacy/windows-10-and-privacy-compliance).
 
 ## <a name="executing-dsrs-against-windows-diagnostic-data"></a>Esecuzione delle richieste degli interessati rispetto ai dati di diagnostica Windows
 
@@ -90,16 +91,16 @@ Microsoft offre la possibilità di eseguire le richieste di eliminazione dell’
 
 Per le richieste di eliminazione basate sull'utente, Microsoft offre due soluzioni.  Un’esperienza portale consente all'amministratore tenant del cliente aziendale di gestire le richieste di eliminazione dell'interessato. [Richiesta dell'interessato per Azure, parte 1, passaggio 5: eliminazione](/microsoft-365/compliance/gdpr-dsr-azure#step-5-delete) descrive come eseguire una richiesta di eliminazione dell’interessato relativa ai dati di diagnostica Windows, tramite l’eliminazione di un utente associato ai dati, attraverso il portale di Azure.
 
-Microsoft consente inoltre di eliminare gli utenti, che a loro volta elimineranno i dati di diagnostica Windows, direttamente tramite l’API preesistente. Informazioni dettagliate sono disponibili nella [ documentazione di riferimento dell’API](/graph/api/directory-deleteditems-delete).
+Microsoft consente anche di eliminare gli utenti, eliminando in tal modo anche i dati di diagnostica Windows, direttamente tramite un API preesistente. I dettagli sono forniti nella [documentazione di riferimento dell'API](/graph/api/directory-deleteditems-delete).
 
 >[!IMPORTANT]
 >L'eliminazione dei dati raccolti non interrompe la raccolta ulteriore di dati dal dispositivo. Per disattivare la raccolta dei dati, seguire la procedura descritta nella [documentazione di riferimento del relativo servizio](/windows/privacy/configure-windows-diagnostic-data-in-your-organization#enterprise-management).
 
 ### <a name="step-3-export"></a>Passaggio 3: esportazione
 
-L'amministratore tenant è l'unica persona all’interno dell'organizzazione che può accedere ai dati di diagnostica Windows associati all'uso da parte di un utente specifico di un dispositivo abilitato con configurazione del responsabile del trattamento dei dati di diagnostica Windows. I dati recuperati per una richiesta di esportazione saranno disponibili in un formato leggibile dal computer e verranno forniti nei file che consentiranno all'utente di comprendere a quali servizi e dispositivi sono associati i dati. Come indicato in precedenza, i dati recuperati non includeranno dati che potrebbero compromettere la sicurezza o la stabilità del dispositivo Windows. [Richiesta dell'interessato per Azure, parte 2, passaggio 3: esportazione](/microsoft-365/compliance/gdpr-dsr-azure#step-3-export) descrive come eseguire una richiesta di esportazione dell’interessato relativa ai dati di diagnostica Windows attraverso il portale di Azure.
+L'amministratore tenant è l'unica persona all’interno dell'organizzazione che può accedere ai dati di diagnostica Windows associati all'uso da parte di un utente specifico di un dispositivo abilitato alla configurazione del responsabile del trattamento dei dati di diagnostica Windows. I dati recuperati per una richiesta di esportazione saranno resi disponibili in un formato leggibile dal computer e verranno forniti in file che consentiranno all'utente di comprendere a quali servizi e dispositivi sono associati i dati. Come indicato in precedenza, i dati recuperati non includeranno dati che potrebbero compromettere la sicurezza o la stabilità del dispositivo Windows. [Richiesta dell’interessato in Azure, parte 2, passaggio 3: esportazione](/microsoft-365/compliance/gdpr-dsr-azure#step-3-export) descrive come eseguire una richiesta di esportazione dell'interessato attraverso il portale di Azure.
 
-Microsoft consente di esportare i dati di diagnostica Windows direttamente tramite l’API preesistente. Informazioni dettagliate sono disponibili nella [ documentazione di riferimento dell’API](/graph/api/user-exportpersonaldata).
+Microsoft consente anche di esportare i dati di diagnostica Windows direttamente tramite un'API preesistente. Informazioni dettagliate sono disponibili nella [documentazione di riferimento dell'API](/graph/api/user-exportpersonaldata).
 
 ## <a name="notify-us-about-exporting-or-deleting-issues"></a>Notificare problemi riguardanti l'esportazione o l'eliminazione
 

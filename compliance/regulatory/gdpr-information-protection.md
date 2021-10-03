@@ -18,12 +18,12 @@ ms.collection:
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
 hideEdit: true
-ms.openlocfilehash: cf5ef95e9504ba2d63a56dc3d4f7d22398d61255
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 4153c28a6e82829114abd51169dbdfa3220aa76c
+ms.sourcegitcommit: 0777355cfb73c07d2b7e11d95a5996be8913b2af
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59159703"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "60050590"
 ---
 # <a name="information-protection-for-gdpr-with-microsoft-365-capabilities"></a>Protezione delle informazioni per RGPD con le funzionalità di Microsoft 365
 
@@ -59,8 +59,8 @@ La protezione dalle minacce è incorporata in tutti i servizi Microsoft 365. Ecc
 
 - [Roadmap sulla sicurezza di Office 365: priorità per i primi 30 giorni, 90 giorni e oltre](/microsoft-365/security/office-365-security/security-roadmap). Questa roadmap include elementi consigliati per l'implementazione delle funzionalità. 
 - [Protezione dalle minacce in Office 365](/microsoft-365/security/office-365-security/protect-against-threats). Informazioni sulle azioni di protezione che è possibile eseguire nel Centro sicurezza Microsoft 365.
-- [Windows Threat Protection](/windows/security/threat-protection/). Altre informazioni su Microsoft Defender per endpoint e altre funzionalità in Windows 10.
+- [Protezione dalle minacce di Windows](/windows/security/threat-protection/). Altre informazioni su Microsoft Defender per endpoint e altre funzionalità in Windows 10 e Windows 11.
 
-## <a name="learn-more"></a>Ulteriori informazioni
+## <a name="learn-more"></a>Altre informazioni
 
 [Centro protezione Microsoft](https://www.microsoft.com/trust-center/privacy/gdpr-overview)
