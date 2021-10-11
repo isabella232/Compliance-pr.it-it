@@ -9,8 +9,6 @@ f1.keywords:
 - NOCSH
 audience: Admin
 ms.topic: article
-f1_keywords:
-- ms.o365.cc.SupervisoryReview
 ms.service: O365-seccomp
 ms.localizationpriority: medium
 ms.collection:
@@ -22,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: b2f88172d2a8158a2232acd1c4312217d7c3fef4
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 283eb6837032f44db29e1d64e8ce6a5e1236e747
+ms.sourcegitcommit: cf424cb1e7c12048120977f294f780b776119a96
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59159229"
+ms.lasthandoff: 10/11/2021
+ms.locfileid: "60265038"
 ---
 # <a name="datacenter-security-overview"></a>Panoramica sulla sicurezza del datacenter
 
