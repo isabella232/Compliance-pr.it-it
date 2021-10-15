@@ -36,6 +36,8 @@
       href: assurance-datacenter-environmental-safeguards.md
     - name: Sicurezza dell'accesso fisico
       href: assurance-datacenter-physical-access-security.md
+    - name: Gestione delle risorse
+      href: assurance-datacenter-asset-management.md
     - name: Distruzione di dispositivi contenenti dati
       href: assurance-data-bearing-device-destruction.md
     - name: Continuità aziendale e ripristino di emergenza

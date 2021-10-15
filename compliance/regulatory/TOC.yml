@@ -328,3 +328,7 @@
   items:
     - name: 'CCPA: domande frequenti'
       href: ccpa-faq.yml
+- name: Virginia Consumer Data Protection Act (VCDPA)
+  items:
+    - name: 'VCDPA: domande frequenti'
+      href: vcdpa-faq.yml
