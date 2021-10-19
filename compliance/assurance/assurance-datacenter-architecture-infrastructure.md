@@ -19,22 +19,26 @@ f1.keywords:
 - NOCSH
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 44876abef95f269d454139fd721194ef3d48dcd4
-ms.sourcegitcommit: cf424cb1e7c12048120977f294f780b776119a96
+ms.openlocfilehash: 6d9304cd0099ba95da8c58432802a3b1c836b1d4
+ms.sourcegitcommit: 02b7aa81f950037d3c959a522336a7d7af579e86
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/11/2021
-ms.locfileid: "60265118"
+ms.lasthandoff: 10/19/2021
+ms.locfileid: "60477951"
 ---
 # <a name="datacenter-architecture-and-infrastructure"></a>Architettura e infrastruttura del datacenter
 
-I datacenter Microsoft sono progettati per implementare una strategia di difesa approfondita, utilizzando più livelli di misure di sicurezza per proteggere in modo affidabile l'architettura cloud e l'infrastruttura di supporto. La ridondanza è integrata in tutti i sistemi a più livelli per supportare la disponibilità del datacenter.
+I datacenter Microsoft sono progettati per implementare una strategia di difesa approfondita, utilizzando più livelli di misure di sicurezza per proteggere in modo affidabile l'architettura cloud e supportare l'infrastruttura. La ridondanza è integrata in tutti i sistemi a più livelli per supportare la disponibilità del datacenter.
 
 Microsoft ha strutture di datacenter altamente protette distribuite in tutto il mondo creando un'infrastruttura datacenter distribuita, che supporta migliaia di servizi online. Questa infrastruttura distribuita a livello globale è progettata per avvicinare le applicazioni agli utenti, mantenere la residenza dei dati e offrire ai clienti opzioni complete di conformità e resilienza.
 
 Le aree geografiche sono insiemi di datacenter interconnessi tramite una rete di grandi dimensioni e resiliente. Le aree geografiche sono organizzate in aree geografiche, per consentire ai clienti con residenza e conformità di dati specifici di mantenere i propri dati e applicazioni vicini. La tolleranza di errore incorporata consente alle aree geografiche di sopportare un errore di area completa tramite la connessione all'infrastruttura di rete dedicata ad alta capacità.
 
 Le posizioni fisicamente separate all'interno di un'area sono denominate aree di disponibilità, ognuna delle quali è costituito da uno o più datacenter dotati di alimentazione, raffreddamento e rete indipendenti. Le aree di disponibilità consentono l'esecuzione di applicazioni mission-critical con la replica a disponibilità elevata e a bassa latenza.
+
+Nella figura seguente viene illustrato il modo in cui l'infrastruttura globale abbina aree e aree di disponibilità all'interno dello stesso limite di residenza dei dati per la disponibilità elevata, il ripristino di emergenza e il backup.
+
+![Limiti di residenza dei dati.](../media/assurance-data-residency-boundary.png)
 
 I data center distribuiti geograficamente consentono a Microsoft di avvicinare i servizi ai clienti, ridurre la latenza di rete e consentire backup e failover con ridondanza geografica.
 
@@ -44,7 +48,7 @@ I datacenter Microsoft sono progettati per fornire una disponibilità del 99,999
 
 ## <a name="compliance-standards-and-requirements"></a>Standard e requisiti di conformità
 
-Microsoft ha investito oltre $15 miliardi per la creazione dell'infrastruttura globale e oltre 9 miliardi di dollari in ricerca e sviluppo per aumentare l'efficienza e guidare l'innovazione. Di conseguenza, i data center di Microsoft si stanno evolvendo a un ritmo più rapido rispetto a molte strutture del settore e pertanto non seguono requisiti prescrittivi delineati dagli standard tradizionali del datacenter. Oltre alla vasta gamma di informazioni operative che derivano dall'esecuzione di uno dei più grandi portfolio di datacenter al mondo, Microsoft utilizza i dati del Manuale D'oro IEEE e software di simulazione dell'affidabilità di terze parti per migliorare continuamente i nostri standard di progettazione dei datacenter. I datacenter Microsoft vengono controllati in modo approfondito nell'ambito di diversi controlli normativi, come descritto nel portfolio di conformità. Il livello di maturità nei data center Microsoft può essere valutato tramite il portfolio di conformità e, in particolare, per la resilienza, la certificazione ISO 22301.
+Microsoft ha investito più di 15 miliardi di dollari per la creazione dell'infrastruttura globale e oltre 9 miliardi di dollari in ricerca e sviluppo per aumentare l'efficienza e guidare l'innovazione. Di conseguenza, i data center di Microsoft si stanno evolvendo a un ritmo più rapido rispetto a molte strutture del settore e pertanto non seguono requisiti prescrittivi delineati dagli standard tradizionali del datacenter. Oltre alla vasta gamma di informazioni operative che derivano dall'esecuzione di uno dei più grandi portfolio di datacenter al mondo, Microsoft utilizza i dati del Manuale D'oro IEEE e software di simulazione dell'affidabilità di terze parti per migliorare continuamente i nostri standard di progettazione dei datacenter. I datacenter Microsoft vengono controllati in modo approfondito nell'ambito di diversi controlli normativi, come descritto nel portfolio di conformità. Il livello di maturità nei data center Microsoft può essere valutato tramite il portfolio di conformità e, in particolare, per la resilienza, la certificazione ISO 22301.
 
 Mentre Microsoft gestisce programmi allineati allo spirito dell'infrastruttura di telecomunicazioni ANSI/TIA-942 di Datacenters Standard, parti di questo standard non sono applicabili a Microsoft o sono in conflitto con altri requisiti normativi e/o specifici del paese. Inoltre, Microsoft ha scelto di utilizzare un approccio più basato sulle prestazioni per soddisfare le esigenze dei clienti.
 
@@ -58,7 +62,7 @@ La replica geografica viene utilizzata per fornire ridondanza a posizioni geogra
 
 Cloud Operations è un team dedicato alla capacità che prevede requisiti futuri per garantire che la capacità necessaria sia strutturata e disponibile per l'uso interno e del cliente. I sistemi vengono monitorati per garantire prestazioni del servizio accettabili, disponibilità, utilizzo del servizio, utilizzo dello spazio di archiviazione, latenza di rete e capacità del registro di controllo. Microsoft protegge inoltre i datacenter dagli effetti degli attacchi Denial of Service sulla larghezza di banda, sulla capacità transazionale e sulla capacità di archiviazione.
 
-Tutti i team di servizio includono la pianificazione della capacità come funzionalità chiave dei modelli di datacenter e dei piani di replica dei dati per garantire la capacità necessaria per l'elaborazione delle informazioni, le telecomunicazioni e il supporto ambientale.
+Tutti i team di servizio includono la pianificazione della capacità come caratteristica chiave dei modelli di datacenter e dei piani di replica dei dati per garantire che sia necessaria la capacità per l'elaborazione delle informazioni, le telecomunicazioni e il supporto ambientale.
 
 ## <a name="power"></a>Alimentazione
 
@@ -72,7 +76,7 @@ I datacenter Microsoft (sia in leasing che completamente gestiti) implementano l
 
 ## <a name="maintenance"></a>Manutenzione
 
-I criteri e le procedure di manutenzione del sistema sono in atto in conformità con lo Standard di sicurezza fisica e ambientale dei Servizi *online di Microsoft.* Tutte le attrezzature e i sistemi Microsoft vengono regolarmente gestiti per garantire l'efficienza operativa. La manutenzione di qualsiasi attrezzatura o sistema deve essere eseguita in conformità alle raccomandazioni del produttore, eseguita da personale autorizzato e registrata in un ticket di manutenzione.
+I criteri e le procedure di manutenzione del sistema sono in atto in conformità al *Microsoft Online Services Physical and Environmental Security Standard.* Tutte le attrezzature e i sistemi Microsoft vengono regolarmente gestiti per garantire l'efficienza operativa. La manutenzione di qualsiasi attrezzatura o sistema deve essere eseguita in conformità alle raccomandazioni del produttore, eseguita da personale autorizzato e registrata in un ticket di manutenzione.
 
 Esistono due team di asset che gestiscono diversi tipi di sistemi:
 
