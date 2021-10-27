@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 3b0a4c7f12eba49c252f71e47eda1685fd4d41a4
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 8367f147e9d0e02ad76d97c665ad66559a743d06
+ms.sourcegitcommit: 1f30616328d7deb04e41dcbd44a330ea937fe94f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59159546"
+ms.lasthandoff: 10/26/2021
+ms.locfileid: "60582506"
 ---
 # <a name="supplier-management-overview"></a>Panoramica sulla gestione dei fornitori
 
@@ -58,7 +58,7 @@ I fornitori di terze parti sono tenuti a firmare un Contratto master Microsoft c
 
 ## <a name="how-does-microsoft-notify-customers-of-changes-to-suppliers-who-process-their-data"></a>In che modo Microsoft notifica ai clienti le modifiche apportate ai fornitori che elaborano i dati?
 
-In base al Microsoft Online Service Data Protection Addendum (DPA), Microsoft prende ulteriori impegni relativi ai periodi di preavviso per l'aggiunta di qualsiasi sottoprocessore. L'intervallo di tempo dipende dal tipo di dati elaborati dal sottoprocessore per conto di Microsoft. Come indicato nel DPA, Microsoft si impegna a fornire una notifica ai clienti almeno sei mesi prima di qualsiasi nuovo sottoprocessore che eserciterà i dati dei clienti. Per qualsiasi altro dato personale, Microsoft fornirà almeno 30 giorni di preavviso. Avviso fornito dall'aggiornamento [dell'elenco Microsoft Online Services sottoprocessore](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=926b2cf5-6b6e-43ca-9bc3-f73e961aad5f&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913_Subprocessor_List).
+In base al Microsoft Online Service Data Protection Addendum (DPA), Microsoft prende ulteriori impegni relativi ai periodi di preavviso per l'aggiunta di qualsiasi sottoprocessore. L'intervallo di tempo dipende dal tipo di dati elaborati dal sottoprocessore per conto di Microsoft. Come indicato nel DPA, Microsoft si impegna a fornire una notifica ai clienti almeno sei mesi prima di qualsiasi nuovo sottoprocessore che eserciterà i dati dei clienti. Per qualsiasi altro dato personale, Microsoft fornirà almeno 30 giorni di preavviso. Avviso fornito dall'aggiornamento [dell'elenco Microsoft Online Services sottoprocessore](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=ede6342e-d641-4a9b-9162-7d66025003b0&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913_Subprocessor_List).
 
 ## <a name="related-external-regulations--certifications"></a>Normative esterne correlate & certificazioni
 
@@ -78,8 +78,8 @@ I servizi online di Microsoft vengono regolarmente controllati per la conformit�
 | **Controlli esterni** | **Sezione** | **Data ultimo report** |
 |:--------------------|:------------|:-----------------------|  
 | [FedRAMP](https://compliance.microsoft.com/compliancemanager) | CA-3: Interconnessioni di sistema <br> IA-4: Gestione degli identificatori <br> PS-6: contratti di accesso <br> PS-7: sicurezza del personale di terze parti <br> SA-4: Processo di acquisizione <br> SA-9: Servizi del sistema informazioni esterno <br> SA-12: Protezione della catena di approvvigionamento | 24 settembre 2020 |
-| [ISO 27001/27002/27017](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [Dichiarazione di applicabilità](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A.15.1: Sicurezza delle informazioni nelle relazioni con i fornitori | 20 aprile 2021 |
-| [ISO 27018](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [Dichiarazione di applicabilità](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) |  A.8.1: Divulgazione del trattamento delle informazioni personali in conto lavoro | 24 dicembre 2020 |
+| [ISO 27001/27002/27017](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [Dichiarazione di applicabilità](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br> [Certificazione](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=1e84a14a-2468-45ac-9412-5e53250d57ec&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A.15.1: Sicurezza delle informazioni nelle relazioni con i fornitori | 20 aprile 2021 |
+| [ISO 27018](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [Dichiarazione di applicabilità](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br> [Certificazione](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=43e89534-f48d-42ea-a7a7-3523ff516036&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A.8.1: Divulgazione del trattamento delle informazioni personali in conto lavoro | 24 dicembre 2020 |
 | [SOC 2](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=a73c1738-7892-42b7-acd3-87b6371c53f6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-53: Monitoraggio di terze parti | 24 dicembre 2020 |
 
 ## <a name="resources"></a>Risorse

@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 8be83f6faa3d365e2cb91c996e2c87367797670f
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: a357fe77336fc6939fd01d277c4fa7046f37cd4b
+ms.sourcegitcommit: 1f30616328d7deb04e41dcbd44a330ea937fe94f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59159619"
+ms.lasthandoff: 10/26/2021
+ms.locfileid: "60582519"
 ---
 # <a name="risk-management-overview"></a>Panoramica sulla gestione dei rischi
 
@@ -41,7 +41,7 @@ Microsoft ERM consente principi comuni di gestione dei rischi nell'organizzazion
 
 ## <a name="how-do-microsoft-online-services-work-with-erm"></a>Come funzionano i servizi online Microsoft con ERM?
 
-Ogni servizio online segue le indicazioni ERM per gestire i rischi in servizi Microsoft. Il programma si concentra sull'allineamento del framework ERM con i processi di progettazione, gestione dei servizi e conformità Microsoft esistenti, rendendo il programma di gestione dei rischi più efficace ed efficiente. Le attività di gestione dei rischi di ogni servizio online vengono infine rimboccate e informate del processo ERM.
+Ogni servizio online segue le indicazioni ERM per gestire i rischi tra servizi Microsoft. Il programma si concentra sull'allineamento del framework ERM con i processi di progettazione, gestione dei servizi e conformità Microsoft esistenti, rendendo il programma di gestione dei rischi più efficace ed efficiente. Le attività di gestione dei rischi di ogni servizio online vengono infine rimboccate e informate del processo ERM.
 
 Nell'ambito delle attività di valutazione dei rischi, ogni servizio online analizza la progettazione e l'efficacia operativa dei controlli implementati nell'ambito di Microsoft Controls Framework (Framework). Framework è un insieme razionalizzato di controlli che, se implementati correttamente insieme al supporto delle attività di conformità, consentono ai team di progettazione di conformarsi a normative e certificazioni chiave.
 
@@ -64,6 +64,6 @@ I servizi online di Microsoft vengono regolarmente controllati per la conformit�
 | **Controlli esterni** | **Sezione** | **Data ultimo report** |
 |:--------------------|:------------|:-----------------------|
 | [FedRAMP](https://compliance.microsoft.com/compliancemanager) | CA-2: Valutazioni della sicurezza <br> CA-5: Pianificare l'azione e le attività cardine <br> RA-3: valutazione dei rischi | 24 settembre 2020 |
-| [ISO 27001/27002/27017](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [Dichiarazione di applicabilità](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A.5: Criteri di sicurezza delle informazioni | 20 aprile 2021 |
+| [ISO 27001/27002/27017](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [Dichiarazione di applicabilità](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br> [Certificazione](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=1e84a14a-2468-45ac-9412-5e53250d57ec&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A.5: Criteri di sicurezza delle informazioni | 20 aprile 2021 |
 | [SOC 1](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=90df3f9c-3aaf-4dbf-99d0-ca9f2991721b&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-03: Gestione dei rischi | 24 dicembre 2020 |
 | [SOC 2](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=a73c1738-7892-42b7-acd3-87b6371c53f6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-02: Responsabilità del team di governance, rischio e conformità <br> CA-03: Gestione dei rischi <br> CA-17: Criteri di sicurezza Microsoft <br> CA-24: Valutazione dei rischi interni | 24 dicembre 2020 |

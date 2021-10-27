@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 97fe615296f03c8f72dbf23d886501988686b53a
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 513fe8b9f9a4ed5db71606704738cb46a6af8ed1
+ms.sourcegitcommit: 1f30616328d7deb04e41dcbd44a330ea937fe94f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59159295"
+ms.lasthandoff: 10/26/2021
+ms.locfileid: "60582669"
 ---
 # <a name="architecture-overview"></a>Panoramica dell'architettura
 
@@ -41,7 +41,7 @@ Microsoft Azure è una piattaforma di cloud computing per la creazione, la distr
 
 ## <a name="what-is-dynamics-365"></a>Che cos'è Dynamics 365?
 
-Dynamics 365 è una famiglia di applicazioni aziendali online che integra le funzionalità di Customer Relationship Management (CRM) e le relative estensioni con le funzionalità ERP (Enterprise Resource Planning). Queste applicazioni aziendali end-to-end consentono ai clienti di trasformare le relazioni in ricavi, guadagnare clienti e accelerare la crescita aziendale. Dynamics 365 è una famiglia di prodotti Software as a Service (SaaS) che si basa sull'infrastruttura di Azure ed è resa disponibile per i clienti di tutto il mondo tramite i datacenter distribuiti a livello globale.
+Dynamics 365 è una famiglia di applicazioni aziendali online che integra le funzionalità crm (Customer Relationship Management) e le relative estensioni con le funzionalità ERP (Enterprise Resource Planning). Queste applicazioni aziendali end-to-end consentono ai clienti di trasformare le relazioni in ricavi, guadagnare clienti e accelerare la crescita aziendale. Dynamics 365 è una famiglia di prodotti Software as a Service (SaaS) che si basa sull'infrastruttura di Azure ed è resa disponibile per i clienti di tutto il mondo tramite i datacenter distribuiti a livello globale.
 
 ## <a name="what-is-microsoft-365"></a>Che cos'è Microsoft 365?
 
@@ -53,7 +53,7 @@ In termini di scalabilità, Microsoft attualmente usa quasi un milione di comput
 
 I servizi cloud di Microsoft si basano sul presupposto che tutti i tenant siano potenzialmente dannosi per tutti gli altri tenant. Per isolare correttamente i tenant l'uno dall'altro, Microsoft implementa diverse tecnologie e controlli di isolamento. Questi controlli sono progettati per evitare perdite di informazioni o accessi non autorizzati ai dati dei clienti nei tenant e per impedire che le azioni di un tenant influiscano negativamente sul servizio per un altro tenant.
 
-Il contenuto del cliente è isolato logicamente all'interno dei tenant usando Azure Active Directory (Azure AD). L'autenticazione utente nei Servizi online Microsoft verifica non solo l'identità utente, ma anche l'identità del tenant di cui fa parte l'account utente, impedendo agli utenti di accedere ai dati all'esterno dell'ambiente tenant. Per integrare l'isolamento logico di Azure AD, i contenuti dei clienti vengono sempre crittografati in fase di riposo e in transito. I singoli servizi possono inoltre fornire livelli aggiuntivi di isolamento del tenant, ad esempio l'isolamento SharePoint online dei dati del tenant in database separati crittografati.
+Il contenuto dei clienti è isolato logicamente all'interno dei tenant usando Azure Active Directory (Azure AD). L'autenticazione utente nei Servizi online Microsoft verifica non solo l'identità utente, ma anche l'identità del tenant di cui fa parte l'account utente, impedendo agli utenti di accedere ai dati all'esterno dell'ambiente tenant. Per integrare l'isolamento logico delle Azure AD, il contenuto del cliente viene sempre crittografato in fase di riposo e in transito. I singoli servizi possono inoltre fornire livelli aggiuntivi di isolamento del tenant, ad esempio l'isolamento SharePoint online dei dati del tenant in database separati e crittografati.
 
 ## <a name="how-do-microsoft-online-services-engineer-resilient-services-that-avoid-single-points-of-failure"></a>In che modo i Servizi online Microsoft possono progettare servizi resilienti che evitano singoli punti di errore?
 
@@ -86,6 +86,6 @@ I servizi online di Microsoft vengono regolarmente controllati per la conformit�
 | **Controlli esterni** | **Sezione** | **Data ultimo report** |
 |:--------------------|:------------|:-----------------------|
 | [FedRAMP](https://compliance.microsoft.com/compliancemanager) | AC-4: applicazione del flusso di informazioni <br> CP-9: backup del sistema di informazioni <br> PL-8: architettura di sicurezza delle informazioni <br> SC-7: Protezione dei limiti <br> SC-22: architettura e provisioning | 24 settembre 2020 |
-| [ISO 27001/27002/27017](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [Dichiarazione di applicabilità](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A.6: Organizzazione della sicurezza delle informazioni <br> A.13.1: Gestione della sicurezza di rete <br> A.17.2: Licenzianze | 20 aprile 2021 |
+| [ISO 27001/27002/27017](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [Dichiarazione di applicabilità](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br> [Certificazione](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=1e84a14a-2468-45ac-9412-5e53250d57ec&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A.6: Organizzazione della sicurezza delle informazioni <br> A.13.1: Gestione della sicurezza di rete <br> A.17.2: Licenzianze | 20 aprile 2021 |
 | [SOC 1](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=90df3f9c-3aaf-4dbf-99d0-ca9f2991721b&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-37: Isolamento tenant <br> CA-49: Criteri di backup <br> CA-51: Replica dei dati | 24 dicembre 2020 |
 | [SOC 2](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=a73c1738-7892-42b7-acd3-87b6371c53f6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-05: Diagrammi del flusso di dati <br> CA-37: Isolamento tenant <br> CA-49: Criteri di backup <br> CA-51: Replica dei dati | 24 dicembre 2020 |
