@@ -1,3 +1,5 @@
+- name: Guida alla valutazione dei rischi per Microsoft Cloud
+  href: assurance-risk-assessment-guide.md
 - name: Architettura
   items:
     - name: Panoramica dell'architettura
@@ -10,8 +12,6 @@
       href: assurance-microsoft-365-isolation-controls.md
     - name: Sicurezza dell'infrastruttura Microsoft 365
       href: assurance-securing-microsoft-365-infrastructure.md
-    - name: Responsabilità condivisa
-      href: /azure/security/fundamentals/shared-responsibility?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
 - name: Registrazione di controllo
   items:
     - name: Panoramica sulla registrazione di controllo
@@ -192,6 +192,8 @@
   items:
     - name: Panoramica sulle operazioni e sullo sviluppo della sicurezza
       href: assurance-security-development-and-operation.md
+    - name: Programma Conformità Microsoft 365
+      href: assurance-microsoft-365-compliance-program.md
     - name: Integrità del codice di Azure
       href: /azure/security/fundamentals/code-integrity?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
 - name: Monitoraggio della sicurezza
