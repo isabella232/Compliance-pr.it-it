@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 97875374c58bf174090a9dd34f26d3e22b2b50b3
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: e95b5c2b73f6b48cbab40bbc5d8d3aff6375cc48
+ms.sourcegitcommit: 9843c6a0318dfea189b07f9cd80e33c3e8f6d676
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59159379"
+ms.lasthandoff: 11/03/2021
+ms.locfileid: "60725672"
 ---
 # <a name="health-information-trust-alliance-hitrust-common-security-framework-csf"></a>Health Information Trust Alliance (HITRUST) Common Security Framework (CSF)
 
@@ -39,7 +39,7 @@ HITRUST offre tre gradi di garanzia o livelli di valutazione: autovalutazione, C
 
 Scopri come accelerare la distribuzione di HITRUST con il nostro blueprint di sicurezza e conformità di Azure.
 
-[Scarica il blueprint Microsoft Azure HITRUST Customer Responsibility Matrix (CRM) v9.0d](https://servicetrust.microsoft.com/ViewPage/Blueprint?command=Download&downloadType=Document&downloadId=3ccde498-4761-4be0-be8b-cd8d379a3a4f&docTab=fc060920-cdb8-11e7-bacf-0bf52b09d912_Healthcare_Blueprint)
+[Scaricare il blueprint Microsoft Azure HITRUST Customer Responsibility Matrix (CRM) v9.0d](https://servicetrust.microsoft.com/ViewPage/Blueprint?command=Download&downloadType=Document&downloadId=3ccde498-4761-4be0-be8b-cd8d379a3a4f&docTab=fc060920-cdb8-11e7-bacf-0bf52b09d912_Healthcare_Blueprint)
 
 ## <a name="microsoft-in-scope-cloud-platforms--services"></a>Piattaforme e servizi cloud Microsoft inclusi nell'ambito
 
@@ -64,7 +64,7 @@ Usare la tabella seguente per determinare l'applicabilità per i servizi e l'abb
 
 | **Applicabilità** | **Servizi inclusi nell'ambito** |
 |:------------------|:----------------------|
-| **Commerciale** | Servizio feed attività, Bing Services, Delve, Exchange Online Protection, Exchange Online, Microsoft Teams, Office 365 Customer Portal, Office Online, Office Service Infrastructure, Office Usage Reports, OneDrive for Business, People Card, SharePoint Online, Skype for Business, Windows Ink |
+| **Commerciale** | Servizio feed attività, Bing Services, Delve, Exchange Online Protection, Exchange Online, Microsoft Teams, Office 365 Customer Portal, Office Online, Office Infrastruttura di servizio, Office di utilizzo, OneDrive for Business, Scheda utenti, SharePoint Online, Skype for Business, Windows Ink |
 
 ### <a name="office-365-audits-reports-and-certificates"></a>Controlli, report e certificati di Office 365
 
@@ -76,7 +76,7 @@ La certificazione CSF HITRUST di Office 365 è valida per due anni.
 
 **Perché alcuni servizi Office 365 non sono nell'ambito di questa certificazione?**
 
-Microsoft offre le offerte più complete rispetto ad altri provider di servizi cloud. Per mantenere il passo con le nostre offerte di conformità in tutte le aree geografiche e settori, includiamo i servizi nell'ambito dei nostri sforzi di garanzia in base alla domanda del mercato, al feedback dei clienti e al ciclo di vita del prodotto. Se un servizio non è incluso nell'ambito corrente di un'offerta di conformità specifica, l'organizzazione ha la responsabilità di valutare i rischi in base agli obblighi di conformità e determinare il modo in cui si elaborano i dati in tale servizio. Raccogliamo continuamente feedback dai clienti e lavoriamo con autorità di regolamentazione e revisori per espandere la copertura di conformità per soddisfare le tue esigenze di sicurezza e conformità.
+Microsoft offre le offerte più complete rispetto ad altri provider di servizi cloud. Per mantenere il passo con le nostre offerte di conformità in tutte le aree geografiche e settori, includiamo i servizi nell'ambito dei nostri sforzi di garanzia in base alla domanda di mercato, al feedback dei clienti e al ciclo di vita del prodotto. Se un servizio non è incluso nell'ambito corrente di un'offerta di conformità specifica, l'organizzazione ha la responsabilità di valutare i rischi in base agli obblighi di conformità e di determinare il modo in cui si elaborano i dati in tale servizio. Raccogliamo continuamente feedback dai clienti e lavoriamo con autorità di regolamentazione e revisori per espandere la copertura di conformità per soddisfare le tue esigenze di sicurezza e conformità.
 
 **La certificazione Microsoft significa che se l'organizzazione usa Office 365, è conforme a HITRUST CSF?**
 
@@ -84,7 +84,7 @@ Quando si archiviano i dati in un saaS come Office 365, è responsabilità condi
 
 **Microsoft fornisce indicazioni per l'organizzazione per implementare controlli appropriati quando si Office 365?**
 
-Sì, puoi trovare le azioni consigliate dei clienti in Compliance Score, soluzioni cloud cross-Microsoft che aiutano l'organizzazione a soddisfare obblighi di conformità complessi quando si usano servizi cloud. In particolare, per HITRUST CSF, è consigliabile eseguire valutazioni dei rischi utilizzando le valutazioni NIST 800-53 e NIST CSF nel punteggio di conformità. Nelle valutazioni vengono fornite istruzioni dettagliate e le soluzioni Microsoft che è possibile utilizzare per implementare i controlli di protezione dei dati. Per ulteriori informazioni, vedere Punteggio di conformità in [Microsoft Compliance Manager.](/microsoft-365/compliance/compliance-manager)
+Sì, puoi trovare le azioni consigliate dei clienti in Compliance Score, soluzioni cloud cross-Microsoft che aiutano l'organizzazione a soddisfare obblighi di conformità complessi quando si usano i servizi cloud. In particolare, per HITRUST CSF, è consigliabile eseguire valutazioni dei rischi utilizzando le valutazioni NIST 800-53 e NIST CSF nel punteggio di conformità. Nelle valutazioni vengono fornite istruzioni dettagliate e le soluzioni Microsoft che è possibile utilizzare per implementare i controlli di protezione dei dati. Per ulteriori informazioni, vedere Punteggio di conformità in [Microsoft Compliance Manager.](/microsoft-365/compliance/compliance-manager)
 
 ### <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usare Microsoft Compliance Manager per valutare i rischi
 
@@ -93,7 +93,7 @@ Sì, puoi trovare le azioni consigliate dei clienti in Compliance Score, soluzio
 ### <a name="resources"></a>Risorse
 
 - [HITRUST Alliance](https://hitrustalliance.net/)
-- [HITRUST CSF 9.3](https://hitrustalliance.net/csf-license-agreement/)
-- [Comprendere e sfruttare il csf](https://hitrustalliance.net/understanding-leveraging-csf/)
+- [HITRUST CSF 9.5](https://hitrustalliance.net/csf-license-agreement/)
+- [Informazioni e utilizzo del modello CSF](https://hitrustalliance.net/understanding-leveraging-csf/)
 - [Altre informazioni sul programma di responsabilità condivisa HITRUST](https://go.microsoft.com/fwlink/p/?linkid=2100268)
 - [Conformità in Microsoft Trust Center](https://www.microsoft.com/trust-center/compliance/compliance-overview)
