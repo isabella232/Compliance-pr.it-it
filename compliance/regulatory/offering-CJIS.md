@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 313905ec68c7d730cd2372ebd4679943ff124993
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 4b255918c3bb46757d5bd12ae33d907200dd37b0
+ms.sourcegitcommit: 85b36ce8c79fb111980cc6462f2addb44a924065
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59159774"
+ms.lasthandoff: 11/02/2021
+ms.locfileid: "60678453"
 ---
 # <a name="criminal-justice-information-services-cjis-security-policy"></a>Criteri di sicurezza CJIS (Criminal Justice Information Services)
 
@@ -37,7 +37,7 @@ Inoltre, tutti gli appaltatori privati che elaborano CJI devono firmare il CJIS 
 
 ## <a name="microsoft-and-cjis-security-policy"></a>Criteri di sicurezza di Microsoft e CJIS
 
-Microsoft firma il CJIS Security Addendum negli stati con i contratti di informazioni CJIS. Queste informazioni spiegano alle autorità di contrasto dello stato responsabili della conformità ai criteri di sicurezza CJIS in che modo i controlli di sicurezza cloud di Microsoft aiutano a proteggere l'intero ciclo di vita dei dati e a garantire uno screening in background appropriato del personale operativo con accesso a CJI. Microsoft continua a collaborare con i governi statali per stipulare contratti di informazioni CJIS.
+Microsoft firma il CJIS Security Addendum negli stati con i contratti di informazioni CJIS. Queste informazioni consentono alle autorità di contrasto dello stato responsabili della conformità ai criteri di sicurezza CJIS in che modo i controlli di sicurezza cloud di Microsoft aiutano a proteggere l'intero ciclo di vita dei dati e a garantire uno screening in background appropriato del personale operativo con accesso a CJI. Microsoft continua a collaborare con i governi statali per stipulare contratti di informazioni CJIS.
 
 Microsoft ha valutato i criteri operativi e le procedure di Microsoft Azure Government, Microsoft Office 365 U.S. Government e Microsoft Dynamics 365 U.S. Government e ne attesta la capacità nei contratti di servizi applicabili di soddisfare i requisiti dell'FBI per l'utilizzo di servizi nell'ambito.
 
@@ -76,7 +76,7 @@ L'FBI non offre la certificazione della conformità Microsoft ai requisiti CJIS.
 
 ### <a name="cjis-status-in-the-united-states-current-as-of-1152020"></a>Stato CJIS negli Stati Uniti (corrente dal 5/11/2020)
 
-45 stati e il Distretto di Columbia con accordi di gestione, evidenziati sulla mappa in verde includono:
+44 stati e il Distretto di Columbia con accordi di gestione, evidenziati sulla mappa in verde includono:
 
 Alabama, Alaska, Arizona, Arkansas, California, Colorado, Connecticut, Florida, Georgia, Hawaii, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Maine, Massachusetts, Michigan, Michigan, Michigan, Missouri, Montana, Nebraska, Nevada, New Hampshire, New Jersey, New Mexico, New York, North Carolina, North Dakota, Oklahoma, Oregon, Pennsylvania, North Island, South Carolina, Texas, Texas, Vermont, Virginia, Washington, West Virginia, Wisconsin e distretto di Columbia.
 
