@@ -96,12 +96,10 @@
       href: /azure/security/fundamentals/customer-lockbox-overview?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
     - name: Gestione degli account Microsoft 365
       href: assurance-microsoft-365-account-management.md
-    - name: Controlli delle tecnologie Microsoft 365
-      href: assurance-technology-controls.md
+    - name: Controllo di accesso della progettazione del servizio di Microsoft 365
+      href: assurance-microsoft-365-service-engineer-access-control.md
     - name: Customer Lockbox di Office 365
       href: /microsoft-365/compliance/customer-lockbox-requests?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
-    - name: Controlli di accesso di Yammer Enterprise
-      href: assurance-yammer-enterprise-access-controls.md
 - name: Gestione degli incidenti
   items:
     - name: Panoramica sulla gestione degli incidenti

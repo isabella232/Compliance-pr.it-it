@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 92fb47f98e60eb655ee68b38cb747a7d2eb9d2ff
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 99144f348b74ffa15752dbd9ec80ff8fbf17e538
+ms.sourcegitcommit: 85b36ce8c79fb111980cc6462f2addb44a924065
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59159937"
+ms.lasthandoff: 11/02/2021
+ms.locfileid: "60678443"
 ---
 # <a name="system-and-organization-controls-soc-2-type-2"></a>SOC (System and Organization Controls) 2 di tipo 2
 
@@ -44,7 +44,7 @@ Le attestazioni SOC 2 di Office 365 si basano su rigorosi controlli indipendenti
 I servizi online Microsoft vengono visualizzati nel report di attestazione SOC 2 di tipo 2 di Azure:
 
 - Azure (per informazioni dettagliate, vedere [Microsoft Azure le offerte di conformità](https://azure.microsoft.com/resources/microsoft-azure-compliance-offerings/) o il report di attestazione di Azure SOC 2 Di tipo 2)
-- Azure DevOps (vedere il report di attestazione SOC 2 di tipo 2 di Azure DevOps separato)
+- Azure DevOps (vedere [il report di attestazione di Azure DevOps SOC 2 di tipo 2](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3) separato)
 - Dynamics 365 (per informazioni dettagliate, vedere il report di attestazione di Azure SOC 2 di tipo 2)
 - Microsoft 365 Defender
 - Microsoft Cloud App Security (MCAS)
@@ -87,9 +87,9 @@ Usare la tabella seguente per determinare l'applicabilità per i servizi e l'abb
 
 ### <a name="office-365-audit-reports"></a>Report attività di Office 365
 
-- [Report Office 365 Core - SSAE 18 SOC 2](https://aka.ms/o365SOC-2)
-- [Report Office 365 Microservices T1 - SSAE 18 SOC 2 Tipo I](https://aka.ms/o365-MS-SOC-2-type1)
-- [Visualizzare le lettere ponte e altri report di controllo](https://aka.ms/auditreports)
+- [Report Office 365 Core - SSAE 18 SOC 2](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=a73c1738-7892-42b7-acd3-87b6371c53f6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports)
+- [Report Office 365 Microservices T1 - SSAE 18 SOC 2 Tipo I](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=e2dd6942-e70d-4222-8013-960514742f19&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports)
+- [Visualizzare le lettere ponte e altri report di controllo](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports)
 
 Per scaricare i report di attestazione SOC 1 e SOC 2 ed eventuali lettere ponte se necessario, occorre un abbonamento o un account di valutazione gratuito esistente per Office 365 o [Office](https://azure.microsoft.com/global-infrastructure/government/request/) 365 U.S. Government.
 
