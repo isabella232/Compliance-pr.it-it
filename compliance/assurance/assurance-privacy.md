@@ -20,18 +20,18 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: cc886e0a0aec4d2fdfd9b0bc1568ca2d6f4537d3
-ms.sourcegitcommit: 1f30616328d7deb04e41dcbd44a330ea937fe94f
+ms.openlocfilehash: 7a239b52290c57e448a29a3d7f1454a8245ebcc3
+ms.sourcegitcommit: 444a58b28f8611323e16d28b4c63a0f68eaaafa6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/26/2021
-ms.locfileid: "60582589"
+ms.lasthandoff: 11/04/2021
+ms.locfileid: "60779972"
 ---
 # <a name="privacy-overview"></a>Panoramica sulla privacy
 
 ## <a name="how-does-microsoft-approach-privacy-for-customers"></a>In che modo Microsoft si avvicina alla privacy per i clienti?
 
-[L'approccio](https://privacy.microsoft.com/#whatinformationwecollectmodule) di Microsoft alla privacy si basa sui sei principi seguenti: controllo dei clienti, trasparenza, sicurezza, protezioni legali forti per la privacy, nessuna destinazione basata sul contenuto e vantaggi per i clienti da qualsiasi dato raccolto. Il [Security Development Lifecycle (SDL)](https://www.microsoft.com/securityengineering/sdl/) e l'Informativa sulla [privacy](https://privacy.microsoft.com/privacystatement) forniscono dettagli sul processo di sviluppo nell'ambito delle procedure di privacy trasparenti per la protezione dei clienti. Inoltre, Microsoft prende impegni contrattuali ampi nelle Condizioni del servizio [online (OST)](https://www.microsoft.com/licensing/product-licensing/products) e dettaglia i rispettivi obblighi relativi al trattamento dei dati nell'Online [Services Data Protection Addendum (DPA)](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=67).
+L'approccio di Microsoft alla privacy si basa sui sei principi seguenti: controllo dei clienti, trasparenza, sicurezza, protezioni legali forti per la [privacy,](https://privacy.microsoft.com/#whatinformationwecollectmodule) nessuna destinazione basata sul contenuto e vantaggi per i clienti da qualsiasi dato raccolto. Il [Security Development Lifecycle (SDL)](https://www.microsoft.com/securityengineering/sdl/) e l'Informativa sulla [privacy](https://privacy.microsoft.com/privacystatement) forniscono dettagli sul processo di sviluppo nell'ambito delle procedure di privacy trasparenti per la protezione dei clienti. Inoltre, Microsoft prende impegni contrattuali ampi nelle Condizioni del servizio [online (OST)](https://www.microsoft.com/licensing/product-licensing/products) e dettaglia i rispettivi obblighi relativi al trattamento dei dati nell'Online [Services Data Protection Addendum (DPA)](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=67).
 
 ## <a name="how-does-microsoft-implement-its-privacy-commitments"></a>In che modo Microsoft implementa gli impegni in materia di privacy?
 
@@ -41,7 +41,7 @@ Microsoft mantiene l'Informativa sulla privacy aziendale Microsoft e Microsoft P
 
 Il ciclo di vita dei dati descrive il modo in cui Microsoft elabora i dati in base alle indicazioni dei clienti e in conformità con la normativa applicabile in materia di sicurezza e privacy. Le fasi del ciclo di vita dei dati includono la raccolta, l'elaborazione, la condivisione di terze parti (ove applicabile), la conservazione e la distruzione. L'approccio di Microsoft alla privacy informa ogni fase del ciclo di vita dei dati per proteggere la privacy dei clienti.
 
-Microsoft limita la raccolta dei dati dei clienti a quattro categorie di dati [specifiche:](https://www.microsoft.com/trust-center/privacy/customer-data-definitions?rtc=1)dati dei clienti, dati generati dal servizio, dati di diagnostica e dati Professional servizi. Microsoft usa i dati di queste categorie per eseguire un set limitato di operazioni aziendali legittime (LFO) necessarie per fornire servizi ai clienti. Quando i dati vengono raccolti ed elaborati per eseguire operazioni LBO, Microsoft protegge i singoli clienti e utenti mediante lo pseudonimo dei dati di diagnostica e l'aggregazione dei dati prima dell'uso. Microsoft non accede al contenuto dei dati dei clienti per determinare quali specifici dati potrebbero essere considerati personali. Presuppongiamo invece che tutti i dati dei clienti e di tutti i servizi professionali contengano dati personali e proteggano di conseguenza i dati.
+Microsoft limita la raccolta dei dati dei clienti a quattro categorie di dati [specifiche:](https://www.microsoft.com/trust-center/privacy/customer-data-definitions?rtc=1)dati dei clienti, dati generati dal servizio, dati di diagnostica e dati Professional servizi. Microsoft usa i dati di queste categorie per eseguire un set limitato di operazioni aziendali legittime (LFO) necessarie per fornire servizi ai clienti. Quando i dati vengono raccolti ed elaborati per eseguire operazioni LBO, Microsoft protegge i singoli clienti e utenti mediante lo pseudonimo dei dati di diagnostica e l'aggregazione dei dati prima dell'uso. Microsoft non accede al contenuto dei dati dei clienti per determinare quali specifici dati potrebbero essere considerati personali. Presuppongiamo invece che tutti i dati dei clienti e di tutti i servizi professionali contengano dati personali e proteggano i dati di conseguenza.
 
 ## <a name="how-does-microsoft-handle-third-party-sharing"></a>In che modo Microsoft gestisce la condivisione di terze parti?
 
@@ -69,7 +69,7 @@ I servizi online di Microsoft vengono regolarmente controllati per la conformit�
 
 | **Controlli esterni** | **Sezione** | **Data ultimo report** |
 |:--------------------|:------------|:-----------------------|  
-| [ISO 27018](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [Dichiarazione di applicabilità](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br> [Certificazione](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=43e89534-f48d-42ea-a7a7-3523ff516036&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A-2.1: Scopo del processore piI cloud pubblico | 20 aprile 2021 |
+| [ISO 27018](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=08ce227f-d1d9-4c4c-b255-4f2e4ec8f941&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [Dichiarazione di applicabilità](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br> [Certificazione](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=43e89534-f48d-42ea-a7a7-3523ff516036&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A-2.1: Scopo del processore piI cloud pubblico | 20 aprile 2021 |
 | [SOC 2](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=a73c1738-7892-42b7-acd3-87b6371c53f6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-12: Contratti di servizio <br> CA-17: Criteri di sicurezza Microsoft <br> CA-25: Aggiornamenti del framework di controllo | 24 dicembre 2020 |
 
 ## <a name="resources"></a>Risorse

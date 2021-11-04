@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 9014bc06d54f6d5c7e33a8cb316be51146439e41
-ms.sourcegitcommit: 1f30616328d7deb04e41dcbd44a330ea937fe94f
+ms.openlocfilehash: 7b4e8bef0c5aca8749ed963c7fac2674d5cbf015
+ms.sourcegitcommit: 444a58b28f8611323e16d28b4c63a0f68eaaafa6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/26/2021
-ms.locfileid: "60582629"
+ms.lasthandoff: 11/04/2021
+ms.locfileid: "60780092"
 ---
 # <a name="governance-overview"></a>Panoramica sulla governance
 
@@ -33,7 +33,7 @@ ms.locfileid: "60582629"
 
 Microsoft è a conoscenza del fatto che i criteri di sicurezza efficaci devono essere implementati in modo coerente in tutta l'azienda per proteggere i clienti e i sistemi informatici Microsoft. I criteri di sicurezza devono anche tenere conto delle variazioni delle funzioni aziendali e dei sistemi informativi per essere universalmente applicabili. Per soddisfare questi requisiti, Microsoft implementa un programma di governance della sicurezza completo come parte di Microsoft Policy Framework. La governance della sicurezza rientra nei Criteri di sicurezza di Microsoft (MSP).
 
-L’ente MSP organizza i criteri di sicurezza, gli standard e i requisiti di Microsoft in modo che possano essere implementati in tutti i gruppi di tecnici e le unità operative Microsoft. Le singole unità operative sono responsabili delle implementazioni specifiche dei criteri di sicurezza Microsoft. Ad esempio, Microsoft 365 documenta le relative implementazioni di sicurezza nei criteri di sicurezza delle Microsoft 365 informazioni e nel framework di Microsoft 365 controllo correlato. Azure e Dynamics 365 documenta le implementazioni di sicurezza nelle procedure operative standard (SOP) e in Azure Control Framework. Queste implementazioni di sicurezza sono allineate agli obiettivi del msp.
+L’ente MSP organizza i criteri di sicurezza, gli standard e i requisiti di Microsoft in modo che possano essere implementati in tutti i gruppi di tecnici e le unità operative Microsoft. Le singole unità operative sono responsabili delle implementazioni specifiche dei criteri di sicurezza Microsoft. Ad esempio, Microsoft 365 documenta le relative implementazioni di sicurezza nel Microsoft 365 Information Security Policy e nel framework Microsoft 365 Control Framework correlato. Azure e Dynamics 365 documenta le implementazioni di sicurezza nelle procedure operative standard (SOP) e in Azure Control Framework. Queste implementazioni di sicurezza sono allineate agli obiettivi del msp.
 
 Il programma di governance della sicurezza di Microsoft è informato e si allinea con vari framework normativi e di conformità. I requisiti di sicurezza sono in continua evoluzione per soddisfare le nuove tecnologie, i requisiti normativi e di conformità e le minacce alla sicurezza. A causa di queste modifiche, Microsoft aggiorna regolarmente i criteri di sicurezza e i documenti di supporto per proteggere i sistemi Microsoft e i clienti, rispettare i nostri impegni e mantenere la fiducia dei clienti.
 
@@ -44,12 +44,12 @@ Microsoft 365 documenta le implementazioni di sicurezza nel criterio Microsoft 3
 I sistemi in informazioni includono i seguenti componenti disciplinati dai criteri di sicurezza delle informazioni di Microsoft 365 (per Microsoft 365) e dai criteri di sicurezza Microsoft (per Azure e Dynamics 365):
 
 - Infrastruttura: componenti fisici e hardware di Azure, Dynamics 365 e Microsoft 365 (strutture, attrezzature e reti)
-- Software: programmi e software operativo di Azure, Dynamics 365 e sistemi Microsoft 365 (sistemi, applicazioni e utilità)
-- Persone: il personale coinvolto nel funzionamento e nell'uso di Azure, Dynamics 365 e sistemi Microsoft 365 (sviluppatori, operatori, utenti e manager)
-- Procedure: le procedure programmate e manuali coinvolte nel funzionamento dei sistemi Azure, Dynamics 365 e Microsoft 365
+- Software: programmi e software operativo di Azure, Dynamics 365 e Microsoft 365 (sistemi, applicazioni e utilità)
+- Persone: il personale coinvolto nel funzionamento e nell'uso dei sistemi Azure, Dynamics 365 e Microsoft 365 (sviluppatori, operatori, utenti e manager)
+- Procedure: le procedure programmate e manuali coinvolte nel funzionamento di Azure, Dynamics 365 e Microsoft 365 sistemi
 - Dati: informazioni generate, raccolte ed elaborate dai sistemi Azure, Dynamics 365 e Microsoft 365 (flussi di transazioni, file, database e tabelle)
 
-I Criteri di sicurezza delle informazioni Microsoft 365 sono integrati dal Framework di controllo Microsoft 365. In Microsoft 365 Framework di controllo vengono dettagliati i requisiti minimi di sicurezza per tutti i Microsoft 365 e i componenti del sistema di informazioni. Fa inoltre riferimento ai requisiti legali e aziendali dietro ogni controllo. Il framework include nomi e descrizioni delle attività di controllo e indicazioni per assicurare implementazioni efficaci dei controlli da parte dei team di servizio. Microsoft 365 usa il framework di controllo per tenere traccia delle implementazioni dei controlli per la creazione di report interni ed esterni. Analogamente, le implementazioni del controllo record di Azure e Dynamics 365 in Azure Control Framework.
+I Criteri di sicurezza delle informazioni Microsoft 365 sono integrati dal Framework di controllo Microsoft 365. In Microsoft 365 Framework di controllo vengono dettagliati i requisiti minimi di sicurezza per tutti i Microsoft 365 e i componenti del sistema di informazioni. Fa inoltre riferimento ai requisiti legali e aziendali dietro ogni controllo. Il framework include nomi e descrizioni delle attività di controllo e indicazioni per assicurare implementazioni efficaci dei controlli da parte dei team di servizio. Microsoft 365 usa il framework di controllo per tenere traccia delle implementazioni dei controlli per i report interni ed esterni. Analogamente, le implementazioni del controllo record di Azure e Dynamics 365 in Azure Control Framework.
 
 ## <a name="how-do-online-services-limit-and-track-exceptions-to-established-policies-and-procedures"></a>In che modo i servizi online limitano e monitorano le eccezioni a criteri e procedure stabiliti?
 
@@ -77,7 +77,7 @@ I servizi online di Microsoft vengono regolarmente controllati per la conformit�
 | **Controlli esterni** | **Sezione** | **Data ultimo report** |
 |:--------------------|:------------|:-----------------------|
 | [FedRAMP](https://compliance.microsoft.com/compliancemanager) | CA-2: Valutazioni della sicurezza <br> PL-2: piano di sicurezza del sistema | 24 settembre 2020 |
-| [ISO 27001/27002/27017](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [Dichiarazione di applicabilità](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br> [Certificazione](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=1e84a14a-2468-45ac-9412-5e53250d57ec&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A.18.1: Conformità ai requisiti legali e contrattuali <br> A.18.2: Revisione della sicurezza delle informazioni | 20 aprile 2021 |
+| [ISO 27001/27002/27017](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=08ce227f-d1d9-4c4c-b255-4f2e4ec8f941&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [Dichiarazione di applicabilità](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br> [Certificazione](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=1e84a14a-2468-45ac-9412-5e53250d57ec&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A.18.1: Conformità ai requisiti legali e contrattuali <br> A.18.2: Revisione della sicurezza delle informazioni | 20 aprile 2021 |
 | [SOC 2](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=a73c1738-7892-42b7-acd3-87b6371c53f6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-11: Aggiornamenti del framework dei criteri <br> CA-17: Criteri di sicurezza Microsoft <br> CA-25: Aggiornamenti del framework di controllo | 24 dicembre 2020 |
 
 ## <a name="resources"></a>Risorse
